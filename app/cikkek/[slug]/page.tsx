@@ -138,7 +138,7 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Main content */}
           <div className="py-10 md:py-14">
-            <article className="prose" dangerouslySetInnerHTML={{ __html: html }} />
+            <article className="prose prose-lg lg:prose-xl max-w-none" dangerouslySetInnerHTML={{ __html: html }} />
 
             {/* Author bio */}
             {author && (
