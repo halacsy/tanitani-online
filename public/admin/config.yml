@@ -26,14 +26,23 @@ collections:
 
       - label: Szerző neve
         name: author
-        widget: string
+        widget: relation
+        collection: szerzok
+        search_fields: [name]
+        value_field: name
+        display_fields: [name]
         required: true
+        hint: "Válassz a szerzők közül. Ha nincs a listában, előbb vedd fel a Szerzők menüben."
 
       - label: Szerző slug
         name: authorSlug
-        widget: string
+        widget: relation
+        collection: szerzok
+        search_fields: [name]
+        value_field: "{{slug}}"
+        display_fields: [name]
         required: false
-        hint: "Az /szerzok/[slug] azonosítója, pl. ritok-nora. Hagyd üresen ha nincs profilja."
+        hint: "Ugyanazt a szerzőt válaszd mint fent — ez tölti ki az URL-t."
 
       - label: Megjelenés dátuma
         name: date
