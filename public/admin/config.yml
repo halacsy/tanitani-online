@@ -24,17 +24,7 @@ collections:
         widget: string
         required: true
 
-      - label: Szerző neve
-        name: author
-        widget: relation
-        collection: szerzok
-        search_fields: [name]
-        value_field: name
-        display_fields: [name]
-        required: true
-        hint: "Válassz a szerzők közül. Ha nincs a listában, előbb vedd fel a Szerzők menüben."
-
-      - label: Szerző slug
+      - label: Szerző
         name: authorSlug
         widget: relation
         collection: szerzok
@@ -42,7 +32,7 @@ collections:
         value_field: "{{slug}}"
         display_fields: [name]
         required: false
-        hint: "Ugyanazt a szerzőt válaszd mint fent — ez tölti ki az URL-t."
+        hint: "Válassz a szerzők közül. Ha nincs a listában, előbb vedd fel a Szerzők menüben."
 
       - label: Megjelenés dátuma
         name: date
