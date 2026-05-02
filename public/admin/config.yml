@@ -1,0 +1,104 @@
+backend:
+  name: github
+  repo: halacsy/tanitani-online
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: public/images/cikkek
+public_folder: /images/cikkek
+
+locale: hu
+
+collections:
+  - name: cikkek
+    label: Cikkek
+    label_singular: Cikk
+    folder: content/cikkek
+    create: true
+    slug: "{{slug}}"
+    preview_path: /cikkek/{{slug}}
+    fields:
+      - label: Cím
+        name: title
+        widget: string
+        required: true
+
+      - label: Szerző neve
+        name: author
+        widget: string
+        required: true
+
+      - label: Szerző slug
+        name: authorSlug
+        widget: string
+        required: false
+        hint: "Az /szerzok/[slug] azonosítója, pl. ritok-nora. Hagyd üresen ha nincs profilja."
+
+      - label: Megjelenés dátuma
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: true
+
+      - label: Témakörök
+        name: tags
+        widget: list
+        hint: "pl. oktatáspolitika, pedagógusok, SNI"
+
+      - label: Összefoglaló
+        name: excerpt
+        widget: text
+        required: true
+        hint: "2-3 mondatos összefoglaló, ez jelenik meg a kártyákon"
+
+      - label: Borítókép
+        name: coverImage
+        widget: image
+        required: false
+        hint: "Ajánlott: 1200×630px, fekvő formátum"
+
+      - label: Olvasások száma
+        name: reads
+        widget: number
+        default: 0
+        required: false
+
+      - label: Cikk szövege
+        name: body
+        widget: markdown
+        required: true
+
+  - name: szerzok
+    label: Szerzők
+    label_singular: Szerző
+    folder: content/szerzok
+    create: true
+    slug: "{{slug}}"
+    preview_path: /szerzok/{{slug}}
+    media_folder: /public/images/szerzok
+    public_folder: /images/szerzok
+    fields:
+      - label: Teljes név
+        name: name
+        widget: string
+        required: true
+
+      - label: Portréfotó
+        name: photo
+        widget: image
+        required: false
+        hint: "Ajánlott: négyzetarányú, min. 300×300px"
+
+      - label: Bemutatkozás
+        name: bio
+        widget: text
+        required: false
+        hint: "2-3 mondat, 1. személyben"
+
+      - label: body
+        name: body
+        widget: markdown
+        required: false
