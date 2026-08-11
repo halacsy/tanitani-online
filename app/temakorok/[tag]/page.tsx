@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { tag } = await params
-  return { title: `${decodeURIComponent(tag)} – Taní-tani Online` }
+  return { title: decodeURIComponent(tag) }
 }
 
 export default async function TagPage({ params }: Props) {

@@ -4,6 +4,7 @@ import { getArticlesByAuthorSlug } from '@/lib/content'
 import ArticleCard from '@/app/components/ArticleCard'
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Image from 'next/image'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -18,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const author = getAuthorBySlug(slug)
   if (!author) return {}
   return {
-    title: `${author.name} – Taní-tani Online`,
+    title: author.name,
     description: author.bio,
   }
 }
@@ -49,9 +50,11 @@ export default async function SzerzoPage({ params }: Props) {
           <div className="flex flex-col sm:flex-row gap-6 sm:gap-8 items-start">
             {/* Portrait */}
             {author.photo ? (
-              <img
+              <Image
                 src={author.photo}
                 alt={author.name}
+                width={112}
+                height={112}
                 className="w-28 h-28 rounded-full object-cover object-top shrink-0 border-[3px] border-white shadow-md"
               />
             ) : (

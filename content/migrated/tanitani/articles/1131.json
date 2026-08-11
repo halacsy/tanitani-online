@@ -1,0 +1,63 @@
+{
+  "id": 1131,
+  "slug": "bogdan_peter_konyverol",
+  "contentType": "poszt",
+  "title": "Bogdán Péter könyvéről",
+  "authors": [
+    {
+      "id": 783,
+      "slug": "molnar-istvan-gabor",
+      "name": "Molnár István Gábor"
+    }
+  ],
+  "publishedAt": 1646575125,
+  "date": "2022-03-06",
+  "updatedAt": 1646575125,
+  "tags": [
+    {
+      "id": 130,
+      "slug": "romak",
+      "name": "romák"
+    },
+    {
+      "id": 81,
+      "slug": "hatranyos-helyzet",
+      "name": "hátrányos helyzet"
+    }
+  ],
+  "sections": [],
+  "excerpt": "Molnár István Gábor írása A romák oktatásával kapcsolatos kérdések a pedagógiai szaksajtó tükrében. Magyar Pedagógiai Társaság, Budapest, 2021.",
+  "coverImage": "/sites/default/files/roma_tanulok.jpg",
+  "coverAlt": "Forrás: http://komaromonline.sk/",
+  "coverTitle": "Forrás: http://komaromonline.sk/",
+  "reads": 3577,
+  "commentCount": 2,
+  "issueYear": "",
+  "issueNumber": null,
+  "issuePage": "",
+  "summaryHtml": "",
+  "bodyHtml": "<p><strong>Molnár István Gábor írása</strong></p>\r\n<blockquote>\r\n\t<p>A romák oktatásával kapcsolatos kérdések a pedagógiai szaksajtó tükrében. Magyar Pedagógiai Társaság, Budapest, 2021.</p>\r\n</blockquote>\r\n<!--break-->\r\n<p class=\"rtejustify\">Szeretném az elején elmondani, hogy több szempontból is érintett vagyok. A szerző a barátom, munkatársam és a számos közös vonás mellett elég, ha csak azt említem, hogy a főváros két legtávolabbi pontján ugyanazzal, tanodai munkával foglalkozunk. Ő Budaőrsön, én Újpesten. Érintettségem a könyvvel és leginkább a vizsgált időszak témájával is érdekes. Édesanyám, néhai Rácz Gyöngyi a vizsgált időszakban 1978-1990-ig az Országos Pedagógiai Intézet „cigány témafelelőse” volt. 1986-tól az Eötvös József Cigány–Magyar Pedagógiai Társaság elnöki posztját is betöltötte haláláig, 2013-ig. Így gyerekként ismertem a könyvben szereplők színe-javát. Anyám vágyát Péter teljesítette azzal, hogy a neveléstudomány doktora lett. Dr. ez a két betű, amiben a romák nem igazán bővelkednek. Tulajdonképpen nemzetiségünk értelmisége is csak most kezd megizmosodni. Válik lassan közösségé.</p>\r\n<p class=\"rtejustify\">A maga nemében páratlan vállalkozás ez a könyv. Óriási kutatómunka és szisztematikus vizsgálódás eredménye. Górcső alá veszi az 1978 és 1997 közötti pedagógiai szaksajtót, melyre Péter nyolc oktatási modellt állít fel. Ezt vizsgálja úgy, hogy közben – és a számomra ez a legérdekesebb – kommentekkel látja el, egy kevert műfajú, érzékeny határmezsgyén a tartalmi leírás és a vélemény között. Nem bántó, mégis érthető, hogy milyen változásokon mennek át a cigány tanulókról szóló, általában gyakorlati tapasztalatokra épülő írások, vélemények, ajánlások. Csodálom és kicsit irigykedem is elemzéseire, lényeglátására. Lehet, hogy a laikus számára kicsit száraz és nehéz olvasmány, viszont a téma iránt érdeklődök számára igazi információkkal teli csemege. Ahogy céljait megfogalmazza:</p>\r\n<blockquote>\r\n\t<p class=\"rtejustify\">A hazai neveléstudományban és közéletben hosszú évtizedek óta vitatkoznak arról roma és nem roma értelmiségiek, oktatáskutatók, neveléstudósok, oktatási és nevelési szakértők, elméleti és gyakorló pedagógusok, közírók: miként lehetne elősegíteni – magyarországi és európai színtereken – a roma származású gyermekek/tanulók iskolai sikerességét, ezért az értekezésben az – előbbiekben jelzett – diskurzus – roma gyermekek iskolázási problémáira adott – elméleti és gyakorlati válaszait, illetve azok médiareprezentációját, kívántam összegezni 1978 és 1997 között.</p>\r\n</blockquote>\r\n<p class=\"rtejustify\">Bogdán Péter könyvét, amely tulajdonképpen doktori disszertációjának könyvre szerkesztett változata, szeretettel és tisztelettel ajánlom önöknek, pedagógusoknak, a jövő nemzedékét felnevelőknek.</p>\r\n",
+  "attachments": [],
+  "comments": [
+    {
+      "id": 1088,
+      "parentId": 1087,
+      "articleId": 1131,
+      "authorName": "knauszi",
+      "subject": "Köszönjük, ez nagyon hasznos!",
+      "bodyHtml": "<p>Köszönjük, ez nagyon hasznos!</p>\r\n",
+      "publishedAt": 1646644250,
+      "threadPath": "01.00/"
+    },
+    {
+      "id": 1087,
+      "parentId": null,
+      "articleId": 1131,
+      "authorName": "szavai",
+      "subject": "Bogdán Péter",
+      "bodyHtml": "Isten őrizz, hogy rontsam a könyv terjesztését, mindnyájunknak meg kell venni, de azért ideteszem a disszertáció elérhetőségét. https://docplayer.hu/203621619-Bogdan-peter-doktori-phd-disszertacio.html\r\n",
+      "publishedAt": 1646587441,
+      "threadPath": "01/"
+    }
+  ]
+}

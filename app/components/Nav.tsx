@@ -7,6 +7,7 @@ const links = [
   { href: '/cikkek', label: 'Cikkek' },
   { href: '/temakorok', label: 'Témakörök' },
   { href: '/szerzokrol', label: 'Szerzőkről' },
+  { href: '/kereses', label: 'Keresés' },
   { href: '/rolunk', label: 'Rólunk' },
 ]
 
@@ -48,6 +49,8 @@ export default function Nav() {
         <button
           onClick={() => setMenuOpen(o => !o)}
           aria-label="Menü"
+          aria-expanded={menuOpen}
+          aria-controls="mobile-navigation"
           className="sm:hidden p-2 text-charcoal"
         >
           {menuOpen ? (
@@ -67,7 +70,7 @@ export default function Nav() {
 
       {/* Mobile menu */}
       {menuOpen && (
-        <nav className="sm:hidden border-t border-line px-6 py-4 flex flex-col gap-1 bg-cream">
+        <nav id="mobile-navigation" className="sm:hidden border-t border-line px-6 py-4 flex flex-col gap-1 bg-cream">
           {links.map(({ href, label }) => {
             const active = pathname === href || pathname.startsWith(href + '/')
             return (

@@ -2,10 +2,34 @@ import type { Metadata } from 'next'
 import './globals.css'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from '@/lib/site'
 
 export const metadata: Metadata = {
-  title: 'Taní-tani Online – A szabad pedagógiai gondolkodás fóruma',
-  description: 'Hosszú formátumú cikkek, esszék és elemzések pedagógusoknak. Alternatív oktatás, oktatáspolitika, neveléstudomány.',
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: `${SITE_NAME} – A szabad pedagógiai gondolkodás fóruma`,
+    template: `%s – ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
+  alternates: {
+    canonical: '/',
+    types: { 'application/rss+xml': '/rss.xml' },
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'hu_HU',
+    url: '/',
+    siteName: SITE_NAME,
+    title: `${SITE_NAME} – A szabad pedagógiai gondolkodás fóruma`,
+    description: SITE_DESCRIPTION,
+    images: [{ url: '/og-tanitani.png', width: 1200, height: 630, alt: SITE_NAME }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: `${SITE_NAME} – A szabad pedagógiai gondolkodás fóruma`,
+    description: SITE_DESCRIPTION,
+    images: ['/og-tanitani.png'],
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

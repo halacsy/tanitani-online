@@ -15,3 +15,12 @@ node_modules/
 
 # OS
 .DS_Store
+
+# Original Drupal dumps contain accounts, sessions and operational logs.
+*.sql
+!db/*.sql
+
+# Local reconstruction artifacts
+data/*.sqlite
+data/*.sqlite-*
+data/media-download-*.txt

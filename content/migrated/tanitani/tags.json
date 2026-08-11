@@ -1,0 +1,1890 @@
+[
+  {
+    "id": 125,
+    "name": "12 év",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "12-ev",
+    "articleCount": 0
+  },
+  {
+    "id": 90,
+    "name": "1956",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "1956",
+    "articleCount": 0
+  },
+  {
+    "id": 115,
+    "name": "Alexander Sutherland Neill",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "alexander-sutherland-neill",
+    "articleCount": 0
+  },
+  {
+    "id": 345,
+    "name": "alsó tagozat",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "also-tagozat",
+    "articleCount": 19
+  },
+  {
+    "id": 28,
+    "name": "alternatív iskolák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "alternativ-iskolak",
+    "articleCount": 43
+  },
+  {
+    "id": 37,
+    "name": "AME",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ame",
+    "articleCount": 4
+  },
+  {
+    "id": 103,
+    "name": "anyag",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "anyag",
+    "articleCount": 0
+  },
+  {
+    "id": 62,
+    "name": "arculatépítés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "arculatepites",
+    "articleCount": 1
+  },
+  {
+    "id": 154,
+    "name": "bahá’í vallás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "bahai-vallas",
+    "articleCount": 0
+  },
+  {
+    "id": 265,
+    "name": "bevándorlók",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "bevandorlok",
+    "articleCount": 3
+  },
+  {
+    "id": 202,
+    "name": "bio-pszichológia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "bio-pszichologia",
+    "articleCount": 0
+  },
+  {
+    "id": 235,
+    "name": "blog",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "blog",
+    "articleCount": 2
+  },
+  {
+    "id": 293,
+    "name": "buktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "buktatas",
+    "articleCount": 1
+  },
+  {
+    "id": 93,
+    "name": "báb",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "bab",
+    "articleCount": 0
+  },
+  {
+    "id": 94,
+    "name": "bábpedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "babpedagogia",
+    "articleCount": 4
+  },
+  {
+    "id": 95,
+    "name": "bábpedagógus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "babpedagogus",
+    "articleCount": 0
+  },
+  {
+    "id": 96,
+    "name": "bábterápia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "babterapia",
+    "articleCount": 0
+  },
+  {
+    "id": 233,
+    "name": "családi nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "csaladi-neveles",
+    "articleCount": 5
+  },
+  {
+    "id": 114,
+    "name": "Csíkszentmihályi Mihály",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "csikszentmihalyi-mihaly",
+    "articleCount": 0
+  },
+  {
+    "id": 111,
+    "name": "Dalton-terv",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "dalton-terv",
+    "articleCount": 1
+  },
+  {
+    "id": 652,
+    "name": "demokratikus nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "demokratikus-neveles",
+    "articleCount": 1
+  },
+  {
+    "id": 306,
+    "name": "diákönkormányzat",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "diakonkormanyzat",
+    "articleCount": 2
+  },
+  {
+    "id": 70,
+    "name": "drámapedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "dramapedagogia",
+    "articleCount": 52
+  },
+  {
+    "id": 727,
+    "name": "egyházi iskolák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "egyhazi-iskolak",
+    "articleCount": 4
+  },
+  {
+    "id": 157,
+    "name": "egyoldalú dominancia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "egyoldalu-dominancia",
+    "articleCount": 0
+  },
+  {
+    "id": 27,
+    "name": "egészségfejlesztés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "egeszsegfejlesztes",
+    "articleCount": 5
+  },
+  {
+    "id": 102,
+    "name": "előadás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "eloadas",
+    "articleCount": 0
+  },
+  {
+    "id": 232,
+    "name": "erkölcsi nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "erkolcsi-neveles",
+    "articleCount": 10
+  },
+  {
+    "id": 43,
+    "name": "fegyelem",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "fegyelem",
+    "articleCount": 6
+  },
+  {
+    "id": 133,
+    "name": "fekete pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "fekete-pedagogia",
+    "articleCount": 7
+  },
+  {
+    "id": 304,
+    "name": "felnőttoktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "felnottoktatas",
+    "articleCount": 2
+  },
+  {
+    "id": 291,
+    "name": "felsőoktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "felsooktatas",
+    "articleCount": 18
+  },
+  {
+    "id": 45,
+    "name": "felvételi",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "felveteli",
+    "articleCount": 5
+  },
+  {
+    "id": 50,
+    "name": "feminizmus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "feminizmus",
+    "articleCount": 1
+  },
+  {
+    "id": 72,
+    "name": "film",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "film",
+    "articleCount": 6
+  },
+  {
+    "id": 139,
+    "name": "fogyatékkal élők",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "fogyatekkal-elok",
+    "articleCount": 1
+  },
+  {
+    "id": 833,
+    "name": "generációk",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "generaciok",
+    "articleCount": 4
+  },
+  {
+    "id": 581,
+    "name": "globalizáció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "globalizacio",
+    "articleCount": 0
+  },
+  {
+    "id": 739,
+    "name": "globális nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "globalis-neveles",
+    "articleCount": 1
+  },
+  {
+    "id": 160,
+    "name": "gyerekszínház",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyerekszinhaz",
+    "articleCount": 1
+  },
+  {
+    "id": 69,
+    "name": "gyermekirodalom",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekirodalom",
+    "articleCount": 6
+  },
+  {
+    "id": 418,
+    "name": "gyermekjogok",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekjogok",
+    "articleCount": 6
+  },
+  {
+    "id": 223,
+    "name": "gyermekkortörténet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekkortortenet",
+    "articleCount": 6
+  },
+  {
+    "id": 91,
+    "name": "gyermekkép",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekkep",
+    "articleCount": 7
+  },
+  {
+    "id": 651,
+    "name": "gyermekmozgalom",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekmozgalom",
+    "articleCount": 0
+  },
+  {
+    "id": 151,
+    "name": "gyermekpszichiátria",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekpszichiatria",
+    "articleCount": 0
+  },
+  {
+    "id": 25,
+    "name": "gyermekvédelem",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyermekvedelem",
+    "articleCount": 15
+  },
+  {
+    "id": 687,
+    "name": "gyógypedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "gyogypedagogia",
+    "articleCount": 14
+  },
+  {
+    "id": 208,
+    "name": "hegymászás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "hegymaszas",
+    "articleCount": 0
+  },
+  {
+    "id": 414,
+    "name": "helytörténet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "helytortenet",
+    "articleCount": 3
+  },
+  {
+    "id": 354,
+    "name": "hittan",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "hittan",
+    "articleCount": 1
+  },
+  {
+    "id": 320,
+    "name": "hálózati tanulás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "halozati-tanulas",
+    "articleCount": 0
+  },
+  {
+    "id": 81,
+    "name": "hátrányos helyzet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "hatranyos-helyzet",
+    "articleCount": 110
+  },
+  {
+    "id": 147,
+    "name": "hátrányos helyzetű gyermek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "hatranyos-helyzetu-gyermek",
+    "articleCount": 0
+  },
+  {
+    "id": 107,
+    "name": "ifjúkép",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ifjukep",
+    "articleCount": 0
+  },
+  {
+    "id": 58,
+    "name": "ifjúsági kultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ifjusagi-kultura",
+    "articleCount": 25
+  },
+  {
+    "id": 166,
+    "name": "ifjúsági mozgalmak",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ifjusagi-mozgalmak",
+    "articleCount": 1
+  },
+  {
+    "id": 316,
+    "name": "ifjúságsegítés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ifjusagsegites",
+    "articleCount": 10
+  },
+  {
+    "id": 59,
+    "name": "IKT",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ikt",
+    "articleCount": 47
+  },
+  {
+    "id": 240,
+    "name": "inkluzív nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "inkluziv-neveles",
+    "articleCount": 0
+  },
+  {
+    "id": 357,
+    "name": "innováció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "innovacio",
+    "articleCount": 15
+  },
+  {
+    "id": 176,
+    "name": "integráció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "integracio",
+    "articleCount": 18
+  },
+  {
+    "id": 61,
+    "name": "intézményvezetés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "intezmenyvezetes",
+    "articleCount": 16
+  },
+  {
+    "id": 122,
+    "name": "irodalomóra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "irodalomora",
+    "articleCount": 0
+  },
+  {
+    "id": 271,
+    "name": "iskolakritika",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "iskolakritika",
+    "articleCount": 42
+  },
+  {
+    "id": 840,
+    "name": "iskolakritka",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "iskolakritka",
+    "articleCount": 3
+  },
+  {
+    "id": 495,
+    "name": "iskolaépület",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "iskolaepulet",
+    "articleCount": 4
+  },
+  {
+    "id": 333,
+    "name": "jelenismeret",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "jelenismeret",
+    "articleCount": 1
+  },
+  {
+    "id": 301,
+    "name": "játék",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "jatek",
+    "articleCount": 17
+  },
+  {
+    "id": 190,
+    "name": "jóga",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "joga",
+    "articleCount": 0
+  },
+  {
+    "id": 366,
+    "name": "kezdő pedagógus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kezdo-pedagogus",
+    "articleCount": 0
+  },
+  {
+    "id": 364,
+    "name": "kezdő tanár",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kezdo-tanar",
+    "articleCount": 0
+  },
+  {
+    "id": 137,
+    "name": "kiberkultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kiberkultura",
+    "articleCount": 3
+  },
+  {
+    "id": 42,
+    "name": "kis történet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kis-tortenet",
+    "articleCount": 10
+  },
+  {
+    "id": 127,
+    "name": "kiégés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kieges",
+    "articleCount": 3
+  },
+  {
+    "id": 203,
+    "name": "koedukáció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "koedukacio",
+    "articleCount": 1
+  },
+  {
+    "id": 377,
+    "name": "kollégium",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kollegium",
+    "articleCount": 1
+  },
+  {
+    "id": 23,
+    "name": "kompetencia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kompetencia",
+    "articleCount": 35
+  },
+  {
+    "id": 881,
+    "name": "komprehenzív iskola",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "komprehenziv-iskola",
+    "articleCount": 1
+  },
+  {
+    "id": 252,
+    "name": "konferencia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "konferencia",
+    "articleCount": 1
+  },
+  {
+    "id": 303,
+    "name": "konstruktivizmus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "konstruktivizmus",
+    "articleCount": 2
+  },
+  {
+    "id": 180,
+    "name": "kooperatív tanulás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kooperativ-tanulas",
+    "articleCount": 6
+  },
+  {
+    "id": 120,
+    "name": "kortárs magyar irodalom",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kortars-magyar-irodalom",
+    "articleCount": 0
+  },
+  {
+    "id": 113,
+    "name": "kreativitás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kreativitas",
+    "articleCount": 6
+  },
+  {
+    "id": 211,
+    "name": "kultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kultura",
+    "articleCount": 2
+  },
+  {
+    "id": 54,
+    "name": "kutatások",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kutatasok",
+    "articleCount": 0
+  },
+  {
+    "id": 485,
+    "name": "kórház-pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "korhaz-pedagogia",
+    "articleCount": 3
+  },
+  {
+    "id": 251,
+    "name": "költészet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kolteszet",
+    "articleCount": 0
+  },
+  {
+    "id": 874,
+    "name": "körkérdés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "korkerdes",
+    "articleCount": 20
+  },
+  {
+    "id": 32,
+    "name": "környezeti nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kornyezeti-neveles",
+    "articleCount": 6
+  },
+  {
+    "id": 209,
+    "name": "közvetlen demokrácia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kozvetlen-demokracia",
+    "articleCount": 0
+  },
+  {
+    "id": 77,
+    "name": "középiskola",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kozepiskola",
+    "articleCount": 13
+  },
+  {
+    "id": 299,
+    "name": "közösség",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kozosseg",
+    "articleCount": 19
+  },
+  {
+    "id": 165,
+    "name": "közösségépítés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kozossegepites",
+    "articleCount": 0
+  },
+  {
+    "id": 40,
+    "name": "külföld",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kulfold",
+    "articleCount": 51
+  },
+  {
+    "id": 150,
+    "name": "Lauder Javne",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "lauder-javne",
+    "articleCount": 0
+  },
+  {
+    "id": 262,
+    "name": "lemorzsolódás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "lemorzsolodas",
+    "articleCount": 1
+  },
+  {
+    "id": 703,
+    "name": "logopédia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "logopedia",
+    "articleCount": 1
+  },
+  {
+    "id": 243,
+    "name": "magatartás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "magatartas",
+    "articleCount": 0
+  },
+  {
+    "id": 121,
+    "name": "magyartanítás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "magyartanitas",
+    "articleCount": 53
+  },
+  {
+    "id": 48,
+    "name": "magániskolák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "maganiskolak",
+    "articleCount": 12
+  },
+  {
+    "id": 206,
+    "name": "matematikatanítás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "matematikatanitas",
+    "articleCount": 7
+  },
+  {
+    "id": 105,
+    "name": "megismerés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "megismeres",
+    "articleCount": 0
+  },
+  {
+    "id": 595,
+    "name": "memoriter",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "memoriter",
+    "articleCount": 0
+  },
+  {
+    "id": 841,
+    "name": "mentor",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mentor",
+    "articleCount": 0
+  },
+  {
+    "id": 171,
+    "name": "mentálhigiéné",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mentalhigiene",
+    "articleCount": 8
+  },
+  {
+    "id": 578,
+    "name": "mese",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mese",
+    "articleCount": 1
+  },
+  {
+    "id": 155,
+    "name": "MESÉD projekt",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mesed-projekt",
+    "articleCount": 0
+  },
+  {
+    "id": 228,
+    "name": "minőségbiztosítás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "minosegbiztositas",
+    "articleCount": 3
+  },
+  {
+    "id": 596,
+    "name": "mondóka",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mondoka",
+    "articleCount": 0
+  },
+  {
+    "id": 325,
+    "name": "Montessori-pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "montessori-pedagogia",
+    "articleCount": 1
+  },
+  {
+    "id": 126,
+    "name": "motiváció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "motivacio",
+    "articleCount": 13
+  },
+  {
+    "id": 31,
+    "name": "mozgalompedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mozgalompedagogia",
+    "articleCount": 10
+  },
+  {
+    "id": 219,
+    "name": "multikulturális nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "multikulturalis-neveles",
+    "articleCount": 22
+  },
+  {
+    "id": 86,
+    "name": "média",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "media",
+    "articleCount": 1
+  },
+  {
+    "id": 256,
+    "name": "médiapedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "mediapedagogia",
+    "articleCount": 9
+  },
+  {
+    "id": 68,
+    "name": "módszerek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "modszerek",
+    "articleCount": 17
+  },
+  {
+    "id": 361,
+    "name": "múzeumpedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "muzeumpedagogia",
+    "articleCount": 12
+  },
+  {
+    "id": 281,
+    "name": "műveltség",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "muveltseg",
+    "articleCount": 6
+  },
+  {
+    "id": 200,
+    "name": "művészeti nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "muveszeti-neveles",
+    "articleCount": 4
+  },
+  {
+    "id": 30,
+    "name": "művészetpedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "muveszetpedagogia",
+    "articleCount": 107
+  },
+  {
+    "id": 134,
+    "name": "negatív iskolai élmények",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "negativ-iskolai-elmenyek",
+    "articleCount": 0
+  },
+  {
+    "id": 225,
+    "name": "nemi különbségek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nemi-kulonbsegek",
+    "articleCount": 0
+  },
+  {
+    "id": 185,
+    "name": "nemzedékek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nemzedekek",
+    "articleCount": 7
+  },
+  {
+    "id": 75,
+    "name": "nemzetközi",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nemzetkozi",
+    "articleCount": 6
+  },
+  {
+    "id": 217,
+    "name": "nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "neveles",
+    "articleCount": 38
+  },
+  {
+    "id": 104,
+    "name": "nevelés célja",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "neveles-celja",
+    "articleCount": 7
+  },
+  {
+    "id": 653,
+    "name": "neveléselmélet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "neveleselmelet",
+    "articleCount": 15
+  },
+  {
+    "id": 158,
+    "name": "nevelési stílus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nevelesi-stilus",
+    "articleCount": 0
+  },
+  {
+    "id": 322,
+    "name": "neveléstudomány",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nevelestudomany",
+    "articleCount": 10
+  },
+  {
+    "id": 136,
+    "name": "neveléstörténet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nevelestortenet",
+    "articleCount": 35
+  },
+  {
+    "id": 579,
+    "name": "novella",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "novella",
+    "articleCount": 0
+  },
+  {
+    "id": 169,
+    "name": "nyelvi nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nyelvi-neveles",
+    "articleCount": 14
+  },
+  {
+    "id": 336,
+    "name": "nyelvoktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nyelvoktatas",
+    "articleCount": 0
+  },
+  {
+    "id": 145,
+    "name": "nyelvtanítás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nyelvtanitas",
+    "articleCount": 14
+  },
+  {
+    "id": 164,
+    "name": "nyári szünet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nyari-szunet",
+    "articleCount": 0
+  },
+  {
+    "id": 297,
+    "name": "népi kultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nepi-kultura",
+    "articleCount": 25
+  },
+  {
+    "id": 282,
+    "name": "népművészet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nepmuveszet",
+    "articleCount": 0
+  },
+  {
+    "id": 109,
+    "name": "néptánc-pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "neptanc-pedagogia",
+    "articleCount": 0
+  },
+  {
+    "id": 724,
+    "name": "nők oktatása",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nok-oktatasa",
+    "articleCount": 2
+  },
+  {
+    "id": 210,
+    "name": "oktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "oktatas",
+    "articleCount": 11
+  },
+  {
+    "id": 294,
+    "name": "oktatáspolitika",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "oktataspolitika",
+    "articleCount": 73
+  },
+  {
+    "id": 300,
+    "name": "osztályfőnök",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "osztalyfonok",
+    "articleCount": 1
+  },
+  {
+    "id": 197,
+    "name": "osztályozás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "osztalyozas",
+    "articleCount": 2
+  },
+  {
+    "id": 435,
+    "name": "otthonoktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "otthonoktatas",
+    "articleCount": 5
+  },
+  {
+    "id": 159,
+    "name": "partneri viszony",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "partneri-viszony",
+    "articleCount": 0
+  },
+  {
+    "id": 207,
+    "name": "pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagogia",
+    "articleCount": 3
+  },
+  {
+    "id": 588,
+    "name": "pedagógiai kísérlet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagogiai-kiserlet",
+    "articleCount": 0
+  },
+  {
+    "id": 763,
+    "name": "pedagógus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagogus",
+    "articleCount": 30
+  },
+  {
+    "id": 331,
+    "name": "pedagógus-továbbképzés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagogus-tovabbkepzes",
+    "articleCount": 2
+  },
+  {
+    "id": 22,
+    "name": "pedagógusképzés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagoguskepzes",
+    "articleCount": 22
+  },
+  {
+    "id": 128,
+    "name": "pedagógusok",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagogusok",
+    "articleCount": 65
+  },
+  {
+    "id": 254,
+    "name": "pedagóguspálya",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pedagoguspalya",
+    "articleCount": 1
+  },
+  {
+    "id": 283,
+    "name": "PISA",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pisa",
+    "articleCount": 1
+  },
+  {
+    "id": 33,
+    "name": "politikai nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "politikai-neveles",
+    "articleCount": 27
+  },
+  {
+    "id": 35,
+    "name": "projektpedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "projektpedagogia",
+    "articleCount": 14
+  },
+  {
+    "id": 24,
+    "name": "pszichológia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "pszichologia",
+    "articleCount": 23
+  },
+  {
+    "id": 242,
+    "name": "pályaorientáció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "palyaorientacio",
+    "articleCount": 5
+  },
+  {
+    "id": 138,
+    "name": "rejtett tanterv",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "rejtett-tanterv",
+    "articleCount": 3
+  },
+  {
+    "id": 191,
+    "name": "roma kultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "roma-kultura",
+    "articleCount": 0
+  },
+  {
+    "id": 130,
+    "name": "romák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "romak",
+    "articleCount": 44
+  },
+  {
+    "id": 323,
+    "name": "sajtó",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "sajto",
+    "articleCount": 2
+  },
+  {
+    "id": 260,
+    "name": "SNI",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "sni",
+    "articleCount": 27
+  },
+  {
+    "id": 222,
+    "name": "sport",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "sport",
+    "articleCount": 3
+  },
+  {
+    "id": 129,
+    "name": "Summerhill",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "summerhill",
+    "articleCount": 0
+  },
+  {
+    "id": 116,
+    "name": "Summerhill School",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "summerhill-school",
+    "articleCount": 0
+  },
+  {
+    "id": 117,
+    "name": "summerhilli internátus",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "summerhilli-internatus",
+    "articleCount": 0
+  },
+  {
+    "id": 65,
+    "name": "szabad nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szabad-neveles",
+    "articleCount": 49
+  },
+  {
+    "id": 312,
+    "name": "szabadidő",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szabadido",
+    "articleCount": 5
+  },
+  {
+    "id": 118,
+    "name": "szabadságelvű pedagógiai kultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szabadsagelvu-pedagogiai-kultura",
+    "articleCount": 0
+  },
+  {
+    "id": 46,
+    "name": "szakképzés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szakkepzes",
+    "articleCount": 11
+  },
+  {
+    "id": 167,
+    "name": "szakképzési hozzájárulás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szakkepzesi-hozzajarulas",
+    "articleCount": 0
+  },
+  {
+    "id": 587,
+    "name": "szakkör",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szakkor",
+    "articleCount": 0
+  },
+  {
+    "id": 100,
+    "name": "szakértői dráma",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szakertoi-drama",
+    "articleCount": 0
+  },
+  {
+    "id": 372,
+    "name": "szegregáció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szegregacio",
+    "articleCount": 12
+  },
+  {
+    "id": 173,
+    "name": "szegénység",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szegenyseg",
+    "articleCount": 3
+  },
+  {
+    "id": 709,
+    "name": "szelekció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szelekcio",
+    "articleCount": 3
+  },
+  {
+    "id": 124,
+    "name": "Szemérmetes Erzsók",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szemermetes-erzsok",
+    "articleCount": 0
+  },
+  {
+    "id": 26,
+    "name": "szexuális nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szexualis-neveles",
+    "articleCount": 5
+  },
+  {
+    "id": 196,
+    "name": "szorongás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szorongas",
+    "articleCount": 1
+  },
+  {
+    "id": 307,
+    "name": "sztereotípiák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "sztereotipiak",
+    "articleCount": 1
+  },
+  {
+    "id": 401,
+    "name": "szupervízió",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szupervizio",
+    "articleCount": 2
+  },
+  {
+    "id": 98,
+    "name": "számítógépes játékok",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szamitogepes-jatekok",
+    "articleCount": 0
+  },
+  {
+    "id": 161,
+    "name": "színház",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szinhaz",
+    "articleCount": 2
+  },
+  {
+    "id": 250,
+    "name": "szövegelemzés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szovegelemzes",
+    "articleCount": 0
+  },
+  {
+    "id": 198,
+    "name": "szöveges értékelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szoveges-ertekeles",
+    "articleCount": 1
+  },
+  {
+    "id": 247,
+    "name": "szövegértés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szovegertes",
+    "articleCount": 4
+  },
+  {
+    "id": 264,
+    "name": "szülők",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szulok",
+    "articleCount": 4
+  },
+  {
+    "id": 178,
+    "name": "szünidő",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "szunido",
+    "articleCount": 4
+  },
+  {
+    "id": 258,
+    "name": "sérült gyermekek nevelése",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "serult-gyermekek-nevelese",
+    "articleCount": 0
+  },
+  {
+    "id": 257,
+    "name": "SÉTA",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "seta",
+    "articleCount": 0
+  },
+  {
+    "id": 132,
+    "name": "tananyag",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tananyag",
+    "articleCount": 4
+  },
+  {
+    "id": 51,
+    "name": "tankönyv",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tankonyv",
+    "articleCount": 8
+  },
+  {
+    "id": 311,
+    "name": "tanoda",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanoda",
+    "articleCount": 21
+  },
+  {
+    "id": 280,
+    "name": "tanterv",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanterv",
+    "articleCount": 19
+  },
+  {
+    "id": 21,
+    "name": "tantárgy-pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tantargy-pedagogia",
+    "articleCount": 50
+  },
+  {
+    "id": 820,
+    "name": "tanulás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanulas",
+    "articleCount": 6
+  },
+  {
+    "id": 597,
+    "name": "tanulási képességek fejlesztése",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanulasi-kepessegek-fejlesztese",
+    "articleCount": 1
+  },
+  {
+    "id": 665,
+    "name": "tanulási környezet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanulasi-kornyezet",
+    "articleCount": 0
+  },
+  {
+    "id": 238,
+    "name": "tanulói értékelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanuloi-ertekeles",
+    "articleCount": 0
+  },
+  {
+    "id": 143,
+    "name": "tanár-diák viszony",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanar-diak-viszony",
+    "articleCount": 6
+  },
+  {
+    "id": 189,
+    "name": "tanári pályák",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanari-palyak",
+    "articleCount": 0
+  },
+  {
+    "id": 84,
+    "name": "tanárjelölt",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanarjelolt",
+    "articleCount": 0
+  },
+  {
+    "id": 83,
+    "name": "tanítási gyakorlat",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tanitasi-gyakorlat",
+    "articleCount": 0
+  },
+  {
+    "id": 582,
+    "name": "technológiai fejlődés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "technologiai-fejlodes",
+    "articleCount": 0
+  },
+  {
+    "id": 285,
+    "name": "tehetség",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tehetseg",
+    "articleCount": 25
+  },
+  {
+    "id": 88,
+    "name": "televízió",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "televizio",
+    "articleCount": 0
+  },
+  {
+    "id": 284,
+    "name": "teljesítménymérés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "teljesitmenymeres",
+    "articleCount": 4
+  },
+  {
+    "id": 234,
+    "name": "természetes nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "termeszetes-neveles",
+    "articleCount": 0
+  },
+  {
+    "id": 74,
+    "name": "természettudományos oktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "termeszettudomanyos-oktatas",
+    "articleCount": 8
+  },
+  {
+    "id": 87,
+    "name": "testkép",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "testkep",
+    "articleCount": 0
+  },
+  {
+    "id": 629,
+    "name": "testnevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "testneveles",
+    "articleCount": 2
+  },
+  {
+    "id": 39,
+    "name": "trendek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "trendek",
+    "articleCount": 0
+  },
+  {
+    "id": 694,
+    "name": "távoktatás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "tavoktatas",
+    "articleCount": 9
+  },
+  {
+    "id": 142,
+    "name": "USA",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "usa",
+    "articleCount": 0
+  },
+  {
+    "id": 163,
+    "name": "vakáció",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "vakacio",
+    "articleCount": 0
+  },
+  {
+    "id": 177,
+    "name": "vallás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "vallas",
+    "articleCount": 15
+  },
+  {
+    "id": 187,
+    "name": "vers",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "vers",
+    "articleCount": 3
+  },
+  {
+    "id": 249,
+    "name": "verselemzés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "verselemzes",
+    "articleCount": 0
+  },
+  {
+    "id": 99,
+    "name": "videojátékok",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "videojatekok",
+    "articleCount": 0
+  },
+  {
+    "id": 289,
+    "name": "vitakultúra",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "vitakultura",
+    "articleCount": 7
+  },
+  {
+    "id": 106,
+    "name": "Waldorf-pedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "waldorf-pedagogia",
+    "articleCount": 7
+  },
+  {
+    "id": 267,
+    "name": "Webkettő",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "webketto",
+    "articleCount": 0
+  },
+  {
+    "id": 245,
+    "name": "zene",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "zene",
+    "articleCount": 1
+  },
+  {
+    "id": 246,
+    "name": "zenepedagógia",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "zenepedagogia",
+    "articleCount": 0
+  },
+  {
+    "id": 241,
+    "name": "életpálya-építés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "eletpalya-epites",
+    "articleCount": 1
+  },
+  {
+    "id": 590,
+    "name": "élmény központú nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "elmeny-kozpontu-neveles",
+    "articleCount": 0
+  },
+  {
+    "id": 592,
+    "name": "élményközpontú nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "elmenykozpontu-neveles",
+    "articleCount": 0
+  },
+  {
+    "id": 76,
+    "name": "érettségi",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "erettsegi",
+    "articleCount": 10
+  },
+  {
+    "id": 224,
+    "name": "értékelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ertekeles",
+    "articleCount": 13
+  },
+  {
+    "id": 308,
+    "name": "érzelmi nevelés",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "erzelmi-neveles",
+    "articleCount": 5
+  },
+  {
+    "id": 344,
+    "name": "írástanítás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "irastanitas",
+    "articleCount": 0
+  },
+  {
+    "id": 318,
+    "name": "óvoda",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ovoda",
+    "articleCount": 10
+  },
+  {
+    "id": 34,
+    "name": "önkéntesség",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "onkentesseg",
+    "articleCount": 15
+  },
+  {
+    "id": 589,
+    "name": "öntevékenység",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "ontevekenyseg",
+    "articleCount": 0
+  },
+  {
+    "id": 29,
+    "name": "örökség",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "orokseg",
+    "articleCount": 156
+  }
+]

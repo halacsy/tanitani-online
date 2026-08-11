@@ -2,9 +2,10 @@ import { getAllArticles } from '@/lib/content'
 import { getAllAuthors } from '@/lib/authors'
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import Image from 'next/image'
 
 export const metadata: Metadata = {
-  title: 'Szerzőink – Taní-tani Online',
+  title: 'Szerzőink',
 }
 
 export default async function SzerzokrolPage() {
@@ -13,13 +14,14 @@ export default async function SzerzokrolPage() {
 
   const slugStats = new Map<string, { count: number; tags: Set<string> }>()
   for (const article of articles) {
-    if (!article.authorSlug) continue
-    if (!slugStats.has(article.authorSlug)) {
-      slugStats.set(article.authorSlug, { count: 0, tags: new Set() })
+    for (const author of article.authors) {
+      if (!slugStats.has(author.slug)) {
+        slugStats.set(author.slug, { count: 0, tags: new Set() })
+      }
+      const stats = slugStats.get(author.slug)!
+      stats.count++
+      article.tags.forEach(tag => stats.tags.add(tag))
     }
-    const s = slugStats.get(article.authorSlug)!
-    s.count++
-    article.tags.forEach(t => s.tags.add(t))
   }
 
   const profiledAuthors = authors
@@ -39,7 +41,7 @@ export default async function SzerzokrolPage() {
             Szerzőink
           </h1>
           <p className="font-sans text-sm text-muted">
-            {profiledAuthors.length} szerző bemutatkozóval – az élő oldalon 900+
+            {profiledAuthors.length} szerző a teljes archívumban
           </p>
         </div>
       </section>
@@ -52,9 +54,11 @@ export default async function SzerzokrolPage() {
               <div className="card-lift bg-white rounded-xl border border-line p-5 h-full">
                 <div className="flex items-center gap-3.5 mb-3">
                   {author.photo ? (
-                    <img
+                    <Image
                       src={author.photo}
                       alt={author.name}
+                      width={48}
+                      height={48}
                       className="w-12 h-12 rounded-full object-cover object-top border-2 border-line shrink-0"
                     />
                   ) : (

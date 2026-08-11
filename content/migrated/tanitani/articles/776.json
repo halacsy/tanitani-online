@@ -1,0 +1,139 @@
+{
+  "id": 776,
+  "slug": "programozas_dramatizalassal",
+  "contentType": "poszt",
+  "title": "Programozás dramatizálással",
+  "authors": [
+    {
+      "id": 509,
+      "slug": "bognar-amalia",
+      "name": "Bognár Amália"
+    }
+  ],
+  "publishedAt": 1477762715,
+  "date": "2016-10-29",
+  "updatedAt": 1515616446,
+  "tags": [
+    {
+      "id": 70,
+      "slug": "dramapedagogia",
+      "name": "drámapedagógia"
+    },
+    {
+      "id": 121,
+      "slug": "magyartanitas",
+      "name": "magyartanítás"
+    }
+  ],
+  "sections": [],
+  "excerpt": "Bognár Amália írása ...a programozás összekapcsolható az irodalommal, közösségi élménnyé válhat.",
+  "coverImage": "/sites/default/files/bevezeto_kep470.jpg",
+  "coverAlt": "Programozás dramatizálással",
+  "coverTitle": "Programozás dramatizálással",
+  "reads": 8424,
+  "commentCount": 0,
+  "issueYear": "",
+  "issueNumber": null,
+  "issuePage": "",
+  "summaryHtml": "",
+  "bodyHtml": "<p><strong>Bogn&aacute;r Am&aacute;lia &iacute;r&aacute;sa</strong></p>\r\n<blockquote>\r\n\t<p>...a programoz&aacute;s &ouml;sszekapcsolhat&oacute; az irodalommal, k&ouml;z&ouml;ss&eacute;gi &eacute;lm&eacute;nny&eacute; v&aacute;lhat.</p>\r\n</blockquote>\r\n<!--break-->\r\n<p class=\"rtejustify\">A programoz&aacute;s a 21. sz&aacute;zad egyik fontos k&eacute;pess&eacute;ge, amelynek kialak&iacute;t&aacute;sa &eacute;s fejleszt&eacute;se a digit&aacute;lis pedag&oacute;gia egyik feladat&aacute;v&aacute; v&aacute;lt. Sz&aacute;mtalan kezdem&eacute;nyez&eacute;s indult az elm&uacute;lt &eacute;vekben, amelyek azt tűzt&eacute;k ki c&eacute;lul, hogy ez meg is val&oacute;suljon, ilyen p&eacute;ld&aacute;ul a <a href=\"http://codeweek.eu/\">Code Week</a> hete is. Az idei esem&eacute;ny k&ouml;zeledt&eacute;vel (2016. okt&oacute;ber 15‒22.) gondolkodtam el azon, hogy az &aacute;ltal&aacute;nos iskola 5‒6. &eacute;vfolyam&aacute;n magyar&oacute;r&aacute;n hogyan tudn&aacute;m előseg&iacute;teni a di&aacute;kok ezir&aacute;ny&uacute; &eacute;rdeklőd&eacute;s&eacute;nek felkelt&eacute;s&eacute;t a t&eacute;mak&ouml;rh&ouml;z kapcsol&oacute;dva. A mese, a dramatiz&aacute;l&aacute;s, a programoz&aacute;s, a digit&aacute;lis eszk&ouml;z&ouml;k haszn&aacute;lata, az irodalom mint k&ouml;z&ouml;ss&eacute;gi &eacute;lm&eacute;ny kombin&aacute;ci&oacute;j&aacute;b&oacute;l sz&uuml;letett meg az az &ouml;tlet, hogy k&oacute;doljunk mes&eacute;t.</p>\r\n<p class=\"rtejustify\">A programoz&aacute;s tan&iacute;t&aacute;s&aacute;nak egyik n&eacute;pszerű fel&uuml;lete a <a href=\"https://scratch.mit.edu/\">Scratch</a>&nbsp;(az alkalmaz&aacute;s let&ouml;lthető <a href=\"http://scratch.inf.elte.hu/\">magyar nyelvű</a> oktat&oacute;port&aacute;lr&oacute;l is). Az elk&eacute;pzel&eacute;sem az volt, hogy ezen alkalmaz&aacute;s elemeinek felhaszn&aacute;l&aacute;s&aacute;val csemp&eacute;szem be a tant&aacute;rgyba ezt a digit&aacute;lis tev&eacute;kenys&eacute;get, de nem a megszokott form&aacute;ban &eacute;s nem a megszokott platformon. Pedag&oacute;giai c&eacute;ljaim k&ouml;z&eacute; tartozott, hogy megmutassam, a programoz&aacute;s &ouml;sszekapcsolhat&oacute; az irodalommal, k&ouml;z&ouml;ss&eacute;gi &eacute;lm&eacute;nny&eacute; v&aacute;lhat. A fel&uuml;let elemeinek felhaszn&aacute;l&aacute;s&aacute;val &bdquo;&eacute;lő robotk&eacute;nt&rdquo; ir&aacute;ny&iacute;thatt&aacute;k a di&aacute;kok egym&aacute;st, mint a mese szereplőit, akik k&ouml;zben algoritmusokat hajtottak v&eacute;gre &eacute;s mes&eacute;t adtak elő.</p>\r\n<h2 class=\"rtejustify\">\r\n\t<strong>Az &ouml;tlet online &eacute;s offline eszk&ouml;zei</strong></h2>\r\n<p class=\"rtejustify\">A Scratch a grafikus programnyelvek k&ouml;z&eacute; tartozik, ami a vizu&aacute;lis megjelen&iacute;t&eacute;snek &eacute;s nyelvezet&eacute;nek k&ouml;sz&ouml;nhetően a kezdők sz&aacute;m&aacute;ra lehetőv&eacute; teszi a k&ouml;nnyebb tanul&aacute;si folyamatot (Ny&iacute;rő, 2016). A k&eacute;pi inform&aacute;ci&oacute;k miatt k&ouml;nnyebb&eacute; v&aacute;lik az elm&eacute;leti ismeretek elsaj&aacute;t&iacute;t&aacute;sa is (Bleed, 2005). A feladat megval&oacute;s&iacute;t&aacute;s&aacute;hoz a Scratch parancslist&aacute;j&aacute;nak mozg&aacute;s, kin&eacute;zet, hang &eacute;s vez&eacute;rl&eacute;s elemeit haszn&aacute;ltam fel.</p>\r\n<p class=\"rtejustify\">A csoportot &eacute;s a szereplőt &ouml;sszek&ouml;tő fel&uuml;let a <a href=\"http://titanpad.com/\">Titanpad</a> volt. Ez egy k&ouml;z&ouml;sen szerkeszthető dokumentum, amelyet az&eacute;rt v&aacute;lasztottam, mert sz&iacute;nek jel&ouml;lik a csatlakozott szem&eacute;lyek fel&uuml;letre &iacute;rt megnyilv&aacute;nul&aacute;sait, ezekkel jel&ouml;lhett&uuml;k a Scratch parancselemeinek sz&iacute;neit is. Az utas&iacute;t&aacute;sokat &iacute;gy azonnal l&aacute;tta a meseszereplő.</p>\r\n<p class=\"rtejustify\">A dr&aacute;mapedag&oacute;gia egy kooper&aacute;ci&oacute;n alapul&oacute; tanul&aacute;si folyamat, ahol a di&aacute;k a cselekv&eacute;sein kereszt&uuml;l fogalmazza meg a mindennapokban megjelenő probl&eacute;m&aacute;it (Nov&aacute;k, 2016). Gavin Bolton feloszt&aacute;sa a dramatikus tev&eacute;kenys&eacute;gek t&ouml;bb csoportj&aacute;t k&uuml;l&ouml;nb&ouml;zteti meg, az &aacute;ltalunk megval&oacute;s&iacute;tott &ouml;tlet a &bdquo;gyakorlatok&rdquo; t&aacute;rgyk&ouml;r&eacute;be tartozik. Ebben fogalmaz&oacute;dik meg minden olyan krit&eacute;rium, amely a programoz&aacute;ssal &ouml;sszekapcsolhat&oacute;, ilyen p&eacute;ld&aacute;ul a k&ouml;t&ouml;tt szab&aacute;lyok szerint val&oacute; műk&ouml;d&eacute;s, a meghat&aacute;rozott c&eacute;l el&eacute;r&eacute;se, a k&ouml;zvetlen tapasztalatszerz&eacute;s, az egy&eacute;b műv&eacute;szetek (tudom&aacute;nyok) formanyelv&eacute;nek bevon&aacute;sa (S&aacute;rv&aacute;ri, 2016).</p>\r\n<h2 class=\"rtejustify\">\r\n\t<strong>Az &ouml;tlet megval&oacute;s&iacute;t&aacute;sa</strong></h2>\r\n<p class=\"rtejustify\">A bevezető &oacute;r&aacute;n besz&eacute;lgett&uuml;nk a programoz&aacute;s jelentős&eacute;g&eacute;ről, az informatika &eacute;s irodalom &ouml;sszekapcsol&aacute;s&aacute;r&oacute;l &eacute;s a K&oacute;d het&eacute;nek c&eacute;ljair&oacute;l. Előzetesen elk&eacute;sz&iacute;tettem La Fontaine A r&oacute;ka &eacute;s a g&oacute;lya c&iacute;mű &ndash; a tananyagban szereplő &ndash; alkot&aacute;s&aacute;nak algoritmiz&aacute;lt form&aacute;j&aacute;t. Megmutattam, hogy melyik parancs mire vonatkozik, valamint egy-egy b&aacute;tor jelentkezővel el is &bdquo;j&aacute;tszottuk&rdquo; az utas&iacute;t&aacute;soknak megfelelően a mes&eacute;t, ek&ouml;zben felfedezt&uuml;k a hib&aacute;kat is.</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/1_kep_roka_golya.jpg\" rel=\"lightbox\"><img alt=\"A róka és a gólya algoritmizálása\" src=\"/sites/default/files/1_kep_roka_golya470.jpg\" style=\"width: 470px; height: 353px; margin-right: 15px;\" /></a></p>\r\n<p class=\"rtejustify\">A programnyelv megismer&eacute;s&eacute;hez kinyomtattam, lamin&aacute;ltam azokat az elemeket, amelyek sz&uuml;ks&eacute;gesek voltak a mese feldolgoz&aacute;s&aacute;hoz. A prezent&aacute;ci&oacute; &eacute;s a t&ouml;rt&eacute;net programozott előad&aacute;sa ut&aacute;n ezeket tanulm&aacute;nyoztuk, sz&iacute;nek szerint csoportos&iacute;tottuk.</p>\r\n<p class=\"rtejustify\"><img alt=\"A Scratch elemei papíralapon\" src=\"/sites/default/files/2_kep_scratch_elemei_papiralapon470.jpg\" style=\"width: 470px; height: 353px; margin-right: 15px;\" /></p>\r\n<p class=\"rtejustify\">A k&eacute;k sz&iacute;nű a mozg&aacute;s, a lila a kin&eacute;zet, a pink a hang, a s&aacute;rga a vez&eacute;rl&eacute;s parancsait foglalta mag&aacute;ba. A felmer&uuml;lő k&eacute;rd&eacute;seket megbesz&eacute;lt&uuml;k, hisz tiszt&aacute;zni kellett, hogy p&eacute;ld&aacute;ul mennyit fordul a szereplő, ha 90 vagy 180 fokot mozdul, vagy mit jelent, ha a vez&eacute;rl&eacute;sn&eacute;l a &bdquo;ha &ndash; k&uuml;l&ouml;nben&rdquo; parancsot haszn&aacute;ljuk fel.</p>\r\n<p class=\"rtejustify\">A k&ouml;vetkező k&eacute;t &oacute;r&aacute;n 4 csoportra osztottam az adott oszt&aacute;lyt. 5. &eacute;vfolyamon offline programoztunk, &eacute;s sz&oacute;beli k&ouml;zl&eacute;s seg&iacute;ts&eacute;g&eacute;vel hat&aacute;roztuk meg a szereplő hely&eacute;t, a p&aacute;rbesz&eacute;deket. 6. &eacute;vfolyamon a Titanpad fel&uuml;let&eacute;n ir&aacute;ny&iacute;tottuk &bdquo;robotjainkat&rdquo;.</p>\r\n<p class=\"rtejustify\">A tanul&oacute;k k&eacute;zhez kapt&aacute;k La Fontaine A farkas &eacute;s a b&aacute;r&aacute;ny c&iacute;mű alkot&aacute;s&aacute;t. A sz&ouml;veget k&ouml;z&ouml;sen dolgoztuk fel, elősz&ouml;r irodalmi szempontb&oacute;l (mesefajta, tanuls&aacute;g), majd megpr&oacute;b&aacute;ltuk leegyszerűs&iacute;teni a benne tal&aacute;lhat&oacute; p&aacute;rbesz&eacute;deket a programoz&aacute;s megk&ouml;nny&iacute;t&eacute;s&eacute;nek c&eacute;lj&aacute;b&oacute;l. Megbesz&eacute;lt&uuml;k a szereplők kiindul&oacute;- &eacute;s &eacute;rkezőhely&eacute;t, felh&iacute;vtuk egym&aacute;s figyelm&eacute;t a mes&eacute;ben megjelenő &bdquo;csendesen sz&oacute;lt&rdquo; kifejez&eacute;sre, utalva a hangerő k&oacute;dol&aacute;s&aacute;ra. A k&eacute;r&eacute;sem az volt, hogy min&eacute;l t&ouml;bbet haszn&aacute;ljanak fel a vez&eacute;rlőelemek k&ouml;z&uuml;l.</p>\r\n<p class=\"rtejustify\">Ezut&aacute;n minden csoport megkapta a saj&aacute;t parancselemeit, &eacute;s neki&aacute;llt a mese programoz&aacute;s&aacute;nak. Odafigyelt&uuml;nk arra is, hogy k&eacute;t-h&aacute;rom elem ut&aacute;n kipr&oacute;b&aacute;lj&aacute;k, előadj&aacute;k az addig elk&eacute;sz&uuml;lt list&aacute;t, hisz a hibakeres&eacute;s &eacute;s azok kijav&iacute;t&aacute;sa is fontos feladata a k&oacute;dol&aacute;snak.</p>\r\n<p class=\"rtejustify\"><img alt=\"Programozás közben\" src=\"/sites/default/files/3_kep_programozas_kozben470.jpg\" style=\"width: 470px; height: 353px; margin-right: 15px;\" /></p>\r\n<p class=\"rtejustify\">Az elk&eacute;sz&uuml;lt parancssort a csoportok be is mutatt&aacute;k egym&aacute;snak, hisz &iacute;gy l&aacute;thatt&aacute;k azt is, hogy h&aacute;nyf&eacute;lek&eacute;ppen lehet k&oacute;dolni ugyanazt a mes&eacute;t. Sem &ouml;t&ouml;dik, sem hatodik &eacute;vfolyamon nem okozott gondot az utas&iacute;t&aacute;sok meg&eacute;rt&eacute;se, mivel a programoz&aacute;s folyamat&aacute;ban valamennyien r&eacute;szt vettek, &iacute;gy ezeket hamar elsaj&aacute;t&iacute;tott&aacute;k.</p>\r\n<p class=\"rtejustify\">A hatodikosok a tan&aacute;ri honlapon &eacute;rhett&eacute;k el a saj&aacute;t Titanpad fel&uuml;let&uuml;ket. Valamennyi csoport n&eacute;gy tabletet kapott a n&eacute;gy parancssz&iacute;nnek megfelelően, &bdquo;robotjaik&rdquo; a kivet&iacute;tőn kereszt&uuml;l kapt&aacute;k az inform&aacute;ci&oacute;kat.</p>\r\n<p class=\"rtejustify\"><img alt=\"A Titanpad alkalmazása\" src=\"/sites/default/files/a_titanpad_alkalmazasa470.jpg\" style=\"width: 470px; height: 353px; margin-right: 15px;\" /></p>\r\n<p class=\"rtejustify\">Az oszt&aacute;ly &ouml;sszet&eacute;tel&eacute;től &eacute;s egyedi saj&aacute;toss&aacute;gait&oacute;l f&uuml;ggően elt&eacute;rő feladatmennyis&eacute;get tudtunk megval&oacute;s&iacute;tani. &Uacute;gy gondolom, hogy az ilyen jellegű tev&eacute;kenys&eacute;g kellő alapot adhat a programoz&aacute;s ir&aacute;nti &eacute;rdeklőd&eacute;s felkelt&eacute;s&eacute;hez. Megjegyzem: a l&aacute;nyok egyes oszt&aacute;lyokban sokkal lelkesebben &aacute;lltak neki a k&oacute;dol&aacute;ssal kapcsolatos tennival&oacute;k elv&eacute;gz&eacute;s&eacute;hez, mint a fi&uacute;k.</p>\r\n<p class=\"rtejustify\"><img alt=\"Bemutató\" src=\"/sites/default/files/bemutato470.jpg\" style=\"width: 470px; height: 353px; margin-right: 15px;\" /></p>\r\n<p class=\"rtejustify\">Ezek a tan&oacute;r&aacute;k is bizony&iacute;tott&aacute;k sz&aacute;momra, hogy a 21. sz&aacute;zadi pedag&oacute;gusnak sz&eacute;lesk&ouml;rű m&oacute;dszertani eszk&ouml;zt&aacute;rral kell rendelkeznie, mivel k&ouml;zel ilyen soksz&iacute;nű azon gyermekek k&eacute;pess&eacute;gt&eacute;rk&eacute;pe, akikkel a mindennapokban foglalkoznak.</p>\r\n<h2 class=\"rtejustify\">\r\n\tFelhaszn&aacute;lt irodalom</h2>\r\n<p class=\"rtejustify\">Bleed, R. (2005): Visual Literacy in Higher Education. Maricopa Community Colleges, ELI Explorations.</p>\r\n<p class=\"rtejustify\">Nov&aacute;k G&eacute;za M&aacute;t&eacute; (2016): Dr&aacute;ma &eacute;s pedag&oacute;gia. A dr&aacute;mapedag&oacute;gia aktu&aacute;lis k&eacute;rd&eacute;seiről. In: Nevel&eacute;studom&aacute;ny, Oktat&aacute;s ‒ kutat&aacute;s ‒ innov&aacute;ci&oacute;, 2016. (4. &eacute;vf.) 2. sz. p. 48.</p>\r\n<p class=\"rtejustify\">Nyirő P&eacute;ter (2016): A gyakorlati programoz&aacute;s &eacute;s j&aacute;t&eacute;kfejleszt&eacute;s tan&iacute;t&aacute;s&aacute;nak alternat&iacute;v m&oacute;dszere grafikai fel&uuml;letek t&aacute;mogat&aacute;s&aacute;val. In: &Uacute;j Pedag&oacute;giai Szemle 66. &eacute;vf. 2016/5‒6. p. 54.</p>\r\n<p class=\"rtejustify\">S&aacute;rv&aacute;ri T&uuml;nde (2016): A dr&aacute;mapedag&oacute;gia alkalmaz&aacute;si lehetős&eacute;gei a korai idegen nyelvi fejleszt&eacute;sben. In: Gyermeknevel&eacute;s, 2016. (4. &eacute;vf.) 1. sz. p. 126.</p>\r\n",
+  "attachments": [
+    {
+      "articleId": 776,
+      "mediaId": 1559,
+      "position": 0,
+      "description": "A róka és a gólya algoritmizálása",
+      "visible": false,
+      "media": {
+        "id": 1559,
+        "filename": "1_kep_roka_golya470.jpg",
+        "uri": "public://1_kep_roka_golya470.jpg",
+        "publicPath": "/sites/default/files/1_kep_roka_golya470.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 26913,
+        "createdAt": 1477762715
+      }
+    },
+    {
+      "articleId": 776,
+      "mediaId": 1560,
+      "position": 1,
+      "description": "A Scratch elemei papíralapon",
+      "visible": false,
+      "media": {
+        "id": 1560,
+        "filename": "2_kep_scratch_elemei_papiralapon470.jpg",
+        "uri": "public://2_kep_scratch_elemei_papiralapon470.jpg",
+        "publicPath": "/sites/default/files/2_kep_scratch_elemei_papiralapon470.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 35193,
+        "createdAt": 1477762715
+      }
+    },
+    {
+      "articleId": 776,
+      "mediaId": 1561,
+      "position": 2,
+      "description": "Programozás közben",
+      "visible": false,
+      "media": {
+        "id": 1561,
+        "filename": "3_kep_programozas_kozben470.jpg",
+        "uri": "public://3_kep_programozas_kozben470.jpg",
+        "publicPath": "/sites/default/files/3_kep_programozas_kozben470.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 35681,
+        "createdAt": 1477762715
+      }
+    },
+    {
+      "articleId": 776,
+      "mediaId": 1562,
+      "position": 3,
+      "description": "A Titanpad alkalmazása",
+      "visible": false,
+      "media": {
+        "id": 1562,
+        "filename": "a_titanpad_alkalmazasa470.jpg",
+        "uri": "public://a_titanpad_alkalmazasa470.jpg",
+        "publicPath": "/sites/default/files/a_titanpad_alkalmazasa470.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 20294,
+        "createdAt": 1477762715
+      }
+    },
+    {
+      "articleId": 776,
+      "mediaId": 1563,
+      "position": 4,
+      "description": "Bemutató",
+      "visible": false,
+      "media": {
+        "id": 1563,
+        "filename": "bemutato470.jpg",
+        "uri": "public://bemutato470.jpg",
+        "publicPath": "/sites/default/files/bemutato470.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 10607,
+        "createdAt": 1477762715
+      }
+    },
+    {
+      "articleId": 776,
+      "mediaId": 1564,
+      "position": 5,
+      "description": "A róka és a gólya algoritmizálása",
+      "visible": false,
+      "media": {
+        "id": 1564,
+        "filename": "1_kep_roka_golya.jpg",
+        "uri": "public://1_kep_roka_golya.jpg",
+        "publicPath": "/sites/default/files/1_kep_roka_golya.jpg",
+        "mimeType": "image/jpeg",
+        "byteSize": 67492,
+        "createdAt": 1477770148
+      }
+    }
+  ],
+  "comments": []
+}

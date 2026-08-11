@@ -1,0 +1,106 @@
+[
+  {
+    "id": 2,
+    "name": "Emberek",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "emberek",
+    "articleCount": 23
+  },
+  {
+    "id": 8,
+    "name": "Érted haragszom",
+    "descriptionHtml": "",
+    "weight": 1,
+    "slug": "erted-haragszom",
+    "articleCount": 7
+  },
+  {
+    "id": 9,
+    "name": "Írásjel",
+    "descriptionHtml": "",
+    "weight": 2,
+    "slug": "irasjel",
+    "articleCount": 14
+  },
+  {
+    "id": 3,
+    "name": "Kép a tükörben",
+    "descriptionHtml": "",
+    "weight": 3,
+    "slug": "kep-a-tukorben",
+    "articleCount": 15
+  },
+  {
+    "id": 4,
+    "name": "Kiáltozás",
+    "descriptionHtml": "",
+    "weight": 4,
+    "slug": "kialtozas",
+    "articleCount": 14
+  },
+  {
+    "id": 5,
+    "name": "Műterem",
+    "descriptionHtml": "",
+    "weight": 5,
+    "slug": "muterem",
+    "articleCount": 18
+  },
+  {
+    "id": 221,
+    "name": "Néha szigetek",
+    "descriptionHtml": "<br />\r\n",
+    "weight": 6,
+    "slug": "neha-szigetek",
+    "articleCount": 3
+  },
+  {
+    "id": 6,
+    "name": "Ó Európa",
+    "descriptionHtml": "",
+    "weight": 7,
+    "slug": "o-europa",
+    "articleCount": 4
+  },
+  {
+    "id": 168,
+    "name": "Párbeszéd",
+    "descriptionHtml": "<br />\r\n",
+    "weight": 8,
+    "slug": "parbeszed",
+    "articleCount": 5
+  },
+  {
+    "id": 7,
+    "name": "Szomorúfűz",
+    "descriptionHtml": "",
+    "weight": 9,
+    "slug": "szomorufuz",
+    "articleCount": 11
+  },
+  {
+    "id": 10,
+    "name": "Tanítások",
+    "descriptionHtml": "",
+    "weight": 10,
+    "slug": "tanitasok",
+    "articleCount": 18
+  },
+  {
+    "id": 12,
+    "name": "Távoli ének",
+    "descriptionHtml": "",
+    "weight": 11,
+    "slug": "tavoli-enek",
+    "articleCount": 5
+  },
+  {
+    "id": 11,
+    "name": "Tiszta szívvel",
+    "descriptionHtml": "",
+    "weight": 12,
+    "slug": "tiszta-szivvel",
+    "articleCount": 2
+  }
+]

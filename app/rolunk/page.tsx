@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Rólunk – Taní-tani Online',
+  title: 'Rólunk',
 }
 
 export default function RolunkPage() {
@@ -21,7 +21,7 @@ export default function RolunkPage() {
 
         <h2>A tartalom</h2>
         <p>
-          Több mint 900 szerzőtől, több mint 1000 cikk olvasható az oldalon – ingyenesen, Creative Commons licenc alatt. Az írások témái felölelik az oktatáspolitikát, a neveléstörténetet, az alternatív pedagógiákat, a hátrányos helyzet kérdéskörét, a digitális oktatást, a drámapedagógiát és még sok más területet.
+          Több mint 600 szerzőtől, több mint 1000 cikk olvasható az oldalon – ingyenesen, Creative Commons licenc alatt. Az írások témái felölelik az oktatáspolitikát, a neveléstörténetet, az alternatív pedagógiákat, a hátrányos helyzet kérdéskörét, a digitális oktatást, a drámapedagógiát és még sok más területet.
         </p>
 
         <h2>Partnereink</h2>
@@ -31,7 +31,7 @@ export default function RolunkPage() {
 
         <h2>A Taní-tani Könyvek</h2>
         <p>
-          A szerkesztőség saját könyvkiadói tevékenységet is folytat: a <em>Taní-tani Könyvek</em> sorozat kötetei szabadon hozzáférhetők – „szabad írás – szabad hozzáférés" alapon.
+          A szerkesztőség saját könyvkiadói tevékenységet is folytat: a <em>Taní-tani Könyvek</em> sorozat kötetei szabadon hozzáférhetők – „szabad írás – szabad hozzáférés” alapon.
         </p>
 
         <h2>Kapcsolat</h2>

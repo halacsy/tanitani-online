@@ -1,86 +1,378 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { marked } from 'marked'
+
+export interface AuthorRef {
+  id: number
+  slug: string
+  name: string
+}
+
+export interface TagRef {
+  id: number
+  slug: string
+  name: string
+}
+
+export interface SectionRef {
+  id: number
+  slug: string
+  name: string
+}
+
+export interface MediaRef {
+  id: number
+  filename: string
+  uri: string
+  publicPath: string
+  mimeType: string
+  byteSize: number
+  createdAt: number
+}
+
+export interface ArticleAttachment {
+  articleId: number
+  mediaId: number
+  position: number
+  description: string
+  visible: boolean
+  media: MediaRef
+}
+
+export interface ArticleComment {
+  id: number
+  parentId: number | null
+  articleId: number
+  authorName: string
+  subject: string
+  bodyHtml: string
+  publishedAt: number
+  threadPath: string
+}
+
+interface ArticleRecord {
+  id: number
+  slug: string
+  contentType: string
+  title: string
+  authors: AuthorRef[]
+  publishedAt: number
+  date: string
+  updatedAt: number
+  tags: TagRef[]
+  sections: SectionRef[]
+  excerpt: string
+  coverImage: string
+  coverAlt: string
+  coverTitle: string
+  reads: number
+  commentCount: number
+  issueYear: string
+  issueNumber: number | null
+  issuePage: string
+  summaryHtml?: string
+  bodyHtml?: string
+  attachments?: ArticleAttachment[]
+  comments?: ArticleComment[]
+}
 
 export interface Article {
+  id: number
   slug: string
+  contentType: string
   title: string
+  authors: AuthorRef[]
   author: string
   authorSlug?: string
   date: string
+  publishedAt: number
+  updatedAt: number
   tags: string[]
+  tagRefs: TagRef[]
+  sections: SectionRef[]
   excerpt: string
   coverImage: string
+  coverAlt: string
+  coverTitle: string
   reads: number
+  commentCount: number
+  issueYear: string
+  issueNumber: number | null
+  issuePage: string
   content: string
+  summaryHtml: string
+  attachments: ArticleAttachment[]
+  comments: ArticleComment[]
 }
 
-const cikkekDir = path.join(process.cwd(), 'content', 'cikkek')
-const szerzokDir = path.join(process.cwd(), 'content', 'szerzok')
+const migratedDir = path.join(process.cwd(), 'content', 'migrated', 'tanitani')
+const articlesDir = path.join(migratedDir, 'articles')
+const articleIndexPath = path.join(migratedDir, 'articles.json')
+const editorialDir = path.join(process.cwd(), 'content', 'cikkek')
+const authorRecordsPath = path.join(migratedDir, 'authors.json')
+const curatedAuthorsDir = path.join(process.cwd(), 'content', 'szerzok')
 
-// Resolve author name from authorSlug, fall back to stored author string
-function resolveAuthorName(authorSlug: string | undefined, fallback: string): string {
-  if (!authorSlug) return fallback
-  const filePath = path.join(szerzokDir, `${authorSlug}.md`)
-  if (!fs.existsSync(filePath)) return fallback
-  const { data } = matter(fs.readFileSync(filePath, 'utf-8'))
-  return data.name ?? fallback
+let articleRecords: ArticleRecord[] | null = null
+let articleBySlug: Map<string, ArticleRecord> | null = null
+
+function stableNegativeId(value: string): number {
+  let hash = 2166136261
+  for (let index = 0; index < value.length; index++) {
+    hash ^= value.charCodeAt(index)
+    hash = Math.imul(hash, 16777619)
+  }
+  return -(Math.abs(hash) || 1)
 }
 
-function parseArticle(slug: string, raw: string): Article {
-  const { data, content } = matter(raw)
-  const authorSlug: string | undefined = data.authorSlug ?? undefined
+function slugify(value: string): string {
+  return value
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+function comparableSlug(value: string): string {
+  return slugify(value).replaceAll('-', '')
+}
+
+function comparableTitle(value: string): string {
+  return value
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLocaleLowerCase('hu')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+}
+
+function sanitizeEditorialHtml(value: string): string {
+  let cleaned = value
+  for (const origin of [
+    'https://www.tani-tani.info',
+    'http://www.tani-tani.info',
+    'https://tani-tani.info',
+    'http://tani-tani.info',
+  ]) {
+    cleaned = cleaned
+      .replaceAll(`href="${origin}/`, 'href="/')
+      .replaceAll(`href='${origin}/`, "href='/")
+      .replaceAll(`src="${origin}/`, 'src="/')
+      .replaceAll(`src='${origin}/`, "src='/")
+  }
+  return cleaned
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script\s*>/gi, '')
+    .replace(/<(?:object|embed)\b[^>]*>[\s\S]*?<\/(?:object|embed)\s*>/gi, '')
+    .replace(/<(?:object|embed)\b[^>]*\/?>/gi, '')
+    .replace(/\s+on[a-z]+\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi, '')
+    .replace(/((?:href|src)\s*=\s*["'])\s*javascript:[^"']*(["'])/gi, '$1#$2')
+    .replace(/\s+style\s*=\s*(?:"[^"]*(?:expression\s*\(|javascript\s*:)[^"]*"|'[^']*(?:expression\s*\(|javascript\s*:)[^']*')/gi, '')
+}
+
+function plainText(value: string): string {
+  return value
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#0?39;/gi, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function editorialAuthorMap(): Map<string, AuthorRef> {
+  const result = new Map<string, AuthorRef>()
+  if (fs.existsSync(authorRecordsPath)) {
+    const records = JSON.parse(fs.readFileSync(authorRecordsPath, 'utf-8')) as AuthorRef[]
+    records.forEach(author => result.set(author.slug, author))
+  }
+  if (fs.existsSync(curatedAuthorsDir)) {
+    for (const filename of fs.readdirSync(curatedAuthorsDir).filter(name => name.endsWith('.md'))) {
+      const authorSlug = filename.replace(/\.md$/, '')
+      if (result.has(authorSlug)) continue
+      const { data } = matter(fs.readFileSync(path.join(curatedAuthorsDir, filename), 'utf-8'))
+      result.set(authorSlug, {
+        id: stableNegativeId(`author:${authorSlug}`),
+        slug: authorSlug,
+        name: String(data.name || authorSlug),
+      })
+    }
+  }
+  return result
+}
+
+function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
+  if (!fs.existsSync(editorialDir)) return []
+  const migratedSlugs = new Set(migrated.map(article => comparableSlug(article.slug)))
+  const migratedTitles = migrated.map(article => comparableTitle(article.title))
+  const authors = editorialAuthorMap()
+  const usedIds = new Set(migrated.map(article => article.id))
+  const records: ArticleRecord[] = []
+
+  for (const filename of fs.readdirSync(editorialDir).filter(name => name.endsWith('.md')).sort()) {
+    const fileSlug = filename.replace(/\.md$/, '')
+    const { data, content } = matter(fs.readFileSync(path.join(editorialDir, filename), 'utf-8'))
+    const title = String(data.title || '').trim()
+    const titleKey = comparableTitle(title)
+    const alreadyMigrated = migratedTitles.some(existing =>
+      existing === titleKey || existing.endsWith(` ${titleKey}`) || titleKey.endsWith(` ${existing}`),
+    )
+    if (!title || migratedSlugs.has(comparableSlug(fileSlug)) || alreadyMigrated) {
+      continue
+    }
+    const authorSlug = String(data.authorSlug || '').trim()
+    const author = authors.get(authorSlug)
+    const authorRefs = author
+      ? [author]
+      : data.author
+        ? [{ id: stableNegativeId(`author-name:${data.author}`), slug: slugify(String(data.author)), name: String(data.author) }]
+        : []
+    if (authorRefs.length === 0) continue
+    const date = String(data.date || new Date().toISOString().slice(0, 10)).slice(0, 10)
+    const publishedAt = Math.floor(new Date(`${date}T12:00:00+02:00`).getTime() / 1000)
+    const tagNames = Array.isArray(data.tags) ? data.tags.map(String) : []
+    const tags = tagNames.map(name => ({
+      id: stableNegativeId(`tag:${name}`),
+      slug: slugify(name),
+      name,
+    }))
+    const bodyHtml = sanitizeEditorialHtml(String(marked.parse(content)))
+    let id = stableNegativeId(`article:${fileSlug}`)
+    while (usedIds.has(id)) id -= 1
+    usedIds.add(id)
+    records.push({
+      id,
+      slug: fileSlug,
+      contentType: 'poszt',
+      title,
+      authors: authorRefs,
+      publishedAt,
+      date,
+      updatedAt: publishedAt,
+      tags,
+      sections: [],
+      excerpt: String(data.excerpt || plainText(bodyHtml).slice(0, 320)),
+      coverImage: String(data.coverImage || data.image || ''),
+      coverAlt: title,
+      coverTitle: '',
+      reads: Number(data.reads || 0),
+      commentCount: 0,
+      issueYear: '',
+      issueNumber: null,
+      issuePage: '',
+      summaryHtml: '',
+      bodyHtml,
+      attachments: [],
+      comments: [],
+    })
+  }
+  return records
+}
+
+function loadArticleRecords(): ArticleRecord[] {
+  if (articleRecords) return articleRecords
+  if (!fs.existsSync(articleIndexPath)) return []
+  const migrated = JSON.parse(fs.readFileSync(articleIndexPath, 'utf-8')) as ArticleRecord[]
+  articleRecords = [...migrated, ...loadEditorialRecords(migrated)]
+    .sort((a, b) => b.publishedAt - a.publishedAt || b.id - a.id)
+  articleBySlug = new Map(articleRecords.map(article => [article.slug, article]))
+  return articleRecords
+}
+
+function toArticle(record: ArticleRecord): Article {
+  const authorNames = record.authors.map(author => author.name)
   return {
-    slug,
-    title: data.title ?? '',
-    author: resolveAuthorName(authorSlug, data.author ?? ''),
-    authorSlug,
-    date: data.date ?? '',
-    tags: data.tags ?? [],
-    excerpt: data.excerpt ?? '',
-    coverImage: data.coverImage ?? data.image ?? '',
-    reads: data.reads ?? 0,
-    content,
+    id: record.id,
+    slug: record.slug,
+    contentType: record.contentType,
+    title: record.title,
+    authors: record.authors,
+    author: authorNames.join(', '),
+    authorSlug: record.authors.length === 1 ? record.authors[0].slug : undefined,
+    date: record.date,
+    publishedAt: record.publishedAt,
+    updatedAt: record.updatedAt,
+    tags: record.tags.map(tag => tag.name),
+    tagRefs: record.tags,
+    sections: record.sections,
+    excerpt: record.excerpt,
+    coverImage: record.coverImage,
+    coverAlt: record.coverAlt,
+    coverTitle: record.coverTitle,
+    reads: record.reads,
+    commentCount: record.commentCount,
+    issueYear: record.issueYear,
+    issueNumber: record.issueNumber,
+    issuePage: record.issuePage,
+    content: record.bodyHtml ?? '',
+    summaryHtml: record.summaryHtml ?? '',
+    attachments: record.attachments ?? [],
+    comments: record.comments ?? [],
   }
 }
 
+function decodeSlug(slug: string): string {
+  try {
+    return decodeURIComponent(slug)
+  } catch {
+    return slug
+  }
+}
+
+function findArticleRecord(slug: string): ArticleRecord | undefined {
+  loadArticleRecords()
+  const decoded = decodeSlug(slug)
+  return articleBySlug?.get(decoded) ?? articleBySlug?.get(decoded.replaceAll('-', '_'))
+}
+
 export function readingTime(content: string): number {
-  const wordsPerMinute = 200
-  const words = content.trim().split(/\s+/).length
-  return Math.ceil(words / wordsPerMinute)
+  const plainText = content
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-zA-Z0-9#]+;/g, ' ')
+  const wordCount = plainText.trim() ? plainText.trim().split(/\s+/).length : 0
+  return Math.max(1, Math.ceil(wordCount / 200))
 }
 
 export function getAllArticles(): Article[] {
-  if (!fs.existsSync(cikkekDir)) return []
-  return fs.readdirSync(cikkekDir)
-    .filter(f => f.endsWith('.md'))
-    .map(filename => {
-      const slug = filename.replace(/\.md$/, '')
-      const raw = fs.readFileSync(path.join(cikkekDir, filename), 'utf-8')
-      return parseArticle(slug, raw)
-    })
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  return loadArticleRecords().map(toArticle)
 }
 
 export function getArticleBySlug(slug: string): Article | null {
-  const filePath = path.join(cikkekDir, `${slug}.md`)
-  if (!fs.existsSync(filePath)) return null
-  return parseArticle(slug, fs.readFileSync(filePath, 'utf-8'))
+  const indexRecord = findArticleRecord(slug)
+  if (!indexRecord) return null
+  const fullPath = path.join(articlesDir, `${indexRecord.id}.json`)
+  if (!fs.existsSync(fullPath)) return toArticle(indexRecord)
+  const fullRecord = JSON.parse(fs.readFileSync(fullPath, 'utf-8')) as ArticleRecord
+  return toArticle(fullRecord)
+}
+
+export function getArticleById(id: number): Article | null {
+  const record = loadArticleRecords().find(article => article.id === id)
+  return record ? getArticleBySlug(record.slug) : null
 }
 
 export function getArticlesByAuthorSlug(authorSlug: string): Article[] {
-  return getAllArticles().filter(a => a.authorSlug === authorSlug)
+  return getAllArticles().filter(article =>
+    article.authors.some(author => author.slug === authorSlug),
+  )
 }
 
 export function getAllTags(): string[] {
-  const articles = getAllArticles()
-  const tagCount = new Map<string, number>()
-  articles.forEach(a => a.tags.forEach(t => tagCount.set(t, (tagCount.get(t) ?? 0) + 1)))
-  return Array.from(tagCount.entries())
-    .sort((a, b) => b[1] - a[1])
-    .map(([t]) => t)
+  const counts = new Map<string, number>()
+  for (const article of getAllArticles()) {
+    for (const tag of article.tags) counts.set(tag, (counts.get(tag) ?? 0) + 1)
+  }
+  return Array.from(counts.entries())
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'hu'))
+    .map(([tag]) => tag)
 }
 
 export function getArticlesByTag(tag: string): Article[] {
-  return getAllArticles().filter(a => a.tags.includes(tag))
+  const decoded = decodeSlug(tag)
+  return getAllArticles().filter(article => article.tags.includes(decoded))
 }

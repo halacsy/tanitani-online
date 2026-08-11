@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import { getAllAuthors } from '@/lib/authors'
-import { getArticlesByAuthorSlug } from '@/lib/content'
 import ArticleCard from './components/ArticleCard'
+import Image from 'next/image'
 
 export default async function HomePage() {
   const articles = getAllArticles()
@@ -13,7 +13,7 @@ export default async function HomePage() {
 
   const allAuthors = getAllAuthors()
   const authorsWithCount = allAuthors
-    .map(a => ({ ...a, count: getArticlesByAuthorSlug(a.slug).length }))
+    .map(a => ({ ...a, count: a.articleCount }))
     .filter(a => a.count > 0)
     .sort((a, b) => b.count - a.count)
     .slice(0, 5)
@@ -31,7 +31,7 @@ export default async function HomePage() {
               A szabad pedagógiai gondolkodás fóruma
             </h1>
             <p className="font-body text-base md:text-lg leading-relaxed text-white/85 mb-8 max-w-xl">
-              Hosszú formátumú esszék, elemzések és reflexiók pedagógusoknak. Alternatív oktatás, oktatáspolitika, inklúzió, nevelésfilozófia – 1000 cikk az elmúlt három évtizedből.
+              Hosszú formátumú esszék, elemzések és reflexiók pedagógusoknak. Alternatív oktatás, oktatáspolitika, inklúzió, nevelésfilozófia – {articles.length.toLocaleString('hu-HU')} cikk az archívumban.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link href="/cikkek" className="btn-primary !bg-white !text-brand">
@@ -118,9 +118,11 @@ export default async function HomePage() {
                 >
                   <div className="card-lift bg-white border border-line rounded-xl p-4 flex flex-col items-center text-center gap-2.5">
                     {author.photo ? (
-                      <img
+                      <Image
                         src={author.photo}
                         alt={author.name}
+                        width={64}
+                        height={64}
                         className="w-16 h-16 rounded-full object-cover object-top border-2 border-line"
                       />
                     ) : (
@@ -144,7 +146,7 @@ export default async function HomePage() {
           <div className="flex-1">
             <h2 className="font-display text-2xl font-bold text-brand mb-3">A Taní-tani Online-ról</h2>
             <p className="font-body text-base leading-relaxed text-charcoal max-w-2xl">
-              1996 óta vagyunk a progresszív pedagógiai gondolkodás fóruma Magyarországon. Több mint 900 szerzőtől, több mint 1000 cikk – ingyenesen, szabadon hozzáférhetően. Creative Commons licenc alatt.
+              1996 óta vagyunk a progresszív pedagógiai gondolkodás fóruma Magyarországon. Több mint 600 szerző, több mint ezer cikk – ingyenesen, szabadon hozzáférhetően. Creative Commons licenc alatt.
             </p>
           </div>
           <Link href="/rolunk" className="btn-outline shrink-0">Rólunk</Link>

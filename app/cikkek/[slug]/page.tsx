@@ -1,12 +1,14 @@
 import { notFound } from 'next/navigation'
 import { getAllArticles, getArticleBySlug, readingTime, getArticlesByAuthorSlug } from '@/lib/content'
 import { getAuthorBySlug } from '@/lib/authors'
-import { marked } from 'marked'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import ReadingProgress from '@/app/components/ReadingProgress'
 import AuthorBioBlock from '@/app/components/AuthorBioBlock'
 import ArticleCard from '@/app/components/ArticleCard'
+import ArticleComments from '@/app/components/ArticleComments'
+import { SITE_NAME, SITE_URL } from '@/lib/site'
+import Image from 'next/image'
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -21,8 +23,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const article = getArticleBySlug(slug)
   if (!article) return {}
   return {
-    title: `${article.title} – Taní-tani Online`,
+    title: article.title,
     description: article.excerpt,
+    alternates: { canonical: `/cikkek/${article.slug}` },
+    openGraph: {
+      type: 'article',
+      locale: 'hu_HU',
+      url: `/cikkek/${article.slug}`,
+      siteName: SITE_NAME,
+      title: article.title,
+      description: article.excerpt,
+      publishedTime: new Date(article.publishedAt * 1000).toISOString(),
+      modifiedTime: new Date(article.updatedAt * 1000).toISOString(),
+      authors: article.authors.map(author => author.name),
+      tags: article.tags,
+      images: article.coverImage
+        ? [{ url: article.coverImage, alt: article.coverAlt || article.title }]
+        : [{ url: '/og-tanitani.png', width: 1200, height: 630, alt: SITE_NAME }],
+    },
   }
 }
 
@@ -35,27 +53,53 @@ export default async function ArticlePage({ params }: Props) {
   const article = getArticleBySlug(slug)
   if (!article) notFound()
 
-  const author = article.authorSlug ? getAuthorBySlug(article.authorSlug) : null
-  const authorArticleCount = article.authorSlug ? getArticlesByAuthorSlug(article.authorSlug).length : 0
+  const authors = article.authors
+    .map(author => getAuthorBySlug(author.slug))
+    .filter(author => author !== null)
 
   const allArticles = getAllArticles()
   const related = allArticles
     .filter(a => a.slug !== slug && a.tags.some(t => article.tags.includes(t)))
     .slice(0, 3)
 
-  const html = marked(article.content) as string
   const minutes = readingTime(article.content)
+  const articleUrl = `${SITE_URL}/cikkek/${encodeURIComponent(article.slug)}`
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.excerpt,
+    inLanguage: 'hu',
+    mainEntityOfPage: articleUrl,
+    url: articleUrl,
+    datePublished: new Date(article.publishedAt * 1000).toISOString(),
+    dateModified: new Date(article.updatedAt * 1000).toISOString(),
+    author: article.authors.map(author => ({
+      '@type': 'Person',
+      name: author.name,
+      url: `${SITE_URL}/szerzok/${encodeURIComponent(author.slug)}`,
+    })),
+    publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
+    ...(article.coverImage ? { image: new URL(article.coverImage, SITE_URL).toString() } : {}),
+  }
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replaceAll('<', '\\u003c') }}
+      />
       <ReadingProgress />
 
       {/* Cover image */}
       {article.coverImage && (
         <div className="w-full h-48 sm:h-72 md:h-96 overflow-hidden relative">
-          <img
+          <Image
             src={article.coverImage}
-            alt={article.title}
+            alt={article.coverAlt || article.title}
+            fill
+            sizes="100vw"
+            priority
             className="w-full h-full object-cover object-top"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/30" />
@@ -91,11 +135,13 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Author + meta */}
           <div className="flex items-center gap-3 flex-wrap pb-6 border-b border-line">
-            {author?.photo ? (
-              <Link href={`/szerzok/${author.slug}`} className="shrink-0">
-                <img
-                  src={author.photo}
-                  alt={author.name}
+            {authors[0]?.photo ? (
+              <Link href={`/szerzok/${authors[0].slug}`} className="shrink-0">
+                <Image
+                  src={authors[0].photo}
+                  alt={authors[0].name}
+                  width={44}
+                  height={44}
                   className="w-11 h-11 rounded-full object-cover object-top border-2 border-line"
                 />
               </Link>
@@ -106,19 +152,28 @@ export default async function ArticlePage({ params }: Props) {
             )}
 
             <div className="flex flex-col gap-0.5">
-              {article.authorSlug ? (
-                <Link href={`/szerzok/${article.authorSlug}`} className="font-sans text-sm font-semibold text-charcoal hover:text-brand transition-colors">
-                  {article.author}
-                </Link>
-              ) : (
-                <span className="font-sans text-sm font-semibold text-charcoal">{article.author}</span>
-              )}
+              <div className="font-sans text-sm font-semibold text-charcoal">
+                {article.authors.map((author, index) => (
+                  <span key={author.id}>
+                    {index > 0 && <span className="text-muted">, </span>}
+                    <Link href={`/szerzok/${author.slug}`} className="hover:text-brand transition-colors">
+                      {author.name}
+                    </Link>
+                  </span>
+                ))}
+              </div>
               <div className="flex items-center gap-1.5 flex-wrap font-sans text-xs text-muted">
                 <span>{formatDate(article.date)}</span>
                 <span className="text-line">·</span>
                 <span>◷ {minutes} perc</span>
                 <span className="text-line">·</span>
                 <span>{article.reads.toLocaleString('hu-HU')} olvasás</span>
+                {article.commentCount > 0 && (
+                  <>
+                    <span className="text-line">·</span>
+                    <span>{article.commentCount} hozzászólás</span>
+                  </>
+                )}
               </div>
             </div>
           </div>
@@ -138,13 +193,52 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Main content */}
           <div className="py-10 md:py-14">
-            <article className="prose prose-lg lg:prose-xl max-w-none" dangerouslySetInnerHTML={{ __html: html }} />
+            <article
+              className="prose prose-lg lg:prose-xl max-w-none imported-html"
+              dangerouslySetInnerHTML={{ __html: article.content }}
+            />
 
-            {/* Author bio */}
-            {author && (
+            {article.attachments.filter(item => item.visible).length > 0 && (
+              <section className="mt-10 p-5 bg-brand-light rounded-xl border border-line">
+                <h2 className="font-sans text-xs font-semibold tracking-widest uppercase text-muted mb-3">
+                  Mellékletek
+                </h2>
+                <ul className="flex flex-col gap-2">
+                  {article.attachments.filter(item => item.visible).map(item => (
+                    <li key={item.mediaId}>
+                      <a
+                        href={item.media.publicPath}
+                        className="font-sans text-sm text-brand hover:underline"
+                        download
+                      >
+                        {item.description || item.media.filename}
+                      </a>
+                      {item.media.byteSize > 0 && (
+                        <span className="font-sans text-xs text-muted ml-2">
+                          {(item.media.byteSize / 1024 / 1024).toLocaleString('hu-HU', { maximumFractionDigits: 1 })} MB
+                        </span>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )}
+
+            {/* Author bios */}
+            {authors.length > 0 && (
               <div className="mt-12 pt-8 border-t border-line">
-                <h2 className="font-sans text-xs font-semibold tracking-widest uppercase text-muted mb-4">A szerzőről</h2>
-                <AuthorBioBlock author={author} articleCount={authorArticleCount} />
+                <h2 className="font-sans text-xs font-semibold tracking-widest uppercase text-muted mb-4">
+                  {authors.length > 1 ? 'A szerzőkről' : 'A szerzőről'}
+                </h2>
+                <div className="flex flex-col gap-4">
+                  {authors.map(author => (
+                    <AuthorBioBlock
+                      key={author.slug}
+                      author={author}
+                      articleCount={getArticlesByAuthorSlug(author.slug).length}
+                    />
+                  ))}
+                </div>
               </div>
             )}
 
@@ -164,6 +258,8 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
               </div>
             )}
+
+            <ArticleComments comments={article.comments} />
           </div>
 
           {/* Right gutter */}

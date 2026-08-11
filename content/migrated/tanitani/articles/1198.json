@@ -1,0 +1,454 @@
+{
+  "id": 1198,
+  "slug": "kivaloan_fejleszto_altalanos_iskolak",
+  "contentType": "poszt",
+  "title": "Kiválóan fejlesztő általános iskolák",
+  "authors": [
+    {
+      "id": 576,
+      "slug": "asztalos-gyorgy",
+      "name": "Asztalos György"
+    }
+  ],
+  "publishedAt": 1688407841,
+  "date": "2023-07-03",
+  "updatedAt": 1688485650,
+  "tags": [
+    {
+      "id": 709,
+      "slug": "szelekcio",
+      "name": "szelekció"
+    }
+  ],
+  "sections": [],
+  "excerpt": "Asztalos György írása A kiválóan fejlesztő iskolák között is vannak kis létszámúak, alacsony családiháttér-indexszel rendelkezők, kistelepülésen működők.",
+  "coverImage": "/sites/default/files/iskolasok.jpeg",
+  "coverAlt": "",
+  "coverTitle": "",
+  "reads": 8356,
+  "commentCount": 0,
+  "issueYear": "",
+  "issueNumber": null,
+  "issuePage": "",
+  "summaryHtml": "",
+  "bodyHtml": "<p><strong>Asztalos György írása</strong></p>\r\n<blockquote>\r\n\t<p>A kiválóan fejlesztő iskolák között is vannak kis létszámúak, alacsony családiháttér-indexszel rendelkezők, kistelepülésen működők.</p>\r\n</blockquote>\r\n<!--break-->\r\n<p class=\"rtejustify\">Az<a href=\"/a_legjobb_kozepiskolak\"> előző cikkemben</a> már írtam a kiválóan fejlesztő középiskolákról.&nbsp;Azt gondolom, hogy fontos – a sokszor méltatlanul kevés hangsúlyt kapó – általános iskolákkal is foglalkoznom. Forrásnak <a href=\"https://www.oktatas.hu/kozneveles/meresek/kompetenciameres/kiemelkedo_teljesitmenyu_iskolak\">az Oktatási Hivatal adatait </a>használtam.[fn]A hátrányos helyzet létszámadatainak számításához a 2022. évi októberi köznevelési statisztika „a04t18” tábláját használtam.[/fn]&nbsp;Az ábrák a forrásmunkák alapján saját szerkesztésűek. A kiválóan fejlesztő iskolákat a nyolcadik osztályos kompetenciamérés ábráján látható módon határozza meg a hivatal.</p>\r\n<p class=\"rtejustify\"><img alt=\"1. ábra\" src=\"/sites/default/files/altalanos_1.png\" style=\"width: 470px; height: 282px;\" /></p>\r\n<p class=\"rtejustify\">Egy intézmény akkor kerül fel a kiválóan teljesítők listájára, ha az elmúlt öt kompetenciamérésen legalább egyszer a „sárga pont” felette van a „kék vonalnak”. Vagyis a gyerekek nyolcadik osztályos pontszámátlaga szignifikánsan magasabb, mint ami a hatodikban elért eredmények alapján várható lenne. Csak azokkal az iskolákkal foglalkoztam, amelyek szövegértésből vagy matematikából az elmúlt öt mérésen <em>legalább kétszer</em> teljesítették a szintet. A továbbiakban ebben az értelemben beszélek kiváló iskolákról.</p>\r\n<p class=\"rtejustify\">Az országban 95 ilyen telephely van. Ez az összes telephely 2,67 %-a. Ez azt jelentheti, hogy az iskolák túlnyomó többsége átlagosan fejleszt, illetve azt, hogy az iskolák nagy részében a tanárok hozzáállása, tehetsége, tudása hasonló. Az OH lista nem nézi az átlagtól való eltérés mértékét, csak azt, hogy szignifikáns-e. Három egyházi fenntartó érintett a mintánkban. Ebből 15 oktatási-nevelési intézmény katolikus, 8 református és 1 evangélikus. Vagyis az iskolák körülbelül negyede egyházi. Érdekesség az is, hogy ha összeadom, hogy a kiváló iskolák összesen hányszor voltak szignifikánsan jobbak az átlagnál matematikából és szövegértésben az elmúlt öt évben, akkor 279 értéket kapunk, és ennek csak mintegy negyede (25,4%-a) származik szövegértésből. Az egyházi iskolákat nézve ez az arány 31,5%. Ez más kutatásokkal is összecseng, ahol az látszik, hogy hozzáadott érték tekintetében az egyházi iskolák jobban teljesítenek szövegértésben, mint a nem egyháziak. Elképzelhető, hogy a plusz egy hittanórának lehet ilyen hatása, ahol sokszor egy bibliai szöveg értelmezése a feladat.[fn]Matematikából pedig mintha fordítva lenne. Itt persze sokszor az is közrejátszhat, hogy nem négy, hanem három matematikaóra van hetente a plusz 1 hittanóra miatt.[/fn]</p>\r\n<p class=\"rtejustify\">A kiváló iskolák fenntartó szerinti megoszlása:</p>\r\n<table align=\"left\" border=\"0\" cellpadding=\"5\" cellspacing=\"0\" style=\"width: 100%;\" width=\"456\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">tankerületi központok</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">65</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">3</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">egyházi jogi személy</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">24</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">állami felsőoktatási intézmény</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">1</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">országos nemzetiségi önkormányzat</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">1</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:392px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">alapítvány</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">1</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<div class=\"rtejustify\" style=\"clear:both;\">\r\n\t </div>\r\n<p class=\"rtejustify\">Összehasonlítottam az iskolákat a gyerekszám átlaga, a családiháttér-index és a hátrányos helyzet indikátorai alapján is:</p>\r\n<div style=\"clear:both;\">\r\n\t<table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"0\" width=\"100%\">\r\n\t\t<tbody>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Fejlesztés</strong></span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Fenntartó</strong></span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p> </p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Átlagos gyerekszám</strong></span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\"><strong>HH+HHH %</strong></span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\"><strong>CSHI</strong></span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Nem kiváló</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Összes fenntartó</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Átlag</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">201,351</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">11,61%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">&nbsp;-0,13</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Szórás</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">162,80</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">24,66%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p> </p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Kiváló</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Összes fenntartó</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Átlag</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">408,67</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">3,57%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">0,24</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Szórás</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">154,42</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">8,44%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">0,75</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Nem kiváló</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">&nbsp;<br />\r\n\t\t\t\t\t\tEgyházi fenntartók</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Átlag</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">206,7382</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">9,11%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">&nbsp;0,12</span><span style=\"font-size: 12px;\">[fn]A három érintett egyház átlaga (2018)[/fn]</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Szórás</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">144,91</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">20,48</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p> </p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Kiváló</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" rowspan=\"2\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Egyházi</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Átlag</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">386,6</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">1,31%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">0,31</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p><span style=\"font-size:10px;\">Szórás</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">107,18</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">8,06%</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t\t<td nowrap=\"nowrap\" style=\"width:16.6%;height:33px;\">\r\n\t\t\t\t\t<p align=\"right\"><span style=\"font-size:10px;\">0,57</span></p>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t</tbody>\r\n\t</table>\r\n\t<div style=\"clear:both;\">\r\n\t\t </div>\r\n\t<div>\r\n\t\t<span style=\"font-size: 1em; text-align: justify;\">A legnagyobb érintett fenntartókat külön is részletezve:</span><span style=\"font-size: 12px;\">[fn]A&nbsp;<a href=\"http://real.mtak.hu/152298/1/1419-8827-article-p356.pdf\">2018-as kompetenciamérés</a> alapján (Papp Z. Attila)[/fn]</span></div>\r\n</div>\r\n<p class=\"rtejustify\"> </p>\r\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 184px; height: 38px; vertical-align: top;\">\r\n\t\t\t\t<p class=\"rtejustify\"><strong>Fenntartó</strong></p>\r\n\t\t\t\t<p class=\"rtejustify\"> </p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width: 184px; height: 38px; vertical-align: top;\">\r\n\t\t\t\t<p class=\"rtejustify\"><strong>CSHI (2018)</strong></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Római katolikus</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">0,03</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Református</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">0,10</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Evangélikus</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">0,22</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Tankerületi központ</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:184px;height:19px;\">\r\n\t\t\t\t<p class=\"rtejustify\">-0,17</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<div class=\"rtejustify\" style=\"clear:both;\">\r\n\t </div>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_7.png\" rel=\"lightbox\"><img alt=\"2. ábra\" src=\"/sites/default/files/altalanos_7_kicsi.png\" style=\"width: 470px; height: 313px;\" /></a></p>\r\n<p class=\"rtejustify\">A legjobb 1/3-ad (az általam vizsgált iskolákból)</p>\r\n<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" width=\"100%\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\"><strong>Név</strong></span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\"><strong>OM azonosító</strong></span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Település</strong></span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Az elmúlt 5 évben hányszor teljesítette a feltételt szövegértésből</strong></span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Az elmúlt 5 évben hányszor teljesítette a feltételt matematikából</strong></span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\"><strong>Összesen</strong></span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Béke Utcai Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">029637</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Szeged</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">8</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Debreceni Egyetem Kossuth Lajos Gyakorló Gimnáziuma és Általános Iskolája Kossuth utca 33. szám alatti telephelye</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">031200</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Debrecen</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">8</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Kecskeméti Vásárhelyi Pál Általános Iskola és Alapfokú Művészeti Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">200924</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Kecskemét</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">6</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Albertfalvi Don Bosco Katolikus Általános Iskola és Óvoda</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">034997</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">6</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Budapest XVII. Kerületi Zrínyi Miklós Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035113</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">6</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">ELTE Gyertyánffy István Gyakorló Általános Iskola Telephelye</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035001</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">6</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Gloriett Sportiskolai Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035135</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">3</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">6</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Ságújfalui Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">032249</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Ságújfalu</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Tápiószőlős-Újszilvás Református Általános Iskola és Óvoda Újszilvási Általános Iskolája</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">201823</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Újszilvás</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Zsámbéki Premontrei Keresztelő Szent János Általános Iskola, Gimnázium és Alapfokú Művészeti Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">032464</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Zsámbék</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Hajdúnánási Református Általános Iskola és Óvoda</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">031028</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Hajdúnánás</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Petőfi Sándor Római Katolikus Általános Iskola és Gimnázium</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">201791</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Vecsés</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Szent András Katolikus Általános Iskola és Óvoda</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">037729</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Szentendre</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Szent Imre Katolikus Általános Iskola és Óvoda</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">037714</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Gödöllő</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Érdi Bolyai János Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">037325</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Érd</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Szegedi Arany János Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">029674</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Szeged</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Szegedi Tudományegyetem Gyakorló Gimnázium és Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">029742</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Szeged</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Tisza-parti Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">029640</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Szeged</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Debreceni Petőfi Sándor Általános Iskola és Alapfokú Művészeti Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">031090</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Debrecen</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Álmos Vezér Gimnázium, Pedagógiai Szakgimnázium és Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035314</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Budapest XVIII. Kerületi Bókay Árpád Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035119</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Budapest XXI. Kerületi Eötvös József Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035172</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Budapest XXIII. Kerületi Fekete István Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035161</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Budapest XXIII. Kerületi Grassalkovich Antal Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035155</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Első Óbudai Német Nyelvoktató Nemzetiségi Általános Iskola Erste Altofener Deutsche Nationalitätenschule</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">034844</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">2</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Reménység Katolikus Általános Iskola és Óvoda</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035147</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Újpesti Karinthy Frigyes Magyar-Angol Két Tanítási Nyelvű Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">203194</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:50.0%;\">\r\n\t\t\t\t<p align=\"left\"><span style=\"font-size:10px;\">Városligeti Magyar-Angol Két Tanítási Nyelvű Általános Iskola</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">035050</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">Budapest</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">0</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width:10.0%;\">\r\n\t\t\t\t<p><span style=\"font-size:10px;\">4</span></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p class=\"rtejustify\"><span style=\"font-size: 1em;\">Különbségeket kerestem – az eredményeken kívül – a kiváló és nem kiváló iskolák között. Az egyházi és az „összes fenntartós” minta hasonló. A kiváló iskolák átlagosan nagyobbak, és tanulóik létszámához viszonyítva kisebb a hátrányos helyzetűek aránya.</span></p>\r\n<p class=\"rtejustify\">Mint ahogy a következő ábrából látszik, ezen iskolák túlnyomó többsége a pozitív CSHI-tartományban helyezkedik el (85%). Ebből arra következtetek, hogy a negatív CSH-indexszel rendelkező iskolákban is lehet kiválóan fejleszteni, de valószínűleg nehezebb, és/vagy a tanárok „minősége” is átlagosan gyengébb.</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_5.png\" rel=\"lightbox\"><img alt=\"3. ábra\" src=\"/sites/default/files/altalanos_5_kicsi.png\" style=\"width: 470px; height: 222px;\" /></a></p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_8.png\" rel=\"lightbox\"><img alt=\"4. ábra\" src=\"/sites/default/files/altalanos_8_kicsi.png\" style=\"width: 470px; height: 224px;\" /></a></p>\r\n<p class=\"rtejustify\">A 95 telephelyből csak 68 rendelkezett CSH-indexszel. A 95 iskola közül 83-ban (87%) a hátrányos helyzetű gyerekek aránya 10%-nál kisebb. (Egyharmadukban 0.)</p>\r\n<p class=\"rtejustify\">A következő ábrákból az is látszik, hogy a kis létszámmal rendelkező iskolák kisebb arányban fordulnak elő a mintánkban.</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_9.png\" rel=\"lightbox\"><img alt=\"5. ábra\" src=\"/sites/default/files/altalanos_9_kicsi.png\" style=\"width: 470px; height: 248px;\" /></a></p>\r\n<p class=\"rtejustify\">A kiváló iskolák közel kilencven százalékának gyereklétszáma nagyobb az átlagosnál. Ez nem meglepő, hiszen pl. azokban az iskolákban, ahol a hátrányos helyzetű gyerekek aránya 30% felett van, az átlagos gyereklétszám 120 fő.</p>\r\n<p class=\"rtejustify\">Érdekes az is, hogy az országon belül milyen megoszlásban helyezkednek el ezek az iskolák:</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_6.png\" rel=\"lightbox\"><img alt=\"6. ábra\" src=\"/sites/default/files/altalanos_6_kicsi.png\" style=\"width: 470px; height: 268px;\" /></a></p>\r\n<p class=\"rtejustify\">Ezen belül a budapesti iskolák kerületenkénti megoszlása:</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_3.png\" rel=\"lightbox\"><img alt=\"7. ábra\" src=\"/sites/default/files/altalanos_3_kicsi.png\" style=\"width: 470px; height: 426px;\" /></a></p>\r\n<p class=\"rtejustify\">Az látszik, hogy az ország keleti felében több kiválóan teljesítő iskola van.</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_10.png\" rel=\"lightbox\"><img alt=\"8. ábra\" src=\"/sites/default/files/altalanos_10_kicsi.png\" style=\"width: 470px; height: 320px;\" /></a></p>\r\n<p class=\"rtejustify\">Megpróbáltam kompenzálni azt, hogy megyénként eltérő a tanulók és a városok száma:</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_2.png\" rel=\"lightbox\"><img alt=\"9. ábra\" src=\"/sites/default/files/altalanos_2_kicsi.png\" style=\"width: 470px; height: 279px;\" /></a></p>\r\n<p class=\"rtejustify\">A legutóbbi grafikonból az is kiderül, hogy a kiváló iskolák száma nem feltétlenül azért olyan magas Pest megyében, mert ott jobban dolgoznak a tanárok, hanem azért, mert ott nagyobb a gyerekek száma és a városoké is. (Pl. Heves megyéhez képest ötször annyi tanuló és háromszor annyi város van Pest megyében.)</p>\r\n<p class=\"rtejustify\">Az előző grafikont megjelenítettem térképen is:</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_13.png\" rel=\"lightbox\"><img alt=\"10. ábra\" src=\"/sites/default/files/altalanos_13_kicsi.png\" style=\"width: 470px; height: 279px;\" /></a></p>\r\n<p class=\"rtejustify\">Megvizsgáltam azt is, hogy milyen lakosságszám jellemző azon településekre, ahol kiváló iskolák működnek:</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_11.png\" rel=\"lightbox\"><img alt=\"11. ábra\" src=\"/sites/default/files/altalanos_11_kicsi.png\" style=\"width: 470px; height: 231px;\" /></a></p>\r\n<p class=\"rtejustify\">15 iskola van 5000 fő alatti településen. Ennek 13%-a egyházi.</p>\r\n<p class=\"rtejustify\"><a href=\"/sites/default/files/altalanos_4.png\" rel=\"lightbox\"><img alt=\"12. ábra\" src=\"/sites/default/files/altalanos_4_kicsi.png\" style=\"width: 470px; height: 148px;\" /></a></p>\r\n<p class=\"rtejustify\">Országosan 95 kiválóan fejlesztő iskolát tartunk számon, tehát átlagosan körülbelül százezer lakosra jut egy.</p>\r\n<p class=\"rtejustify\">A nagyobb településeken ezt látjuk:</p>\r\n<table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"0\" style=\"width: 320px;\" width=\"224\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\"><strong>Város</strong></p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\"><strong>Lakosságszám</strong></p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\"><strong>Iskolák száma</strong></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Kecskemét</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">111836</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">5</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Nyíregyháza</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">118125</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">1</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Győr</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">129372</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">2</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Pécs</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">145985</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">4</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Miskolc</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">159554</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">3</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Szeged</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">162593</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">6</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Debrecen</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">203506</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">3</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:75px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">Budapest</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:85px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">1757618</p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:64px;height:20px;\">\r\n\t\t\t\t<p class=\"rtejustify\">34</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<div class=\"rtejustify\" style=\"clear:both;\">\r\n\t </div>\r\n<p class=\"rtejustify\"><span style=\"font-size: 1em;\">A kiválóan fejlesztő iskolák 61 %-a ezeken a településeken van, míg a lakosságnak csak 29%-a él itt.</span></p>\r\n<p class=\"rtejustify\">Ez valószínűleg azt jelenti, hogy a városokban könnyebben össze lehet válogatni a jobban teljesítő tanárokat.</p>\r\n<h3>\r\n\tÖsszefoglalás</h3>\r\n<p class=\"rtejustify\">A kiválóan fejlesztő iskolák között is vannak kis létszámúak, alacsony családiháttér-indexszel rendelkezők, kistelepülésen működők. Ha feltételezzük, hogy a „kiválóan fejlesztő” iskolák a pedagógiai munka minőségét mutatják, akkor azt látjuk, hogy nehéz vagy nehezebb feltételek között is lehet kiváló pedagógiai munkát végezni. Az is látszik, hogy ezen iskolák többsége inkább nagyobb településeken található, és az átlagosnál kisebb a hátrányos helyzetű gyerekek aránya. Felmerül itt is a kérdés, hogy a kiválóan teljesítő iskolák között miért olyan kevés a nagyon magas CSHI-vel rendelkező intézmény? Azt gondolom, a válasz ugyanaz lehet, mint amit már <a href=\"/a_legjobb_kozepiskolak\">korábbi cikkemben</a> leírtam a középiskolákról: a magas válogatási potenciállal rendelkező iskolák hasonlóan jól működnek, ezért az átlagból nehéz kiemelkedni. Az egyházi iskolák aránya is nagyobb, mint az országos átlag. Ebből arra a következtetésre juthatunk, hogy a nagyobb településeken és az egyházi iskolákban az intézményvezető nagyobb eséllyel tud a pedagógusok között válogatni. Mivel az egyházi iskolák számarányukhoz képest a városokban felülreprezentáltak, ezért valószínű, a városi válogatási lehetőség dominál, nem az egyházi jelleg.</p>\r\n",
+  "attachments": [
+    {
+      "articleId": 1198,
+      "mediaId": 3678,
+      "position": 0,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3678,
+        "filename": "altalanos_1.png",
+        "uri": "public://altalanos_1.png",
+        "publicPath": "/sites/default/files/altalanos_1.png",
+        "mimeType": "image/png",
+        "byteSize": 74074,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3679,
+      "position": 1,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3679,
+        "filename": "altalanos_2.png",
+        "uri": "public://altalanos_2.png",
+        "publicPath": "/sites/default/files/altalanos_2.png",
+        "mimeType": "image/png",
+        "byteSize": 68114,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3680,
+      "position": 2,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3680,
+        "filename": "altalanos_2_kicsi.png",
+        "uri": "public://altalanos_2_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_2_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 21771,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3681,
+      "position": 3,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3681,
+        "filename": "altalanos_3.png",
+        "uri": "public://altalanos_3.png",
+        "publicPath": "/sites/default/files/altalanos_3.png",
+        "mimeType": "image/png",
+        "byteSize": 394656,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3682,
+      "position": 4,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3682,
+        "filename": "altalanos_3_kicsi.png",
+        "uri": "public://altalanos_3_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_3_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 318579,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3683,
+      "position": 5,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3683,
+        "filename": "altalanos_4.png",
+        "uri": "public://altalanos_4.png",
+        "publicPath": "/sites/default/files/altalanos_4.png",
+        "mimeType": "image/png",
+        "byteSize": 38278,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3684,
+      "position": 6,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3684,
+        "filename": "altalanos_4_kicsi.png",
+        "uri": "public://altalanos_4_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_4_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 10188,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3685,
+      "position": 7,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3685,
+        "filename": "altalanos_5.png",
+        "uri": "public://altalanos_5.png",
+        "publicPath": "/sites/default/files/altalanos_5.png",
+        "mimeType": "image/png",
+        "byteSize": 61493,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3686,
+      "position": 8,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3686,
+        "filename": "altalanos_5_kicsi.png",
+        "uri": "public://altalanos_5_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_5_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 13841,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3687,
+      "position": 9,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3687,
+        "filename": "altalanos_6.png",
+        "uri": "public://altalanos_6.png",
+        "publicPath": "/sites/default/files/altalanos_6.png",
+        "mimeType": "image/png",
+        "byteSize": 815520,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3688,
+      "position": 10,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3688,
+        "filename": "altalanos_6_kicsi.png",
+        "uri": "public://altalanos_6_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_6_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 280514,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3689,
+      "position": 11,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3689,
+        "filename": "altalanos_7.png",
+        "uri": "public://altalanos_7.png",
+        "publicPath": "/sites/default/files/altalanos_7.png",
+        "mimeType": "image/png",
+        "byteSize": 106222,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3690,
+      "position": 12,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3690,
+        "filename": "altalanos_7_kicsi.png",
+        "uri": "public://altalanos_7_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_7_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 28257,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3691,
+      "position": 13,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3691,
+        "filename": "altalanos_8.png",
+        "uri": "public://altalanos_8.png",
+        "publicPath": "/sites/default/files/altalanos_8.png",
+        "mimeType": "image/png",
+        "byteSize": 55702,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3692,
+      "position": 14,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3692,
+        "filename": "altalanos_8_kicsi.png",
+        "uri": "public://altalanos_8_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_8_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 15803,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3693,
+      "position": 15,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3693,
+        "filename": "altalanos_9.png",
+        "uri": "public://altalanos_9.png",
+        "publicPath": "/sites/default/files/altalanos_9.png",
+        "mimeType": "image/png",
+        "byteSize": 77489,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3694,
+      "position": 16,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3694,
+        "filename": "altalanos_9_kicsi.png",
+        "uri": "public://altalanos_9_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_9_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 15989,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3695,
+      "position": 17,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3695,
+        "filename": "altalanos_10.png",
+        "uri": "public://altalanos_10.png",
+        "publicPath": "/sites/default/files/altalanos_10.png",
+        "mimeType": "image/png",
+        "byteSize": 122840,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3696,
+      "position": 18,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3696,
+        "filename": "altalanos_11.png",
+        "uri": "public://altalanos_11.png",
+        "publicPath": "/sites/default/files/altalanos_11.png",
+        "mimeType": "image/png",
+        "byteSize": 123310,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3697,
+      "position": 19,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3697,
+        "filename": "altalanos_11_kicsi.png",
+        "uri": "public://altalanos_11_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_11_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 17547,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3698,
+      "position": 20,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3698,
+        "filename": "altalanos_12.png",
+        "uri": "public://altalanos_12.png",
+        "publicPath": "/sites/default/files/altalanos_12.png",
+        "mimeType": "image/png",
+        "byteSize": 49997,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3699,
+      "position": 21,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3699,
+        "filename": "altalanos_12_kicsi.png",
+        "uri": "public://altalanos_12_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_12_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 14398,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3700,
+      "position": 22,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3700,
+        "filename": "altalanos_13.png",
+        "uri": "public://altalanos_13.png",
+        "publicPath": "/sites/default/files/altalanos_13.png",
+        "mimeType": "image/png",
+        "byteSize": 113941,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3701,
+      "position": 23,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3701,
+        "filename": "altalanos_13_kicsi.png",
+        "uri": "public://altalanos_13_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_13_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 26794,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3702,
+      "position": 24,
+      "description": "Függelék",
+      "visible": true,
+      "media": {
+        "id": 3702,
+        "filename": "fuggelek.pdf",
+        "uri": "public://fuggelek.pdf",
+        "publicPath": "/sites/default/files/fuggelek.pdf",
+        "mimeType": "application/pdf",
+        "byteSize": 173265,
+        "createdAt": 1688407841
+      }
+    },
+    {
+      "articleId": 1198,
+      "mediaId": 3703,
+      "position": 25,
+      "description": "",
+      "visible": false,
+      "media": {
+        "id": 3703,
+        "filename": "altalanos_10_kicsi.png",
+        "uri": "public://altalanos_10_kicsi.png",
+        "publicPath": "/sites/default/files/altalanos_10_kicsi.png",
+        "mimeType": "image/png",
+        "byteSize": 23931,
+        "createdAt": 1688483921
+      }
+    }
+  ],
+  "comments": []
+}

@@ -107,6 +107,33 @@
     background: var(--color-brand-light);
   }
 
+  .archive-page-link {
+    display: inline-flex;
+    min-width: 2.25rem;
+    min-height: 2.25rem;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--color-line);
+    border-radius: 9999px;
+    background: white;
+    padding: 0.4rem 0.8rem;
+    color: var(--color-charcoal);
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .archive-page-link:hover {
+    border-color: var(--color-brand);
+    color: var(--color-brand);
+  }
+
+  .archive-page-link-active {
+    border-color: var(--color-brand);
+    background: var(--color-brand);
+    color: white;
+  }
+
   /* ── Prose overrides (on top of @tailwindcss/typography) ── */
   .prose {
     --tw-prose-body: #2A3240;
@@ -146,6 +173,37 @@
 
   .prose :where(img) {
     border-radius: 0.5rem;
+  }
+
+  .imported-html :where(img) {
+    max-width: 100%;
+    height: auto !important;
+  }
+
+  .imported-html :where(.rtejustify) {
+    text-align: justify;
+  }
+
+  .imported-html :where(table) {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .comment-body :where(p) {
+    margin: 0 0 0.75rem;
+  }
+
+  .comment-body :where(p:last-child) {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 639px) {
+    .imported-html :where(img[style*="float"]) {
+      float: none !important;
+      display: block;
+      margin: 1.5rem auto !important;
+    }
   }
 
   /* Drop cap — desktop only */

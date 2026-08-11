@@ -2,7 +2,7 @@ import { getAllArticles, getAllTags } from '@/lib/content'
 import Link from 'next/link'
 
 export const metadata = {
-  title: 'Témakörök – Taní-tani Online',
+  title: 'Témakörök',
 }
 
 export default async function TemakorokPage() {
