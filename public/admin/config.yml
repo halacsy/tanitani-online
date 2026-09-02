@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: halacsy/tanitani-online
+  name: git-gateway
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
 
 media_folder: public/images/cikkek
 public_folder: /images/cikkek
