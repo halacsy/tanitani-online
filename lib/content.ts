@@ -75,6 +75,7 @@ interface ArticleRecord {
   bodyHtml?: string
   attachments?: ArticleAttachment[]
   comments?: ArticleComment[]
+  editorialOverride?: boolean
 }
 
 export interface Article {
@@ -147,6 +148,15 @@ function comparableTitle(value: string): string {
     .trim()
 }
 
+function editorialDate(value: unknown, fallback?: string): string {
+  if (value instanceof Date && !Number.isNaN(value.getTime())) {
+    return value.toISOString().slice(0, 10)
+  }
+  const normalized = String(value || fallback || new Date().toISOString().slice(0, 10))
+  const isoDate = normalized.match(/^\d{4}-\d{2}-\d{2}/)?.[0]
+  return isoDate ?? new Date().toISOString().slice(0, 10)
+}
+
 function sanitizeEditorialHtml(value: string): string {
   let cleaned = value
   for (const origin of [
@@ -206,7 +216,7 @@ function editorialAuthorMap(): Map<string, AuthorRef> {
 
 function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
   if (!fs.existsSync(editorialDir)) return []
-  const migratedSlugs = new Set(migrated.map(article => comparableSlug(article.slug)))
+  const migratedBySlug = new Map(migrated.map(article => [comparableSlug(article.slug), article]))
   const migratedTitles = migrated.map(article => comparableTitle(article.title))
   const authors = editorialAuthorMap()
   const usedIds = new Set(migrated.map(article => article.id))
@@ -214,15 +224,26 @@ function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
 
   for (const filename of fs.readdirSync(editorialDir).filter(name => name.endsWith('.md')).sort()) {
     const fileSlug = filename.replace(/\.md$/, '')
-    const { data, content } = matter(fs.readFileSync(path.join(editorialDir, filename), 'utf-8'))
+    const filePath = path.join(editorialDir, filename)
+    const { data, content } = matter(fs.readFileSync(filePath, 'utf-8'))
     const title = String(data.title || '').trim()
     const titleKey = comparableTitle(title)
-    const alreadyMigrated = migratedTitles.some(existing =>
+    const slugMatch = migratedBySlug.get(comparableSlug(fileSlug))
+    const titleMatches = migrated.filter(article => comparableTitle(article.title) === titleKey)
+    const migratedMatch = slugMatch ?? (titleMatches.length === 1 ? titleMatches[0] : undefined)
+    const alreadyMigrated = Boolean(slugMatch) || migratedTitles.some(existing =>
       existing === titleKey || existing.endsWith(` ${titleKey}`) || titleKey.endsWith(` ${existing}`),
     )
-    if (!title || migratedSlugs.has(comparableSlug(fileSlug)) || alreadyMigrated) {
+    const overrideMigrated = data.overrideMigrated === true
+    if (!title || (alreadyMigrated && !overrideMigrated)) {
       continue
     }
+    const fullMigratedPath = migratedMatch
+      ? path.join(articlesDir, `${migratedMatch.id}.json`)
+      : ''
+    const baseRecord = fullMigratedPath && fs.existsSync(fullMigratedPath)
+      ? JSON.parse(fs.readFileSync(fullMigratedPath, 'utf-8')) as ArticleRecord
+      : migratedMatch
     const authorSlug = String(data.authorSlug || '').trim()
     const author = authors.get(authorSlug)
     const authorRefs = author
@@ -231,42 +252,46 @@ function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
         ? [{ id: stableNegativeId(`author-name:${data.author}`), slug: slugify(String(data.author)), name: String(data.author) }]
         : []
     if (authorRefs.length === 0) continue
-    const date = String(data.date || new Date().toISOString().slice(0, 10)).slice(0, 10)
+    const date = editorialDate(data.date, baseRecord?.date)
     const publishedAt = Math.floor(new Date(`${date}T12:00:00+02:00`).getTime() / 1000)
-    const tagNames = Array.isArray(data.tags) ? data.tags.map(String) : []
-    const tags = tagNames.map(name => ({
-      id: stableNegativeId(`tag:${name}`),
-      slug: slugify(name),
-      name,
-    }))
+    const tagNames = Array.isArray(data.tags) ? data.tags.map(String) : null
+    const tags = tagNames
+      ? tagNames.map(name => ({
+          id: stableNegativeId(`tag:${name}`),
+          slug: slugify(name),
+          name,
+        }))
+      : baseRecord?.tags ?? []
     const bodyHtml = sanitizeEditorialHtml(String(marked.parse(content)))
-    let id = stableNegativeId(`article:${fileSlug}`)
-    while (usedIds.has(id)) id -= 1
+    let id = baseRecord?.id ?? stableNegativeId(`article:${fileSlug}`)
+    while (!baseRecord && usedIds.has(id)) id -= 1
     usedIds.add(id)
     records.push({
+      ...baseRecord,
       id,
-      slug: fileSlug,
-      contentType: 'poszt',
+      slug: baseRecord?.slug ?? fileSlug,
+      contentType: baseRecord?.contentType ?? 'poszt',
       title,
       authors: authorRefs,
       publishedAt,
       date,
       updatedAt: publishedAt,
       tags,
-      sections: [],
-      excerpt: String(data.excerpt || plainText(bodyHtml).slice(0, 320)),
-      coverImage: String(data.coverImage || data.image || ''),
+      sections: baseRecord?.sections ?? [],
+      excerpt: String(data.excerpt || baseRecord?.excerpt || plainText(bodyHtml).slice(0, 320)),
+      coverImage: String(data.coverImage || data.image || baseRecord?.coverImage || ''),
       coverAlt: title,
-      coverTitle: '',
-      reads: Number(data.reads || 0),
-      commentCount: 0,
-      issueYear: '',
-      issueNumber: null,
-      issuePage: '',
+      coverTitle: baseRecord?.coverTitle ?? '',
+      reads: data.reads === undefined ? baseRecord?.reads ?? 0 : Number(data.reads),
+      commentCount: baseRecord?.commentCount ?? 0,
+      issueYear: baseRecord?.issueYear ?? '',
+      issueNumber: baseRecord?.issueNumber ?? null,
+      issuePage: baseRecord?.issuePage ?? '',
       summaryHtml: '',
       bodyHtml,
-      attachments: [],
-      comments: [],
+      attachments: baseRecord?.attachments ?? [],
+      comments: baseRecord?.comments ?? [],
+      editorialOverride: Boolean(baseRecord),
     })
   }
   return records
@@ -276,7 +301,11 @@ function loadArticleRecords(): ArticleRecord[] {
   if (articleRecords) return articleRecords
   if (!fs.existsSync(articleIndexPath)) return []
   const migrated = JSON.parse(fs.readFileSync(articleIndexPath, 'utf-8')) as ArticleRecord[]
-  articleRecords = [...migrated, ...loadEditorialRecords(migrated)]
+  const editorial = loadEditorialRecords(migrated)
+  const overriddenIds = new Set(
+    editorial.filter(article => article.editorialOverride).map(article => article.id),
+  )
+  articleRecords = [...migrated.filter(article => !overriddenIds.has(article.id)), ...editorial]
     .sort((a, b) => b.publishedAt - a.publishedAt || b.id - a.id)
   articleBySlug = new Map(articleRecords.map(article => [article.slug, article]))
   return articleRecords
@@ -345,6 +374,7 @@ export function getAllArticles(): Article[] {
 export function getArticleBySlug(slug: string): Article | null {
   const indexRecord = findArticleRecord(slug)
   if (!indexRecord) return null
+  if (indexRecord.editorialOverride) return toArticle(indexRecord)
   const fullPath = path.join(articlesDir, `${indexRecord.id}.json`)
   if (!fs.existsSync(fullPath)) return toArticle(indexRecord)
   const fullRecord = JSON.parse(fs.readFileSync(fullPath, 'utf-8')) as ArticleRecord

@@ -24,6 +24,12 @@ collections:
         widget: string
         required: true
 
+      - label: Történeti cikk felülírása
+        name: overrideMigrated
+        widget: hidden
+        default: true
+        required: false
+
       - label: Szerző
         name: authorSlug
         widget: relation

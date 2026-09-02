@@ -4,6 +4,7 @@ excerpt: Az élményalapú tanulás programjai – erdei iskolák, múzeumlátog
   Az innovatív módszerek léteznek, de a főáramú oktatáson kívül.
 author: L. Ritók Nóra
 title: A kívülmaradók…
+overrideMigrated: true
 authorSlug: ritok-nora
 date: 2026-04-21
 tags:
