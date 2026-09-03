@@ -27,14 +27,20 @@ collections:
         default: true
         required: false
 
-      - label: Szerző
-        name: authorSlug
+      - label: Történeti azonosító
+        name: migratedId
+        widget: hidden
+        required: false
+
+      - label: Szerző(k)
+        name: authorSlugs
         widget: relation
         collection: szerzok
         search_fields: [name]
         value_field: "{{slug}}"
         display_fields: [name]
-        required: false
+        multiple: true
+        required: true
         hint: "Válassz a szerzők közül. Ha nincs a listában, előbb vedd fel a Szerzők menüben."
 
       - label: Megjelenés dátuma
@@ -61,6 +67,16 @@ collections:
         widget: image
         required: false
         hint: "Ajánlott: 1200×630px, fekvő formátum"
+
+      - label: Borítókép helyettesítő szövege
+        name: coverAlt
+        widget: string
+        required: false
+
+      - label: Borítókép képaláírása
+        name: coverTitle
+        widget: string
+        required: false
 
       - label: Olvasások száma
         name: reads

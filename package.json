@@ -11,7 +11,8 @@
     "migrate:export": "python3 scripts/export_site_data.py",
     "migrate:media": "python3 scripts/download_media.py",
     "migrate:sync": "python3 scripts/supplement_live_articles.py",
-    "migrate:validate": "python3 scripts/validate_migration.py"
+    "migrate:markdown": "node scripts/materialize_markdown.mjs",
+    "migrate:validate": "python3 scripts/validate_migration.py && node scripts/materialize_markdown.mjs --check"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -31,6 +32,8 @@
     "eslint-config-next": "16.2.3",
     "postcss": "^8.5.9",
     "tailwindcss": "^4.2.2",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2",
     "typescript": "^5"
   }
 }

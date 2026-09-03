@@ -1,12 +1,21 @@
 ---
-title: 'Az „antropológiai gyerek"'
-author: "Trencsényi László"
-authorSlug: trencsenyi-laszlo
-date: "2026-03-03"
-tags: ["alternatív iskolák", "nevelés", "iskolakritika"]
-excerpt: "A Zöld Kakas Liceum három pedagógiai korszakán keresztül: a szociális gyerektől a pszichológiai gyereken át az antropológiai gyerekig – aki egyszerűen csak ember."
-image: /images/cikkek/az-antropologiai-gyerek.jpg
+title: Az „antropológiai gyerek"
+author: Trencsényi László
+date: '2026-03-03'
+tags:
+  - alternatív iskolák
+  - nevelés
+  - iskolakritika
+excerpt: >-
+  A Zöld Kakas Liceum három pedagógiai korszakán keresztül: a szociális
+  gyerektől a pszichológiai gyereken át az antropológiai gyerekig – aki
+  egyszerűen csak ember.
 reads: 2134
+authorSlugs:
+  - trencsenyi-laszlo
+coverImage: /images/cikkek/az-antropologiai-gyerek.jpg
+migratedId: 1394
+overrideMigrated: true
 ---
 
 **Trencsényi László írása**

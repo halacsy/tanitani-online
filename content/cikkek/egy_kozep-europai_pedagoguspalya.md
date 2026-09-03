@@ -1,0 +1,84 @@
+---
+title: Egy közép-európai pedagóguspálya
+migratedId: 1096
+overrideMigrated: true
+authorSlugs:
+  - dubovszky-katalin
+date: '2021-06-27'
+tags:
+  - örökség
+excerpt: >-
+  Dubovszky Katalin írása 110 éve született Dubovszky Károly, a Balassagyarmati
+  Madách Imre Fiúkollégium volt igazgatója.
+coverImage: /sites/default/files/image005.png
+coverAlt: A barsfüssi népiskola igazgatója (a bal szélen)
+coverTitle: A barsfüssi népiskola igazgatója (a bal szélen)
+reads: 2278
+---
+<strong>Dubovszky Katalin írása</strong>
+
+> 110 éve született Dubovszky Károly, a Balassagyarmati Madách Imre Fiúkollégium volt igazgatója.
+
+<img alt="Dubovszky Károly" src="/sites/default/files/image001_1.png" style="width: 212px; height: 277px; float: right; margin-left: 15px;" title="Dubovszky Károly">Hetven évet élt, ebből 35 évig Kárpátalján és a Felvidéken, 35 évig Magyarországon. Dubovszky Károly a Felvidéken, egy Ipolyság melletti faluban, Kistúron (ma Szlovákia, Dolni Turovce) született 1911. augusztus 17-én, Bars–Hont vármegyében, felvidéki család ötödik gyermekeként. Édesapja Dubovszky Károly ácsmester, édesanyja Jávorka Anna volt.
+
+Ipolyságon (Šahy) az elemi iskola elvégzése után a város Reálgimnáziumában érettségizett 1933-ban. Rövid banktisztviselőség után 1937-ben Pozsonyban magyar népiskolai tanítói érettségit tett. Elnyerte első pedagógusi állását Kárpátalján, Nagybégányban a magyar katolikus iskolában, majd egy évvel később 1938-ban Kisgutra helyezték magyar anyanyelvű állami elemi iskolába, tanító-iskolaigazgatónak. 1937. december 26-án házasságot kötött Ujj Jolán tanítónővel, aki Középtúron tanított.
+
+Kisguton, 1938. október 20-án a cseh csendőrség letartóztatta (a vád: két magyar „terrorista” bújtatása), azonnal a munkácsi börtönbe zárták, ahonnét csak decemberben szabadult.
+
+<img alt="Dubovszky Károly és felesége, Ujj Jolán" src="/sites/default/files/image003_0.png" style="width: 311px; height: 493px; float: right; margin-left: 15px;" title="Dubovszky Károly és felesége, Ujj Jolán" ujj="">Az 1938. évi első bécsi döntésnek köszönhetően a Trianon előtti határokat visszaállították, újra Magyarországhoz tartoztak az elcsatolt területek. Lehetővé vált a korábban bezárt iskolák újraindítása és új magyar tannyelvű iskolák létrehozása. Dubovszky Károly tovább tanult, 1939-ben a Népiskolai Tanítóképesítő Oklevelet már Budapesten szerezte meg. Az 1939-1940. tanévben Terbegecre (Trebusovce, ma Szlovákia) nevezte ki a magyar oktatási miniszter. Majd az ifjú házaspárt 1940-ben Bars-Hont vármegyébe, Barsfüssre (Travnica, ma Szlovákia) helyezték. Édesapámat a 8 tanerős magyar elemi népiskola igazgatójának, édesanyámat tanítónőnek. A magyar iskolák bezárásáig, 1945. április 24-ig működtek itt.
+
+Barsfüssön, létszámában megnövekedett családunk Ildikóval, aki 1943 decemberében Budapesten született, és velem, aki 1945. januárjában érkeztem.
+
+A magyar anyanyelvű iskolák bezárása után Ipolyságra költöztünk. Szüleim állástalanok voltak, mert nem voltak hajlandók <em>reszlovakizálni</em> (szlováknak vallani magukat). Nem voltak hajlandóak elfogadni Beneš-dekrétum magyarellenes diktátumát csak azért, hogy aztán szlovák iskolában taníthassanak. Sok magyarellenes provokáció után úgy döntöttek, hogy áttelepülnek Magyarországra, ez meg is történt 1946 szeptemberében.
+
+Első állomás-helyük Drégelypalánk volt, ahol 1947-ig a római katolikus általános iskolában mint állami tanítók dolgoztak. 1947 nyarán édesapámat – pályázati meghívásra – Kunhegyesre került, ahol megbízták az Állami Körzeti Tanulóotthon (ma kollégiumnak neveznék) megszervezésével és az igazgatói feladatok ellátásával. Édesanyám ugyanitt kapott tanítói és nevelői állást. Édesapám a tanyasi gyermekeknek szervezett tanulóotthont, és azt 1947-től 1950-ig vezette. Sikeres, eredményes pedagógiai munkáját a Vallás- és Közoktatásügyi Minisztériumban is nagyra becsülték, elismerték, ezért 1950-ben Szolnokra helyezték, és megbízták egy új kollégium megszervezésével és vezetésével, majd két év után 1952. szeptember 1-jével a balassagyarmati diákotthon igazgatójának nevezték ki.
+
+Szüleim folyamatosan képezték magukat, 1950-ben elvégezték az orosz nyelvi szaktanfolyamot. 1952-ben a Szegedi Tanítóképző Intézetben magyar–történelem szakos általános iskolai tanári oklevelet, majd 1953-ban Budapesten orosz nyelvi általános iskolai tanári oklevelet szereztek.
+
+1953-ban megszületett kishúgom, harmadik lányuk, Lívia, és a lányok nevelése mellett nevelték a saját gyermekként féltett, szeretett és tisztelt növendékeiket.
+
+Édesapám átszervezte, új alapokra helyezte a balassagyarmati diákotthon életét. Szigorú napirendet vezetett be, hogy fegyelemre, következetességre nevelje diákjait. Ébresztő, reggeli torna, zászlófelvonás, tisztálkodás, reggelizés után átismételhették a diákok a leckéket, majd hetes sorokba rendeződve, az úttesten énekelve vonultak a gimnáziumba és a tanítóképzőbe. Sokféle tevékenység által igyekeztek a fiatalokat felkészíteni a pályaválasztásra, a felnőtt életre. A tanulmányi színvonal emelése mellett érdeklődési körüknek megfelelően tanulhattak népzenét, vagy fejleszthették műszaki érzéküket Jászberényi Emil tanár úr vezetésével a modellező, illetve a fotószakkörben. Színészi képességeiket szavalóversenyeken és színdarabok előadásánál tudták kamatoztatni. A diákok javaslatára a kollégium udvarán teniszpályát készítettek saját maguknak, s megépítették a diákotthon udvarán a Vajdahunyad várának kis makettjét is.
+
+Az 1958–59-es tanévben a jó színvonalon működő diákotthon pedagógus- és diákközössége a megtisztelő kollégiumi cím elnyerését tűzte maga elé célul. A kulturális és sporttevékenységekben aktív közreműködők voltak a tanítóképzőben tanuló kollégiumi diákok is. Az előkészítő munkákról és a kollégium avatásáról Dubovszky Károly igazgató 1967. november 1-ji a kollégium történetéről írt kéziratában a következők olvashatók:
+
+> Jó tanulmányi, politikai és jellemnevelési munkával készültünk kollégiumavató ünnepélyünkre. A megyében elsőnek értük el a kollégiumi szintet, és 1960. április 24-én diákotthonunkat kollégiummá avatták.
+
+A kollégium névadójának Madách Imrét választották, így lett a kollégium neve Madách Imre Fiúkollégium, amit édesapám 1972-ig, nyugdíjazásáig vezetett.
+
+<img alt="" src="/sites/default/files/image007.png" style="width: 171px; height: 272px; float: left; margin-right: 15px;">Dubovszky Károly szigorú, következetes pedagógiai munkája túlmutatott a kollégium falain, amikor tehetséges diákjait pótapaként kísérte a főiskolai, egyetemi felvételi vizsgákra. Sok hajdani tanítványa neki köszönhette, hogy elindította őket egy-egy életpálya felé. Szívén viselte minden diákja sorsát. Az 1956-os forradalomban részt vevő, tüntető diákjait megvédte, hogy ne csapják ki őket a gimnáziumból, és folytathassák tanulmányaikat, érettségit tegyenek. Pedagógiai tevékenységében nem csak diákjai testi-szellemi kibontakoztatását tartotta fontosnak, hanem egészségük védelmét is. 1966-ban fa- és falgombásodás miatt lakhatatlanná vált a kollégiumi épület több szárnya, le kellett zárni nyolc helyiséget, többek között hálótermet is. A közel 130 fős létszámból mintegy ötven diák elhelyezéséről kellett gondoskodni, főleg albérletekben. Ez a tény késztette arra, hogy diákjai számára az egészséges környezet biztosításáért harcoljon és egy új kollégium építését szorgalmazza. A régi épület felújítása nem jöhetett szóba, ezért a helyi és megyei tanács elfogadta az új kollégium építésének koncepcióját. 1969-ben megkezdték a tervezést, s az építkezést 1970 decemberében indították meg. Az alapok lerakása után 1971 áprilisában leállították az építkezést. Dubovszky Károlyt azonban ennek okairól nem tájékoztatták. Felmentették állásából, és 1973. január 1-jével nyugdíjazták. Szívós harca mégsem volt hiábavaló, mert a kollégium új épülete 1983-ban végül elkészült.
+
+1957-től 1962-ig a Nógrád megyei középiskolás kollégiumok szakfelügyelője volt. Nyugdíjazása után tovább tanított oroszt és történelmet a Balassi Bálint Gimnáziumban és a Szántó Kovács János Egészségügyi Szakközépiskolában, valamint a balassagyarmati börtön lakói számára. Rendszeresen tartott történelmi témájú előadásokat is a TIT keretében.
+
+1981\. október 31-én hunyt el gyomorműtét után, Budapesten. 1981. november 19-én a Budapesti Rákoskeresztúri temetőben búcsúztunk el tőle. Temetésére balassagyarmati diákok és volt kollégák különbusszal jöttek végtisztességet adni a város köztiszteletben álló, emblematikus pedagógusának. A Szántó Kovács János Egészségügyi Szakközépiskola kórusát Kalocsai Frigyes tanárúr vezényelte, megható szólamaikkal búcsúztak tanáruktól.
+
+Néhány egykori növendék visszaemlékezése hitelesíti az életút jelentőségét.<br>Dr. Bratinka József, aki 1966-tól 1970-ig volt diákja, érettségi után felvételt nyert a JATE BTK magyar–francia szakára. Politikus, tudományos kutató, 2011. március 25-én hunyt el Budapesten. Érettségi után melegszívű levélben kérte Karcsi bácsi segítségét, hogy felvegyék az egyetemre, mert:
+
+> Ígéretemhez híven szeretném még egyszer tájékoztatni Károly bácsit felvételi vizsgám időpontjáról… Gondolom, Károly bácsi azért érdeklődik felvételi vizsgáim iránt, hogy segíteni akar nekem valamiképpen… Nagyon köszönöm tehát, hogy az érettségi után is tetszik törődni velem, hogy segíteni tetszik célom elérésében.
+
+Csapó Miklós:
+
+> Kimaradtam a menzából, a városban ritkábban jöttünk szemben egymással. Ilyenkor katonásan ráköszöntem, kiérezte, respektálta hangomból a tiszteletet, olykor megállított, kérdezett, és midig mondott valami biztatót a jövőmre vonatkozóan, és én örömteljes megelégedettséggel érzékeltem, hogy nem a korábbi „bűneim” alapján beszél velem, teljesen tiszta a lapom nála. Ez is bizonyíték pedagógusi nagyságára!
+
+Német Árpád (pedagógus, festőművész):
+
+> Az a bizonyos érzés pedig – a fiatal, faluról felkerült diák számára rendkívül fontos dolog volt – a biztonság érzete, amit átjárt a kedélyesség. Védetten, biztonságban éreztük magunkat az iskolában és a kollégiumban is. …Dubovszky igazgató úr hangos beszédű, határozott, rendet tartó, férfias jelenség volt. Katonás stílusa mellett nem titkolta, hogy „nagy szíve van”. A „fiaim” megszólítás szokott volt tőle.
+
+Tóth György 1953-1957-ig volt a kollégium lakója, Párizsban a Sorbonne Egyetemen francia szakon végzett. Majd, az Amerikai Egyesült Államok Kongresszusi Könyvtárában a Kelet-Európai Osztályt vezette nyugdíjazásáig.
+
+> Dubovszky Károly igazgató szigorú, de igazságos pedagógus, vérbeli nevelő volt. Nem haverkodott a diákjaival, elnézte a kb. száz élénk kamasz fiú kisebb-nagyobb rakoncátlanságait és laza magatartását, de megfelelő fegyelmet tartott köztük.
+
+<img alt="Benkő Cs. Gyula ipari formatervező, festő, Ferenczi Noémi- és Horváth Endre-díjas" title="Benkő Cs. Gyula ipari formatervező, festő, Ferenczi Noémi- és Horváth Endre-díjas" src="/sites/default/files/image009.png" style="margin-right: 15px; font-size: 12px; background-color: rgb(232, 232, 232); color: rgb(126, 126, 126); text-align: justify; width: 262px; height: 349px; float: left;">
+
+Benkő Cs. Gyula ipari formatervező, festő, Ferenczi Noémi- és Horváth Endre-díjas, aki portrét festett az igazgatóról.
+
+> Nagydarab, szigorú tekintetű, érdekes, szögletes koponyájú, vöröses-szőke bajuszú férfi fogadott: Dubovszky Károly igazgató úr. Rövid beszélgetés után tekintete barátságossá, mosolygóssá lágyult, szinte családias hangulatúvá vált a fogadtatásom. …Hálás vagyok a sorsnak, hogy életutunk egy rövid szakaszban találkozott, és megismerhettem egy nagyszerű embert, akire emlékezni mindig felemelő érzés.
+
+Kocsis Mihály 1957-től 1961-ig kollégiumi növendék volt, majd katonatiszti főiskolát végzett.
+
+> Dubovszky Igazgató Úrnak nagyon megtetszhetett, hogy szabályosan megálltam előtte és jelentkeztem. Szúró tekintettel végigsimított, kezet fogott velem és azt mondta, „Mihály fiam”, ez lett a nevem, így szólított később is... Éppen írásbeli érettségi előtt álltunk. Karcsi bácsi ismét megkérdezte, hogy mi nyomaszt? Elmondtam. Ismét kölcsönadata női kerékpárját, és meglátogattam édesanyámat a pásztói kórházban, és visszakerekeztem Gyarmatra. Másnap oroszból írásbeli érettségi vizsga volt. (Ami csak közepesre sikerült, és ezért szóbeliznie kellett. Szóbeli előtt a gimnáziumban:) Egyszer csak a lépcsőn felfelé jövet kit láttam meg? Dubovszky igazgató urat. Na, mi újság? – kérdezte. Nincsen semmi különös igazgató úr – válaszoltam –, mindjárt szólítanak. Fog ez menni neked, nem kell izgulni. Megszorította a kezem, megölelt és eltávozott. Később beszéltük meg a dolgok igazi lényegét. …Atyai tisztelettel álltam mindig elébe. Követelménytámasztó volt, az igaz. Nem tűrte a hanyagságot, a lazaságot, a pontatlanságot. Az adott szónak rendkívül nagy szerepet tulajdonított. Valójában nagyon megszerettem az egyenes beszédéért, a biztató szavaiért, az őszinteségéért, de legfőképpen a segítőkészségéért… Dubovszky Károly igazgató úr lett a második apám!
+
+Veres József tanár úr, volt kolléga leveléből:
+
+> Vita mortuorum in memoria vivorum est posita \[az elhunytak életét az élők emlékezete őrzi\]. (Cicero) Dubovszky Károlyt, Károly bácsit 1969-ben ismertem meg frissdiplomás tanárként. 5 évig voltam főállású nevelőtanár a fiúkollégiumban, és mellette délelőttönként az egykori Szántó Kovács János Gimnáziumban, mai nevén a Szent-Györgyi Albert Gimnáziumban (később főállásban a nyugdíjba vonulásomig) a szakomnak megfelelően, a magyar és történelem tantárgyakat tanítottam. Karcsi bácsi messzemenően támogatta, hogy a kollégista gyerekekkel az iskolában, tanórai keretben is kapcsolatunk legyen, lássuk, ismerjük meg abban a környezetben is őket… Károly bácsi, ahogyan mi a hétköznapi életben szólítottuk (illetve a „Serif” ahogyan a gyerekek maguk között nevezték), a kollégiumtól néhány méterre lévő lakásukból estelente, sokszor szabadidejében is át meg átjött, be-benézett a gyerekre, beszélgetett velük, rendben mennek-e a dolgok. A gyerekek is természetesen fogadták, és inkább érezték ezt a szüleik távolléte okán gondoskodásnak, mint felügyeletnek… Velünk, fiatal kollégákkal is így volt ezzel, de soha nem éreztük őt tolakodónak. Sok jó sztoriján, anekdotáján derültünk nagyokat… Az otthon pótlására igyekezett is mindent megtenni. Mint bentlakásos intézményben élő gyermekek részére fontos volt a jó étkezés biztosítása. …A kollégiumnak voltak háznál, gazdáknál hizlalt sertései; Károly bácsi minden évben eseménynek számító disznóöléssel, benne a gyerekek munkájával, hurka-, kolbásztöltéssel, nagy vacsorákkal tette változatossá-emlékezetessé a teleket… A kolbász másik, felfüstölt részét félretéve, úticsomagban vitték a gyerekek lengyelországi (Krakkó és környékére) – a rendre, minden évben, tavasszal megszervezett – kirándulásukra. …A gyerekek tanulmányi előmenetelére jóindulatú szigorúsággal vigyázott. Nem féltek, de önmagában is tekintélyt közvetítő megjelenéséért tartottak tőle; és igazságos személyiségét tisztelték. 5 éves nevelőtanári munkám során nem is történt kirívó fegyelmezetlenség… A félévente tartott kollégiumi szülői értekezletekre bejáró, de sokszor hétköznapokon is a városba beutazó szülők örültek és sokszor köszönettel adtak hangot, hogy biztonságban tudhatják gyermeküket… A végzett kollégisták sokan később is be-benéztek, meglátogatták; őszinte nyíltságuk visszaigazolt munkánkról, kollégiumunk légköréről.
+
+Milyen volt mint pedagógus és nevelő? Pedagógiai elkötelezettségét, hitvallását megismerhetjük, a kollégiumban végzett nevelőmunkáról szóló éves és féléves beszámolóiból, melyek méltán tükrözik a növendékekkel kapcsolatos pedagógiai elveit. Dubovszky Károly egész életében, a vidéki, falusi hátrányos helyzetű fiatalok felzárkóztatását, pályaválasztását, egyetemi továbbtanulását sokféle módon segítette. Ez az önzetlen segítségnyújtás nem csupán politikai meggyőződéséből fakadt, hanem belső elhivatottságából társadalmi osztálya mellett. Saját társadalmi felemelkedésével, életútjával, egész habitusával példát mutatott tanítványainak. Magyar-történelem és orosz szakos tanárként a magyar nemzeti érzésre, a hazaszeretetre nevelte tanítványait akkor is, amikor erről az iskolában nem volt szabad nyíltan beszélni. Mindennapi pedagógiai tevékenységében, nevelési módszereiben szerves egységet alkotott a makarenkói pedagógia közösségi nevelési felfogása és a diákok sokoldalú megismerésére alapozott egyéni bánásmód pedagógiája. Dubovszky Károly vallotta és a gyakorlatban megvalósította Karácsony Sándor pedagógiai elveit, nézeteit: <em>„Minden gondolatunk, minden tervünk azt célozza: hogy lehetne benneteket vidámabbá, életrevalóbbá, műveltebbé, derekabbá tenni.”</em>

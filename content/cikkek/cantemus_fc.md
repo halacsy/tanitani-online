@@ -1,0 +1,59 @@
+---
+title: Cantemus FC
+migratedId: 1111
+overrideMigrated: true
+authorSlugs:
+  - kecskes-barbara
+  - szabo-soma
+date: '2021-11-12'
+tags:
+  - művészetpedagógia
+excerpt: >-
+  Kecskés Barbara interjúja Szabó Soma Liszt-díjas karnaggyal a Bartók Rádióban
+  Van egy Cantemus FC, mellyel a hivatalos városi bajnokságban is szerepelünk.
+  Ez nagy kihívás. A gyerekekkel folyton focizunk, hogy az ének iránti
+  lelkesedést meg tudjam tartani.
+coverImage: /sites/default/files/szabo_soma_nagy.jpg
+coverAlt: Szabó Soma
+coverTitle: Szabó Soma
+reads: 2780
+---
+<strong>Kecskés Barbara interjúja Szabó Soma Liszt-díjas karnaggyal a Bartók Rádióban</strong>
+
+> Van egy Cantemus FC, mellyel a hivatalos városi bajnokságban is szerepelünk. Ez nagy kihívás. A gyerekekkel folyton focizunk, hogy az ének iránti lelkesedést meg tudjam tartani.
+
+Az interjú szövegét az interjúer és a Bartók Rádió Csatornaigazgatóság szíves engedélyével közöljük. (A szerk.)
+
+<em>Zenész családban nőttél fel, Nyíregyházán, édesapád Szabó Dénes Kossuth-díjas karnagy, zenepedagógus, együtt nőttél fel a Cantemus „kóruscsaláddal” , részese voltál egy tradíciónak, mára már egy államilag is elismert nemzeti kincs megszületésének. Mennyire volt a pályaválasztásod magától értetődő?</em>
+
+Debrecenben végeztem a szakközépiskolát, hegedű tanszakon. Mégis egyértelmű volt az utam, rájöttem: a közös muzsikálás többet ad nekem, mint egyedül gyakorolni, a négy fal között húzni a húrokat. Nem lett volna elveszett pálya ez sem, de nem volt kielégítő mégsem. Olyan élmények birtokához jutottam a Banchieri Énekegyüttessel, hogy a kórus irányában kellett továbbmennem. Egész gyerekkorom a kórusban telt, a kórusról szólt, ez determinálta lehetőségeimet, vágyaimat. Tudat alatt is ott volt. Egyértelmű pályaválasztás ez.
+
+1988-ban Debrecenben megalakítottuk a Banchieri Énekegyüttest a King’s Singers mintájára, s nem is a fővárosban. A szakiskolás években jött létre, de Nyíregyházán az általános iskolához kötődött. A 8. osztályosok minden évben hangversenyt adnak. Dénes bácsi, apám találta ki: mi lenne, ha egy csak fiúkból álló kamaraegyüttest is összeállítanánk. Akkor adtuk elő Banchieri<em>Az állatok rögtönzött ellenpontja</em> című kórusművét. Sikere volt, megbeszéltük, hogy tovább fogjuk csinálni. A középiskola ugyan mindenkit különböző helyekre sodort, de hatan visszajöttünk városunkba, s elhatároztuk, hogy valóságos énekegyüttessé válunk. Az idő meghozta a sikert, versenyeket nyertünk egymás után, s a szakmát is megtanultuk.
+
+<em><img alt="Szabó Soma" src="/sites/default/files/szabo_soma.jpg" style="width: 200px; height: 286px; float: right; margin-left: 15px;">2000-ben változott új hangokkal bővülő együttessé a Banchieri, s ez újabb kapukat nyitott.</em>
+
+Az élet nehéz, mindenkinek a munkája befolyásolja egy szűk stáb mindennapjait. 2000-ben két tag is kivált, újragondoltuk magunkat, s azóta a csak fiúkkal működött együttest kiszélesítettük lányokkal, kiszélesedhetett a repertoár. Kezdetben saját repertoárunkból választott változatokat örökítettünk lemezre. Később eljött a szakosodás vágya, egyre mélyebben beleláttunk, milyen világok nyílnak meg. Készítettünk csak reneszánsz művekre épített lemezeket, ez mozgatta fantáziánkat, de pl. az Illés együttes felkérésre egy teljes repertoárt állítottunk össze dalaik nyomán. Nagyon tanulságos volt, hiszen Nógrádi Péter segítségével valósággal meg kellett írni az együttes számára e műveket. Aztán Japánból jöttek felkérések, s olyat kellett énekelni, amire ott igény mutatkozott. Az átírások nagyon nagy élményt jelentenek. Ez ugyan „csupán” a szakmai része a dolognak, mégis nagy élmény, amikor az ember ilyen „rejtvényeket” fejt meg, hogy jól szóljon. Sok tapasztalatot sikerült összeszednem, szívesen énekeljük ezeket a feldolgozásokat. Mindenki számára azt tudom írni, ami az ő egyéniségének leginkább megfelel.
+
+<em>Kik voltak a Liszt Ferenc Zeneművészeti Egyetemen mestereid? Kiktől tanultál?</em>
+
+Szerencsésnek érzem magamat, olyan professzorokkal ismerkedhettem, akiktől – ha nem is tudom, mit adtak nekem, de – nagyon sokat kaptam. Mesterem volt Párkai István, a karvezetést Jobbágy Valér, Hartyányi Judit tanították. Még Ujfalussy Józseftől hallgathattam zeneesztétikát, Földes Imre, Batta András tanított zenetörténetet. Nagyon jelentős mély nyomokat hagytak. Szabó Miklós tanította a szolfézst, Madarász Ivántól összhangzattant tanultam. Filozófiát, világlátást adtak ezek a professzorok.
+
+<em>A Cantemus vegyeskar 1998-ban született a Cantemus-kóruscsalád új hajtásaként. Mennyire volt ez belső igény?</em>
+
+Egyértelmű volt. Működött városi vegyeskar, melyben sokan szerepeltek a volt Kodály-iskolások közül, de megszűnt. S akkor kialakult egy igény. A <em>Pro Musica Leánykar</em> intenzíven működött, a fiúk nem tudták hová rakni magukat, évről évre nőtt a „kiöregedett” fiúk száma. Jelenvaló igény volt a vegyeskarra. Amikor végeztem az Zeneakadémián, s hazatértem Nyíregyházára, egyértelmű volt: csináljunk vegyeskart, a fiúknak is legyen énekelni való.
+
+Jelentős együttesekkel sikerült megismerkednünk. Először említem a Budafoki Dohnányi Ernő Szimfonikus Zenekart, Hollerung Gáborhoz fontos kapcsolat fűz. Sok művet megismertünk, amit soha nem tűztem volna műsorra, már csak azért sem, mert nem lett volna zenekar, amely lekísérje. Nagy öröm velük muzsikálni, kiváló együttes, színvonalas közös munkát jelent. A <em>János passió</em> előadása volt a legemlékezetesebb. Szcenírozva adtuk elő a MÜPA-ban, nagyon nagy feladat volt, de nagy élmény! Szeretnénk, ha még egyszer összejönne. Híres zenekarokkal ismerkedhettünk meg, így a Fesztiválzenekarral, a Liszt Ferenc Kamarazenekarral, de vidéki együttesekkel is kiváló kapcsolat alakult ki, mindig olyan művekkel találnak meg, amelyek új kihívást, lelkesedést adnak. Amit fontosnak tartok: ne kerüljünk a „profi lét” olyan stádiumába, amikor egy Händel <em>Messiás</em>\-előadás már nem jelent örömöt. Leginkább az <em>a capella</em> jellemző ránk, ebben teljesítjük ki vágyainkat, a reneszánsztól a maiakig. Tóth Péterre, Gyöngyösi Leventére gondolok, ők gyakran írnak nekünk műveket. S sorra jönnek a zenekari, oratorikus felkérések, melyek új tapasztalatot, lelkesedést váltanak ki.
+
+<em>A fiúkórussal 2019-ben első díjjal érkeztetek haza a tallinni kórusfesztiválról. Hogy működik a fiúkórus?</em>
+
+Ez a fiúénekkar szervesen nem kapcsolódik a vegyeskarhoz, tagjai általános iskolás fiúk, az utánpótlásban persze van szerepe. De ez más világ. Néha elképedek, amikor nekem kell beugrani a lánykórusba egy-egy próbára apám helyett. A lányok ülnek vigyázzülésben, némán lesik szavaimat. Mire a fiúknál ezt elérem, az már egy kihívás. Mindig jár kezük-lábuk. Focizni kell ebben az életkorban. Focizunk is. Minden próba után van foci. De énekelni kell! Sikerült elérni, hogy nemzetközi siker is legyen. Észtország a kóruséneklés hazája, az első díj igazán meglepett. Voltak rendes szopránjaim, akik még nem mutáltak, de a mélyszólamok is ügyesen helytálltak. Más egy fiúénekkarral dolgozni. Mire megtanulják a kottaolvasást, közös éneklést, újrakezdhetjük, mert „lemutálnak”. Szeretem ezt a feladatot, évről évre megújul a probléma, és ez jó dolog.
+
+Sokféle helyen tanítok. Gyerekekkel dolgozom, szakközépiskolásokkal, a Nyíregyházi Egyetemen, a Szabolcsi Szimfonikus Zenekart vezetem – ezt is tanári munkának tartom, hiszen meg kell találni a hangot, melyik korosztályhoz milyen nyelven lehet beszélni. Ezt is meg kellett tanulnom. Viszonylag hamar megtalálom a nyelvet, a közös hangot a különböző korosztályú, különböző előképzettségű csoportokkal, s ezután élményszerű a munka.
+
+<em>S a fociklub? Mi mindennel töltekezel, amikor nem dolgozol?</em>
+
+Igen. Van egy Cantemus FC, mellyel a hivatalos városi bajnokságban is szerepelünk. Ez nagy kihívás. A gyerekekkel folyton focizunk, hogy az ének iránti lelkesedést meg tudjam tartani. A családban is három fiú nevelkedik, mind fociznak. Azt hiszem, egyéb más hobbitevékenységre nem nagyon van időm. A szabadidő mindig az énekkari munkához kapcsolódik, mindig van valami, ami kitölti az üres időket, vagy a tanításra kell összpontosítani (a zenetörténet húsz év óta is újabb és újabb adalékokkal egészül ki). A saját gyerekeim? Világszám. Az ikrek is, a nagyfiam is. Ő kürtöl, szakközépiskolába jár, közben országos futóbajnok, elképesztő izgalmakat élek át, amikor futóversenyén szurkolok. Az ikrek most mennek elsőbe, ez csoda, bevezetni őket az életbe, ez nagy kincs.
+
+<em>A tradíció, amibe születtél, felelősség.</em>
+
+Komoly probléma ez. Életutam kényszerpályán mozgott, determinálva volt, mit kell csinálnom. Apám, a Kossuth-díjas, legendás Szabó Dénes után nekem kell továbbvinni ezt a „családi vállalkozást”, a Cantemus ügyét. Ez nagy teher, nagy megfelelés, nagy kényszer. Hogy lehet majd győzni? Apám munkabírását nézve képtelen vagyok arra, hogy ezt beteljesítsem. A hatalmas rendszer, ami felépült, ez a pedagógiai építmény olyan mennyiségű munka, amit nem látok át, egyedül nem győzném. De nem szeretném, ha az örökség elveszne. Ki kell termelni (?) az erőket, akik tovább viszik húsz év múlva is akár.

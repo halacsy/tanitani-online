@@ -1,0 +1,83 @@
+---
+title: Waldorf Olimpia
+migratedId: 1121
+overrideMigrated: true
+authorSlugs:
+  - szita-julia
+date: '2022-01-02'
+tags:
+  - alternatív iskolák
+excerpt: >-
+  Egy hagyomány neveléselméleti és didaktikai hátteréről. Szita Júlia írása
+  Időről időre szívesen teszünk közzé olyan írásokat, amelyek az egyetemi képzés
+  során szemináriumi dolgozatként születtek, és az oktató úgy érzi, érdemesek a
+  közfigyelemre. Az alábbi írást Trencsényi László ajánlotta a figyelmünkbe. (A
+  szerk.)
+coverImage: /sites/default/files/olimpia2.jpg
+coverAlt: 'Forrás: https://www.hidegkut-waldorf.hu/'
+coverTitle: 'Forrás: https://www.hidegkut-waldorf.hu/'
+reads: 4171
+---
+<strong>Egy hagyomány neveléselméleti és didaktikai hátteréről. </strong> <strong>Szita Júlia írása</strong>
+
+> Időről időre szívesen teszünk közzé olyan írásokat, amelyek az egyetemi képzés során szemináriumi dolgozatként születtek, és az oktató úgy érzi, érdemesek a közfigyelemre. Az alábbi írást Trencsényi László ajánlotta a figyelmünkbe. (A szerk.)
+
+A köznevelési intézményekkel való első kapcsolódásom a Waldorf-pedagógián keresztül történt: egy Waldorf-óvoda falai között ismerkedtem először a családi fészek biztonságán túlmutató tágabb társadalmi közeggel, majd Waldorf általános iskolában kezdtem meg „akadémiai pályafutásomat”. Társaimhoz hasonlóan fogalmam sem volt arról, hogy pontosan milyen pedagógiai módszerek kölcsönhatásában nevelkedem, ám azt mindig is tudtam és éreztem, hogy valamiben más a mi iskolánk, mint a többi. Azóta felnőttem, és a korábban csak megtapasztalt nevelési módszerekbe egy kis elméleti bepillantást is nyertem. A Waldorf-pedagógia általános – a teljesség igénye nélkül történő – felvázolását követően, egy nagymúltú „waldorfos” hagyomány, a Waldorf Olimpia bemutatásán keresztül igyekszem rávilágítani néhány, az esemény hátterében álló neveléselméleti és didaktikai szempontra.
+
+A Waldorf-pedagógia kibontakozása elsősorban Rudolf Steiner nevéhez kötődik, aki <em>A szabadság filozófiája</em> című művében vázolta fel az általa antropozófiának nevezett szellemtudományi irányzat ember- és világképét. A Waldorf-pedagógia ebből az emberképből táplálkozik, s oktatási céljai a legkülönfélébb nevelésfilozófiai hatások befolyásáról tesznek tanúbizonyságot. Az antropozófia „tudománya” egyfelől épít a természettudományok objektív megismerési módszerére, ám Steiner felfogásában a megismerésben a megfigyeléshez a fantázia és a gondolkodás erői rendelődnek, melyek kiegészítik az ember észlelésen alapuló érzékelésének lehetőségeit (Turós, 2019). A Waldorf-pedagógia nevelési céljai így egyfelől realisták (amennyiben a világ objektív megismerésére irányulnak), másfelől idealisták, ugyanis nagy hangsúlyt helyeznek az erkölcs fejlesztésére, a művészetek szerepére és az ideák befogadásának szükségességére (Kotschy, 2003). Steiner az iskolát a társadalomalakítás egyik központi eszközének tekinti, ugyanakkor azt is kijelenti, hogy a gyermeket elsősorban nem az állam, a társadalom vagy egy szakma szükségletei és elvárásai, hanem saját képességei szerint kell nevelni:
+
+> Ne azt kérdezzük: mit kell tudnia és mire kell képessé lennie az embernek a fennálló társadalmi rend számára, hanem: mire van hajlama, és mit lehet fejleszteni az emberben? (Steiner, 1993, p. 65).
+
+Tehát nevelésfilozófiai felfogása inkább egzisztencialista, semmint pragmatista jellegű (Kotschy, 2003).
+
+A Waldorf-iskolák tanterve szerint ötödik osztályban többek között az ókori görög kultúrát tanulmányozzák a gyerekek. Ennek kiteljesedéseként az év végén részt vesznek a Waldorf Olimpián, melyet hónapokon át tartó felkészülési időszak előz meg. Az ország valamennyi Waldorf-iskolájának ötödik osztályos tanulói összegyűlnek egy helyen, hogy vegyes csoportokba (ún. városállamokba) sorolva, többnapos közös felkészülést követően megmérkőzzenek egymással, de leginkább önmagukkal. Ennek az a célja, hogy a gyerekek átéljék az ősi mozgásformákat, és megtapasztalhassák a hajdani lelkületet, törekedve arra, hogy saját magukat felülmúlják. A tanárok, tanulók és szülők közös igyekezete felidézni az ókori Görögország fizikai és társadalmi körülményeit (ruha, hajviselet, zászlók készítése), hangulatát (himnuszok, énekek segítségével), szellemiségét (olimpiai eskü letétele), valamint a kor mozgásformáinak szépségét a különböző atlétikai próbákon keresztül (maraton, diszkoszvetés, birkózás, gerelyhajítás, magas- és távolugrás stb.). Az esemény ünnepélyes lakomával és díjátadóval zárul. Összességében tehát egy nem formális tanulási helyzetről van szó, mely a tanórai kereteken túlmutat, mégis a nevelés célját szolgálja (Horváth, 2018).
+
+A gyermek életkori sajátosságait szem előtt tartó Waldorf-kerettanterv szerint az ötödik osztályban a nevelés célja, hogy a gyermek világmegismerésének módjában átmenetet teremtsünk a mítoszból a történelembe; így a különböző nagy civilizációk (India, Perzsia, Egyiptom, Görögország) történelmének tanulmányozására nagy hangsúly helyeződik. A történeti események intellektuális értelmezése azonban nem elegendő ahhoz, hogy a gyermek megragadja a tanultak esszenciáját, hanem szükség van arra is, hogy a tanuló teljes lényével megtapasztalja a kor lelkületét. Steiner az ember személyiségét gondolkodási, érzésbeli és akarati jellemzőkre osztja fel. A Waldorf-pedagógia a nevelésben ezt a három tényezőt egyenrangúan veszi figyelembe, azaz a „teljes embernevelésre” törekszik. A képzési célok ennek megfelelően kognitív, esztétikai és gyakorlati jellegűek (Turós, 2018).
+
+A pedagógia cselekvésalapú megközelítésének lehetünk tanúi a Waldorf Olimpia keretei között: a gyermekek a sporttevékenységekben való részvételük által ismerik meg az ókori görög szellemiséget; s talán így olyan dimenziók felfedezésére is lehetőségük nyílik, melyek befogadására intellektusuk még nem érett meg kellőképpen.
+
+Az Olimpiai Játékok megelevenítése több nevelési tartományhoz is köthető. Egyrészt, a testnevelés körébe tartozik, ugyanis egy sportesemény lebonyolításáról és az arra való felkészülésről van szó; azaz a testi erő és ügyesség fejlesztésére irányul (Zrinszky, 2006). A különböző sportágak együttes gyakorlásának köszönhetően a sporttevékenység nem válik egyoldalúvá, és ez fejlesztően hat olyan jellemtulajdonságokra, mint a céltudatosság, a kitartás, az akaraterő, a kockázatvállalás, valamint a küzdő- és tűrőképesség (Zrinszky, 2006). Az is fontos jellemzője az Olimpiának, hogy a sport célja itt nem egyfajta teljesítményátlagnak való megfelelés, hanem a tanuló önfelülmúlása saját képességeinek keretein beül. Így az esemény végeztével nem győzteseket hirdetnek, hanem kivétel nélkül minden résztvevő oklevélben részesül és „megkoszorúztatik”. Tehát egy önmagához viszonyító, nem szelektív értékelésnek (Golnhofer, 2003) lehetünk tanúi.
+
+A Waldorf Olimpia szellemében – az ókori görögök felfogásához hasonlóan – a mozgás nem pusztán sportot jelent, hanem komoly esztétikai értékkel bír: a szépség legalább olyan fontos jellemzője, mint a gyorsaság vagy az ügyesség. Így a mozgástevékenységekben való részvétel egyfajta művészeti nevelés célját is betölti. A Waldorf-pedagógia felfogásában a személyiség hét-hét évig tartó fejlődési szakaszokon megy keresztül. A gyermek második hét életévében (azaz a fogváltástól a serdülőkorig tartó időszakban) a világot átható szépség megtapasztalásának elősegítése kerül a nevelői munka középpontjába (Turós, 2018). A fogalmi értés helyett a képi értésre helyeződik a hangsúly. Ehhez a nevelő az érzékelés és értelem között álló birodalmat, a művészetet alkalmazza (Steiner, 2013), s a mozgás is egyfajta művészetnek tekinthető.
+
+Az sem mellékes tényező, hogy helyileg hol kerül megrendezésre az Olimpia: szinte kivétel nélkül valamilyen természetközeli helyszín ad otthont az eseménynek. A környezeti nevelés kiemelt jelentőséget kap a Waldorf-iskolákban. A természeti világ iránti szeretet és a környezet védelmére való igény csak úgy alakítható ki, ha a gyermek minél több időt tölt abban a „környezetben”, amelynek védelmére nevelni kívánjuk. Fontos, hogy a gyermek megismerje a természetet, ugyanis szeretni csak azt vagyunk képesek, amit ismerünk, s csak azt ismerhetjük, amivel időt töltünk. A természetes örömök a gyermeki lét megtapasztalásának és a gyermek fejlődésének feltételei, és számos pedagógiai módszer megfogalmazza a természettel közelségben való nevelés kívánatosságát (Zrinszky, 2006); többek között Rousseau pedagógiája, aki a romlott erkölcsű város helyett a vidéki, falusi környezetet tartja a nevelés ideális helyszínének (Pukánszky & Németh, 1996).
+
+Az Olimpia pedagógiai jellemzői között említhetjük a szimulációra épülő oktatási módszert. A tanulók az aktuális fizikai és társadalmi valóságtól elvonatkoztatnak (Nahalka, 2003), és az ókori görög kultúra szimulált valóságának részeseivé válnak, miközben értékes tapasztalatokat gyűjtenek a jelen kor valóságára vonatkozóan.
+
+Az iskolában hagyományosan előnyben részesített nyelvi, illetve logikai-matematikai intelligenciával szemben a Waldorf Olimpia a hangsúlyt a testi-kinesztéziás, illetve inter- és intraperszonális intelligencia fejlesztésére helyezi. Így azoknak a tanulóknak, akik az előbbi intelligenciatípusokban nem jeleskednek, az utóbbiban viszont igen, lehetőségük nyílik a sikerélmény megtapasztalására iskolai keretek között.
+
+Az egyéni részvételen és sikereken túl az Olimpia szellemisége épít a kooperatív tanulási stratégia lehetőségeire. A különböző Waldorf-intézményekből érkező tanulókat vegyes csoportokba, úgynevezett „városállamokba” szervezik, és többnapos felkészülési és ismerkedési időszakot követően csoporttársaikkal közösen vesznek részt a sporteseményen. „A kölcsönös függőségi viszonyok között a tanulók motiváltak a közös célok elérésére, baráti viszonyok alakulnak ki közöttük, fejlődnek a kommunikációs készségeik, technikáik” (Falus, 2003, p. 208). Az esemény „bentlakásos”, kempingezős/sátorozós jellege is lehetőséget biztosít a kapcsolatok elmélyítésére és a másokkal való szoros együttélés megtapasztalására. Az antropozófia az embert mint közösségi lényt ismeri fel, és nagy hangsúlyt fektet az egyén másokkal való kölcsönhatásban történő fejlődésére:
+
+> A szociális élet akkor gyógyul, ha az emberi lélek tükrében az egész közösség tükröződik, és a közösségben minden egyes tagjának ereje él. (Steiner, 1985, p. 116-117).
+
+A Waldorf Olimpia olyan élmény volt számomra, mely máig élénken él az emlékezetemben. A későbbiekben segítőként is volt lehetőségem részt venni az esemény lebonyolításában, és a fiatalabb testvéreim Olimpiáin nézőként is jelen voltam. Mindahányszor beléptem az Olimpia helyszínére, olyan érzésem volt, mintha egy másik világban találtam volna magamat: valóban sikerült „átlényegítenünk” a környezetet, és visszautaznunk az ókori görög civilizáció világába. A városállamok himnuszai zengték be a teret, színes zászlók lengedeztek a fehér tógás alakok feje felett; a gyerekek teljességgel komolyan vették a szimulált helyzetet. Nem véresen komolyan, hanem olyan komolysággal, amivel az Olimpia eseményét kötelességünk megilletni, ugyanis a világ és benne az ember szépségét ünnepeljük ekkor.
+
+## Felhasznált irodalom
+
+Ballér E. (2003). A tanterv. In Falus I. (szerk.), <em>Didaktika – Elméleti alapok a tanítás tanulásához</em> (pp. 154-179). Budapest: Nemzeti Tankönyvkiadó.
+
+Falus I. (2003). Az oktatás stratégiái és módszerei. In Falus I. (szerk.), <em>Didaktika – Elméleti alapok a tanítás tanulásához</em> (pp. 202-254). Budapest: Nemzeti Tankönyvkiadó.
+
+Golnhofer E. (2003). A pedagógiai értékelés. In Falus I. (szerk.), <em>Didaktika – Elméleti alapok a tanítás tanulásához</em> (pp. 334-359). Budapest: Nemzeti Tankönyvkiadó.
+
+Horváth L. (2018). Harry Potter és a roxforti pedagógusok. In Nagy Á. (szerk.), <em>Nevelj jedit! A képzelet pdeagógiája</em> (pp. 217-243). Budapest: Atheneum Kiadó.
+
+Kotschy B. (2003). Az oktatás célrendszere. In Falus I. (szerk.), <em>Didaktika – Elméleti alapok a tanítás tanulásához</em> (pp. 107-133). Budapest: Nemzeti Tankönyvkiadó.
+
+Nahalka I. (2003). A tanulás. In Falus I. (szerk.), <em>Didaktika – Elméleti alapok a tanítás tanulásához</em> (pp. 78-106). Budapest: Nemzeti Tankönyvkiadó.
+
+Pesthidegkúti Waldorf Iskola. (2013). <em><a href="https://hidegkut-waldorf.hu/waldorf-iskola-es-pedagogia/tanterv-es-tantargyak/horizontalis-tanterv/5-evfolyam-10-11-eves-kor">Horizontális tanterv: ötödik évfolyam</a>.</em>
+
+Pukánszky B. & Németh A. (1996). <em>Neveléstörténet</em>. Budapest: Nemzeti Tankönyvkiadó.
+
+Steiner, R. (1985). <em>Verses and Meditations</em>. Hillside: Rudolf Steiner Press.
+
+Steiner, R. (1993). <em>A gyermek nevelése szellemtudományi szempontból</em>. Budapest: Jáspis.
+
+Steiner, R. (2013). <em>A nevelés művészetének szellemi-lelki alaperői</em>. Budapest: Genius.
+
+Turós M. (2018). A Waldorf-pedagógia képe az emberről és az életkori sajátosságairól. <em>Iskolakultúra</em>, 28 (10-11), 113-120.
+
+Turós M. (2019). A Waldorf-pedagógia ismeretelméleti háttere és a Waldorf-iskolák szemlélete az infokommunikációs technológiával összefüggésben. <em>Iskolakultúra</em>, 29 (10), 115-125.
+
+Zrinszky L. (2006). <em>Neveléselmélet</em>. Piliscsév: Műszaki Könyvkiadó.

@@ -1,12 +1,26 @@
 ---
-title: "ÉrinTETTEK"
-author: "Karlowits-Juhász Orchidea"
-authorSlug: karlowits-juhasz-orchidea
-date: "2019-02-14"
-tags: ["alternatív iskolák", "drámapedagógia", "hátrányos helyzet", "SNI", "szabad nevelés", "pedagógusok", "romák", "neveléstörténet"]
-excerpt: "A 12. Miskolci Taní-tani Konferencia ünnepi előadása a találkozás kultúrájáról. Miért nem szembesítjük a leendő pedagógusokat Magyarország saját perifériájának valóságával?"
-image: /images/cikkek/erintettek.jpg
+title: ÉrinTETTEK
+author: Karlowits-Juhász Orchidea
+date: '2019-02-14'
+tags:
+  - alternatív iskolák
+  - drámapedagógia
+  - hátrányos helyzet
+  - SNI
+  - szabad nevelés
+  - pedagógusok
+  - romák
+  - neveléstörténet
+excerpt: >-
+  A 12. Miskolci Taní-tani Konferencia ünnepi előadása a találkozás
+  kultúrájáról. Miért nem szembesítjük a leendő pedagógusokat Magyarország saját
+  perifériájának valóságával?
 reads: 3201
+authorSlugs:
+  - karlowits-juhasz-orchidea
+coverImage: /images/cikkek/erintettek.jpg
+migratedId: 927
+overrideMigrated: true
 ---
 
 **Gondolatok a találkozás kultúrájához. Karlowits-Juhász Orchidea előadása**

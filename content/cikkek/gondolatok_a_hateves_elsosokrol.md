@@ -1,0 +1,52 @@
+---
+title: Gondolatok a hatéves elsősökről...
+migratedId: 1055
+overrideMigrated: true
+authorSlugs:
+  - l-ritok-nora
+date: '2020-11-15'
+tags:
+  - művészetpedagógia
+  - hátrányos helyzet
+excerpt: >-
+  ...és a vizuális nevelésről. L. Ritók Nóra írása Nálunk magas a halmozottan
+  hátrányos helyzetűek aránya, akik között bizony előfordul, hogy még a
+  nyomhagyás örömét sem élték át azokkal az eszközökkel, amelyeket használunk.
+coverImage: /sites/default/files/gondolatok_cimlap.jpg
+reads: 3201
+---
+<strong>...és a vizuális nevelésről. L. Ritók Nóra írása</strong>
+
+> Nálunk magas a halmozottan hátrányos helyzetűek aránya, akik között bizony előfordul, hogy még a nyomhagyás örömét sem élték át azokkal az eszközökkel, amelyeket használunk.
+
+<img alt="L. Ritók Nóra" src="/sites/default/files/ritok_nora.jpg" style="width: 250px; height: 166px; float: right; margin-left: 15px;">Az iskolaérettség fontos pontja az iskolakezdésnek. Sokszor láttuk már korábban is, mennyire rossz döntést hoztak azok a szülők, aki mihamarabb iskolásnak akarták tudni a gyereküket. Mert ezt nem szabad siettetni. Pláne nem ebben az iskolarendszerben és követelményrendszerben nem egészséges, ami most van. Ugyanis szerintem egy előrehozott iskolakezdéshez pedagógiai módszertani váltás szükségeltetik, és ezt nagyon erősen meghatározza az, hogy milyen pedagógiai rendszerben szocializálódtak a pedagógusok. A vizuális nevelésben például, de szerintem máshol is élesen látszik, teljesen mindegy, mit ír elő a NAT, milyen felkészítést kapnak a felsőoktatásban a leendő szakemberek, ott, az osztályteremben azok a frontális beidegződések, azok a feladattípusok, módszertanok a meghatározók ma is, amelyekben őket is részesítették annak idején. (Tisztelet természetesen a kivételnek.)
+
+Igazából nem azzal van bajom, ha hatévesen kezdődik az iskola. De akkor igazodjon ahhoz az életkorhoz. Mert egy év ilyenkor még nagyon sokat számít. És ahhoz másfajta szemlélet, módszertan kellene… nem az, amit a hetedik életévét betöltöttekre alkalmazunk.
+
+Nálunk nagyon erősen érezhető, mekkora különbség van a hatéves és a hétéves gyerekek iskolaérettsége között. Mire délután hozzánk kerülnek, a művészetis órákra, már teljesen szét vannak esve. Mostanra már elértük, hogy be tudjuk vonzani őket az „igazgyöngyös aurába”, de még mindig gyakran mondják: fáradt vagyok, nem akarok rajzolni… Mert tényleg fáradtak, és nem akarnak figyelni, koncentrálni. Nem akarnak semmit. Vagy legfeljebb játszani. De látszik a kis szemükön, igazából még ahhoz is fáradtak. Ez pedig kinél hogyan csapódik le. Egyikük csak néz maga elé, másik a kis kezére hajtva a fejét majdnem elalszik, harmadik kötözködik a másikkal, piszkálja... szóval épp úgy működnek, mint otthon, mikor „túltolták” és kimerültek.
+
+A gyerekek közötti különbségek enélkül is óriásiak. Nálunk magas a halmozottan hátrányos helyzetűek aránya, akik között bizony előfordul, hogy még a nyomhagyás örömét sem élték át azokkal az eszközökkel, amelyeket használunk. Bár jó ideje már előfordulnak ilyen gyerekek a jobb társadalmi státuszúak között is, főleg a fiúknál, akik nem igazán foglalkoztak eddig ábrázoló tevékenységgel. Mert nem minden gyerek akarja ezt választani, ha választhat a tevékenységek között. Talán az is az oka, hogy nem megfelelőek az anyagok, eszközök. Nem vonzóak, nem érdekesek annyira, hogy bevonzzák őket. Sajnos sok oviban még mindig a legolcsóbb, kemény színes ceruzák az egyetlen használt nyomhagyó eszközök, ami több ok miatt sem a nekik megfelelő, számukra sokkal jobbak lennének a könnyen nyomhagyó eszközök, no meg a puszta kéz, hogy játsszanak az anyagokkal, tapintsák, érezzék őket. A „varázslásnak” is megvan a maga módszertana, amiben állandóan meg kell újulni, a felgyorsult és a gyerekeket folyton ingerekkel bombázó világban ez nagy kihívás a pedagógusnak óvodában, iskolában is. Az „elvarázslás” módszertanában lehet aztán hatni, fejleszteni, tolni a koncentrációval telt időn, erősíteni a feladattudatot, edzeni őket mindenben, ami aztán a tanuláshoz kell.
+
+<img alt="1. kép" src="/sites/default/files/gondolatok1.jpg" style="width: 470px; height: 626px;">
+
+Aztán ott az ábrázolási szint kérdése is. Akik már az óvodában rendszeresen rajzoltak, nekik biztos formáik vannak, fák, házak, emberek, állatok, autók, akik pedig nem, nekik alig felismerhetők a formák, sok gyereknél két-három éves ábrázolásiszint-elmaradást is tapasztalunk. A felületkitöltés minősége pedig már átvisz bennünket a finommotorika fejlettségéhez. Nagyon pontosan mérhető ez is a gyerekrajzokon. Vannak, akik tudatosan irányított kézmozgással, koruknak megfelelően töltik ki a felületeket, míg kis társuknak a nagyívű mozdulatait sehogyan sem sikerül úgy lecsendesítenie, hogy a kisebb formák színnel való kitöltése jó legyen.
+
+Ilyenkor nagyon nehéz a munkánk, mert most kell megalapoznunk a viszonyt a vizuális kifejezéshez, és ez csak sikerélmény biztosításával megy. Mindenkinek. Annak is, aki buzgón döfködi a száraz ecsettel a vízfesték gombjait, és csodálkozik, hogy nem fog. Annak is, aki minden színt összekever benne, és a végén az egész rajza egy fekete kulimász, és azt hiszi, a festék rossz, hogy neki nem lett olyan szép színes, mint a többieknek.
+
+<img alt="2. kép" src="/sites/default/files/gondolatok2.jpg" style="width: 470px; height: 325px;">
+
+Ezekre az elsős órákra sokkal többet kell készülnünk nekünk, pedagógusoknak. A feladat kulcsfontosságú ebben, mert a hiányok pótlása miatt fontos az irányított munka, de közben differenciálni is kell, hogy azok, akik nem a nyomhagyásnál tartanak, ők is kiteljesedhessenek, előrébb léphessenek.
+
+No meg ilyenkor azért nemcsak a mi művészetis óráinkhoz alapozunk, hanem az iskolához is. Ahogy említettem, kiemelt a figyelemkoncentráció fejlesztése, a vizuális memóriáé, a verbális kifejezésé, és a finommotorikáé. Hiszen az íráselemeket gyakorolják délelőtt… és mi is szeretnénk ehhez segítséget adni.
+
+Sokat dolgozunk hát ecsettel… a legnagyszerűbb eszköz a finommotorika fejlesztéséhez, az ecsetrajz igazán ennek a korosztálynak való. Sokat használjuk együtt olajpasztellel, alkoholos filccel, ezek megtartják a formákat akkor is, ha az ecset még nem engedelmeskedik kellően a kis kezeknek. Rajzolunk tussal, fülpiszkálóval, ez remek előkészítése az ecsettel történő munkának, mert nem olyan szabadon mozgó, mint az ecset hegye, ugyanakkor puhább, és nedvességgel bír, nem úgy, mint a száraz eszközök. Hozunk létre színes felületeket szivaccsal, vattagombóccal, de hagyunk nyomot ujjal is, ritmikus, dekoratív felületeket képezve. Adunk a kezükbe manipulált papírt is, amire rajzolni már önmagában izgalmas. Dolgozunk különböző méretekben, formátumokban, mert ez is fejlesztő.
+
+Aztán lassan mindenkinél megtörténik a csoda. Elkezdik érezni, mi ez az egész, elkezdenek maguk is „varázsolni”, ujjongva kiabálnak, hogy egy különleges színt kevertek ki, amit aztán kérünk, hogy meséljék el a többieknek is, akik szintén kipróbálják, és együtt örülünk a „színvarázslónak”.
+
+Mikor érezzük, hogy mindenki „megvan”, mindenkinél megalapozódott a tevékenységhez való viszony, akkor elkezdhetjük velük azt a csodálatos munkát, amit mi művészettel nevelésnek hívunk. Elkezdhetünk velük dolgozni, a saját képi világukban fejlesztve őket, rávezetni az alkotás csodájára, az egyéni kifejezésre, rányitni a szemüket a világra, vizualizálni más tantárgyak anyagait…
+
+Kiteljesedhet ekkor a hármas fókusz, amit mi egyforma fontossággal kezelünk az órákon: a vizuális kommunikáció fejlesztése mellett a hátránykompenzálás és a szociális kompetenciák fejlesztése. Rendszerbe foglalva, tudatos pedagógia munkával, egyéni fejlesztéssel, differenciálással.
+
+Persze ma még nem mindenkinél tartunk itt. Hiszen még csak november van. Az egyik hatéves például az óra első tíz perce után eltűnik az asztal alatt. A kolléganőm bekukkant utána, és kedvesen kéri, bújjon elő onnan.
+
+A kicsi pedig huncutul mosolyog, de közben meggyőződéssel kérdezi: honnan tudtad, hogy itt vagyok?

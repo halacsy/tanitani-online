@@ -1,0 +1,87 @@
+---
+title: Immunitás vagy visszaesés?
+migratedId: 1014
+overrideMigrated: true
+authorSlugs:
+  - fazekas-nora
+date: '2020-05-10'
+tags:
+  - távoktatás
+excerpt: >-
+  Avagy mire lesz jó a vírus az iskoláknak? Fazekas Nóra írása Miért lehet egy a
+  mostanihoz hasonló krízis mégis az iskolák hasznára? Mert eközben maguk is
+  tanulnak!
+coverImage: /sites/default/files/krizistanulas_cimlap.jpg
+reads: 4204
+---
+<strong>Avagy mire lesz <em>jó</em> a vírus az iskoláknak? Fazekas Nóra írása</strong>
+
+> Miért lehet egy a mostanihoz hasonló krízis mégis az iskolák hasznára? Mert eközben maguk is tanulnak! 
+
+<img alt="Fazekas Nóra" src="/sites/default/files/fazekas_nora.jpg" style="width: 200px; height: 250px; float: left; margin-right: 15px;">A koronavírus okozta jelenlegi krízishelyzetben a közoktatás erőn felül teljesít. Az iskolák és a bennük dolgozó pedagógusok jó része csupán napok alatt készült fel a távoktatás megkezdésére, amire saját bevallásuk szerint sem álltak készen. Elkezdtek használni olyan eszközöket, amelyeknek a nevét sem hallották korábban, egy hétvége alatt hoztak létre egy több mint 70.000 főt számláló tudásmegosztó közösséget Facebookon, ezen keresztül és a helyi iskolai közösségekben is tanították egymást, hogy az új helyzettel a diákokért megbirkózzanak és a társadalomért helytálljanak. És bizony helyt is állnak.
+
+Mégis számos probléma keletkezik, és komplikációk lépnek fel, ami miatt a víruskrízis szövődményeit még jó ideig érezni fogjuk. A legfontosabb kérdés azonban pont ehhez kapcsolódik: mi lesz a krízis után? Hogyan hat a jelenlegi helyzet az iskolákra? Be tudják majd építeni azokat az új tudásokat és kompetenciákat a hétköznapi működésükbe, amelyeket az elmúlt másfél hónapban létrehoztak, felkutattak és megosztottak?
+
+Valóban semmi sem lesz már úgy mint régen? Ami régen volt, az jó?
+
+A krízist jelen esetben nem maga a vírus jelenti. Nem is a közoktatásból időszakosan kieső hátrányos helyzetű gyermekek, a digitális oktatásban a megszokotthoz képest is túlterhelt pedagógusok vagy az otthonaikban pedagógiai asszisztensi munkakört betöltő szülők. Előbbi valójában a krízishelyzetet kirobbantó ok, csupán egy folyamat része, utóbbiak pedig a krízis áldozatai. A krízis maga a közoktatás krízise, tehát betegünk: az iskola. A betegség után immunitást szerezhet azon hatásokra, amelyek most kínozzák: fejleszthetik digitális kompetenciáikat, szociális támogató rendszerüket vagy éppen a szülőkkel való együttműködésüket, ha a teljesség igénye nélkül kiragadott példáknál maradunk. Ha azonban a beteg szervezet idő előtt, a tanulságok beépítése nélkül tér vissza a hétköznapokba, igen könnyen visszaeshet. Hogyan kerülhető el ez, illetve el lehet-e egyáltalán kerülni? Ennek a kérdésnek a megválaszolásához a krízismenedzsment és a szervezeti tanulás szakirodalmához fordulunk.
+
+## Mi az a krízis, és mire lehet jó?
+
+A krízis egy olyan helyzetet ír le, amely veszélyezteti a szervezet (jelen esetben az iskola) teljesítményét, működését vagy akár túlélését is, miközben bevett megküzdési gyakorlatok híján megkérdőjelezni kényszerül alapvető feltételezéseit és céljait.
+
+Miért lehet egy a mostanihoz hasonló krízis mégis az iskolák hasznára? Mert eközben maguk is tanulnak! Számos kutatás igazolja, hogy a krízisek megtapasztalása alapvetően befolyásolja a szervezet rezilienciáját, a következő krízisekkel való megküzdési képességét, valamint termékeny tanulási teret hoz létre. Tehát a krízissel való megküzdést tanulási folyamatként is értelmezhetjük, amelyben a szervezet tapasztalati tanulás során vizsgálja meg addigi gyakorlatait (egyhurkos tanulás), vagy éppen megkérdőjelezi és újraértelmezi működése alapjait (kéthurkos tanulás). A krízis során való tanulás jellegéből adódóan képes továbbá az iskola olyan alapvető gyengeségeit és erősségeit is felfedni, amelyeket kizárólag az új helyzet és nézőpont tett lehetővé. Tehát egy krízis során legalább annyit tanulhatunk az „iskoláról” magáról, mint amennyit az iskola tanul.
+
+Bár érdemes a krízisről nem mint elszigetelt eseményről, hanem mint természetes folyamatról gondolkozni, az értelmezés kedvéért beszélhetünk krízis előtti tanulásról, vagyis megelőzésről, krízis során történő (a szakirodalomban: intrakrízis vagy krízisindukált) tanulásról, valamint a krízist követő tanulásról. Krízisek változó időközönként megjelennek a szervezetek életében, ezért a pre- és a poszt-krízis tanulást összességében interkrízis, azaz a válsághelyzetek közötti tanulásként címkézhetjük.
+
+A krízis során való tanulás – amely éppen most zajlik – nehéz, és lényegesen különbözik a megszokottól. Az időnyomás, a káosz, a stressz, a leterheltség és az információhiányos állapot mellett az iskolának mint közcélú intézménynek a közszféra jellegzetességeivel is számolnia kell. Mint ilyen, az iskola viszonylag stabil környezethez és inkrementális változáshoz szokott, így azt az újfajta tanulást is tanulnia kell. Számolni kell a politika, valamint a média és a közvélemény nyomásával is, a közszférában bekövetkező krízisek ugyanis tovagyűrűző hatásúak, és a hibázás „nem megengedett”.
+
+A jelen helyzetben azonban az, hogy hogyan tanul az iskola, és milyen tanulságokat fogalmaz meg, vízválasztó lehet mind az iskola, mind pedig a hazai közoktatás számára. Az írásommal éppen ezért az a célom, hogy rámutassak a szervezeti tanulás gátjaira és ösztönzőire az adott kontextusban.
+
+## Visszaesés – Avagy miért <em>nem </em> tanul az iskola a krízisből?
+
+Mielőtt a nemzetközi szakirodalmat idéznénk meg, saját valóságunkra is érdemes egy pillantást vetnünk. A krízis középpontjában jelenleg a digitális távoktatás és ennek körülményei, következményei állnak. Míg a pedagógusok és iskolák törekednek arra, hogy feladatukat ellássák, szeretett diákjaiknak a tőlük telhető legtöbbet megadják, számolnunk kell azzal, hogy az elöregedő, már alaphelyzetben is túlterhelt és alulfizetett pedagógustársadalom egy krízishelyzetben korlátozottan képes és motivált egy mindent átható digitális innováció keresztülvezetésére; még ha találunk is jó példákat. Az iskolák digitális eszköz- és kompetenciabéli ellátottságát vagy annak hiányát csak említem; a gyakorló pedagógusok erről élőbb képekkel rendelkeznek, mintsem, hogy itt elemeznem kelljen. Vajon milyen szervezeti reakciót vált ki ilyen helyzetben egy krízis?
+
+A szervezetben önvédelmi mechanizmusok indulhatnak be, amelyek az alapvető problémák, hibák és felelősségek tagadásához vezethetnek. A válság veszélyérzetet kelt, ami egyrészt a hibázás következményeinek súlya miatt csökkenti annak valószínűségét, hogy az intézmény kísérletezve tanuljon, másrészt akárcsak az embernél, szűkíti a szervezet látómezejét, ezáltal eleve korlátozza a beérkező információkat és azok feldolgozását.
+
+Ha az iskola nem is éli meg ilyen mértékű traumaként a helyzetet, abban az esetben is több tanulási-csapda jelentkezhet. Előfordulhat, hogy az iskola nem ismeri fel a felszíni jelek mögött meghúzódó gyökérproblémákat, ezért az újonnan felmerült kihívásokra régi válaszokat hoz, így nem történik se változás, se tanulás. Az iskola meglévő tudása, szemléletmódja torzíthatja is a megélt tapasztalatok jelentését, így hibás tanulságokat vonhat le. Amennyiben az iskola ezeket a csapdákat elkerüli, eljuthat oda, hogy pedagógiai és szervezeti gyakorlatát felülvizsgálja, és folytonos vagy nagyobb léptékű fejlesztésbe kezd. Ezt nevezhetjük egyhurkos tanulásnak. A jelen krízishelyzet azonban az iskola alapvető funkcióit, az iskola céljait, alapvetéseit is vizsgálhatóvá teszi. Ennek a kéthurkos tanulásnak esetleges elmulasztása – ami még decentralizált oktatási rendszerekben sem az egyes iskolák, hanem az oktatáspolitika kompetenciája – szintén csapdát állít elénk.
+
+A másik oldalról viszont, gyakran éppen hogy politikai kezdeményezésre történnek gyors ütemben bevezetett fejlesztések. Ám a kívülről érkező innovációs ösztönzés és annak sürgető jellege miatt sok esetben pont a megfelelő tanulságok levonásától vonják el ezek a figyelmet, így a változtatások nem valódi tanulás eredményei lesznek, hanem csupán útfoltozások.
+
+Azt, hogy egy iskolában milyen tanulás megy végbe a krízis hatására, Lampel és munkatársai modellje szerint alapvetően két tényező befolyásolja: a hatás mértéke és az eset észlelt relevanciája. Transzformatív tanulás, amelyet párhuzamba állíthatunk a kéthurkos tanulással, akkor jöhet létre, ha mindkét tényező szintje magas. Aktuális példa lehet erre, hogy egy iskola hétköznapi működését teljesen átalakítja az, hogy az oktatást online felületeken kell továbbvinni (hatás mértéke), de fel is ismeri a digitális kompetenciák és működést segítő eszközök ismeretének hiányát mint a krízistől független fejlődési pontot (észlelt relevancia).
+
+<img alt="Ábra" src="/sites/default/files/krizistanulas.png" style="width: 470px; height: 135px;"><br>A tanulás lehetséges típusai (Lampel et al., 2009)
+
+Feltételezhetnénk, hogy mindkét tényező magas szintje adottságnak tekinthető a jelen körülmények között. Azonban, ha közelebbről vizsgáljuk a helyzetet, rájöhetünk, hogy egyes iskolákban az eset észlelt relevanciájának mértéke nem evidens. Egyrészt mivel az iskolai és pedagógusi digitális kompetenciaszint számos intézményben változó vagy alacsony, ennek fejlesztése nem stratégiai cél, így a bekövetkezett helyzetet csupán átmeneti szükséghelyzetként értékelik, amelyben <em>muszáj </em> infokommunikációs (IKT) eszközökhöz nyúlni. A másik ok a diákok és a szülők helyzetéből adódik. Mivel sokak esetében, részben a szociális háttérből adódóan, lényegesen kisebb mértékű a digitális eszközök és online platformok használata és ezek ismeretének a mélysége, így valós igény sem fogalmazódik meg ezek szélesebb körű bevonására az oktatásba vagy éppen az együttműködésbe.
+
+Így tehát a tanulást a krízis nagymértékű hatása ösztönözi, ám ez is csak fókuszált módon: a konkrét időben és helyen felmerülő eseti probléma megoldása mentén. Az intrakrízis tanulás megjelenése így korlátozott, az interkrízis tanulás pedig valószínűtlen.
+
+A hatás mértéke olyan iskolákban lehet alacsonyabb, ahol már számottevő tudás és tapasztalat elérhető a digitális oktatás kapcsán. Ez segítheti is a tanulást, ám előfordulhat, hogy pont a kompetenciák megléte miatt csupán a gyakorlat átvizsgálása (újraértelmező) vagy csak pontszerű, átmeneti tanulás történik, rendszerszerű átalakítás már nem.
+
+Érvelhetünk úgy is, hogy az iskola a jelenlegi krízishelyzet során mindenképpen tanul. Nem tud nem tanulni, hiszen problémát old meg, ezáltal tapasztalatokat és különféle kompetenciákat szerez, adott esetben új gyakorlatokat is kialakít. A tanulás azonban nem csak előremutató lehet. Rögzíthet olyan gondolkodásmódot és gyakorlatokat is, amelyek a normál működésrend során feleslegesek vagy akár károsak is lehetnek.
+
+## <strong>Immunitás – Hogyan tanulhat az iskola a krízisből?</strong>
+
+Mégsem reménytelen a helyzet, mivel a krízishelyzet nem csak nehézségeket hoz magával, de egy termékeny tanulási környezetet is. A tanulási folyamat során számos új tudás születik. Szervezeten belüli és szervezetek közötti formális és informális kapcsolatok jöhetnek létre, amelyek kitágítják a problémák megoldásához szükséges elérhető tudás körét, és diskurzust indítanak a felek között.
+
+Sok ilyen példát láthatunk. A pedagógusok az iskolában egymás között vagy éppen online közösségekben osztják meg tudásukat, így amiben eddig egy maroknyi pedagógus jeleskedett az országban, az most személyes kapcsolatok hálóján keresztül egy egész országhoz elérhet, és helyi szinten beépülhetnek a működésbe. A helyzet iskolán belüli koordinálása új kommunikációs gyakorlatokat és csatornákat hoz létre. Igény születik más állami, non-profit és for-profit együttműködésekre, amelyek az iskola feladatainak megfelelő ellátását segítik. Ilyenek lehet például a vállalati internetbiztonsági képzések vagy éppen szorosabb együttműködések gyermekvédelmi és egyéb szociális szervezetekkel. Ezek hatására a tudás már nem csak az adott iskolán és a szektoron belül, de a szektorok között is áramlik.
+
+Hogyan tanuljunk tehát most, és hogyan őrizzük meg a legfontosabb tanulságokat?
+
+<ul><li class="rtejustify">Szükséges, hogy az iskolákban megtörténjen a helyzet közös értelmezése, az iskolák képesek legyenek reflektálni a történésekre, és saját magukra, a bennük történt változásokra is, mivel a krízis hatásai az iskolák szervezi kultúráját valamilyen irányba és mértékben mindenképpen befolyásolják. Ennek tudatos alakítása az iskolavezetés fontos feladata.</li><li class="rtejustify">A vezetők és a munkatársi közösség tagjai közötti koordinációnak, struktúráknak is jelentős szerepe van. Felelősségeiknek és hatásköreiknek a helyzethez való illesztése szintén jelentősen javíthatja az iskola reakcióidejét és az adott válaszok megfelelőségét.</li><li class="rtejustify">Tudásmenedzsment-struktúrák kiépítésével szintén segíthető az iskola és munkatársainak tanulása. Szükséges a megszerzett tudás megfogalmazása, majd beépítése, amit az iskolavezetés pedig transzparens és mindenki számára jól elérhető feldolgozási folyamatok, fórumok és felületek létrehozásával támogathat, amelyek az iskolán belül és az iskolával együttműködő partnerek között is kapcsolatokat teremtenek.</li><li class="rtejustify">A partnerkapcsolatok a pedagógusok és az iskolák között, valamint más szakértőkkel és szervezetekkel nagyon előnyösek lehetnek. Bár ezek koordinációs igénye erőforrást igényel az iskolák részéről, de a kihívások leküzdésében ez megtérül nemcsak a tudás, de akár az erőforrások megosztása formájában is.</li><li class="rtejustify">A krízishelyzetet követően meg lehet fogalmazni eljárási protokollokat, amelyek hasonló helyzetekre készítik fel az iskolákat. Ilyen jelentések és tanulmányok készítése továbbá alapot jelenthet az iskolai és rendszerszintű döntéshozatalhoz, valamint hozzájárulhat reformtörekvések legitimálásához is.</li><li class="rtejustify">A szakirodalom figyelmeztet arra is, hogy bár az oktatáspolitikának fontos szerepe van az iskolák tanulásának facilitálásában a krízis során és után, a fejlesztéseknek alulról kell érkezniük, hogy a külső nyomás szülte látszatmegoldásokat elkerülhessük. Ahhoz, hogy a helyzetben felismert szükséges változtatások az oktatásban rendszerszinten is megtörténjenek, úgyszólván addig kell ütni a vasat, amíg meleg. Ha túl sok idő telik el a krízishelyzet és a reformjavaslatok megfogalmazása között, félő, hogy a helyzetet fenntartó struktúrák a sürgetettség hiányában továbbra is fennmaradnak.</li></ul>
+
+Írásom azért született, hogy felhívjam az iskolák és a közoktatás egyéb szereplőinek figyelmét arra, hogy éppen tanulnak. Minden szereplő mást tanul meg a helyzetből; ami másképp nem is lehet, és így helyénvaló is. Ahhoz azonban, hogy ez a tanulás közelebb vigyen minket egy ideálisnak vélt iskolai működéshez és közoktatási rendszer kialakulásához, párbeszéd szükséges, valamint tudatos jelenlét már a dolgok legsűrűjében is.
+
+## Irodalomjegyzék
+
+Antonacopoulou, E. P., & Sheaffer, Z. (2014). Learning in crisis: Rethinking the relationship between organizational learning and crisis management. Journal of Management Inquiry, 23(1), 5-21.
+
+Broekema, W., Van Kleef, D., & Steen, T. (2017). What factors drive organizational learning from crisis? Insights from the Dutch food safety services’ response to four veterinary crises. Journal of Contingencies and Crisis Management, 25(4), 326-340.
+
+Lampel, J., Shamsie, J., & Shapira, Z. (2009). Experiencing the improbable: Rare events and organizational learning. Organization science, 20(5), 835-845.
+
+Moynihan, D. P. (2008). Learning under uncertainty: Networks in crisis management. Public Administration Review, 68(2), 350-365.
+
+Robin, E., Chazal, C., Acuto, M., & Carrero, R. (2019). (Un) learning the city through crisis: lessons from Cape Town. Oxford Review of Education, 45(2), 242-257.
+
+Smith, D., & Elliott, D. (2007). Exploring the barriers to learning from crisis: Organizational learning and crisis. Management Learning, 38(5), 519-538.

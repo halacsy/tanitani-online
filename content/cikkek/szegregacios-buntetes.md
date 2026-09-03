@@ -1,12 +1,23 @@
 ---
-title: "Szegregációs büntetés?"
-author: "Asztalos György"
-authorSlug: asztalos-gyorgy
-date: "2026-03-17"
-tags: ["oktatáspolitika", "hátrányos helyzet", "iskolakritika", "romák", "alternatív iskolák"]
-excerpt: "A 2023. évi XCII. törvény 10%-kal csökkenti az olyan iskolák finanszírozását, ahol a hátrányos helyzetű tanulók aránya 15%-kal elmarad a települési átlagtól. Szándéka jó, de hatása visszafelé sül el."
-image: /images/cikkek/szegregacios-buntetes.jpg
+title: Szegregációs büntetés?
+author: Asztalos György
+date: '2026-03-17'
+tags:
+  - oktatáspolitika
+  - hátrányos helyzet
+  - iskolakritika
+  - romák
+  - alternatív iskolák
+excerpt: >-
+  A 2023. évi XCII. törvény 10%-kal csökkenti az olyan iskolák finanszírozását,
+  ahol a hátrányos helyzetű tanulók aránya 15%-kal elmarad a települési
+  átlagtól. Szándéka jó, de hatása visszafelé sül el.
 reads: 4567
+authorSlugs:
+  - asztalos-gyorgy
+coverImage: /images/cikkek/szegregacios-buntetes.jpg
+migratedId: 1397
+overrideMigrated: true
 ---
 
 **Asztalos György írása**

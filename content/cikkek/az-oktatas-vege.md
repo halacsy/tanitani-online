@@ -1,12 +1,22 @@
 ---
-title: "Az oktatás vége"
-author: "Kormos Janka"
-authorSlug: kormos-janka
-date: "2014-05-09"
-tags: ["iskolakritika", "oktatáspolitika", "pedagógusok", "nevelés"]
-excerpt: "Peter McLaren kritikai pedagógiája szerint az iskola a hatalmi struktúrák reprodukciójának eszköze. A standardizált tesztek a domináns tudásrendszert tükrözik – és marginalizálják az alternatívákat."
-image: /images/cikkek/az-oktatas-vege.jpg
+title: Az oktatás vége
+author: Kormos Janka
+date: '2014-05-09'
+tags:
+  - iskolakritika
+  - oktatáspolitika
+  - pedagógusok
+  - nevelés
+excerpt: >-
+  Peter McLaren kritikai pedagógiája szerint az iskola a hatalmi struktúrák
+  reprodukciójának eszköze. A standardizált tesztek a domináns tudásrendszert
+  tükrözik – és marginalizálják az alternatívákat.
 reads: 8234
+authorSlugs:
+  - kormos-janka
+coverImage: /images/cikkek/az-oktatas-vege.jpg
+migratedId: 559
+overrideMigrated: true
 ---
 
 **Kormos Janka reflexi&oacute;i Peter McLaren 2014. &aacute;prilis 15-i budapesti előad&aacute;s&aacute;r&oacute;l**

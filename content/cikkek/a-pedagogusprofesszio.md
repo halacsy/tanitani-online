@@ -1,12 +1,23 @@
 ---
-title: "A pedagógusprofesszió"
-author: "Pávics Judit"
-authorSlug: pavics-judit
-date: "2025-12-02"
-tags: ["pedagógusok", "nevelés", "neveléstörténet", "oktatáspolitika", "kompetencia"]
-excerpt: "A tanítás az ókori görög erkölcsi modelltől a középkori fegyelmező iskolamestereken át jutott el a mai sokrétű, reflektív praxis fogalmáig. A tanári jólét és a diákok teljesítménye elválaszthatatlanul összefügg."
-image: /images/cikkek/a-pedagogusprofesszio.jpg
+title: A pedagógusprofesszió
+author: Pávics Judit
+date: '2025-12-02'
+tags:
+  - pedagógusok
+  - nevelés
+  - neveléstörténet
+  - oktatáspolitika
+  - kompetencia
+excerpt: >-
+  A tanítás az ókori görög erkölcsi modelltől a középkori fegyelmező
+  iskolamestereken át jutott el a mai sokrétű, reflektív praxis fogalmáig. A
+  tanári jólét és a diákok teljesítménye elválaszthatatlanul összefügg.
 reads: 2103
+authorSlugs:
+  - pavics-judit
+coverImage: /images/cikkek/a-pedagogusprofesszio.jpg
+migratedId: 1370
+overrideMigrated: true
 ---
 
 **Szerepváltozások a fegyelmező iskolamesteri neveléstől a pozitív pedagógiáig. Pávics Judit írása**

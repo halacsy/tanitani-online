@@ -1,0 +1,52 @@
+---
+title: Emlékezés a kunszentmiklósi ÁMK hőskorára
+migratedId: 912
+overrideMigrated: true
+authorSlugs:
+  - mozes-erno
+date: '2018-11-21'
+tags:
+  - örökség
+excerpt: >-
+  Mózes Ernő írása. A szerző az ÁMK alapítása idején a város tanácselnöke volt,
+  később első – független – polgármestere. Az írás eredetije elhangzott
+  Kunszentmiklóson 2018. október 5-én a 80 éves Turcsányi Lászlót köszöntő ÁMK-s
+  baráti-szakmai találkozó nyitányaként.
+coverImage: /sites/default/files/image001.jpg
+reads: 3602
+---
+<strong>Mózes Ernő írása. A szerző az ÁMK alapítása idején a város tanácselnöke volt, később első – független – polgármestere.</strong>
+
+> Az írás eredetije elhangzott Kunszentmiklóson 2018. október 5-én a 80 éves Turcsányi Lászlót köszöntő ÁMK-s baráti-szakmai találkozó nyitányaként.
+
+<img alt="" src="/sites/default/files/mozes.jpg" style="width: 470px; height: 191px;">
+
+„Legyen az egész közösségé a létesítmény!” – így kezdte avatóbeszédét Győri Imre, az Országos Közművelődési Tanács akkori elnöke 1985. augusztus 30-án, a kunszentmiklósi Általános Művelődési Központ avatásán. Ebben a korát meghaladó, színpompás épületben 6 klub, 5 stúdió, 16 tanterem volt hivatott szolgálni a nevelési-oktatási és közművelődési feladatokat. Az impozáns épületben az előbb említetteken túl 450 személyt befogadó nagyterem, valamint kiállításokra, pódiumműsorok rendezésére alkalmas aula létesült az akkori BÁCSÉPSZER Vállalat kivitelezésében a jeles építész, Pethes Endre tervei alapján egy évvel az átadási határidő előtt. 1986 tavaszán átadásra került a 2000 kötetes könyvtár is, így teljessé vált a fejlesztés.
+
+A köszöntő politikus avatóbeszédében országosan is kiemelkedőnek minősítette a megépült létesítményt. Egyedülállóan színvonalas, a XXI. század igényeinek is megfelelő általános művelődési központ épült. A 90 millió forintos összegű beruházás abban az időben ritkaságnak számított, de az akkori állami vezetés és mi magunk, kunszentmiklósiak is azt vallottuk, hogy a kultúrára, a művelődésre és az oktatásra költött milliók a jövő megalapozása érdekében szükségesek, és ezek ezerszeresen is megtérülnek. Kunszentmiklós lakossága 5 millió forint értékű készpénzzel támogatta a beruházást – téglajegyek formájában. Ez az iskolaavató igazi nagy ünnep volt Kunszentmiklóson.
+
+Nagy örömünkre szolgált, hogy az avatóünnepségre a kunszentmiklósi gyerekek és pedagógusok színvonalas műsorral készültek, és boldogan vették birtokba az új épületkomplexumot. Csodás évek következtek. A közoktatás és közművelődés integrációja megvalósult, a pedagógusok szinte megújultak. Annyi tettre kész, újat kutató és megvalósító pedagógust eddig elképzelni sem lehetett. Országos hírűvé tették a Varga-testvérek (Tamás, Balázs és Domokos) munkássága nyomán már ismert települést és az ÁMK-t az itt dolgozó lelkes pedagógusok és az akkori intézményvezetés.
+
+A legfontosabb „kiteljesedések”:
+
+<ul><li>megkezdődhetett a szaktantermi oktatás,</li><li>a természettudományos tárgyak tanítását új felszerelések segítették,</li><li>nyelvi labor szolgálta a nyelvtanulást,</li><li>számítógépes terem segítette a matematikában és a természettudományokban való elmélyülést.</li></ul>
+
+Ha meggondoljuk, hogy mindez 1985-ben megvalósult, s ezt összehasonlítjuk a mai oktatással, akkor igazán elmondhatjuk, hogy ez több mint 30 évvel ezelőtt nagy előrelépés volt.
+
+Megkezdődött a speciális „sakkosztályok” szervezése. Országos hírűvé vált a kunszentmiklósi sakkoktatás. A tanárok, különösen a Bege Márton tanár úr megszállottsága és elkötelezettsége a nemzetközi sakkmesterek bevonásával nemzetközi hírű, számos országos bajnokságot nyerő általános iskolás korú fiúk, lányok nevelődtek ebben a programban. (Kegyelettel emlékezünk a fiatalon elhunyt Mesterre.) Nemzetközileg is ismert munkájuk egyik megalapozója lett a Szentmiklósi Napoknak, az idén már 24. évét megérő rendezvénynek. Cserediákok jöttek, és ezáltal a helyi diákok is eljuthattak külföldre. Ez segítette a világban való tájékozódásukat. Csak felsorolásképpen említem még az innovációk közül a cigány tanulók felzárkóztatásának, integrációjának programjait, erdei iskola indítását, a drámapedagógiai oktatás kezdeményezését, a gyermek birkózósport ágazat kiteljesedését, a nemzetközi népzenei és sakktáborok megszervezését. Kiemelkedő szerepet töltött be a Művészeti iskola Honti László tanár úr vezetésével. A rajz-, a zene-, a táncoktatás magas színvonalúra fejlődött, vonzotta a helyi és környékbeli iskolák tanulóit, fiataljait.
+
+Az ÁMK-ban folyó munka megszervezésében és irányításában elévülhetetlen érdemei voltak Galambos Sándornak és az akkori iskolavezetésnek. Két évig megbízott igazgatók vezették az intézményt, ezt követően a most 80 esztendős Turcsányi László pályázatát fogadta el a tantestület. A megkezdett színvonalas munka folytatódott. Turcsányi igazgató úrnak és az akkori intézményvezetésnek nagy érdeme volt, hogy az intézményben meglévő kezdeményezéseket elfogadta annak értékeivel együtt, támogatta, a törekvéseket segítette. Minden működő szakkört, tanulókat segítő foglalkozást igyekeztek minél tartalmasabbá tenni új kezdeményezésekkel, ezzel is hozzájárulni az ÁMK fejlesztéséhez. Turcsányi László korábbi ÁMK-s tapasztalatait jól hasznosította a pedagógiai munkában és a pedagógusokkal alakuló kapcsolataiban. A pedagógusokat munkatársnak tekintette. Ebben az időben is magas színvonalú volt, eredményeket mutatott fel a sakkoktatás. A tanulmányi munkát eredményesen segítette az erdei iskola, a cigány tanulók felzárkóztatási programja, a drámapedagógiai foglalkozások bevezetése. Az új igazgató odafigyelt a legfontosabb területekre és azokat támogatta. Sikeresek voltak a birkózók is Bíró Károly vezetésével.
+
+Kívülállóként mint akkori településvezető úgy gondolom, úgy tapasztaltam, hogy Turcsányi László hozzáállásával bátorította, elismerte a pedagógusok munkáját. Jó volt vele dolgozni, jó pedagógiai kapcsolatokat tudott kiépíteni. Az elért eredmények is erről tanúskodnak. (Az egykori Országos Pedagógiai Intézet kutatócsoportja Pőcze Gábor vezetésével elemezte az ÁMK létrehozását és működését – az „Intézmény a rendszerváltás sodrában” című kutatásban. Turcsányi befolyásos aktivistája lett az ÁMK-k országos szakmai egyesületének.)
+
+Elismerést érdemelnek a későbbi vezetők is. Molnár Péterné követte Turcsányi Lászlót. Az igazgatónő és az iskolavezetés tartalmas szabadidős foglalkozások megszervezésével emelte a nevelő-oktatómunka, művelődés színvonalát. Példaértékűek voltak a szaktáborok. Felerősödött a cserediák-mozgalom. Sokat tett az irodalomoktatás színvonalának emeléséért. A könyvtári munka kihasználásával versmondó versenyek szervezésével segítette a tanulók beszéd- és kifejezőkészségének fejlesztését. Tanulói sok szép eredményt értek el versenyeken, az igazgatónő munkáját több elismerés dicséri. Helytörténészként ő írta meg a város iskoláinak történetét, benne az ÁMK-ét is.
+
+<img alt="" src="/sites/default/files/image005-w470_0.jpg" style="width: 470px; height: 626px;">
+
+Ma Horváth Tibor az „utód”, az általános iskola igazgatója., Fiatalos lendülettel, szakmai lelkesedéssel, tanulmányi versenyek szervezésével látott munkához. 2005-ben az országos ÁMK-mozgalom jeles vándorgyűlésén otthont adott az „ ÁMK-k Varga Domokos fejlesztési programja” kidolgozásának. Tibor nagy érdeme a történelem tantárgy megszerettetése a tanulókkal, az évente, a környékre kiterjedő vetélkedők. Pályázatok elnyerésével igyekezett az iskola állagának megőrzésében előre lépni. A nevelő-oktató munkában nagy hangsúlyt helyeznek a tanulók testi fejlődésének megőrzésére, sport- és szabadidős foglalkozások színvonalas megszervezésével.
+
+Az intézményi munka megszervezése során a pedagógusok sokat tettek a hátrányos helyzetű tanulókért, témanapok rendezésével, a projektoktatás napi alkalmazásával, színesebbé és főként elsajátíthatóvá teszik ezáltal a tananyagot. El kell ismerni, hogy ez a feladat egyre nehezebbé válik a jelen társadalmi körülmények kötött. Az, hogy ez a példamutató, XXI. századra is előremutató törekvés mára mikor bicsaklott meg, vagy szűnt meg, ez alapos vizsgálatot igényel.
+
+A változott társadalmi feltételek új helyzetet teremtettek, a tanulók egy részét elviszik az újonnan alakuló iskolákba. Ezért a tanulói létszám is jelentősen csökken, az itt maradt tanulók tudása hiányos, szocializációjuk enyhén szólva rögös úton halad. Alig akad húzóerő a tanulóközösségekben. Meg kell találni az iskolarendszer jelenlegi buktatóit, a továbbfejlesztés lehetőségeit, az integrált nevelés, a fiatalok és felnőttek művelődési igényeinek jobb támogatását. Az nem lehet, hogy ennyi felhalmozott érték veszendőbe menjen, megsemmisüljön!
+
+<img alt="" src="/sites/default/files/image003-w470_0.jpg" style="width: 470px; height: 264px;">

@@ -1,0 +1,75 @@
+---
+title: A gyermekek néptáncmozgalma hőskorából
+migratedId: 1027
+overrideMigrated: true
+authorSlugs:
+  - mihalyi-jozsef
+date: '2020-07-05'
+tags:
+  - népi kultúra
+  - örökség
+excerpt: >-
+  Györgyfalvay Katalin emléke. Mihályi József írása A táncosai pontosan tudták,
+  hogy Györgyfalvay nem a pedagógiai tervszerűség elvét követve alkotott.
+coverImage: /sites/default/files/gyorgyfalvay_katalin.jpg
+coverAlt: Györgyfalvay Katalin
+coverTitle: Györgyfalvay Katalin
+reads: 3223
+---
+<strong>Györgyfalvay Katalin emléke. Mihályi József írása</strong>
+
+> A táncosai pontosan tudták, hogy Györgyfalvay nem a pedagógiai tervszerűség elvét követve alkotott. 
+
+Györgyfalvay Katalint (1937-2012) személyesen 1982-ben ismertem meg, amikor húszévesen a Vasas Művészegyüttes tánckarából a Népszínház Táncegyüttes hivatásos társulatához kerültem. Az ismerkedés első időszakára – így az idő távlatából is – úgy emlékszem, hogy a próbák alatt az instrukcióiból alig értettem meg valamit. Ilyenkor segítségemre siettek a Vasas együttes régi táncosai, akiknek hívására tulajdonképpen az együttesbe jelentkeztem és „lefordították” nekem az olyan érthetetlen idegen szavakat, mint például: crescendo-decrescendo, tempo giusto, accelerando-ritardando és más, számomra ismeretlen zenei kifejezéseket. A munka közben csak fokozódott a zavarodottságom, mivel irodalmi, képzőművészeti hivatkozásait sem ismertem, és bár többször említette, hogy „nem szégyen kérdezni”, büszkeségből elengedtem fülem mellett a célzásait. Ezenkívül a próbák rendkívül erős szakmai fegyelme mellett – amit Györgyfalvay a saját munkájában is végig megkövetelt – a társulat külföldre egyáltalán nem utazott. Ugyanakkor más amatőr vagy hivatásos együttesek egyfolytában jártak a világ minden tájára. Ezért két év után úgy döntöttem, hogy kilépek az együttesből, és jelentkeztem a Duna Művészegyüttes tánckarába, ahová fel is vettek. 1984-ben két év utazgatás és a kevésbé szigorú előadói-szakmai követelés mellett azonban hiányérzetem támadt.
+
+Furcsa módon hiányzott a szigorúság és a fegyelem, és mert a hivatás is érdekelni kezdett, visszakéredzkedtem a Népszínház Táncegyütteshez, ahová Györgyfalvay egy hosszas beszélgetés után vissza is vett. Innentől kezdve munkatársi kapcsolatunk minőségi változáson ment keresztül. Ha csak tehettem, mindig rákérdeztem az ismeretlen kifejezésekre és társművészeti hivatkozásaira. Erre a különpróbák során (mivel ekkor kaptam első szóló szerepeimet) nyílt igazán lehetőségem, illetve a többnapos belföldi „turnékon” és az előadások utáni, esti beszélgetéseken. (Ezekben az években ajánlotta fel – nem kis meglepetésemre – a tegeződést is). Az együttesen belüli „továbbképzések” egészen 1988-ig, nyugdíjba vonulásának évéig folytatódtak.
+
+Amikor a ’90-es években elkezdtem a Vasas együttesben koreográfiákat készíteni, a szakmai, „mester és tanítvány” közötti kapcsolat tovább folytatódott. Ha hívtam, mindig eljött, és próbált segíteni. Ilyenkor néhány mondatban elmondta, hogy mit tart jó megoldásnak, de azt is (és ebből volt több), amit nem. A tanácsaihoz hozzáfűzte, hogy amit mond, csak ajánlás, nem muszáj megfogadni, de mindig hozzátette, hogy szerinte még miket kellene elolvasni, minek nézzek utána. Kapcsolatunk aztán 2000-ben újra hivatalos formát nyert, mikor jelentkeztem a Magyar Táncművészeti Főiskola néptánc-koreográfus szakára, ahol az első évben ő tanította a Koreográfiagyakorlat és -elmélet tantárgyat. Ezektől az évektől, a „tanár-diák jogviszony” évei alatt, kezdtem a Balaton utcai lakására feljárni és vele hosszasan beszélgetni. Az évtized végére, a sok-sok konyhai szakmázás és anekdotázás alatt kapcsolatunk már „baráti” jelleget öltött. Ez annyira igaz, hogy 2007-ben megengedte, hogy megszervezzem a 70. születésnapi köszöntőjét a Vasas Művészegyüttes székházában.
+
+Györgyfalvay Katalin Budapesten született 1937. január 12-én. Életének és munkásságának főbb állomásait Fuchs Lívia írásai alapján rendeztem időrendi sorrendbe.
+
+Györgyfalvay a családjáról – édesanyjáról, édesapjáról, testvéréről – keveset beszélt. A róluk szóló információkból kiderül, hogy szülei „úgynevezett magasan kvalifikált értelmiségiek” voltak, akik nem sokat törődtek vele. Elmondása szerint úgy érezte, családjában nem nagyon volt helye, és mikor 14 évesen sikeresen felvételizett a Néphadsereg Művészegyüttes tánckarába, beköltözött a Váci utcai Tisztiházba, mivel édesapja kitagadta. Hivatásos táncos évei alatt magántanulóként érettségizett le, és ezzel egy időben „B” kategóriás oktatói vizsgát tett a Népművészeti Intézet tanfolyamain. Miután 1956-ban feloszlatták a Honvéd együttest és őt osztályidegennek nyilvánították, 1957 legvégéig nyilvántartott munkanélküli volt. Ebben az időszakban egy újságíró barátja révén lehetősége lett volna új életet kezdeni, egyetemre járni Franciaországban, de az itthon maradást választotta.
+
+1957-ben képesítés nélküli tanítói státuszban néptáncot tanított több budapesti zenei általános iskolában, miközben ének-zene tanári diplomát is szerzett a Tanárképző Főiskola levelező szakán. Ebben az évben Györgyfalvay megpróbált stabil állást keresni. Így került a Népművészeti Intézet Táncosztályához, aminek akkor Pór Anna volt a vezetője. Itt ismerkedett meg későbbi férjével, Szigeti Károllyal és – elmondása szerint – ekkor kezdődött életének következő szakasza.
+
+Állást ugyan nem kapott, munkát viszont annál inkább. Szigeti rögtön bedobta a „mély vízbe”, és levitte Kecskemétre, ahol a Kodály Zoltán Ének-zenei Általános Iskolában elkészítette első gyermekjáték-összeállítását <em>Pünkösdölő </em> címmel. Szigeti Károly még ugyanebben az évben bevitte őt a Bihari János táncegyüttesbe is, ahol megismerkedett Novák Ferenccel, és 1962-ig hárman vezették az együttest. Györgyfalvay az asszisztensi munka mellett a HVDSZ Kulturális Osztályán egy éven keresztül funkcionáriusi feladatokat is vállalt, aminél véleménye szerint nincs abszurdabb lét a világon. Ezzel együtt a Bihari együttesben ő vezette a balett-tréningeket, és itt készítette el első koreográfiáját <em>Széki dalok </em> címmel
+
+Györgyfalvay mint a Népművelési Intézet gyermektánc-munkaközösségének tagja 1959-től részt vett a <em>Gyermektáncok</em> I-II-III. könyvsorozat 1960-ban, 1961-ben és 1962-ben megjelent köteteinek összeállításában.
+
+Gyerekkorában Jármai Edit balett-stúdiójában tanult táncolni. Az ő ajánlására felvételizett sikeresen a Néphadsereg Művészegyüttes tánckarába, és a hivatásos táncos pályát (14 évesen) 1951. augusztus 15-én kezdte meg. Ezekben az években László-Bencsik Sándor vezette a tánckart. Emlékei szerint az együttesben mindenki kedves volt vele és vigyázott rá, különösen Nádasi Marcella balettmesternő, akire a sok évtized távlatából is szívesen emlékezett vissza. Elmondása szerint a mesternő mindenkiből kihozta, amit csak lehetett. Mivel Györgyfalvay nagyon sokat gyakorolt – általában úgy, hogy mások ne lássák – hamar a jobbak közé számított. A próbák szüneteiben az öltöző tükrére ragasztott cédulákról matematikát és kémiát tanult, mert készült az érettségire. Szabadidejében Shakespeare-t, Thomas Mannt és orosz klasszikusokat olvasott, vagy a Váci utcai Bartók Terembe járt komolyzenei hanglemezeket hallgatni, az együttesben pedig folyamatosan kérte a zenészeket, kórustagokat, hogy tanítsák meg szolmizálni. Közben a pályakezdő Györgyfalvay, miután egy előadás alatt Seregi László <em>Kalotaszegi táncok</em> című koreográfiájában nem volt hajlandó a többiekkel együtt rossz ütemben belépni a zenére, fegyelmit kapott. Ekkor magyarázták el neki, hogy hogyan lehet valakinek úgy igaza, hogy még sincs igaza.
+
+1955-ben Molnár István lett a Honvéd együttes tánckarának vezetője. Innentől kezdve Györgyfalvay a balettképzés mellett Molnár-technikát is tanult, amiről később úgy vélekedett, hogy: „forogni, na azt meg lehet tanulni belőle.” Bevallása szerint azonban ő az együttesnél fél évig dolgozó szovjet vendégkoreográfustól tanulta meg igazán, hogyan kell forogni. Ugyanis ekkor értette meg, hogy mi a tengely, a forgatóerő és a forgatónyomaték.
+
+Györgyfalvay pedagógiai munkásságának kezdetéről tudjuk, hogy 1957-től az általános iskolai néptáncoktatás mellett éveken keresztül nyári gyerektánctanfolyamokat vezetett. A bentlakásos tanfolyamokat általános iskolai pedagógusoknak tartotta, és elmondása szerint a rövid kis számok mellett rengeteg gyerekjátékot csinált, szabadidejében pedig a Magyar Népzene Tára <em>Gyerekjátékok</em> című kötetét tanulmányozta, amit később is az egyik kedvenc olvasmányaként említett.
+
+Ebben az időszakban készített játékfűzései bekerültek a ’60-as évek elején megjelenő <em>Gyermektáncok</em> I.-II.-III. köteteinek anyagába. A Tankönyvkiadó által kiadott sorozat anyagát a Népművelési Intézet gyermektánc-munkaközössége: Györgyfalvay Katalin, Magyari Gizi, Osskó Endréné, Simay Zsuzsa, Szentpál Mária, Szentpál Olga és Szigeti Károly állította össze. A köteteket Szentpál Mária szerkesztette. A kiadványokban szereplő néptáncgyakorlatok, etűdök és játékfűzések főként az úttörő- és az általános iskolai táncszakkörök részére készültek.
+
+Ezzel egy időben az Országos Pedagógiai Intézet (OPI) felkérésére Györgyfalvay és Osskó Endréné elkészítették <em>A néptánc tanterve és utasítása </em> című tanítási anyagot. A tananyag lényegében szabad válogatás a <em>Gyermektáncok</em> köteteiből. Az 1961-ben és 1962-ben megjelent füzetek az ének-zene tagozatú általános iskola I-IV. és V-VI. osztálya számára készültek. (A VII-VIII. évfolyamok anyaga már nem jelent meg.)
+
+Györgyfalvay – a <em>Táncművészeti Dokumentumok</em> 1983-as számában található dolgozatában – az ének-zene tagozatú általános iskolákban folyó néptánctanítás funkciójáról a következőket írja.
+
+> Anyagában a magyar folklóron, szemléletében a magyar néptáncművészet legjobb eredményein, módszerében a korszerű művészetpedagógián alapuló táncművészeti oktatás legyen, amely végső soron vázlatos betekintést nyújt az egész táncművészet leglényegesebb összefüggéseibe – az összműveltség részeként, és a speciális iskolatípust figyelembe véve.
+
+A speciális iskolatípusra vonatkozó 1962-es tanulmányban egyben pedagógiai szemléletét, nézeteit is kifejti.
+
+> Az énekes-táncos népi gyermekjátékokon és a motívumtanításon keresztül elérhető a mozgáskészség fejlesztése, a térérzékelés fejlesztése, a felső tagozatban az improvizációs jártasság kialakítása és a maradandó élmény nyújtása, mikor a „gyereket érzelmileg annyira megfogja a művészetben rejlő (felismertetett!) emberi kifejezés lehetősége, hogy értelmileg is hajlandó utánajárni ennek a varázslatnak.
+
+Fogalmazásából kiderül, hogy – bár a fejlesztési feladatokat illetően más néptánc-pedagógiai terminológiát használt – már 1962-ben az elmúlt években tartalmilag megújult, korszerű kompetenciaalapú oktatás elvei szerint gondolkodott. Ebben az írásában kitér az oktatóképzésre is. Véleménye szerint a néptánc tanítása éppen olyan „szakma” mint a többi, ezért a néptáncoktató-képzés ügyét valamelyik pedagógiai főiskolához kéne csatolni
+
+Itt kell megemlíteni a Népművelési Propaganda Iroda által 1973-ban kiadott <em>Gyermektáncok </em> című kiadványt is, melynek törzsanyagát a 12 évvel azelőtt megjelent <em>Gyermektáncok</em> című kötetek anyagaiból Györgyfalvay és Simay Zsuzsa válogatta. A könyv bevezetőjét és a didaktikai tanácsokat Györgyfalvay írta. Ezekből a fejezetekből kiderül, hogy a könyv elsősorban a néptáncszakkörök munkáját hivatott segíteni, de a didaktikai tanácsokban – az általános szakmódszertani szabályok mellett – megemlíti a testtartásokra, a gesztusokra és a partnerekkel szembeni magatartásra való odafigyelés fontosságát is.
+
+Pedagógiai munkásságának meghatározó eleme – az iskolai szintű néptáncoktatás mellett – a felnőtt táncosok számára kidolgozott klasszikusbalett-gyakorlatokon alapuló tréningje. Ezt a maga által „manipulált balett-tréningnek” nevezett technikát előbb a Bihari együttesben, majd a Vasas együttesben és a Balett Intézetben, végül a Népszínház Táncegyüttesben dolgozta ki. Mivel a klasszikus balettben és a folklórban meglévő felsőtest- és karhasználatokat Györgyfalvay nem érezte technikai elvárásainak megfelelőnek – a forgás- és ugrásgyakorlatok mellett – nagy hangsúlyt fektetett a testtudat ezekre vonatkozó, magas szintű kialakítására. A különböző rúd-, közép- és diagonál gyakorlatokat, mindig eltérő ritmusú és tempójú karkíséretekkel, gesztusokkal, mozdulatokkal kombinálta.
+
+A táncosai pontosan tudták, hogy Györgyfalvay nem a pedagógiai tervszerűség elvét követve alkotott. Mivel emberekkel dolgozott, a próba „cél- és feladatrendszerének” alapos előre tervezését nem tartotta életszerűnek. Ez nem azt jelenti, hogy nem voltak előzetes elképzelései arról, amit látni szeretett volna, de legtöbbször csak a próbateremben derült ki, hogy a kigondolt formák, szituációk az adott térben és az adott előadókkal működnek-e. Ez nyilvánvalóan igaz lehet a színház- és táncművészet egészére nézve is, azonban Györgyfalvayt olyan szintű igényesség és maximalizmus jellemezte, hogy ha egy készülő műben megoldatlanságokat vélt felfedezni, képes volt egy többhetes munkafolyamatot megszakítani és akár az egészet elölről elkezdeni. Ilyenkor – hogy táncosai ne kudarcként éljék át döntését – indoklásul személyes élményein keresztül elmagyarázta, hogy milyen hasznos dolog az életben, ha az ember a rossz megoldásokból is tud tanulni.
+
+Gyermektánc-koreográfiái éveken át voltak a korosztályi találkozók ékkövei. A művészi hitelesség és igényesség a gyerekvilág pontos ismeretével társultak.
+
+## Irodalom
+
+Bura Ibolya: A népművészet napszámosa – Keszler Mária életútja és írásai. Budapest–Szekszárd, 2014.
+
+Fuchs Lívia: Egy pálya emlékezete. Beszélgetéssorozat Györgyfalvay Katalinnal. Parallel, 2013 (28), 12-19.
+
+Péter Petra: [Györgyfalvay Katalin: Bújócska, 1983](https://tanc.academia.edu/Departments/Modern_and_Contemporary_Dance_History/Documents). Az elemzés a Philther-projekt szempontrendszere alapján készült.
+
+Riba Katalin: [Az iskolai néptánctanítás történetéhez](/az_iskolai_neptanctanitas). Taní-tani Online, 2017. május 17.

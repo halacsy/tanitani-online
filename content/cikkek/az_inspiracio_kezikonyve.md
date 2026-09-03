@@ -1,0 +1,33 @@
+---
+title: Az inspiráció kézikönyve
+migratedId: 743
+overrideMigrated: true
+authorSlugs:
+  - kerenyi-mate
+date: '2016-04-27'
+tags:
+  - hátrányos helyzet
+excerpt: >-
+  Alternatív leckék. Kerényi Máté recenziója Takács Viktória (szerk.):
+  Alternatív leckék. Innovatív pedagógiai eszközök a hátrányos helyzetű gyerekek
+  fejlődéséért. Demokratikus Ifjúságért Alapítvány, Budapest, 2016.
+coverImage: /sites/default/files/cimlap.png
+reads: 5825
+---
+<strong>Alternatív leckék. Kerényi Máté recenziója</strong>
+
+> Takács Viktória (szerk.): Alternatív leckék. Innovatív pedagógiai eszközök a hátrányos helyzetű gyerekek fejlődéséért. Demokratikus Ifjúságért Alapítvány, Budapest, 2016.
+
+<img alt="" src="/sites/default/files/13081765_10207942771821325_1078905390_n.jpg" style="width: 250px; height: 140px; float: left; margin-right: 15px;">Nem hittem volna, hogy valaha dicsérni fogok egy könyvet, amiben szerepel az a szó(?), hogy #mulatási (hogy hol, azt csak az tudhatja, aki elolvassa!). Ráadásul ez még a kisebb meglepetések közé tartozik, amiket a [Demokratikus Ifjúságért Alapítvány](https://www.facebook.com/Demokratikus-Ifj%C3%BAs%C3%A1g%C3%A9rt-Alap%C3%ADtv%C3%A1ny-120913927949388/?fref=ts) (DIA) [Alternatív leckék című kiadványa](https://i-dia.org/#kiadvanyaink) tartogatott számomra. Nagyjából három hete kaptam belőle egy példányt, és ránézésre már most elhasználtabb, mint Balog Zoltán érvei a „szeretetteljes szegregáció” mellett. Amikor a könyv bemutatója után [beszélgettem Galambos Ritával](http://kettosmerce.blog.hu/2016/04/11/_ha_nem_tortenik_valami_nem_lesz_mibol_nyugdijad_galambos_rita_a_gyermekszegenyseg_es_az_oktatas_kap), a könyv egyik szerzőjével (aki mellesleg a DIA ügyvezetője is), megkérdeztem tőle, hogy „Ez mi?”, mire Rita rávágta, hogy „Saláta.” Na, az enyém már tényleg az. Azt hiszem, ennél szemléletesebben nem tudom illusztrálni, hogy az Alternatív leckék tényleg annyira használhatóra sikeredett, hogy rongyolódásig fogja forgatni minden pedagógus (vagy esetemben: leendő pedagógus), akinek sikerül szereznie belőle. 
+
+<img alt="" src="/sites/default/files/13072269_10206412071003002_1663741889_o.jpg" style="text-align: justify; width: 250px; height: 157px; float: right; margin-left: 15px;">
+
+Persze Rita mást értett a „saláta” alatt: a kiadvány törzsét kilenc tematikus modul adja, amik módszertanokat, fejlesztési területeket, szemléleteket mutatnak be a legkülönbözőbb témákban. Olvashatunk érzelmiintelligencia-, szociáliskompetencia-, szövegértés-fejlesztésről, közösségi vitaszervezési és drámapedagógiai módszertanokról, problémaalapú tanulásról, társasjáték-pedagógiáról, közösségi szolgálatról és gyerekjogokról is. A feldolgozott témák tekintetében tehát valóban „saláta”, de annál sokkal több is. A könyv minden fejezete a kortárs hazai pedagógia egyik legfontosabb kérdésére ad egy lehetséges választ: milyen eszközei vannak a pedagógusnak (vagy más „ifjúsági szakembernek”), aki hátrányos helyzetű gyerekekkel foglalkozik?
+
+Odáig is elmennék, hogy (bár csak közvetve) ez nem csak a pedagógia, hanem az egész társadalom egyik legakutabb kérdése is egyben. Nem kell hosszú kutatómunkát végezni ahhoz, hogy ezt az állítást alá tudjam támasztani: a kiadványhoz tartozó [Tanulószoba](https://tanuloszoba.eu/) projekt keretében a DIA pont ezt a feladatot végezte el helyettem. Ezzel végérvényesen lezárták az arról szóló vitát, hogy hatással van-e a többségi társadalom jövőjére, hogy az oktatási rendszerünk képtelen (nem hajlandó?) lehetőséget biztosítani a hátrányos helyzetű gyerekek számára a valódi integrációra, a munkaerőpiacon is használható tudás elsajátítására. Jelenleg 150-200 ezer gyerek nem jut Magyarországon minőségi oktatáshoz, vagyis jár „munkanélküli képzőbe”. Ez azt jelenti, hogy a jelenlegi tendenciák mellett 2035-re a társadalom egyharmadának kell majd eltartania a másik kétharmadot. A kutatás eredményeinek, gazdasági, társadalmi, és morális vonatkozásainak részletezése most nem feladatom, annyi mindenesetre világos, hogy valaminek történnie kell: az <em>Alternatív leckék</em> létező hazai példákon keresztül mutatja be, hogy nagyjából minek.
+
+Szerteszét az országban, sajnos nagyrészt csendben [működnek](https://demoblog.hu/) olyan (szinte kizárólag civil) kezdeményezések, programok, intézmények, amik a legkorszerűbb pedagógiai módszereket a saját innovációikkal, tapasztalataikkal ötvözve dolgoznak azokkal a gyerekekkel, akiknek az élethelyzetéből adódó pedagógiai kihívásokra a magyar közoktatás egyszerűen nem tud értelmes választ adni. Az OECD-adatokból úgy tűnik, a legtöbb jelenleg „praktizáló” pedagógus elé megoldhatatlan akadályokat támaszt az, ha egy gyerek mondjuk cigánytelepen él, vagy csak „szimplán” tanulási nehézségekkel küszködik. Erre az eszköztelenségre (pontosabban: az ebből fakadó kétségbeesésre, kiégésre) ad választ a könyv: felvillant lehetőségeket, amikkel bárhol, bármilyen megrekedt pedagógus élhet.
+
+Ennek a hasznát aligha lehet a teljesség igényével taglalni. Ha a kötet megtalálná közönségét, a civil szervezetek módszertanai végre becsoroghatnának a közoktatás repedéseibe, és a munkájukat túl gyakran szélmalomharcként megélő óvók/tanítók/tanárok „levegőhöz jutnának”. Vitathatatlan tény, hogy az intézményrendszer, amiben a pedagógusok dolgozni kénytelenek, nemhogy megkönnyíteni képtelen, de általában inkább csak nehezíti a munkájukat. Ugyanakkor be kell látnunk azt is, hogy pedagógusként kötelességünk megtenni mindent azokért a gyerekekért, akik az osztálytermünkben/csoportszobánkban vannak, még akkor is, ha ezt orkánszerű politikai szembeszélben kell tennünk. A kiadvány természetesen nem varázsigéket tartalmaz, amelyek bármilyen problémahelyzetet feloldanak, de annyi lehetséges utat, szemléletet, módszert tár elénk, amikből képtelenség nem inspirációt nyerni – ehhez viszont az kell, hogy inspirálódni akarjunk. Ha csupán a könyv (szerzői) által képviselt oktatásszemléletet „visszük haza” belőle, máris egy óriási lépést tettünk afelé, hogy olyan pedagógussá váljunk, amilyenekre a legnehezebb sorsú gyerekeknek szüksége van.
+
+A könyv ezért mindent megtesz, amit egy könyv megtehet. A láthatóan mindennapi használatra tervezett formájával, a benne leírt számtalan, önmagában is működő játékkal, fénymásolható mellékleteivel és tátottszájjalolvasós esetleírásaival az <em>Alternatív leckék</em> olyan kompakt kötet lett, ami egyszerre képes átfogó társadalmi problémákkal és nagyon konkrét szakmai kérdésekkel foglalkozni. Ha valamire nem találunk benne választ, biztosak lehetünk benne, hogy van benne egy ajánlás vagy egy link, aminek segítségével elindulhatunk a megoldás felé. Csak rajtunk áll, hogy használni fogjuk-e.

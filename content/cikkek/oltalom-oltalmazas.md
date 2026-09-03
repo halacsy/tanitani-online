@@ -1,0 +1,51 @@
+---
+title: Oltalom-oltalmazás
+migratedId: 1212
+overrideMigrated: true
+authorSlugs:
+  - upor-laszlo
+date: '2023-10-03'
+tags:
+  - oktatáspolitika
+excerpt: >-
+  Upor László beszéde Elhangzott szeptember 30-án a Magyarországi Evangéliumi
+  Testvérközösség békásmegyeri templomának kertjében rendezett szolidaritási
+  gyűlésen.
+coverImage: /sites/default/files/upor_laszlo.jpg
+coverAlt: Upor László
+coverTitle: Upor László
+reads: 2527
+---
+<strong>Upor László beszéde</strong>
+
+> Elhangzott szeptember 30-án a Magyarországi Evangéliumi Testvérközösség békásmegyeri templomának kertjében rendezett szolidaritási gyűlésen.
+
+Kettőnket látják most itt a színen: fiatal kollégám, Birta Marci zenélni fog, én szöveget mondok. De az egyesszám első személy senkit ne tévesszen meg: mögöttünk-velünk együtt itt az egész Freeszfe Egyesület. Valójában kétszázan állunk a színpadon.
+
+A Freeszfe nagyon sokkal tartozik Iványi Gábornak – ő volt a mozgalmunk egyik legelső támogatója, és azóta sem engedtük el egymás kezét. Kis magánlegendánk része, hogy – bár régóta figyelem nagy tisztelettel – személyesen akkor találkoztunk először, amikor néhányadmagammal védőrségbe mentem a Dankó utcába, az akkor is veszélyeztetett Oltalom központjához. Gábor örömmel üdvözölt, de gyorsan megjegyezte: nem tudunk hosszan beszélgetni, mert siet a Vas utcai blokádhoz díszőrségbe.
+
+\*
+
+Upor László vagyok, 66 éves (!!!) és ateista – <em>hogy kerülök</em> én egy templom kertjébe a vasárnapi istentisztelet után? Ateista vagyok, de nem hitetlen. Hiszek az emberi tisztességben, a szolidaritásban, hiszek a közösség erejében, a szabad választás jogában, a tiszta ész és a felemelt fej kultúrájában – mindabban, amit ennek a templomnak a lelkésze, Iványi Gábor képvisel a szavaival, a tetteivel, az életével. Hiszek mindabban, amiért – gondolom – mi mindannyian összegyűltünk itt. Keresztények, zsidók, ateisták, óvodások és nyugdíjasok.
+
+Ateista vagyok: talán nem ismerem eléggé a szentek életét. De nagyon jól ismerem az álszenteket, akik a sajátjukon kívül mindenki életét megnehezítik – napról napra egyre jobban. Közös érdekünk és célunk, hogy ne adjunk nekik teret, ne hagyjuk őket fölénk kerekedni. Közös célja kereszténynek, zsidónak, ateistának.
+
+Amióta az eszemet tudom – nagyjából, amióta kinőttem a kamaszkori <em>Black Sabbath</em>\-mániát és a <em>Genesis</em>t kezdtem hallgatni –, számomra Iványi Gábor az egyik igazi rocksztár; a neve szabad fordításban azt jelentette: <em>az ember, aki a kisemmizetteket és kívülrekedteket oltalmazza</em>. Maga a megtestesült oltalom – intézmény nélkül vagy a maga felépítette intézménnyel a háta mögött.
+
+Olyan rendszerben kezdte a működését, amely az általános népboldogítást hirdette, és mert azt képtelen volt beteljesíteni, szégyenlősen <em>letagadta</em>, hogy vannak szegények.
+
+A mostani rendszer a kiváltságosok boldogulását célozza, és mert azt pazarul teljesíti, szégyenkezés nélkül <em>tagadja meg</em> a szegényeket, nincsteleneket, az elesetteket és elesendőket.
+
+A rendszerszintű hatalmi visszaélés korában a politikai vezetők és végrehajtók tevékenysége <em>elveszítette közszolgálat jellegét</em>: az eszközökben dúskálók az <em>önfelmagasztalást</em> gyakorolják, miközben a kevély jómód árnyékában napi nehézséggel küzdő áldozathozók azon dolgoznak, hogy a leggyengébbek megőrizhessék ne csupán puszta életüket, de az <em>önbecsülésüket</em> is: hogy gyakorolhassák az egészséghez, az esti fekhelyhez, a tanuláshoz, a lelki gyakorlathoz való alapvető emberi jogaikat. Amennyire csak lehet.
+
+De alig lehet. Mert minden ez ellen dolgozik. A rászorulók kiszolgáltatottsága egyre nő. A nem annyira rászorulók körében ugyanakkor normává érett a megalázó és romboló rendszerrel kötött nemtelen különbéke. A beletörődés, a belenyugvás, rosszabb esetben a belesimulás, még rosszabb esetben a kényelmes belehelyezkedés és <em>cserébe</em> a boldog felemelkedés.
+
+Külön-külön ünnepelni való mindenki, aki nem legyint lemondóan, és akinek a gerincét nem görbíti meg a túlsúlyos hatalmaskodók hátbaveregetése. Akinek nem görcsöl a nyaka, ha feltartott fejjel jár.
+
+Az a nagyon kevés <em>Iványigábor</em>, aki még megmaradt ebben a korrupt világban, azért végzi a dolgát – jobb híján mások dolgát is –, mert nem tudja elviselni, hogy a dolog <em>ne legyen elvégezve</em>. Nem szent, sőt – ne kapjátok fel a fejeteket – még csak nem is hős: azért tesz úgy, <em>ahogyan</em>, mert nem képes másképp tenni. Mert mindenét áthatja a meggyőződés – ha úgy tetszik: a hit –, hogy nem győzhet az aljasság, a féktelen önzés. Sem az apátia.
+
+A Freeszfe mozgalom hosszú története során – amely hosszú történet Iványi Gáboréhoz és az Oltaloméhoz képest nyúlfarknyi – azt tanultam meg a diákjaimtól, a kollégáimtól és a barátaimtól, hogy az <em>úgynevezett</em> hatalom két dologgal nem tud mit kezdeni: a megvásárolhatatlan állhatatossággal és a letörhetetlen derűvel. Nézzétek és hallgassátok a sikereres lázadókat, az egyetemvédőket, a tanítani akarókat, az összes <em>Iványigábort</em>: bármit próbáljanak is ellenük: a derű nem hervad le az arcukról; nem viselkednek áldozatként, nem acsarkodnak, nem fojtják elkeseredésüket öntömjénezésbe. Tudjátok miért? Mert legyen bármilyen elkeserítő a világ, ők nem keserednek el.
+
+Ne sajnáljuk, hanem támogassuk, ünnepeljük őket. Erővel és derűvel!
+
+<img alt="Iványi Gábor" src="/sites/default/files/ivanyi_gabor.jpg" style="width: 470px; height: 313px; margin-right: 15px;">

@@ -1,0 +1,38 @@
+---
+title: Tanúhegyek
+migratedId: 875
+overrideMigrated: true
+authorSlugs:
+  - lencse-mate
+date: '2018-05-03'
+tags:
+  - pedagógusok
+excerpt: >-
+  Lencse Máté írása a Tanúhegyek c. könyv kapcsán A szöveg elhangzott a könyv
+  bemutatóján 2018.05.03-án az ELTE PPK könyvtárában. Trencsényi László (2018,
+  szerk.): Tanúhegyek. Portrék, emlékezések, interjúk mintaadó pedagógusokról.
+  Magyar Pedagógiai Társaság, Budapest.
+coverImage: /sites/default/files/tanuhegyek.png
+reads: 5517
+---
+<strong>Lencse Máté írása a Tanúhegyek c. könyv kapcsán</strong>
+
+> A szöveg elhangzott a könyv bemutatóján 2018.05.03-án az ELTE PPK könyvtárában. Trencsényi László (2018, szerk.): <em>Tanúhegyek. Portrék, emlékezések, interjúk mintaadó pedagógusokról.&nbsp;</em> Magyar Pedagógiai Társaság, Budapest.
+
+A 19. század szülöttei, olyanok, akik régen elmentek, néhányan mintha csak tegnap, és szerencsére sokan most is velünk vannak. Sok ismerős, számomra is meghatározó név: Karácsony Sándor, Loránd Ferenc, Gáspár László, Szendrei Julianna – kinek ki. És sokan akár a facebookos mindennapjaim szereplői közül is itt sorakoznak, mint Arató László, Knausz Imre, L. Ritók Nóra, Trencsényi László. De sok az ismeretlen név, a soha nem hallott történet is – személyes hiányosságom vagy tényleg léteznek névtelen hősök? –, melyeknek néhány pontja aztán beivódik, legutóbb például Prekler Katáról. De előre szaladtam.
+
+Portrék, emlékezések, interjúk mintaadó pedagógusokról – az alcím meg is jelöli a kötet célját. Akár azt is megtehetném, hogy felolvasom a kötet végén található impozáns névsort. Vagy a 60 név helyett/mellett felsorolom azt, hogy mit tettek a pedagógiáért. Sokáig tartana, de lehet, hogy megérné, hiszen fontos történetek ezek. Mégis máshonnan közelítek.
+
+L. Ritók Nóra előszavában arról ír, hogy utat jelölnek ezek a pedagógusok, a mit is tanulhatunk tőlük elemeiként pedig a humánumot, a tiszteletet követelő tudást, a kreativitást, a szenvedélyt, a tanítás szentségéhez való ragaszkodást, a rugalmasságot emeli ki. Szép felsorolás, de vajon a kijelölt út, amin mindezek megtalálhatóak nem ijesztő-e túlságosan? Elég vagyok-e én egy ilyen hivatáshoz? – kérdezhetjük sokan. Ezt várják? Ennek kell megfelelnem? Csak így van értelme? Csak így működik? Mit tanulhatunk egy ilyen kötetből, amikor Pataki Gyula is azt mondja az interjújában, hogy <em>"Na, de ugyanez honnan tudjam, hogy máshol működik-e? S ez nem tanítható. Ilyen hát a nevelés, egyedi kapcsolat."</em> Tegyük hozzá, hogy az interjú maga is [A szeretet módszertelensége](/a_szeretet_modszertelensege) címet viseli. Itt vagyunk a Pedagógiai és Pszichológiai Karon, ahol például pedagógusok, tanárok képzése is zajlik, és itt vagyok én is, aki azt a feladatot kaptam, hogy generációm szemszögéből mondjak valamit erről a könyvről. Én meg csak azon gondolkodom, hogy nem nyom-e agyon, meg hogy mit is kell kezdeni a tanúhegyekkel, hogyan lehet megismerni őket, hogyan lehet közelebb kerülni hozzájuk? Mozdíthatatlanságuk, szilárdságuk vajon erény, mely segít, vagy olyan tulajdonságok ezek, amik megközelíthetetlenné tesznek? Feloldja-e ezeket a dilemmákat a kötet?
+
+Tanítottam pár évet ezen a karon, például egy <em>Pedagógiai tapasztalatok és nézetek</em> című kurzuson, így a képzés legelején találkozhattam a hallgatókkal, és természetesen a pedagógus is a témáink között volt. Rendszerint egy vitát szerveztem, ahol az volt a tételmondat, hogy pedagógusnak születni kell. Megvallom, az volt a cél, hogy cáfoljam ezt, értelmet adva jelenlétüknek, hiszen minek is járnának oda, ha nincs mit tanulni. Mert ez mégiscsak egy szakma; vannak eszközei, módszerei, érdemes gyakorlatok, játékok sokaságát ismerni, nem ártanak a neveléspszichológiai tanulmányok sem, de az sem baj, ha megismerünk jó pár végigjárt utat, hogy ne kelljen mindent elölről kezdeni. És mégis újra meg újra előkerül a személyiség fontossága, L. Ritók Nóra egyenesen karizmáról ír, meg csupa nagybetűs pedagógusról. És ha ez nem lenne elég, akkor utószó gyanánt Knausz Imre csodálatos embereket vár a tanári pályára. El lehet ezt bírni?
+
+Én pedagógus vagyok, csupa kisbetűvel. Nem tudom, hogy van e karizmám, de csodálatos ember biztos nem vagyok. (Persze ezeket általában nem döntheti el az ember önmagáról, nem szokás hagyni ezt.) Viszont egy tanoda létrehozójaként, pedagógusok és önkéntesek vezetőjeként, egykor tanárképzésben dolgozóként, szakmai blogot vezetve, a Taní-tani Online szerkesztőjeként úgy érzem, hogy kötelességem mondani valamit erről a szakmáról, és meg kell értenem, hogy ezt a kötetet, hogyan, milyen céllal lehet ajánlani. Mi az, ami kiolvasható ezekből a történetekből anélkül, hogy túlságosan nagy betűket kellene a vállunkra venni? Mi az, ami megérthető ezekből a történetekből azoknak is, akik nem akarnak iskolát alapítani, akik csupán küzdenek egy szegregálódott általános iskolában, akik csak tisztességes szaktanárok szeretnének lenni?
+
+Félve írom, de talán találtam ilyen üzenetet. Félve, mert sokaknak akár még ijesztőbb lehet, mégis, talán érdemes megpróbálni megérteni. Az egyszerűségre gondolok. A könyv sok történetéből kiolvasható a pedagógia egyszerűsége, természetessége. Sokszor ezért is annyira nehezen kézzelfogható és megismerhető. De megfelelő motivációval és türelemmel akár így is sikerül. Mert bárhogy csűrjük-csavarjuk, hiába nézzük innen vagy amonnan, mindenképpen azt látjuk, hogy a gyerekkel kellene foglalkozni. Vele beszélgetni, őt megismerni. Mert hiába a sok tudomány, mégsem hasonlít egymásra oly nagyon az a két tízéves srác, pedig még szomszédok is. És persze tanítjuk ezt is, a tanulómegismerést, meg van ilyen kifejezésünk is, hogy gyermekközpontú pedagógia – egyébként milyen van még? –, mégis, az talán nem sokszor tűnik fel, hogy ez egyszerű. Észre kell venni, meg kell szólítani, oda kell figyelni rá. És azért ez nem olyan idegen. Ehhez még csak pedagógusnak sem kell lenni, hiszen ezt csináljuk az emberi kapcsolatainkban, már ha azt szeretnénk, hogy jól működjenek. És pedagógusként miért ne szeretnénk, hogy jól működjenek? Miért kell elfelejteni ilyen alapvető egyszerűségeket? Mert a tanterv? Mert az osztálylétszámok? Mert a hatalom? Erre például szintén nagyon jók a könyv történetei, hiszen akadtak már a jelenleginél jóval nagyobb ellenszelek is, amikor mégis sikerült gyerekeket megismerni és velük sikeres pedagógiát létrehozni, működtetni.
+
+Szóval nem rossz végigtekinteni a tanúhegyekkel tűzdelt tájon, mert azt látjuk, hogy lehet és érdemes odafigyelni a gyerekekre, és hogy ez nem is olyan nagyon bonyolult dolog. Talán még karizma nélküli, kevéssé csodálatos emberekből kisbetűs pedagógussá vált személyeknek is. És azért ez valahol egészen megnyugtató és előremutató.
+
+\*
+
+A névsor: Áprily Lajos, Arató László, Bácskai Mihály, Bakonyi Pál, Bakonyiné Vince Ágnes, Bányai Sándor, Barsi Ernő, Békési Margit, Berhidi Jolán, Csirke Ernő, Csókos Varga György, Csovcsics Erika, Dallos Gyöngyvér, Deák Gábor, Domokos Lászlóné, Ferge József, Flamich Mária Magdolna, Gabnai Katalin, Gábor Ignác, Gáspár László, Granasztói Szilvia, Horányi Gábor, Hosszú Gyula, Istvánder József, Jeney Lajos, Kálmán Attila, Karácsony Sándor, Karcagi Gyuláné Éva, Kériné Sós Júlia, Kissné Polyák Erzsébet, Knausz Imre, Kovács Andrásné, Kovács Hédi, Kövendi Dénes, Kövesdi Tiborné, Kuti István, Laky Ilona, Lévai Sándor, Leveleki Eszter, Loránd Ferenc, L. Ritók Nóra, Majoros Róbert, Oláh István, Pataki Gyula, Pirisi Jánosné, Pongrácz Éva, Prekler Kata, Ruppert Edit, Sípos István, Snétberger Ferenc, Székely Róbertné, Szendrei Julianna, Szentirmai László, Sztehlo Gábor, Takács Etel, Tornyai Magda, Trencsényi László, Váradi István, Varjasy László, Vészi János.

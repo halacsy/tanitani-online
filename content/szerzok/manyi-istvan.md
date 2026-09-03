@@ -1,0 +1,3 @@
+---
+name: Mányi István
+---

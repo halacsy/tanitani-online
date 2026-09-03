@@ -1,0 +1,56 @@
+---
+title: MeseTerek
+migratedId: 1400
+overrideMigrated: true
+authorSlugs:
+  - ko-boldizsar
+  - kovats-kriszta
+date: '2026-04-04'
+tags:
+  - művészetpedagógia
+excerpt: >-
+  Kő Boldizsár beszél színekről, mesékről, terekről A Klubrádióban Kováts
+  Kriszta készített hosszú interjút Kő Boldizsárral, a négy gyermekes
+  családapával, képzőművésszel, grafikussal, jelmeztervezővel, formatervezővel –
+  a MeseTerek tervezőjével. (Kovátsműhely, elhangzott 2025. december 21-én.)
+  Ebből idézünk.
+coverImage: /sites/default/files/ko_boldizsar.jpg
+coverAlt: 'Kő Boldizsár. Forrás: kultura.hu'
+coverTitle: 'Kő Boldizsár. Forrás: kultura.hu'
+reads: 831
+---
+<strong>Kő Boldizsár beszél színekről, mesékről, terekről</strong>
+
+> A Klubrádióban Kováts Kriszta készített hosszú interjút Kő Boldizsárral, a négy gyermekes családapával, képzőművésszel, grafikussal, jelmeztervezővel, formatervezővel – a MeseTerek tervezőjével. (Kovátsműhely, elhangzott 2025. december 21-én.) Ebből idézünk.
+
+Feleségem Gulyás Anna néprajzos, mesemondó, a Zene Háza pedagógus-munkatársa. Úgy szerettem bele, hogy áttáncoltunk egy éjszakát. Mint a madaraknál a tánc, az embereknél is fontos aktus ez: látja az ember, hogyan táncol a másik, így választ párt. Immár több mint 30 éve, nehéz akadályokat legyűrő közösség szövődött közöttünk.
+
+Nagyapám református lelkész volt, szüleim művészek, Péterfi Gizella festőművész és Kő Pál, a különös műveket alkotó szobrász. Műteremlakásban nőttem fel. Különleges művészek vették körül szüleimet, köztük nevelkedtem, látva a fantasztikus teljesítményeket én is művészpályára készültem. Elvégezvén a főiskolát szembesültem azzal, hogy van egy nagy átalakulás a világban, a hagyományos galériák működése megváltozik, lakásokban rendeznek “egynapos kiállításokat”, az utcai szobor átalakul, a heroikus műveket felváltotta egy szabadabb megközelítés... Arra gondoltam, ezt lehet tágítani, milyen lenne bevini a játszóterekre?
+
+Bár eleinte – lévén nagy Gerald Durrell-mániás – biológus is akartam lenni. A majomházban is dolgoztam egy ideig. Csányi Vilmos professzor tanácsolta, hogy felvételizzem a TTK-ra. De e tanulmányaim nem voltak sikeresek. Kreatív világba születtem, ahol nem a szabályok voltak a legfontosabbak, hanem az eltérés, új utak keresése. Ez predesztinált: nem tudtam befogadni a tankönyveket, a hibákat kerestem bennük inkább, a gyenge pontokat. A kaposvári főiskolán tanultam kisállattenyésztést 3 évig, nem fejeztem be, kiestem a kémia miatt (vicces, hogy eztután egy éven át kémiatanításból éltem). Egész életemben mást nem csináltam, csak rajzoltam, az összes tankönyvem színültig volt rajzolva. Egyszer otthon felejtettem a magamét, a tanár néni odaadta az órára az övét, én belefeledkeztem, de jó, itt még van hely, és csengetésig az egészet telerajzoltam. Óra végén döbbentem rá, mi is történt, ki akartam radírozni, de a tanárnő azt mondta: ez neki kedves emlék lesz, és megtartotta.
+
+Balla Gábor kollégámmal – kicsi gyerekeink voltak – jártunk játszóterekre, gondolkoztunk, milyen jó a műfaj, szép szabadtéri helyek, gyerekek, szülők egy rakáson... Érdekes lenne, sok művésszel interaktív kiállítást szervezni, ahol lehet játszani. Lett népmesei, közlekedési, steampunk játszótér aztán. (Mi az a “steampunk”? Szellemi irányzat, mely apokaliptikus térben gondolkodik. Ilyen a Mad Max, lényege a társadalmi szorongás a fejlett civilizáció pusztulása miatt, s a romokból újraéled az új civilizáció, ez egy “buherált”, különös világ, van esztétikája, filozófiája, szellemi háttere is.) Mi a Down Alapítványnak csináltunk ilyen játszóházat. A downosok annyira másképp látják a világunkat, mint ahogyan mi a steampunk világot látjuk. Ép gyerekek együtt játszanak a downosokkal, ilyen teret hoztunk létre, ahol ilyen érdekes világ van.
+
+A Benczur-kertben nem akartunk mesét. Ott városi környezetben, a betondzsungelben kicsit különös lényekkel teli teret képzeltünk. Igazából egy tanknak köszönhetjük ezt a játszóteret. Volt itt egy vasbetonépítmény, a háború után egy tankot kiállítottak rajta, azt később elvitték, a betont körbenőtték a fák, és lett egy domb. Az önkormányzat kérte: erre találjunk valami kreatívat. Így lett a Tündérhegy tele különleges állatokkal.
+
+Elsőnek épült a “Méhek élete” játszótér a kispesti Családsegítő Központ udvarára, a méhek családi élete jó hívószó volt. Aztán jött a Millenáris. Nem is akartak játszóteret, felnőtt parknak szánták, de meglátták munkáinkat, és ránk esett a választás. Zöld Péter meséjét idéztük meg. Szép mese, “környezetvédő”. A főhős visszaengedi a halat, a fiókát visszahelyezi fészkébe, meglocsolja a rózsaszálat. Majd ezek segítik, hogy király legyen.
+
+A visszajelzések? Jók. Karbantartáskor látjuk, hogy mik vannak. Azt is szeretjük, ha egy népmesejátszótéren Csillagok háborúját játszanak a gyerekek, mert nem kell őket gúzsba kötni. Én eszközöket adok kezükbe, amiket meg tudnak személyesíteni. A telefonos világban nehéz kihívás, hogy valami valóságossal találkozzál. A művészet ezekre rácsodálkozik, s megáll az idő, ki tudsz lépni saját valóságodból. Nagyon szeretem, ha egy kicsi, gondosan faragott szobrot úgy kell észrevenni egy játszótéren, hogy már tízszer voltál ott, és egyszer csak meglátod. A gyerekek léptékaránya egyébként egész más, a kicsit nagynak, a nagyot picinek látják. Követem ezt a látásmódot. A Benczur-kertben Reich Károly meséi alapján kis állatok vannak, érdemes bemenni a világukba. Mindent szobrászok készítenek igényesen, nem ismétlődnek a dolgok. Tanító szerepe van, hogy egy uniform világban, ahol minden hasonló (az autók, a kabátok stb.), legyen személyes dolog is. Láttam, hogy a Szent István téren a tanárnő élő történelemórát tart (pogányok, vitézek stb.). Jó az, amikor használva van a játszótér.
+
+Hogy néz ki egy tervezés? Megkeresnek. Legutóbb a Szimbiózis Alapítvány Miskolcról. Betegekkel foglalkoznak, és javasoltak egy mesét: Borsszem Jankó meséjét. Települések kérnek, hogy segítsek identitásuk alakításában. Itt volt Herceghalom. Élt itt egy Sándor Móric nevű kétes figura, az “ördöglovas”. Mindenhová lovon ment, még a palotában az emeletre is. Féltek tőle a helyiek. S bár valószínűleg nem volt pozitív figura, mégis emléket állítottunk neki, ez erősíti az identitást. A történetet majd a gyerekek írják, mi csináltunk egy nagy körhintát, ahol az ördöglovas forog a lovaival, mozognak a szobrok a fejük felett, hintó is van lovacskákkal. Olyan környezet, mely emlékeztet a különös emberre. A  Tündér Ilona egy nagyon szép játszótér volt, sajnos már csak egy töredéke van meg. Az Állatkertnek azon a részén építettük, ahová később a Buborék került, oda készítettük. Ormányos medvével avatta fel az igazgató. Aztán egy töredéke áttelepült egy másik részre, mert nem fért el az egész.
+
+A Skanzenben több pontra építettünk meséket. Van egy nagyobb játszótér, ahol többféle mese játszható, látható. A kismalacok és a farkas, A kisgömböc és mások. Van itt körhinta, hinta, banyaház, óriás mókuskerék, s néhány saját fejlesztésű játék. Minden teremben a különböző játszóeszközök mozgatják a szobrokat, azok is mozognak, ennek érdekes üzenete van.
+
+Régi vágyam,hogy Magyarország erről is híres legyen, különleges játszótereiről. Hungarikum lehetne. Ez nem nagy költség, egy játszótér egy köztéri szobor ára.
+
+Ami a színek tarkaságát illeti: elsősorban a magyar néphagyományból táplálkozom, de nagy hatással van a munkámra Gauguin, a tahiti csónakfestések, a világban látott színek, Hundertwasser stb.
+
+MeseTerek. Ez már nem játszótér. Egy kisgyerek mondta: itt nem csak a testünk játszik, de a fejünk is. Meg akartam különböztetni a szériajátszóterektől, itt mindig minden egyedi, igazából “kültéri kiállítás”, a mese lehet akármi, történelem, gyógyító tér akár.
+
+Miért fontosak a szimbólumok? Mindnyájunk életében vannak szimbólumok, nagy erejük van, erre a régi világban sokkal jobban odafigyeltek. Olyan szép például egy szív alakúra vágott luk egy padon, a szerelmes pár oda fog ülni.
+
+Felnőtteknek is tervezek játszótereket. Rengeteg felnőtt szorong. Szeretnék számukra olyan tereket, ahol nemcsak mozogni lehet, hanem el tudnak szakadni a szorongásaiktól, színes terekben mozoghatnak, társasozhatnak, ahol egymás felé forduló padok vannak, összebarátkozhatnak. Nekünk, felnőtteknek is szükségünk van a játszóterekre.
+
+A gyerek kis tanítómester, a szemükön át figyeljük a világot, mást látunk, mint amiben vagyunk. A színek használatára tanítottak, inspirált a véleményük. Elképzeltem, hogyan fogják használni, el is vittem a sajátjaimat, féltem, hogy már “játszótérmérgezést” kapnak. Nem voltak kritikusak, inkább dicsértek. Az óriás mókuskerék először a kertünkben állt, több éven át ott játszottak vele. Fiam méltatlankodott is: most meg már sorba kell állni érte a Zöld Péter játszótéren.
+
+Színháznak is készítek diszletet, bábszínházaknak is. A veszprémi Kabócának készült díszlet, ez afféle családi vállalkozás, feleségem írta a darabot A tenger ünnepe címen, Danny Bainnel, a fantasztikus, amerikai származású bohóccal adják elő, nagy sikere van. A színházi környezet más gondolkodást igényel, hisz minden könnyű és mozdítható, a csónak kihajtva oltárrá változik, sokféle hangszer, jelmez, szemüvegek stb. Szép világ ez, különleges emberekkel találkoztam, nagy kedvencem lett a színház is.

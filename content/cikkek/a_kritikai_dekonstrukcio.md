@@ -1,0 +1,63 @@
+---
+title: A kritikai dekonstrukció
+migratedId: 1358
+overrideMigrated: true
+authorSlugs:
+  - arato-ferenc
+date: '2025-10-29'
+tags:
+  - iskolakritika
+  - neveléselmélet
+excerpt: >-
+  A kritikai fordulat társadalmi dekonstruktív jellegének szükségszerűségéről –
+  Egy könyvbemutató margójára. Arató Ferenc írása Ez az írás egy hosszabb
+  tanulmány bevezetője. A teljes, hivatkozásokkal kiegészített szöveg a cikk
+  alján található linken letölthető.
+coverImage: /sites/default/files/kritikai_dekonstrukcio.jpg
+coverAlt: 'Forrás: https://pxhere.com'
+coverTitle: 'Forrás: https://pxhere.com'
+reads: 904
+---
+<strong>A kritikai fordulat társadalmi dekonstruktív jellegének szükségszerűségéről – Egy könyvbemutató margójára. Arató Ferenc írása</strong>
+
+> Ez az írás egy hosszabb tanulmány bevezetője. A teljes, hivatkozásokkal kiegészített szöveg a cikk alján található linken letölthető.
+
+<img alt="Arató Ferenc" src="/sites/default/files/arato_ferenc.jpg" style="margin-right: 15px; font-size: 12px; background-color: rgb(232, 232, 232); width: 200px; height: 300px; float: left;">
+
+<em>A Kerényi Károly Szakkollégium szervezésében 2025. február 4.-én Mészáros György „«Jók leszünk!» – Hogyan formál társadalmi lénnyé az iskola? Összehasonlító kritikai etnográfia&nbsp;mindenkinek” című könyvét bemutató kerekasztal-beszélgetésre kapott meghívást e sorok szerzője. A beszélgetésen Mészáros György mellett részt vett még Kucserka Zsófia és Tóth Tamás Május, valamint Arató Ferenc, e jegyzetet szerző meghívott beszélgetőtárs. A beszélgetés moderálását a szakkollégium tagja, Lukács Laura Klára vállalta magára.&nbsp;</em> 
+
+A nemzetközi tudományos diskurzusban több évtizede jelentkező, az elmúlt két évtizedben újra hangsúlyt kapó <em>critical theory of pedagogy</em> vagy később <em>critical theory of education</em> aspektusainak, kérdésfelvetéseinek összefoglaló és érthető megjelenítésére tett, üdvözlendő kísérletnek tekinthető a kötet. A szerző a kritikai-pedagógiai antropológia diskurzusának kontextusában ad egy komplex képet a kritikai szemlélet filozófiai alapjairól, az antropológiai megközelítés kritikai lehetőségéről. Teszi mindezt egy középtávú kutatás eredményeit ismertetve. A könyv a felvázolt elméleti háttér segítségével, továbbá a megvalósított kutatási gyakorlatnak és eredményeinek bemutatásán keresztül egy komplex megértés lehetőségét kínálja az olvasónak. A kritikai pedagógia általános társadalomfilozófiai alapozásán valóban túlmutatnak azok a neveléstudományi diskurzusok, amelyek maguk is újraértelmezték saját törekvéseik zsákutcáit, és beemelték horizontjukba a kritikai megközelítés aspektusait. Ezért üdvözlendő az antropológiai megközelítés kritikai aspektusának megjelenítése a hazai tudományos diskurzusban.
+
+Ehhez hasonló a <em>Critical Peace Education</em> diskurzusa, amely már kapcsolódott a kritikai diskurzus első hullámához is, ugyanakkor az elmúlt két évtizedben emelte újra hangsúlyos helyre a kritikai megközelítés jelentőségét a békefenntartás, béketeremtés, és a békeépítés fogalmai mentén értelmezve ezt a kutatói-gyakorlati diskurzusrendi perspektívát. Párhuzamosan a 2008-ban negyedszázados <em>Intercultural Education</em>, az interkulturális nevelés diskurzusát meghatározó folyóirat szintén újra hangsúlyossá tette a <em>Critical Multiculturalism</em> aspektusait az interkulturális és multikulturális nevelés diskurzusában, beemelve azt önértelmezésük horizontjába. Ezért is érdekelte a meghívott beszélgetőtársat, e jegyzet szerzőjét egy újabb kritikai diskurzus alaposabb megismerése, és örömmel vállalta a beszélgetést a könyvbemutatón.
+
+## Megszólalási pozíciók
+
+Bár a könyvben az identitás kérdéskörét tudatosan nem érintette a szerző, a bemutatón is elhatárolódott a korábbi posztmodern értelmezési kereteitől, és baloldali, marxista megközelítésként értelmezte kutatói, szerzői identitását.
+
+A meghívott beszélgetőtárs saját identitását társadalmi dekonstruktőrként határozta meg. Vagyis olyan dekonstr-akcionista társadalmi szereplőként, aki az együttműködés strukturális garanciáival építi le minden egyes érintett esetében és érdekében a hierarchikus, kirekesztő és diszkriminatív – egyszóval antidemokratikus társadalmi struktúrákat. 
+
+A kooperatív paradigma például egy olyan társadalomelméleti, posztmodern, de gyakorlatközpontú paradigma, amely azáltal építi le a hierarchikus struktúrákat, hogy kooperatív struktúrákat ajánl fel helyettük. Vagyis rombol \[destruct\] azáltal, hogy együttműködést épít ki \[construct\]. 
+
+2019-ben az International Association for Intercultural Education éves konferenciáján Amszterdamban „Az iskola halott – csak nem vesszük észre!” című előadásomban érveltem a dekonstr-aktív kutatói-gyakorlói pozíció mellett. Belátva, hogy nincs idő reformokra, nincs idő akciókutatásokra sem, hanem dekonstr-akciókutatásokra van szükség. Azonnali strukturális átalakításra, amely a mikroszinttől (pl. egy osztály tanulói és családjaik), a mezoszinteken át (iskola, tankerület vagy mikrorégió), a makroszintekig (oktatási rendszer, gazdasági támogatási rendszerek) egyaránt kivitelezhető. Az oktatás átalakítása nem várhat. Mindezt az elmúlt hetven év összefüggő neveléstudományi diskurzusainak eredményei alapján is követelhetjük, akármilyen politikai identitás követésére érez hajlandóságot a gyakorló és kutató szakember. 
+
+A fenti értelemben az olyan kutatásoknak van jelentősége, amelyek bevált modellekre építve a már meglévő, sokszínűen kritikai-reflektív neveléstudományi horizont aspektusait, eredményekkel igazolt gyakorlatait azonnal hozzáférhetővé teszik. Vagyis végre alkalmazni kellene azt az összetett és komplex megközelítés-rendszert, amelyben egyébként a kritikai megközelítés kulcs szerepet játszik, de nem kizárólagos narratíva. 
+
+Így, ha visszaemeljük a kritikai megközelítés értelmezési horizontjára a posztmodern diskurzus eredményeit, azon belül a társadalmi dekonstrukció gyakorlatát, akkor az önmagukat most baloldali identitással felvértező szerzők is kaphatnak útmutatást arra, hogyan térjenek át a critical theory-ról a critical practice-ra. Például a kooperatív paradigma segítségével akár a következő naptól azonnali struktúraváltás eredményezhető, akár egy egész oktatási rendszeren belül. Az osztályoktól egészen az oktatási rendszerek szintjéig, miközben leépülnek, erodálódnak a kirekesztő, antidemokratikus és diszkriminatív tanulási struktúrák. A valódi kritikai gyakorlat nem lengeti be a „hosszú idejű átalakulás” rossz emlékű, mozgalmi vízióit, valahova a távoli jövőbe helyezve a megvalósult kommunizmus ígéretét, hanem azonnali átalakításban érdekelt. Most és azonnal szükségesek a változások az iskolában ücsörgő és önmagát többnyire pazarló vagy kizsákmányolható alattvalóvá nevelni engedő jövő, a gyerekek és fiatalok számára. A fényes jövő nem majd eljön valamikor, hanem ott ül az iskolapadban.
+
+## A kritikai horizont kiszélesítése
+
+A meghívott beszélgetőtárs a korábbi három évtized mindegyikében alkotott meg rendszerszintű kooperatív modelleket. Ilyen volt az általa vezetett civil munkacsoport által kialakított IPR modell (2002-2005). Noha nem valósult meg az eredeti elképzelés szerint, mégis jelentős hatást gyakorolt az oktatási rendszerre. (2007-2015 között 1600 intézmény vette igénybe az IPR alapú szolgáltatás széttöredezett maradékait.) Még így is országos modellek születtek (például a KIP adaptációja), amelyek az oktatáspolitikai fordulat ellenére is figyelmet kaptak, az IPR támogatás megszűnése után is. 
+
+Talán fontosabb, de észrevétlen eredmény, hogy egy olyan szubszidiáris támogatási modell született, amelyben az érintettek állíthatják össze fejlesztési költségvetésüket egy velük másfél éves közös munkával összeállított szükségletlistáról. A szubszidiáris rendszer az államosítás viszontagságai között továbbra is biztosította a hátrányos helyzetű gyerekek (és a többiek) ellátását taneszközökkel, ruházattal, iskolabútorzattal, közösségi terek kialakításával, művészeti oktatással, kirándulásokkal, általuk választott mozi, színház, erdei iskolai, valamint múzeumpedagógiai programokkal. Abban az időszakban is, amikor az elitiskolákban „krétára vagy villanykörtére” sem lehetett forrást igényelni. 
+
+A meghívott beszélgetőtárs tudományos értelmezési horizontján a kritikai megközelítés mellett hasonló jelentőséggel bír a posztmodern léthelyzet felismerése, függetlenül attól, hogy az mennyire divatos megközelítés napjainkban. A posztmodern kondíció az őt feltáró filozófiai, episztemológiai, irodalomelméleti diskurzus vitalitásától függetlenül fenn áll. Ezért is furcsa számomra a nagy narratívák sorába tartozó baloldali narratíva visszaemelése identitásként a tudományos diskurzusba, mintha a XIX. századot kellene újra meghaladnunk. Sőt, szerintem a dekonstruktív és posztstrukturalista felismerések mellőzése egyenesen érthetetlen a marxi társadalomfilozófiai paradigma ismeretében. Röviden: az osztályoknál azért jóval többet tudunk ma már a társadalmi kizsákmányolás rendszereiről, struktúráiról, dinamikáiról, és ezek kisiklatásának lehetőségeiről. 
+
+A tudományos értelmezési horizont kiszélesítéséhez, kellően összetett és önreflektív szintjének eléréséhez, sajnos nem elegendő egyetlen egy narratíva felől választ keresni minden kérdésre, ahogyan ezt a szerző is nyilvánvalóan tudja. 
+
+A neveléstudományi diskurzusban erre utal az educational sciences kifejezés is. A neveléstudomány nem egy diszciplína, hanem egy transzdiszciplináris tudományterület, amelynek a probléma-középpontjában a nevelés áll. A nevelés problémájának, kihívásainak feltárása és a gyakorlatban is beváló megközelítések, eljárások, modellek, társadalmi kontextusok kialakítása érdekében a legkülönbözőbb tudományokat húzza be a neveléstudományi diskurzus a problémák, kihívások megoldásához. Éppen ez Mészáros könyvének jelentősége. A szerző ugyanis a magyar nyelvű tudományosság értelmezési horizontjának kiszélesítésén fáradozik, beemelve végre hangsúlyosan a kritikai pedagógia jelentős felvetéseit. 
+
+Ugyanakkor ennek érdekében néhány diskurzustól elhatárolódik, illetve reflektálatlanul hagyja azok felfedezéseit, felismeréseit saját kutatási eredményeinek, illetve tudományos kontextusának, elvi megközelítéseinek leírásában. Az alábbiakban néhány olyan szempont kerül kiemelésre, amely segítheti a kritikai aspektus mélyebb megértését azáltal, hogy nem kizárja más diskurzusok felfedezéseit, hanem éppen beemeli a kritikai megközelítés látóterébe, hogy ezzel magát a kritikai diskurzust is gazdagítsa. Függetlenül attól, hogy önmagát baloldaliként értelmezi vagy sem a könyv olvasója.
+
+A tanulmány [hosszabb verziójában](/kritikai_dekonstrukcio_hosszu.pdf) az alábbi kérdéskörök kerülnek elő:
+
+<ul><li class="rtejustify">a tanuláselméleti megközelítések beemelésének szükségszerűsége,</li><li class="rtejustify">a kritikai fordulat és a posztmodern diskurzus,</li><li class="rtejustify">a kooperatív paradigma dekonstruktív jellege,</li><li class="rtejustify">az erőszakmentes kommunikáció jelentősége,</li><li class="rtejustify">a rasszizmus XXI. századi formája: anti-antirasszizmus,</li><li class="rtejustify">a rendszerszintű rasszizmus nevelésszociológiai kritikájának szükségességéről,</li><li class="rtejustify">a társadalmi nevelés kérdésköre,</li><li class="rtejustify">There is one revolution: cooperation!</li><li class="rtejustify">mérföldkő kötet született.</li></ul>

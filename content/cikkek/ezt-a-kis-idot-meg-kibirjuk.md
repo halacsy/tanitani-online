@@ -1,12 +1,23 @@
 ---
-title: "Ezt a kis időt még kibírjuk valahogy!"
-author: "Szalai Kriszta"
-authorSlug: szalai-kriszta
-date: "2026-04-20"
-tags: ["alternatív iskolák", "drámapedagógia", "hátrányos helyzet", "iskolakritika", "nevelés"]
-excerpt: "Egy pedagógus személyes esszéje a gyermekbántalmazási helyzetekkel való szembesülés kudarcairól – és arról, hogy az empátia-építés az iskolában képes-e megszakítani ezt a ciklust."
-image: /images/cikkek/ezt-a-kis-idot-meg-kibirjuk.jpg
+title: Ezt a kis időt még kibírjuk valahogy!
+author: Szalai Kriszta
+date: '2026-04-20'
+tags:
+  - alternatív iskolák
+  - drámapedagógia
+  - hátrányos helyzet
+  - iskolakritika
+  - nevelés
+excerpt: >-
+  Egy pedagógus személyes esszéje a gyermekbántalmazási helyzetekkel való
+  szembesülés kudarcairól – és arról, hogy az empátia-építés az iskolában
+  képes-e megszakítani ezt a ciklust.
 reads: 1876
+authorSlugs:
+  - szalai-kriszta
+coverImage: /images/cikkek/ezt-a-kis-idot-meg-kibirjuk.jpg
+migratedId: 1408
+overrideMigrated: true
 ---
 
 **Szalai Kriszta írása**

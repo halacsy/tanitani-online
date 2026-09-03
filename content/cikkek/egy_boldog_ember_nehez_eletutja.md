@@ -1,0 +1,76 @@
+---
+title: Egy boldog ember nehéz életútja
+migratedId: 1341
+overrideMigrated: true
+authorSlugs:
+  - fuzesy-tamas
+date: '2025-09-08'
+tags:
+  - SNI
+  - pedagógus
+excerpt: >-
+  Kun Zsuzsa interjúja Füzesy Tamással a Klubrádióban. Elhangzott 2025.
+  augusztus 9-én. Az interjú szerkesztett szövegét a riporter és a riportalany
+  hozzájárulásával adjuk közre.
+coverImage: /sites/default/files/fuzesy_tamas.jpg
+coverAlt: Füzesy Tamás
+coverTitle: Füzesy Tamás
+reads: 819
+---
+<strong>Kun Zsuzsa interjúja Füzesy Tamással a Klubrádióban.</strong>
+
+> Elhangzott 2025. augusztus 9-én. Az interjú szerkesztett szövegét a riporter és a riportalany hozzájárulásával adjuk közre. 
+
+12 éves koromban Dombóvárról kerültem fel a fővárosba mint ifjú tehetség. Szüleimet megkereste az Újpesti Dózsa vezetősége: jó lenne, ha a csapatban úsznék. ‘80-ban felköltözött a család Budapestre. Szerencsénk volt, akadtak idősebb rokonok, akik szerettek volna vidékre költözni. Cseréltünk. Mi feljöttünk. Fél év után jöttek az eredmények, nem is kellett hozzá sok idő, augusztusban már Széchy Tamás kezei alatt az ő teamjében folytattam az úszást. Sok sikerrel zártam éveken át a versenyeket. Aztán 14 évesen jött a neheze.
+
+Első körben Széchy Tamás maga volt a "neheze", aztán miután megtörténtek a "dolgok", jött egy elhanyagolás. Tizenévesként nehéz volt ezt megélni. Iránymutatásra szorultam volna, egyfajta követésre, hogy mit is csinálok az uszodán kívül, hogy tanulok-e. Nos, mindez a korábbi évekhez képest elmaradt. Szüleim bíztak Széchy Tamásban, amikor szóltam nekik, ők azt mondták: csak bízzak a Tamás bácsiban, ő tudja, mit miért csinál.
+
+Kitörési lehetőség volt a sport abban az időben. Sokan próbáltak ezzel élni, sokaknak sikerült álmaikat megvalósítani. Nekem nem. Amíg jók voltak az eredményeim, boldog voltam, sokat szenvedtem az uszodában, de a dobogó tetején mindent elfeled az ember, az felemelő, egyedi érzés. 
+
+Amikor szétváltunk, mert Széchy Tamás kirúgott, az nagy törés volt lelkileg, fizikailag is. Átkapcsolni a sportoló életformából a civil életbe nehéz volt. El voltam veszve. Szerencsére akadt egy edző, Korényi Olga néni az Újpesti Dózsában, aki úgy gondolta, megérdemlem, hogy kapjak még egy kis segítséget, útmutatást. Elindított azon az úton, ami azóta is tart.<br>Miért rúgott ki Széchy? Csak felnőtt fejjel jöttem rá. Volt egy úszónadrágpróbám. Elfelejtettem felszerelést vinni az egyik edzésre, s éppen akkor senki nem volt, aki kölcsönadott volna egyet. Széchy ott volt aznap az uszodában időben, senki nem késett. Megkérdezte, miért nem vagyok átöltözve. Mondtam, mi történt. Vártam, hogy ad két taslit vagy talpamra egyet a sípzsinórral, a "fütykössel". Nem ez történt. 
+
+– Majd én adok neked újat, gyere fel velem az irodámba – mondta. Felmentünk. Pár perces kutakodás után előrántott egy dobozt a szekrényéből tele márkás úszónadrágokkal. Elővett egyet, és így szólt:
+
+– Ez talán jó lesz. – Próbáltam elvenni tőle, de megállított és nem engedte. – Majd én feladom rád, Tamáskám – mondta. Teljesen lebénultam. Mit csináljak? Hallottam már róla mendemondákat… De 12-14 éves koromban nem volt arról elképzelésem, mit is csinálhat.<br>Levetkőztetett lassan, komótosan. Ott álltam előtte teljesen meztelen. Megnézte a nadrágot, kibontotta és felhúzta rám, természetesen igazgatott mindenhol, fenekemen, és a nemi szervemet is többször érintve, megsimogatva. Aztán hátralépett, úgy nézegetett.
+
+– Ez nem jó rád.  – Pedig én úgy éreztem, jó. Levette rólam, és ott álltam megint meztelenül. Kutatott a dobozban, talált másik nadrágot. Mosolyogva közelebb állt hozzám, éreztem a leheletét és a testszagát, mely fanyar acetonhoz volt hasonló. Felhúzta és igazgatta rajtam a masodik nadrágot, nézegetett, gyönyörködött. Mit lehet annyit nézni? Engem nézett. Kisportolt, érett fiú voltam, lehet, hogy többet képzelt, de én nem voltam vevő, nem reagaltam a testi közeledésére. Körülbelül 30-40 percig voltam az irodában, míg végre elengedett – Jó, elmehetsz úszni. – Még levette rólam a nadrágot, s felöltöztetett. Siettem vissza az edzésre, ne késsek sokat, ne érjen szemrehányás.
+
+Az úszótársak azonnal kérdezték, mi, hogy történt (mindenki tudott a Széchy hajlamairól, talán részesei is voltak hasonló eseteknek). Edzés után elmondtam nekik gyorsan, hogy mi történt, nevettünk rajta. Pár héttel később ismét beszéltünk a dologról. Nem vettük észre, hogy Széchy ezalatt ott volt, s hallotta mindezt. Volt egy nagyon jó komám, aki elkezdte őt parodizálni. Akkor lépett elő a színfalak mögül. Nem lett semmi, csak mosolyogva elküldött minket. 
+
+Teltek a hetek, a nyári táborban váratlanul ismét a kezei alá kerültem. Egyik nap sportmasszírozást adott. Miért ő? Mindig a saját edzőm masszírozott addig. Csodálkoztam. Jó 40-45 percet tartott a dolog. Moccanni nem mertem, annyira féltem, hogy mit fog csinálni velem, mimhez ér majd hozzá. De nem csinált semmi olyat, csak mosolygott és folyamatosan beszélt, miközben masszírozott. 
+
+Eltelt a nyár, az én közvetlen edzőm, Kanyó Tamás disszidált az NSZK-ba. Ezután éreztem először, hogy nem foglalkoznak velem, elhanyagolnak az előző évekhez képest, ahol figyeltek rám, követték és egyengették a sportolói utamat.
+
+Kis idő múlva Széles Sándor csapatához küldtek, a gyorsúszókhoz. Egy gyorsúszócsapatban mellúszóként nem lehetett ritmust tartani. Nem ugyanaz volt az edzésmód, nem tudtam követni a tempót, nem is igen törődött velünk az edző. Kis idő elteltével elkezdtünk az edzés és az iskola mellé járni. Elég rossz gyerek voltam ekkor, többen mondták: no ebből nem lesz semmi. A II. Rákóczi Ferenc Gimnázium sportosztályába jártam ekkor, ahol az orosztanárunk "osztályidegennek" titulált, és ha rajta múlt volna, elküldött volna Szibériába. Le is írtak többen ekkor. Most szívesen a szemükbe néznék ezeknek az embereknek, és elmondanám, hogy tévedtek.
+
+‘82 decemberében volt egy felmérő verseny, ahol nem hoztam a szintidőt. Másnap csúnyán ordibálva kirúgott Széchy. Megalázó volt, a terem ajtajáig jött mögöttem és üvöltözött: azonnal távozzak, nem akar többet látni.
+
+Ezután megpróbáltam visszakerülni az élre, elmentem más edzőhöz egy másik egyesületbe, de nem sikerült. Elég volt 3 hónapon át az uszoda és az iskola mellé járni, ennek hatását nem lehetett visszafordítani már.
+
+Találkoztam Széchyvel későbbi versenyeken, de nem is köszönt. Senki voltam az ő szemében. Ezt a nadrág dolgot azóta csak szűk körben meséltem párszor. Később, vagy két évtized eltelt, mikor először felbukkant bennem, hogy akkor velem <em>ez</em> történt. Fürdőnadrág-vásárlás alkalmából beugrott, vagy akár úszásról, vagy hasonló témáról beszélgettünk. A környezetem nagyon komolyan vette, amit mondtam. 
+
+Hogy én ezt így el tudom mondani? Igen, mert életemben sokkal nagyobb kihívásokkal néztem szembe, s azok megtanították, hogyan kezeljük jól a helyzetet, és hogyan ne ragadjunk bele a múlt szennyes bugyrában.
+
+2002-ben megszületett Máté fiam. Koraszülött volt, agyvérzéssel. Nem tudtuk, hogy velünk marad-e egyáltalán. Az első két hónap kritikus volt. Kórház, intenzív, kétszer újraélesztés. Borzasztó élményeken mentünk keresztül. Egy hónapra rá szólt egy ismerős, hogy van egy anyuka, most szült, és családot keres kislányának. Ha vállaljuk, esetleg ezt megpróbálhatjuk. Este nyolckor telefonált, reggel találkoztunk a kislánnyal, aki 12 órával korábban született.
+
+– Igen, örökbefogadjuk – mondtuk. Vagy lesz két gyerekünk, vagy egy se. Minden papírmunkát elvégeztünk a gyámhivatalnál, de nem volt meg egy olyan papírunk, hogy örökbefogadó szülők lehetünk. 2 hétre rá el tudtuk hozni a kislányt kórházból. Ám az illetékes szakszolgálat elkezdte keresni. Fenyegettek, ha nem visszük vissza, elveszik tőlünk. Próbáltuk békésen elintézni velük. Aztán egyszer, többszöri találkozás egyikén kimondtak egy olyan csúnyát, amivel megnyertük a diskurzust. Az egyik pszichológus azt mondta – dühből, indulatból, reménytelenségből? – “cigány, sérült, vagy idősebb gyereket akár holnap elvihetünk”. Visszakérdeztem: ahhoz nem kell örökbefogadási alkalmassági papír? A főigazgató ezután már azt mondta: nem gördít akadályt az örökbefogadás útjába, de végig kellett vinni a jogi procedúrát jogásszal, igazságügyi szakértővel. 9 hónap után megkaptuk Rebeka anyakönyvi kivonatát Füzesy Rebeka néven. Máig velünk él. 
+
+Ennek a hosszú procedúrának a folyamán fogalmazódott meg bennem egy kérdés: vajon mennyit ér a gyermekkereskedelem piacán egy újszülött egészséges fehér csecsemő? Olyan erővel és elszántsággal harcolt a szakhatóság Rebekáért, hogy másra nem tudtam következtetni. 
+
+Máténak próbáltuk a lehető legtöbbet megadni. Sok mindenen keresztülmentünk. Ám látszott, hogy van egy határ, aminél tovább nem tudunk segíteni. Kerekesszékben élt, nem volt önellátó, pelenkázni kellett, etetni-itatni. Öt éve, 18. születésnapja előtt pár nappal eltávozott. Egy szepszis két nap alatt elvitte. Érzékenyebb volt, mint egészséges társai, sok gyógyszert szedett, melyek szétroncsolták a szervezetét. Szeretnivaló, boldog fiú volt, szociálisan együttműködő. Akart. Az iskolában a tanárok szerettek vele dolgozni. Ugyan nem tudott beszélni, de ott volt velünk, érzett minket.
+
+Máté és Rebeka, mint ikrek, úgy nevelkedtek egy darabig. Rebeka egész életutat járt be, Máténak, amiben tudtunk, segítettünk. Nem volt egy könnyű élet, ez egészen biztosan háttérbe szorította és felülírta a "Széchy-ügyet".
+
+Maradtak a jó emlékek. Emlékszem a sikereimre, és ezekre többet, mint a nadrágpróbákra, a fenekesekre, a talpasokra. Ez a pedofil bántalmazás nekem nem okozott hátrányt az elmúlt 40 évben.<br>Miért nem mondtam el előbb? Azt gondolom, a többiek is azon vagy még brutálisabb dolgokon mentek át Széchy keze alatt. Az örök kérdés itt is felmerül: áldozat vagy partner? Ezt mindenki, aki szenvedett Széchy módszereitől, maga döntse el. 
+
+Széchy Tamás mint ember soha nem lehet példa mások előtt. Az ő irányítása alatt nevelkedett sikeres úszóktól nem lehet, nem is kell elvenni az eredményt. Büszkének kell lenni, dicsőséget, örömöt hoztak. Más kérdés, milyen áldozatok árán érték el. Jó lenne, ha nem csak én, hanem más áldozatok is kiállnának az igazságukért. 
+
+Nemzetközi kapcsolatok, közgazdász végzettségem van, antiterrorista szakértő vagyok, ebből diplomáztam, és erre a pályára szerettem volna menni még Máté születése előtt. Inspiráltak erre, az egyik követségen, amelynek akkor dolgoztam. Aztán megszületett Máté, és döntenem kellett. Maradok ott vagy elmegyek? Máté mellett döntöttem. Nem bántam meg, hatalmasat tanultam magamról, a környezetemről, másokról. Jobb ember lettem. Bekerültem egy nonprofit körbe, ahol sok beteg gyereknek és szüleiknek segítettem. Vezettem öt évig a Bátor Tábor Alapítványt, utána az United Way Alapítványt, ahol sok rászorulónak segítettünk munkatársaimmal. Ezután két év a Down Egyesületnél, ahol építettünk egy 21. századi foglalkoztató központot. Aztán jött a mostani munkahelyem: nemzetközi iskola Magyarországon, óvodától érettségiig. Az egyik vezető vagyok, több kalapban. Hozzám tartozik a HR, a pénzügy, és létesítményvezetői "kalapom" is van, valamint ülök az elnökségben is. Az oktatásban dolgozom immár tíz éve, látom az eredményeket, nagyon inspiráló, ahogy látni, hogy honnan hová jutnak a gyerekek. Büszke vagyok, hogy itt dolgozhatom. Magánintézmény, se egyház, se állam, se bank nem áll mögötte. Független iskola, nagyon jó programmal. Az alapítót az vezérelte, hogy saját gyermekei világpolgárok legyenek, hisz ő is ebben a világban tanult. Tudja, hogy egy tanulónak mire van szüksége, mint anya is érti a gyerekei szükségleteit, és mint üzletasszony is tudja, mit mikor kell megtennie. Jó kombináció ez, volt lehetősége saját tőkéből befektetni. Az oktatásba mindig jó befektetni. 
+
+Lányom magyar iskolába járt, ma kommunikációt tanul. Apának szólít, mindent tud. Elég nyílt a kapcsolatunk. Nyugodt ember vagyok, nem dugom el a problémákat. Megvan a módszerem: megbeszéljük. Hagyom őt beszélni. Nem kiabálok, nem ordibálok, meghagyom az időt neki arra, hogy előjöjjön akár a jó, akár a rossz. Ha konfliktus támad – kevés ilyen van –, elmondom higgadtan a véleményemet, ő elvonul, s egy nap múlva megjelenik: apa, igazad volt. Minden gyereknek kell a szülői támogatás és a bizalom. 
+
+A fiam? Ő <em>tanító</em> volt. Ha nincs, egész más ember lennék. Mi lett volna ha? Nem szoktam ezen gondolkodni. Hova menjek vissza az időben? Szívesen visszamennék 12 éves koromra, mikor jól ment az úszás. Sajnálom, hogy nem lettem sikeresebb sportoló. Így sem alakult rosszul az életem, sok helyen dolgoztam. Az elmúlt 40 év alatt volt 17 munkahelyem. Egy szakkönyvben olvastam, hogy a sikeres vezetőnek minimum 11 munkahelye legyen. Persze beleszámoltam, amikor 19 évesen az első munkakönyves munkaköröm a nyáron fűnyírás volt. Sok mindent próbáltam, mint például újságkihordás, úszómesterség, vízóra-leolvasás, gondnok. Közben tanultam.<br>A munkám mellett jelenleg sérült gyerekekkel foglalkozom, úszni tanítom őket szüleik legnagyobb örömére pro bono alapon. Sokszor reménytelenül hozzák a gyerekeket, de 1-2-3 év, és eljutunk egyik pontról a másikra. Megkönnyezik, amikor látják úszni a gyereket.
+
+Mátét is tanítottam úszni, amennyire lehetett. Ezt a tudást igyekszem átadni azoknak, akiknek legjobban szükségük van rá. Életminőséget lehet változtatni, ha a vizet megszeretik. Egy nagyon aranyos Down-szindrómával élő kisfiút nyolc éve tanítunk úszni. Rendesen nem tud, az igaz, de vízbiztos, élvezi a vizet és búvárkodik.<br>Elégedett vagyok az életemmel. Tudom, hogy munkámmal sok gyermeket segítek főállásomban is, és az úszásoktatásban is. Most 57 éves vagyok. A sérült gyermek bizony megtépázza a családi életet. Mi sem maradtunk együtt, küzdöttünk Máté 7 éves koráig, de kimerültünk. Láttuk, hogy eddig tartott. Megpróbáltunk megújulni, de nem sikerült. Máté 14 évesen egy bentlakásos intézménybe került, miután már nehéz nehéz volt ellátni. Megbeszéltünk, megoldottunk sok mindent, kulturált szülőként neveltük Mátét haláláig, és a halál szituációjában is emberek tudtunk maradni.
+
+Van egy közeli barátom, aki napi szinten él az úszó életben. Tőle hallok egy-két dolgot. Sok tehetség van, de előbb-utóbb külföldre mennek. Sok edző dolgozik, de ha jönnek az eredmények, már rögtön jön egy amerikai egyetem, nagy nemzetközi teamek, és a hazai úszóedzőknek nincs kibontakozás.

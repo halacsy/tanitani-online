@@ -1,0 +1,3 @@
+---
+name: Kókai-Vigh Veronika
+---

@@ -1,7 +1,6 @@
 ---
 title: uj cikket írunk
-authorSlug: dosa-judit
-date: 2026-09-01
+date: 2026-09-01T00:00:00.000Z
 tags:
   - pedagogia
 excerpt: >+
@@ -9,6 +8,8 @@ excerpt: >+
   Schoolt. És hamar rájöttünk: ezt egy hagyományos iskolától nehéz elvárni.
 
 reads: 0
+authorSlugs:
+  - dosa-judit
 ---
 A gyerek ugyanis rengeteget tanul abból, amiben él. Ha azt szeretnénk, hogy felelősséget vállaljon, akkor felelősséget vállaló felnőttekre van szüksége. Ha azt szeretnénk, hogy önállóan tudjon dönteni, akkor olyan közegben kell felnőnie, ahol mások is döntéseket hoznak. Ha azt szeretnénk, hogy közösséget építsen, akkor közösséget építő embereket kell látnia maga körül.
 

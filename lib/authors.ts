@@ -49,11 +49,11 @@ function plainText(value: string): string {
     .trim()
 }
 
-function curatedOverride(slug: string): { photo?: string; bio?: string } {
+function curatedOverride(slug: string): { name?: string; photo?: string; bio?: string } {
   const filePath = path.join(curatedDir, `${slug}.md`)
   if (!fs.existsSync(filePath)) return {}
   const { data } = matter(fs.readFileSync(filePath, 'utf-8'))
-  return { photo: data.photo, bio: data.bio }
+  return { name: data.name, photo: data.photo, bio: data.bio }
 }
 
 function loadAuthors(): Author[] {
@@ -83,7 +83,7 @@ function loadAuthors(): Author[] {
       return {
         id: record.id,
         slug: record.slug,
-        name: record.name,
+        name: curated.name ?? record.name,
         photo: curated.photo ?? '',
         bio: curated.bio ?? plainText(record.descriptionHtml),
         bioHtml: record.descriptionHtml,

@@ -1,0 +1,75 @@
+---
+title: Boldogtalan tanórák helyett...
+migratedId: 978
+overrideMigrated: true
+authorSlugs:
+  - gyarmathy-eva
+date: '2019-12-01'
+tags:
+  - nevelés
+  - pszichológia
+excerpt: >-
+  ...21. századi iskola. Gyarmathy Éva írása Először azt gondolná az ember, hogy
+  viccről van szó, de nem...
+coverImage: /sites/default/files/biznisz.jpg
+reads: 8984
+---
+<strong>...21. századi iskola.&nbsp;Gyarmathy Éva írása</strong>
+
+> Először azt gondolná az ember, hogy viccről van szó, de nem...
+
+<img alt="Gyarmathy Éva" src="/sites/default/files/gyarmathy_eva-w200.jpg" style="width: 200px; height: 200px; float: left; margin-right: 15px;">A magyar oktatás továbbra sem képes lépést tartani a 21. századi változásokkal, a gyerekek idegrendszerének és életmódjának jelentős átalakulásával, az információs forradalommal, az interdiszciplinaritással. A változások a pedagógiát erősen megérintik, nem így a hivatalos oktatást, amelynek csődjét jelzi, hogy eluralkodik az oktatásban a biznisz. Az üzletemberek és önjelölt próféták megérzik a hiányokat, és ahol kereslet kínálkozik, ott megjelennek. Ez lehet hasznos az oktatás kisebb csoportjai számára, de biztosan veszélyes, ha szakmai kontroll nélkül történik. A „boldogságórák biznisz” mint egy állatorvosi ló mutatja a nem megfelelő oktatási rendszer gyengeségeit: az oktatás résztvevői rosszul érzik magukat, és ha valaki a hagyományos oktatási kereteknek megfelelően kidolgozott módszertant kínál, arra krikátlanul lecsapnak.
+
+Nem hazai probléma ez, és a nemzetközi tapasztalat adta figyelmeztetést is érdemes szem előtt tartani. Például a neuropedagógia (educational neuroscience) létrejöttében is nagy szerepet játszik, hogy a gyerekek idegrendszeri fejlődésének sajátosságaihoz nem illeszkedik az iskola, és egyre gyakoribbak a neurológiai alapú teljesítményzavarok, amely problémára rá is álltak a vállalkozók, de nagyon eltérő szakmaisággal. <em>Usha Goswami</em>, a tanulási zavarok neves kutatója szerint a neuropedagógia egyik fő feladata, hogy a kutatók és az oktatók közötti közvetlen párbeszéd útján áthidalják a két terület közti szakadékot, elkerülve az „agyi alapú tanulási ipar közvetítőit”. Ezeknek a közvetítőknek kereskedelmi érdeke fűződik a „neuromitoszok” és feltételezett gyógyeljárások eladásához.[fn]Goswami, U (2006). "Neuroscience and education: from research to practice?". Nature Reviews Neuroscience. 7 (5): 406–411. doi:10.1038/nrn1907. PMID 16607400[/fn]
+
+A hiénák és keselyűk mindig ott vannak, ahol pusztulás van, és az oktatás éppen oszladozik, tehát megjelenésük érthető, bár nem elfogadható. A gyerekek agyával nem lehet kísérletezni az oktatási intézményben, ahol megbízható, szakszerűen alkalmazott, a gyermekek természetes fejlődéséhez és az adott kultúrához igazodó módszerekre van szükség.
+
+A pedagógusok is észlelik az oktatás problémáit, mint ahogyan sokan mások, és keresnek megoldásokat, módszereket, de minthogy a képzésük még most is csak a tananyag átadására készít fel, tanári kézikönyvre és tanmenetekre van szükségük. Enélkül csak kevesen tudnak/mernek tanítani. A kiszolgáltatottság tehát többszörös: A jelenlegi tanmenetek ártalmasak, de tanmenet nélkül vagy saját tanmenetet kidolgozva nem taníthat a pedagógus. Ezért ha bárki gyógyírt igér, tanári kézikönyvet és tanmenetet biztosít, az szabad utat kap a gyerekek agyához.
+
+## A hiányokra épülő szolgáltatások és tanórák
+
+Az oktatás fejlődésének elmaradása a rendkívüli technikai, tudományos, kulturális és társadalmi változás közepette súlyos feszültségeket okoz, és az iskola egyelőre semmilyen választ nem tud adni ezekre a kihívásokra.
+
+Egyre több kiváló, közepes és gyatra minőségű magánkezdeményezés épít a hiányok területeire a közoktatáson kívül: például informatikai és fejlesztő foglalkozások, tehetséggondozó műhelyek. Sőt, nemcsak részterületekre, hanem a teljes iskola pótlására is sokféle megoldás alakult ki: otthontanulás, tanulócsoportok, magániskolák, alapítványok. Pontosan meg nem határozható okból ez utóbbiakat az oktatásirányítás le akarja söpörni a színtérről, de ettől még ezek továbbra is fenn fognak maradni, mert hiányra épülnek.
+
+A közoktatáson belül is megjelent a toldozgatás-foldozgatás, csakhogy a legtöbb esetben ezek a túlhaladott, tanórákba szabdalt, a tudást direkt úton, tanítás által átadni kívánó elavult módon történnek. Ilyen a tanulásmódszertan, amire kétségtelenül nagy szükség van, de csak pótszer, ha külön tanórán tanulják a gyerekek azt, amit a tanulás során kell megtanulni. A tanításnak a fele kellene csak magáról a tananyagról szóljon, mert nagyon fontos, hogy miképpen lehet azt a tárgyat megtanulni, és ez az, ami szakértővé tesz, nem csak az információ hordozójává. Mozgásra is szükség van, de nem mindennapi testnevelés órákra, hanem a tanulás során tevékenységek, mozgásban tanulás, valamint frissítő és lazító mozgások formájában.
+
+Kell a fejlesztés is, de amikor már az osztály fele fejlesztő órán van, egyértelmű, hogy fejlesztő tanításra van szükség, vagyis a fejlesztés is a tanítás része, beleértve a tehetséggondozást. Etika, igen, kell, sakk, persze, szuper gondolkodásfejlesztő. A lovaglás és a zsonglőrködés is fontos, de nehogy ezekre is külön tanórát tegyenek az órarendbe! Családi életre nevelés, egészséges életmód, pénzügyi ismeretek, csodás, ha bekerül az iskola témái közé, de ha minden fontos tanulnivalóra tanórát hozunk létre, lassan az iskola karikatúráját kapjuk. 
+
+A tanórákba szabdalt világ soha nem volt tökéletes, de az írásbeliség korának szemléletében még megfelelt a tanítás számára, hiszen a tudomány is különálló kategóriákat alkotott. A 21. században azonban a tudományok is összefonódnak, az interdiszciplinaritás a pedagógiát is elérte. Csak az oktatást nem.
+
+## Példa és ellenpélda
+
+Vannak persze jó példák, amelyek jelzik az utat. A Sakkpalota módszer például nem sakk órákat jelent, hanem a sakknak mint tanulási eszköznek a használatát. <em>Polgár Judit</em> és munkatársai kiválóan ráéreztek nem csupán a hiányra, hanem a 21. századi megoldásra is. A Sakkpalota módszer még a jelen oktatási szisztémában is elmossa a határt a tantárgyak között, hiszen folyton játék van. A sakk és a pedgógia interdiszciplinaritásában jött létre.
+
+A sakk erős fejlesztő hatásai éppen azokra a neuralgikus pontokra adnak választ, amelyeket a jelen oktatás nem tud kezelni: szenzomotórium fejlesztése, irányok, arányok, szabályok, egymásutániság, rendszer, következmények, tervezés és végrehajtás, társas helyzetek kezelése. Ráaádásul van kidolgozott tanmenet és tanári kézikönyv, munkafüzet, minden, ami az elavult pedagógusképzésből érkező pedagógusoknak szükséges a tanításhoz amellett, hogy képzések is segítik a módszer alkalmazását. Így a Sakkpalota egyre népszerűbb, és a hatása egyértelműen pozitív.
+
+Létezik ellenpélda is, ilyen a [boldogságóra](http://boldogsagora.hu/). Először azt gondolná az ember, hogy viccről van szó, de nem, valóban léteznek, és szintén egyre népszerűbbek a boldogságórák, hiszen a kitalálói adnak tanmenetet, tanári kézikönyvet, munkafüzetet, és képzést is, amelyen boldogan vesznek részt a boldogtalan iskolát megváltoztatni akaró pedagógusok. És persze a gyerekek is boldogok, amikor nem matematikát és történelmet kell tanulniuk, hanem eljátsszák, hogy boldogok, hogy hálásak, és elénekelhetik a bugyuta dalokat arról, hogy boldogok.
+
+A boldogságóra tehát nem az oktatás karikatúrája, hanem virágzó biznisz, ezt [a weboldala megtekintésével](http://boldogsagora.hu/uzenet-pedagogusoknak/) bárki megállapíthatja. (Ha szponzorokon keresztül nyer anyagi támogatást, vagy közpénzt költ, és nem az áldozatok fizetik, akkor is biznisz.) Attól persze, hogy üzlet van egy oktatási módszerben, még nem káros. A Sakkpalota is üzlet, ahogy az egész oktatás az. A baj akkor kezdődik, amikor a gyerekeket beáldozzák a biznisz oltárán, és a szakmaiság is megkérdőjelezhető.
+
+A boldogságórák anyaga furcsa, ezoterikus, New Age jellegű szemléletre épül. A prófétája egy látomások által megvilágosult énekesnő. Ő készíti fel a pedagógusokat olyan pszichológiai feladatokra, mint amit például a pozitív pszichológia vagy az autogén tréning jelent. A képzések egyre terjednek, vagyis multiplikátorokra is szükség van. Kik ők? Milyen biztosíték van arra, hogy [nem szektává alakulnak ezek az ezoterikus szeánszok](https://www.karizmatikus.hu/images/stories/docs/Boldogsagorak_kereszt%C3%A9ny_szemmel_BS_SSS.pdf)?  
+
+A szülők tudják-e, mi történik a gyermekükkel? A boldogságóra létével is jelzi, mekkora gond van az oktatással, és akár mint egy állatorvosi ló elemezhető.
+
+<ul><li class="rtejustify">Hiányra épít, és látszatmegoldást ad.</li><li class="rtejustify">Olyasmit tanít, ami nem tanítható, csak tanulható, és a tanítással a tanulást akadályozza.</li><li class="rtejustify">A boldogságot tananyaggá teszi, miközben éppen a tananyag-központúságból kellene kitörni.</li><li class="rtejustify">Megterheli a pedagógusokat, akiknek egy újabb tanórára kell felkészülniük, miközben egyébként egészen új szemléletben kellene már tanítaniuk.</li><li class="rtejustify">A gyerekektől újabb órát vesz el, bár éppen az óraszámok drasztikus csökkentésére lenne szükség.</li><li class="rtejustify">Hamis illúziót kelt azzal az üzenettel, hogy a boldogság megtanulható tanórán.</li><li class="rtejustify">A boldogságukért való felelősséget a gyerekekre és a pedagógusra teszi. (Miért nem boldog az a gyerek? Hiszen meg kellett tanulnia, hogyan kell boldognak lenni.)</li></ul>
+
+A gyerekek az általuk tapasztalthoz nem illő információkat tanulnak be. Ezeket majd fel is tudják mondani, akár egy boldogságfelmérésen is. Mégsem lesznek boldogok. A félmegoldások és látszatmegoldások nagyon ártalmasak, mert akadályozzák a valódi problémamegoldást.
+
+## Messziről jött ember...
+
+A mai magyar iskolából sok minden hiányzik, de legfőképpen a 21. századi szemlélet. Minthogy emiatt az iskola nem illik a gyerekekhez, ezért a tanulásból hiányzik az öröm is. Ha nem változik az iskola, elveszítjük a gyerekeket. Vagy az oktatás falja fel őket, vagy a biznisz, amely iskolán kívül és belül is egyre erőteljesebben nyomul. Ez a nyomulás nem feltétlenül rossz, ha szakmailag megalapozott, a tanulás hátterét adó örömöt és 21. századi szemléletet hoz. A fejlődés egyik motorja a vállalkozás, tehát önmagában az üzleti érdek nem ártalmas, csak ha elszabadul. Erre pedig a jelen magyar oktatásban igen nagy esély van, hiszen éppen a 21. századi gyerekek tanulására alkalmatlan nemzeti alaptanterv készül, tehát központilag felemás a szakmai kontroll az iskolai tananyagokon.
+
+Az interdiszciplinaritás elérte a pedagógiát is, és különböző tudományok közösen dolgoznak a tanulás megreformálásán. Jöhet azonban a szociál-, pszicho-, kiber- és neuropedagógia együtt és külön-külön is, ha az iskolában nem örömalapú a tanulás, a gyerekek csak szenvednek az oktatástól, és máshol keresik a boldogságot.
+
+Az oktatásban, mint minden más területen, szükség van a tudományok együttműködésére. Ez azt jelenti, hogy gyakran olyan témákkal kell foglalkoznunk, amelyeknek nem vagyunk szakértői. Az interdiszciplinaritás akkor hatékony és biztonságos, ha mások tudományával szemben elfogadók és óvatosak vagyunk. Az ismeretlen terepen könnyen a hókuszpókusz csapdájába eshetünk. Ugyanaz a leckénk, mint amit a gyerekeknek kell adnunk:
+
+<ul><li class="rtejustify">nyitottság az új tapasztalatokra,</li><li class="rtejustify">kritikai gondolkodás,</li><li class="rtejustify">összefüggésekben való gondolkodás.</li></ul>
+
+Ha bármelyik hiányzik, akkor megvezethetnek a jól hangzó, könnyen megosztható üzenetek, az érzelmekre ható képek és dalok, a szakértelem megkérdőjelezhetetlensége, a hírnév, és a tekintély. A nyitottság kell, de a kritikai megközelítés nélkül kiszolgáltatottá válhatunk. Az interdiszciplinaritáshoz a rendszerben való godolkodás szükséges, ugyanis új ismerteket kell összeegyeztetni úgy, hogy azok végül egészet alkossanak. Még egy-egy jó megoldás is káros lehet, ha nem kapcsolódik egy szisztematikus háttérhez.
+
+Például a boldogságórák esetében is több ilyen probléma merül fel. Alkalmaz a program relaxációt, ami kiváló technika. A keleti filozózófiában megvan a helye, a keresztény vallási gyakorlatban is használt eljárás, a pszichoterápiákban is megjelenik, és a tanulásban is fontos szerepe van, viszont devalválódik, ha csupán hozzácsapjuk egyéb innen-onnan összeollózott jó gyakorlatokhoz. Még ellenérzéseket is kelthet, hiszen [ki-ki mást ért a meditáción](http://www.magyarszemle.hu/cikk/20180305_meditativ_gyakorlatok_a_szekularis_europaban). Van, aki jógázna, van, aki a Szent Ignác-i lelkigyakorlatok híve, vagy a mindfullness által keres lelki békét. Mire fel lesz tananyag egyik vagy bármelyik?
+
+A pozitív pszichológia szemlélete is eltorzul, ha egy magazin stílusában alkalmazva összekeveredik a pozitív gondolkodással. A pozitív pszichológia nem hirdeti a pozitív gondolkodást, hanem az emberi pozitív működés tudományos tanulmányozásával foglalkozik, a lelki megküzdés pozitív formáit keresi, amelynek fontos része a helyzet elemzése, vagyis nem a rózsaszín szemüveg használatát, hanem a tiszta látást helyezi előtérbe.
+
+Messziről jött ember azt mond, amit akar. Ez mindig így volt, de az infokommunikációs társadalomban a korábbiaknál annyival nagyobb a tét, amennyivel nagyobb információs, tudományos és technikai erők vesznek körül. A felelősség mindenkié, aki a gyerekek fejlődése közelében tevékenykedik.

@@ -1,0 +1,76 @@
+---
+title: 'Fóti Péter: Neill öröksége'
+migratedId: 507
+overrideMigrated: true
+authorSlugs:
+  - foti-peter
+date: '2013-11-06'
+tags:
+  - szabad nevelés
+excerpt: >-
+  Megjegyzések A. S. Neill halálának 40. évfordulóján. Neill a várakozás
+  pedagógusa volt, hitt abban, hogy a gyerekek különböző irányban ÉS különböző
+  sebességgel fejlődnek. Az uniformizálás rombolja képességeiket, elzárja
+  fejlődési útjaikat.
+coverImage: /sites/default/files/neill_0.jpg
+coverAlt: A. S. Neill. John Walmsley felvétele.
+coverTitle: A. S. Neill. John Walmsley felvétele.
+reads: 11412
+---
+<strong>Megjegyzések A. S. Neill halálának 40. évfordulóján.</strong>
+
+> Neill a várakozás pedagógusa volt, hitt abban, hogy a gyerekek különböző irányban ÉS különböző sebességgel fejlődnek. Az uniformizálás rombolja képességeiket, elzárja fejlődési útjaikat.
+
+A. S. Neill (1883-1973) halála, mint ahogy élete is, Magyarországon észrevétlen volt. Utóélete is jóval később kezdődött. Bár néhány értelmiségi ismerte nevét, és voltak néhányan, akik hallottak róla, vagy olvastak tőle valamit, a csak magyarul olvasó közönségnek 2004-ig kellett várnia, hogy a Harold Hart által szerkesztett Neill korábbi műveiből összeállított bestseller megjelenjen magyarul. A könyv magyarul a „Summerhill – A pedagógia csendes forradalma” címet viseli és a 2001 kiadó gondozásában jelent meg. A kiadó azért választotta ezt a Neill-könyvet, mert a 60-as években milliós példányszámban kelt el az USA-ban és Nyugat Európában. Bár a könyv ma is kapható még nálunk, nem nevezhető könyvsikernek. Egy könyv sikere azonban nem pusztán a könyv kvalitásainak, hanem a kornak is függvénye. Neill utolsónak szánt könyvét 1953-ban 70 éves korában írta „a szabad gyerek” címmel. Ekkor nem sejtette még, hogy 20 évvel később, 1973-ban bekövetkező haláláról [a New York Times kéthasábos nekrológban fog megemlékezni](http://www.demokratikusneveles.hu/index.php/cikkek/16-a-s-neill/197-new-york-times-neillrol). Azt sem tudta, hogy iskolája halála után 40 évvel még mindig létezni fog, és 90 éves jubileumára számos más gratuláló mellett Sir Ken Robinson is ezt írja majd:
+
+> Három generáció óta Summerhill a lehetőségeket megvilágító jelzőtűz azok számára, akik őszintén keresik a szokványos iskoláztatás radikális alternatíváit. A. S. Neill és utódai megmutatták, hogy a diákok és a tanárok milyen erősen össze tudnak nőni, ha az oktatásban érvényesülő tekintély húzta határvonalak helyét a bizalom, az együttműködés, a kreatív kutatás és a felvilágosult önmeghatározás veszi át.
+
+Neill Summerhill ősét 1921-ben alapította a Drezda melletti Hellerauban. Az iskola 1924-ben költözött Angliába, és vette fel mai nevét. Ezek a tények ma sokak számára ismertek, de az iskolát mégis az értetlenség lengi körül. Ennek részben Neill maga az oka. Szeretett bombasztikusan fogalmazni, és írásai sok embert el is taszítottak Summerhilltől. A következőkben szeretnék a Neill halálakor a New York Times-ban megjelent nekrológhoz néhány gondolatot csatolni, ösztönözve ezzel a kritikus gondolkodást Neill-ről és Summerhillről.
+
+## Önkormányzat
+
+Summerhillben Neill állítása szerint a gyerekek önmagukat kormányozzák. A magam részéről mindig is azt gondoltam, hogy ez így nem fedi a valóságot: Az iskolának valójában egy gyerek-felnőtt önkormányzata van, és helytelen elfelejtkezni a felnőttekről. Egy külön gyerekvilág csak irodalmi művekben létezik, ahogy A Legyek Ura (Golding) vagy a Kétévi vakáció (Verne) vagy az Insu-Pu (Mira Lobe) azt bemutatja.
+
+## A gyerekek fejlődése
+
+„Az a véleményem, hogy a gyerek eredendően bölcs és realista” – írta „Summerhill: A Radical Approach to Child Rearing” című 1960-ban megjelent könyvében. „A gyerek addig fog fejlődni, amíg azt a képességei lehetővé teszik, ha szabadon hagyjuk minden felnőtt befolyástól.”
+
+Szemben az idézettel szerintem a gyerekek fejlődése valójában nagyon is attól függ, hogy milyen környezetben fejlődnek. Nem létezik olyan, hogy gyermeki fejlődés minden felnőtt befolyás nélkül, hiszen tudjuk, hogy a vadonba kitett csecsemők nem tanulnak beszélni, és elvadulnak. Amiben Neillnek igaza van, az az, hogy ennek a felnőtt-gyerek környezetnek a minősége a döntő. A felnőtteknek Thomas Gordont követve azt a filozófiát kellene követniük, hogy a gyereknek tanácsot adni maximum egyszeri aktus! Kéretlen tanács esetén még ez is sok! A probléma az, hogy a felnőtt világ nagyon gyakran nyaggatja a gyerekeket, kényszeríti őket a felnőtt tanács elfogadására. Ez káros. De ahogyan Neill fogalmaz, az sajnos félrevezető. Amikor Neill követői újra és újra ezt az igazságot ismételgetik, valójában kárt okoznak. A felnőtteknek valóban hátrébb kellene húzódniuk, tanácsot csak akkor szabadna adniuk, ha azt kérik, és akkor is csak egyszer. De az önmagában fejlődő gyerek képe illúzió. Az is igaz, hogy a gyerekek a felnőtt világ értékeit átveszik, HA ezt a világ nem akarja rájuk erőltetni, ha ez a világ nem rombolja önállóságukat, ha nem látja el őket kéretlen tanácsokkal, ha nem kényszeríti őket arra, hogy mások akarjanak lenni, mint amik belülről szeretnének. Sajnos sok felnőtt ezt teszi öntudatlanul, mert félti gyereke jövőjét, vagy mert saját életével való elégedetlenségét plántálja öntudatlanul tovább. Neillnek ez a mondata azt sugallja, hogy mindenkiben csupán egy lehetőség van, ami vagy valósággá válik vagy sem. Valójában mindenkiben sok lehetőség van. Ezek közül sok van, amely az egyénnek magának elégedettséget okoz, és a közösségnek egy hasznos embert ad. Persze egy korlátozó embertelen közeg boldogtalan emberhez vezet, aki a közösségnek is „haszontalan“, mert neurotikus, mert bűnöző stb. Fogalmazzunk tehát úgy: a gyerekben rejlő számtalan jó és rossz lehetőség közül a társadalmi elvárások ma sajnos sokszor olyanok, hogy a rossz lehetőségek valósulnak meg. Neill is, és sokan mások is keressük azt a társadalmi/felnőtt hozzáállást a gyerekhez, amely azt biztosítja, hogy a gyerek boldog és hasznos legyen.
+
+## A szabadság túlhajtása
+
+Neill saját eszméinek félreértelmezése ellen sokat harcolt. Az egyik ilyen félreértelmezés az volt, hogy Neill nevében mindent megengednek egy gyereknek, mint ezt a nekrológban a heverőn ugráló féktelen gyerek példázza. Neill a szabadság és annak túlhajtása között két területen tett különbséget. A tanulást a gyerek magánügyévé nyilvánította, és ezen a területen a teljes szabadság híve volt. Pontosabban szólva tiltakozott a tanítási kényszer ellen, amit a felnőttek teljes természetességgel támogatnak, és ami a mai iskolarendszer egyik alappillére. A közösségi életben azonban nem hirdette a teljes szabadságot, hanem azt az önkormányzat keretében korlátozta. A közösség ügyei a közösség ügyei. Persze itt sem minden. A nagyobb közösségeknek bizonyos, a nagyobb közösséget érintő kérdésekben hatalma van a kisebb közösségek felett. Ezt azonban egy jó rendszer korlátozza. Világos, hogy elvileg egy ország törvényei érvényesek kellenek legyenek Summerhillre. Azonban itt is kell még egy különbséget tenni: vannak olyan kérdések, amelyeket joggal dönt el a nagyobb közösség, mert az valóban mindenkinek a közös ügye. Így dönt joggal bizonyos külpolitikai ügyekben az angol parlament, de joggal dönt arról is, hogy beszedje az adókat, amiből az ország úthálózatát karbantartják. Vannak azonban kérdések, amelyben valójában jogtalan törvényhozásról van szó, ahol az angol parlament valójában korlátozza Summerhill és a summerhilli gyerekek lehetőségeit olyan ügyekben, amelyek valójában nem tartoznak rájuk. Erről persze örök vita folyik, de ide tartozik az, ha az angol hatóságok elő akarják írni, hogy mikor és miről szóljon a tanítás. (Ez a kérdés és még számos más nem érinti Anglia többi lakóját, és joggal elvárható, hogy Summerhill polgárai ebben a kérdésben maguk dönthessenek) Ebben a kérdésben egy parlamenti döntés vitatottá tétele két dolgot érint: egyrészt magát a döntést, másrészt azt, hogy vajon a parlament jogosult-e a kérdésben dönteni, nem rabolta-e el a summerhilli közösség, vagy a summerhilli gyerekek és felnőttek egyéni autonómiáját. Sajnos ilyen világossággal nem fogalmazott Neill. Neill az alternatívákat korának gyermekeként a szocializmusban látta, és nem vette észre, hogy az ún. demokráciában is léteznek alternatívák (amelyek centralizáltak, és az autonómiákat tagadják, vagy decentralizáltak, és az autonómiákat tiszteletben tartják és támogatják). A kommunizmussal is szimpatizált egy ideig, míg be nem látta, hogy Summerhillje a kommunizmusban nem létezhetne, mert az minden alternatívát kiirt, csupán az állami iskolarendszert tűri, és iskolarendszere nem különbözik lényegesen a kapitalista iskolarendszerektől.
+
+## Hogyan lett Neill tanár?
+
+Nem vethetjük a nekrológ szerzőjének szemére, hogy nem említi: Neill az egyetem elvégzése után nem kívánt tanárként dolgozni, és 1912 és 1914 között Londonban enciklopédiaszerkesztőként és újságíróként tevékenykedett. Érdemes megjegyezni, hogy Neill az iskolaigazgatói széket az első világháború kitörésének köszönhette. Egyrészt elvesztette korábbi munkáját a háború kitörése miatt, másrészt a katonai behívások miatt üresen maradtak iskolaigazgatói helyek. Elképzelhető, hogy a tradicionális iskolarendszerben, normális időben egy Neill soha nem juthatott volna oda, hogy eretnek nézeteit egyáltalán kipróbálja. Ha pedig kipróbálta a nézeteket, és azok számára elfogadhatóak voltak, akkor ezzel megnőtt bátorsága és kedve ugyanezt a szabadságot máskor is megszerezni, és a korábbi kísérletet megismételni. Aki részletesebben megnézi Neill fiatal éveit, pontosan látni fogja, hogy Neill körül voltak emberek, akik hátráltatták abban, hogy kibontakoztassa önmagát, és számosan olyanok is, akik segítették. Éppen az utóbbiak emberi kvalitásai azok, amiket Neill kiemel, ami alapján később Summerhill tanárait kiválasztja: olyan emberek, akikben megvan a természetes tekintély: tanítani, hatni tudnak kényszer és erőszak nélkül. Azokat tanítani, azokra hatni, akikben ott a kíváncsiság. Mert a tanár csak akkor tud adni, ha a másik fél kapni akar. Neill nem akart támaszkodni a gyerekek feletti hatalomra, amit a mai iskolarendszer jórészt törvénytelenül, mert az egyéni privátszférába és az iskolaközösség belügyeibe beleszólva (lásd fentebb) magához kaparintott, és nem akar elengedni. A summerhilli iskolában Neill igyekezett a világot ebben az értelemben a talpára állítani.
+
+## "Inkább alakítjuk az iskolát a gyerekhez, mint a gyereket az iskolához"
+
+Mindez ma közhely, és sokan ezt állítják magukról, miközben az ezen elven épülő iskolák nagyon különbözőek egymástól. Neill persze ezen mindazt értette, amit elvetett a tradicionális iskolából, és ami helyett valami újat hozott létre. A gyerekhez alakított iskola mindazon túl, amit eddig elmondtam, elismeri a gyerek jogát arra, hogy maga válassza meg azt, amivel foglalkozni akar (persze bizonyos korlátok között). Ezek a korlátok azonban nagyon szélesek, és magukba foglalják a korlátlan játékot is. A munkavégzés Neillnél sajátos szerepet játszott. Gyerekként a kényszerűen végzett krumplisszedés arra késztette, hogy a munkát átoknak tekintse, holott a gyerekek önbecsülését bizonyos munkák nagyban fejlesztik, nem beszélve arról, hogy ha a munka érdekes, akkor az fejlesztheti a gyerekek problémamegoldó készségét is. Neill tiltakozása itt a kizsákmányoló jellegű munka ellen szólt.
+
+## "Az a gyerek, aki meg akarja tanulni a nagy számokkal való osztást, az meg fogja tanulni, akárhogy is tanítjuk.”
+
+Neill a várakozás pedagógusa volt, hitt abban, hogy a gyerekek különböző irányban ÉS különböző sebességgel fejlődnek. Az uniformizálás rombolja képességeiket, elzárja fejlődési útjaikat. Az iskola például azt képzeli, hogy az aktív írásbeliséghez út vezet a kényszerű olvasás- és írástanításon át. Sokkal inkább igaz, hogy a mechanikus írás- és olvasástanítás oda vezet, hogy a gyerekek közül sokan utálni fognak olvasni és írni. Summerhill szabadsága lehetőséget ad a gyerekeknek arra, hogy azt és akkor olvassanak, amihez kedvük van, akkor és arról írjanak, ami fontos nekik. Neill minden fogadkozása ellenére van valami új abban, ahogyan Summerhillben a tanítás folyik. Új és nem új: visszatérés a kezdetekhez, ahhoz, hogy a tanítás párbeszéd.
+
+## Családi nevelés
+
+Neill nem csupán az újfajta iskola, hanem egy újfajta családi nevelés apostola is volt. Mindezt lánya, az iskola mai vezetője így fogalmazta meg:
+
+> Családot nevelni fantasztikus utazás, és nem kell, hogy megpróbáltatás legyen, mint az gyakran történik. Hétköznapi bölcsességgel, jó humorral, a gyerekek és a felnőtt egyenlő jogainak ismeretében, elismerve különbségeiket is, a szülőknek nem kell azzal szembesülni, amit dackorszaknak, vagy kamaszkori lázadásnak nevezünk, és élhetnek egy nyugodt környezetben barátok között, azok helyett a konfliktusok helyett, amiket magunk körül láthatunk minden nap.
+>
+> Jó érzéssel tölt el, hogy mennyien olvassák Neill műveit és írnak nekem. Sok könyve – nem csupán a híres Summerhill a 60-as évekből – lett lefordítva egy tucat nyelvre, és a könyvek ma is hatnak. Sok ember írta, hogy nem csupán élvezték olvasni a könyveit, hanem azok olvasása megváltoztatta az életüket. (Neill and Summerhill)
+
+## Neill nyelve
+
+Az iskola vonatkozásában pedig Neill egy nagyobb közösséget tekintve adott újat, amit ma is még kevesen értenek meg. Neill nem csupán egy más gyakorlatot valósított meg az iskolában, hanem minderről egy másik nyelven is beszélt. Olyan nyelven, amely egy másik emberképet céloz meg: az önkormányozó, önszabályozó embert. Természetesen ez az ember nem létezik közösség nélkül. A mai társadalom azonban tömegével egy másfajta embert termel. Neill úgy fogalmazott, hogy a mai világban az emberek nem vagy csak félig szabadok. Ezeket az embereket termeli a mai család, a mai iskola. Életükről a lényeges döntéseket mások hozzák meg. Természetesen a szabad ember ezzel ellentétben nem azt jelenti, hogy minden döntését egyedül hozza meg egy légüres térben, hanem azt, hogy egy autonóm közösség tagjaként részt vesz a közösség döntéshozatali folyamatában. Lesznek igényei, amelyek összeegyeztethetők a többi ember igényeivel, és olyanok is, amelyek nem.
+
+Ez a szelekció az önkormányzás folyamatában valósul meg. Ez a folyamat nem lezárt, mert egyrészt a körülmények, másrészt az emberek változnak. Ez a helyzet kizár minden merev szabályrendszert.
+
+A hierarchia emeletein állók mindig is igyekeztek meggyőzni beosztottaikat, hogy a hierarchián kívül csak az anarchia létezik. Neill és követői azt magyarázzák, hogy van harmadik út az alávetés és a fejetlenség között. Ahogyan létezik az egyén szintjén az alávetés és az agresszivitás között az asszertivitás, az ember, aki ki tudja mondani szégyenkezés nélkül az igényeit, úgy létezik a merev hierarchia és a káosz között a demokratikus közösségi önigazgatás. A merev változatlan szabályú rendszerek és a szabályok nélküli káosz között vannak olyan közösségek, amelyek tagjaiknak nagyfokú autonómiát biztosítanak, ahol a közös élet széles területét átfogó szabályok közös döntések eredményei, ahol a közösség tagjai ki merik mondani igényeiket, és képesek elviselni azt, hogy a többiek is ezt teszik.
+
+Számomra ez Neill öröksége.
+
+<hr>
+
+Az oldalon John Walmsley fotója látható. A jobb egérgombbal előhívható helyi menüt a művész kifejezett kérésére tiltottuk le.

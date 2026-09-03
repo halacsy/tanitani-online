@@ -1,12 +1,24 @@
 ---
-title: 'Nem lehet „csak tanítani"'
-author: "Frank Orsolya"
-authorSlug: frank-orsolya
-date: "2026-04-16"
-tags: ["pedagógusok", "romák", "nevelés", "drámapedagógia", "oktatáspolitika", "hátrányos helyzet"]
-excerpt: "A tudásátadás emberi kapcsolatokon belül zajlik – a kommunikáció minősége az a legfontosabb tényező, amely meghatározza a tanítás sikerét. Egy konferenciakivonat tanulságai."
-image: /images/cikkek/nem-lehet-csak-tanitani.jpg
+title: Nem lehet „csak tanítani"
+author: Frank Orsolya
+date: '2026-04-16'
+tags:
+  - pedagógusok
+  - romák
+  - nevelés
+  - drámapedagógia
+  - oktatáspolitika
+  - hátrányos helyzet
+excerpt: >-
+  A tudásátadás emberi kapcsolatokon belül zajlik – a kommunikáció minősége az a
+  legfontosabb tényező, amely meghatározza a tanítás sikerét. Egy
+  konferenciakivonat tanulságai.
 reads: 2890
+authorSlugs:
+  - frank-orsolya
+coverImage: /images/cikkek/nem-lehet-csak-tanitani.jpg
+migratedId: 1406
+overrideMigrated: true
 ---
 
 **Frank Orsolya írása**

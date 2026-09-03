@@ -1,0 +1,118 @@
+---
+title: Megérinthető-e a személyiség…
+migratedId: 932
+overrideMigrated: true
+authorSlugs:
+  - h-toth-istvan
+date: '2019-03-06'
+tags:
+  - nyelvtanítás
+  - multikulturális nevelés
+excerpt: >-
+  …a magyar mint idegen nyelv (mid) tanításakor? H. Tóth István írása Az írás a
+  XII. Miskolci Taní-tani Konferenciára tervezett előadás szerkesztett
+  változata. A címbeli kérdésre összetett, bonyolult, rétegzett válasz adható.
+  Nem is lehet más, hiszen amikor a magyar nyelvet idegen nyelvként tanítjuk,
+  akkor más…
+coverImage: /sites/default/files/sokfeleseg.jpg
+coverAlt: 'Hope McConnell alkotása. Forrás: https://www.behance.net'
+coverTitle: 'Hope McConnell alkotása. Forrás: https://www.behance.net'
+reads: 2700
+---
+<strong>…a magyar mint idegen nyelv (mid) tanításakor? </strong> <strong>H. Tóth István írása</strong>
+
+> Az írás a XII. Miskolci Taní-tani Konferenciára tervezett előadás szerkesztett változata.
+
+<img alt="" src="/sites/default/files/h_toth_istvan.jpg" style="width: 200px; height: 350px; float: left; margin-right: 15px;">A címbeli kérdésre összetett, bonyolult, rétegzett válasz adható. Nem is lehet más, hiszen amikor a magyar nyelvet idegen nyelvként tanítjuk, akkor más nemzetiségű, más identitású, más szociokulturális dimenziójú egyénekkel kerülünk kapcsolatba mi, magyar anyanyelvű tanárok, kiváltképpen a célnyelvi környezetben.
+
+Vitathatatlan, hogy az az általam szervezett, irányított oktatási helyzet, amelyik keretében más-más anyanyelvű hallgatóknak tanítom a magyar nyelvet, egyértelműen pedagógiai alaptermészetű, közelebbről nyelvpedagógiai szempontok mentén meghatározott.
+
+Rögzítenem szükséges itt elöljáróban azt, hogy <em>nyelvhasználat-alapozású</em>, illetőleg <em>nyelvhasználat-fejlesztő a nyelvtanítási stratégiám</em>. Ennek – a magam pedagógiai filozófiája szerint – <em>a szemlélődő (kontemplatív), hozzáadó (additív), haszonelvű (funkcionális) nyelvtanítási stratégia</em> (H. Tóth 2015a) felel meg elsősorban úgy, hogy a tanítási gyakorlatomban vállaltan az elsődleges, sarkalatos tevékenységlánc célja a formatudás kialakítása és megerősítése a biztonságos, a tudatosságot érzékeltető, a beszédhelyzetnek és a közlésszándéknak megfelelő dinamikus nyelvhasználat mielőbbi érvényesítése érdekében. Társasnyelvészeti forrásom Beregszászi Anikó korszakos jelentőségű, az <em>additív szemléletet körvonalazó</em> nyelvpedagógiai könyve (Beregszászi 2012).
+
+Nyelvpedagógiai eljárásrendszeremben a magam részéről következetesen érvényesül a közvetítő nyelv nélküli, azaz a célnyelvű tanítás- és tanulásszervezés, valamint tanítás- és tanulásirányítás, ugyanakkor a hallgatóim a szükségleteiknek megfelelően használhatják a maguk anyanyelvének megfelelő kétnyelvű szótárakat.
+
+## Problémafelvetésül
+
+Az elöljáróban rögzítettek ismeretében nemcsak jelen dolgozatom olvasóiban, hanem a mid-tanító, vagyis a magyart mint idegen nyelvet tanító közösségekben is gyakran fogalmazódnak meg észrevételek, kritikus megjegyzések egyrészt a pedagógiai filozófiámmal, másrészt a közvetítőnyelv nélküli, azaz az egyértelműen célnyelvű tanítási gyakorlatommal kapcsolatban.
+
+Mivel sem pszichológus, sem pszicholingvista nem vagyok, hanem alkalmazott nyelvész, e tudományterület keretében tananyagfejlesztő nyelvpedagógusként, kutatóként tevékenykedem, számomra alapvetően az a kérdés, hogy miképpen van alkalmam, másképpen megközelítve: egyáltalán lehet-e, van-e alkalmam személyiség-központúan, de legalábbis a személyiségre figyelően idegen nyelvként tanítanom az anyanyelvemet, a magyar nyelvű műveltséghez közelítenem az idegen ajkú hallgatóimat.
+
+Felmerül az a kérdés is, hogy van-e, illetőleg lehet-e különbség az egyes nemzetek köreiből érkezett hallgatók viszonyulásában, avagy személyiségjegyeik előtárásában a célnyelvi környezetben tanító tanár előtt, tanár iránt.
+
+Nyitott kérdés az is, hogy miféle tananyagok, tananyag-variációk mozgósításával lehetek képes érzékennyé, odafigyelővé, hasznossá lenni a magyar nyelvet idegen nyelvként tanulók személyiségére, bizonyos személyiségjegyeire.
+
+Megkerülhetetlen a válaszadásom abban a tekintetben is, hogy kell-e, szabad-e tananyagfejlesztőként, nyelvtanárként, illetőleg pedagógusként léteznem, tevékenykednem olyan tanítási-tanulási folyamatokban, ahol sok esetben, avagy dominánsan az időkeretek és a pragmatikus vizsgakövetelmények a meghatározóak.
+
+Jelen dolgozatomban a fenti problémák részletes érintésekor konkrét tanítási helyzeteket, valamint tananyagszegmentumokat fogok bemutatni.
+
+## Egy nem teljességre törekvő példagyűjtemény a felvetések megválaszolásához
+
+Neveltetésemből és pedagógussá válásom ma is formálódó folyamatából adódik, hogy mindig személyiség-központú, mindig a velem tanuló gyerekek, a rám bízott diákok, az általam oktatott hallgatók személyiségjegyeire figyelő tanítóként, tanárként végeztem és végzem a teendőimet. A magyar nyelvet idegen nyelvként tanítva sem változott ez az értékrendem.
+
+Tudom, hogy mindig vannak az idegen ajkú csoportjaimban, akik különböző okok miatt rendkívüli aszkézissel hajszolják önmagukat a mielőbbi sikeres nyelvvizsga lebonyolítása érdekében. De még az ő esetükben is megtapasztalhatom, például nyelvünk rendkívüli szókészlete rétegeinek az érintésekor, a nyelvpedagógiai eszköztáramból alkalmazott tárgy- és szóképgyűjtemény jelentésdimenzióinak a felcsillanásakor, a magyarság művelődéstörténetének a vázolásakor a pozitív jellegű meghökkenést, a váratlan el-elcsodálkozást, azaz a kilépést a megszokott személyiségstruktúráikból.
+
+Kétségtelen, hogy nyitottabbnak kell lennem a szokott nyitottságomnál is, amikor nem zsidó-keresztény gyökerű, avagy a távol-keleti kultúrákból érkezett külföldieket tanítok, taníthatok. Ilyen 13 fős arab csoportban tanult egyedüli nőként az a hallgatóm, akivel kapcsolatos az első példám. A legelső óráink egyikén, amikor a magyar nyelvű orvosi tanulmányokra készülő alig 18 éves arab fiatalok artikulációs bázisát alakítgattam a magyar fonémák és beszédhangkapcsolatok legalább normakövető képzésére, formálgatására, tisztelettel kértem Saffanát – miután minduntalan el-elkapta a tekintetét, ha a szemébe nézve magyaráztam és mutattam volna a helyes magyar artikulációt – nos, arra kértem, nézzen rám, de ő ezt nem tette. Az arab fiatalember csoporttársai szóltak neki, hogy az ő jelenlétükben és a saját érdekében tegye meg, amit kérek tőle. Innentől kezdve Saffana türelmesen és összpontosítva figyelte az ajkaim formálását, a nyelvem vízszintes és függőleges működését, majd követte is a személyre szóló tanári mintaadásomat. Az óraközi szünetben magyarázták el nekem a csoportban tanuló fiatalemberek, hogy Saffana még nem kapott engedélyt a férjétől, hogy felvehesse velem a közvetlen szemkontaktust. De az ő jelenlétükben megtehette. Még aznap felkeresett Saffana orvostanhallgató férje, hogy megmagyarázza a történteket, és biztosított arról, hogy a felesége mindent el fog követni a nyelvtanulása sikeressége érdekében a kulturális-vallási örökségétől függetlenül. Annak a csoportomnak Saffana lett az egyik magyarul legszebben beszélő hallgatója.
+
+A múlt esztendő tavaszi szemeszterében tanítottam az egyik labdarúgó akadémiánkra érkezett Musa nevű fiatal arab labdarúgót, aki mindig szívesen emelte be a példáiba, az önálló mondatszintű közleményeibe is szerelmét, Nourt, akivel a nyáron össze is házasodtak, itt élnek Budapesten. Amikor már legalább két-három bekezdésnyi önállóan szerkesztett magyar nyelvű személy- és/vagy tárgyleírást kellett szerkesztenie Musának, akkor az egyik igen részletes és változatos struktúrájú, valamint modalitású mondatállományból álló beszámolójában a menyasszonyát mutatta be nekem rendkívül szemléletesen és szenvedélyesen. Meghallgatva az arab fiatalembert, azt kérdeztem tőle, hogy milyen színű Nour haja. Musa kissé elpirulva, alig leplezett zavartsággal tudatta velem, hogy ő nem látta még a menyasszonya haját, mert azt csak az esküvő után, a nászszobában pillanthatja meg. Ekkor azt is megtudhattam, hogy az esküvőjükig sosem lehetnek kettesben, sosem beszélgethetnek telefonon közvetlenül a vallási-kulturális hagyományaik miatt.
+
+Erősen feltételezem, hogy az iménti példáim többről is vallanak, mintha csupán az artikulációfinomítás vagy a lexikakészlet-bővítés dilemmáiról esne szó. Évszázadokon átörökített hagyományok, szemléletek, értékek izgalmas találkozásai, jószándékú egymáshoz közelítései történtek, történhettek meg ezeken a magyar nyelvet idegen nyelvként tanító óráimon.
+
+A találkozás kultúrájával foglalkozó konferenciánkon még ezt a kérdést vetem fel a személyiség és a magyar mint idegen nyelv tanításának kapcsolatrendszerében: miféle <em>tananyagok, tananyag-variációk</em> mozgósításával lehetek képes érzékennyé, odafigyelővé, hasznossá lenni a magyar nyelvet idegen nyelvként tanulók személyiségére, bizonyos személyiségjegyeire?
+
+Az utóbbi időben a nyelvpedagógiai műhelyemben alaptankönyvként az 1000 szó magyarul című könyvet (Somos 2012) használom. Ehhez kapcsolom hasznos kiegészítő tankönyvként a <em>Halló, itt Magyarország!</em> című külföldieknek írt kétkötetes magyar nyelvkönyvet (Erdős–Prileszky 2002). Ezeken túl saját fejlesztésű feladatsorokat, szövegértést erősítő teszteket és tananyagcsomagokat készítek. Ez idő tájt társszerzővel közösen a magyar igekötők világáról írunk kompetenciafejlesztő kötetet (H. Tóth–Malina 2019).Mindhárom taneszközt érintve ideteszek egy-egy olyan példát, amelyek idei konferenciánk vezértémájával, a találkozás kultúrájával, tágabb szempontból a személyiséggel állnak összefüggésben.
+
+Az 1000 szó magyarul című kötet 12. leckéje segítségével – úgynevezett beszélgetés keretében – a formatudás tanításához, jelesül <em>a határozott (=tárgyas) ragozás bevezetésé</em>re egy áruházi történetet dolgozunk fel.
+
+> Péter, a fiatal férj egy metróállomás melletti áruház előtt várja Júliát, a felségét, aki késik. Ellenben jön Péter egyik fiatal kolléganője, Panni, aki ezt kérdezi: „Engem vársz?” Nemsokára Júlia, a feleség is megérkezik, és elkezdődik <em>a vásárlás</em>. Júlia hosszan nézelődik, válogat, és végül Péter fizet, aki ezután beül az áruház presszójába pihenni, kávét inni, várni.
+
+Amikor feldolgoztuk a grammatikai anyagot, a határozott/konkrét (=tárgyas) ragozást és a kapcsolódó változatos feladatsorokat, vagyis kialakítottuk a szükséges formatudást, valamint szoros szövegolvasással értelmeztük a rétegzett jelentésvilágú olvasmányt is, befejezésül ezúttal is szabad beszélgetés keretében szólhattak idegen ajkú hallgatóim a megismert problémákról. Az ebben a nyolc fős csoportban tanuló egyik fiatal, egy észt anyanyelvű nő azt mondta, hogy három megjegyzése van <em>a történet</em> alapján. Szerinte azok a problémák, amiket szóvá tesz, azok <em>arrogánsan érintik a nőket</em>. Az egyik, hogy nő késett és nem férfi, a másik, hogy randevúra provokáló nőt és nem férfit láttunk, végül a nő, itt a feleség kiszolgáltatott, mert a férje fizet, aki ráadásul magára hagyja a feleségét, mert pihenni és kávézni akar. A csoporttársak – mindegyik más-más anyanyelvű: angol, arab, francia, grúz, horvát, lengyel, spanyol férfiak és nők – egyrészt viccesnek, másrészt igaznak tartották ezt a leckeszövegbe foglalt történetet, mondván, hogy az ő hazájukban is nagyjából ilyen a férfi – nő, férj – feleség kapcsolatrendszer.
+
+Néhány évig több csoportban is a Halló, itt Magyarország! című könyvet hasznosítottam alaptankönyvként. Nem jött velem szembe a hallgatók részéről semmilyen észrevétel, mígnem egy napon az egyik hallgató, egy angol anyanyelvű, Oxfordban jogot végzett budapesti üzletasszony mély megrendüléssel és erős indulattal kijelentette, hogy <em>ez a tankönyvcsomag diszkriminatív</em>. Az ő részéről megrendülés és indulat, a csoporttársak részéről értetlenség, a magam részéről meg elképedés volt a reakció. Ízig-vérig jogász volt ez a tankönyvkritikus hallgatóm, mert nemcsak kijelentette, hanem bizonyította is, hogy a tematikájukban egyoldalúak az olvasmányok és a feladatok szövegei is, amiként a didaktikus rajzok többsége is, mivel mind-mind harmonikus, szerelmes, problémamentes, ráadásul <em>férj–feleség viszonylatú, családbarát jellegű</em>, és ez így hamis, hazug, hiszen a világban is és Magyarországon is rengeteg a probléma férfi és nő között, kiváltképpen a családokban. Ki kellett jelentenem, hogy eddig a felvetésig sosem érintett meg ennek a nyelvkönyvnek a szemelvényvilága ebből az aspektusból. Akkor és ott azt tudtam reagálni, hogy házi feladatnak adtam egy-egy esszé írását a saját világlátásukról a férfi és nő, valamint a család aspektusából. Amikor elolvastam a hallgatói fogalmazásokat, az derült ki, hogy kivétel nélkül mindannyian osztják csoporttársuk markáns állásfoglalását. Azóta ezt a tankönyvcsaládot feladatgyűjteményként alkalmazom a nyelvpedagógiai munkámban.
+
+Ha elérkezik annak az ideje, hogy végre <em>a magyar felszólító mód színes világá</em>t tárhatom az idegen ajkú hallgatóim elé, akkor sütünk, főzünk és sokat kirándulunk, mármint a szövegek témavilágát illetően, mondhatom így is: virtuálisan. Arról van szó, hogy ezeket a szövegeket a kijelentő mód jelen, múlt és jövő idejében éppúgy transzformálhatjuk általános (=alanyi) és határozott (=tárgyas) ragozásban, amiként feltételes módban is – itt eltekintve a jövő időtől. És miután a hallgatóim rendelkezésére áll az a gazdag forma- és lexikatudás, valamint szövegértelmező, szövegátalakító képesség (=kompetencia), amelyik birtokában immáron magasabb nyelvhasználati szintre is léphetnek, következik a felszólító módunk ismeret- és felhasználási köreinek a bemutatása, elsajátítása.
+
+Olyan francia üzletember, aki hét gyermek édesapja, miután néhány <em>hungarikum</em>nak nevezett levesünk, főételünk és süteményünk receptjét sikeresen feldolgozta a magyar felszólító mód nyelvtani izgalmain, avagy huncutságain átbucskázva, kacagva fakadt ki, mondván: „Ha már ennyire nyomatja, tanár úr, ezt a sütést-főzést, akkor jöjjön el hozzánk Pilisjászfaluba, és legyen családi szakácsunk, mert a gyerekeim lassanként nem akarnak mást enni, csak a magyar konyha remekeit!”. (Csendesen hozzáteszem, hogy ez tavaly tavasszal történt, amikor még se híre, se hamva nem volt napjaink Gundel-őrületének…)
+
+A nem teljességre törekvő példagyűjteményem végére olyat hagytam, amelyik kiválóan igazolja, hogy mennyire ott lehet a pedagógiai gyakorlatunkban a magyar nyelv idegen nyelvként történő tanításakor <em>a találkozás kultúrája a személyesség</em> <em>érintésével</em>, sőt <em>árnyalt megmutatásával</em> is.
+
+Amikor a moszkvai Lomonoszov Egyetem Filológiai Fakultásán magyar nyelvi lektorként vendégoktató voltam, megbízást kaptam egy úgynevezett <em>menyasszonykurzus</em> vezetésére. Olyan orosz ajkú nőknek tanítottam a magyar nyelvet, akiknek a férje vagy a vőlegénye, avagy a jövendőbelije magyar anyanyelvű egyetemi hallgató fiatalember volt Moszkva valamelyik egyetemén. Ezek a szerelmes lányok az életük értelmét egy-egy magyar ajkú fiatal férfiban lelték meg, és igen fontosnak tartották nyelvtanulás közben a magyar emberek, így férfiak és nők személyiségvonásainak, valamint a családi kapcsolatrendszer árnyalatainak minél részletesebb megismerését.
+
+Nem elsősorban nyelvpedagógusként, hanem leginkább alkalmazott nyelvészeti szempontból rendkívül hasznosnak gondoltam, és akképpen is jártam el, hogy összehasonlító aspektusból tártuk fel a menyasszonykurzus keretében a magyarul tanulókat foglalkoztató úgynevezett <em>mentalitáskérdések</em>et, vagy stílusosan a 2019. évi konferenciánkhoz igazítottan: <em>a találkozás kultúrájának szegmentumait.</em>
+
+## Összefoglalásul
+
+Megeshet, hogy jelen dolgozatom olvasói az idei Taní-tani Konferenciánk témavilágától idegen és a tudományosság kritériumait elhessentőnek vélik a fentiekben fejtegetetteket. Ez is lehet egy nézőpont.
+
+Létezhet másfajta aspektus is.
+
+És adott az enyém, amelyiknek kezdete és vége a találkozás kultúrájában megragadható hallgatói személyiségjegyek fel-felvillantása volt, különös tekintettel a magyar nyelv idegen nyelvként történő tanítására, amikor is a magyar anyanyelvű tanár a célnyelvet közvetítő nyelv nélkül tanítja, a formatudásra alapozottan, hogy mielőbb értelmes magyar nyelvű diskurzus alakulhasson ki hallgató és hallgató, hallgató és tanár között, vagyis a hallgatók életében.
+
+Az meg kétségtelenül igaz, hogy nem mindennapi élethelyzetekkel szembesíthettem olvasóimat, mintegy biztatva is mindannyiunkat, hogy védjük és őrizzük és feltétlenül alkalmazzuk a személyiségközpontú, a személyiségtisztelő pedagógiai kultúrát a legkülönfélébb pedagógiai helyzetekben is.
+
+## A fentiek árnyalásához
+
+A magyar nyelvet idegen vagy származásnyelvként már 40 különböző anyanyelvű: angol, arab, belorusz, bolgár, cseh, észt, finn, flamand, francia, grúz, hanti, hindi, holland, ír, japán, khmer, koreai, lengyel, magyar, mandarin, mari, mongol, német, norvég, olasz, orosz, pástú, perzsa, portugál, román, spanyol, svéd, szerb, szlovák, szlovén, szuahéli, török, udmurt, ukrán, vietnami kisgyerekeknek, általános és középiskolás diákoknak, egyetemi hallgatóknak és nyelviskolai tanulóknak tanítottam.
+
+Az általam kialakított kontemplatív jellegű, additív szemléletű, funkcionális anyanyelvhasználatot fejlesztő stratégiáról a 2014/15. tanév őszi szemeszterében a váci Apor Vilmos Katolikus Főiskolán tartottam előadásokat, és vezettem az ehhez a problémához kapcsolódó szemináriumokat. Szekció-előadásban először a VIII. Miskolci Taní-tani Konferencián (2015. január 30.), majd Beregszászban a Nyelvi és kulturális sokszínűség Kelet-Közép-Európában: érték és kihívások nemzetközi interdiszciplináris konferencián (2015. március 26-28.) ismertettem a fenti stratégia lényegi vonásait feladatosított szépirodalmi szemelvények mentén.
+
+A kontemplatív jellegű, additív szemléletű, funkcionális anyanyelvhasználatot fejlesztő stratégia jegyeit nemcsak bemutattam, hanem annak az elvi tudnivalóit be is építettem több, a Közoktatás, a Magyartanítás, a Tanító és az Óvodai Nevelés című szakmai folyóiratokban megjelent, az olvasmánymegértés fejlesztését segítő tanulmányaimba, amelyekben a fejlesztő tevékenységek e szerint a tanítás- és tanulásszervező, tanítás- és tanulásirányító stratégia szerint valósulnak meg.
+
+A kontemplatív jellegű, additív szemléletű, funkcionális nyelv- és irodalompedagógiai stratégia gyakorlati érvényesülését támogató <em>„Nem fecske módra…”</em> című tanítói és magyartanári kézikönyvemet 2015-ben, <em>A minőségi helyesírásért</em> című tanári kézikönyvemet 2018-ban a Kárpátaljai Magyar Pedagógusszövetség jelentette meg Beregszászban az Emberi Erőforrások Minisztériuma támogatásával.
+
+## Felhasznált szakirodalom
+
+Beregszászi Anikó 2012. <em>A lehetetlent lehetni – Tantárgy-pedagógiai útmutató és feladatgyűjtemény az anyanyelv oktatásához a kárpátaljai magyar iskolák 5-9. osztályában</em>. Tinta Könyvkiadó. Budapest.
+
+Erdős József – Prileszky Csilla 2002. <em>Halló, itt Magyarország! I–II</em>. Akadémiai Kiadó, Budapest.
+
+H. Tóth István 2015a. <em>Építkezés a sikerből és a kudarcból</em> (Additív szemléletű funkcionális anyanyelvhasználat a kontempláció jegyében). VIII. Miskolci Taní-tani Konferencia, Miskolci Egyetem Tanárképző Intézete, Miskolc.
+
+H. Tóth István 2015b. <em>A kontemplatív alapú, additív szemléletű, funkcionális anyanyelvhasználatot fejlesztő stratégiáról</em>. Nyelvi és kulturális sokszínűség Kelet-Közép-Európában: Érték és kihívások. II. Rákóczi Ferenc Kárpátaljai Magyar Főiskola, Beregszász.
+
+H. Tóth István 2015c. <em>„Nem fecske módra…” (Kalauz az olvasmánymegértés fejlesztésére nemcsak tanítók és magyartanárok számára)</em>. Kárpátaljai Magyar Pedagógusszövetség Tankönyv- és Taneszköztanácsa, Beregszász.
+
+H. Tóth István 2018. <em>A minőségi helyesírásért</em>(Feladatgyűjtemények és tollbamondások az 5–9. évfolyamok számára – CD-melléklettel). Kárpátaljai Magyar Pedagógusszövetség Tankönyv- és Taneszköztanácsa,Beregszász.
+
+H. Tóth István– Katri-Ann Malina (Várható megjelenés: 2019). <em>A sokarcú magyar igekötő</em> (Feladatgyűjtemény). Tinta Könyvkiadó, Budapest.
+
+Somos Béla 2002. <em>1000 szó magyarul</em>. Nemzeti Tankönyvkiadó, Budapest.

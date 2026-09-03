@@ -1,12 +1,24 @@
 ---
-title: "Gyermekjogok és a korczaki örökség"
-author: "Makai Éva"
-authorSlug: makai-eva
-date: "2026-02-17"
-tags: ["neveléstörténet", "alternatív iskolák", "pedagógusok", "SNI", "oktatáspolitika", "szabad nevelés"]
-excerpt: "Janusz Korczak alapelvei – a tisztelet joga és az önmaga-lét joga – egy évszázad után is aktuálisak. A 2024-es ombudsmani jelentés tükrében: hol tart ma Magyarország a gyermekjogok terén?"
-image: /images/cikkek/gyermekjogok-es-a-korczaki-orokseg.jpg
+title: Gyermekjogok és a korczaki örökség
+author: Makai Éva
+date: '2026-02-17'
+tags:
+  - neveléstörténet
+  - alternatív iskolák
+  - pedagógusok
+  - SNI
+  - oktatáspolitika
+  - szabad nevelés
+excerpt: >-
+  Janusz Korczak alapelvei – a tisztelet joga és az önmaga-lét joga – egy
+  évszázad után is aktuálisak. A 2024-es ombudsmani jelentés tükrében: hol tart
+  ma Magyarország a gyermekjogok terén?
 reads: 3345
+authorSlugs:
+  - makai-eva
+coverImage: /images/cikkek/gyermekjogok-es-a-korczaki-orokseg.jpg
+migratedId: 1390
+overrideMigrated: true
 ---
 
 **Makai Éva írása**

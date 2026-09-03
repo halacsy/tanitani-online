@@ -1,12 +1,24 @@
 ---
-title: "Le a piros tollal! – Kudarcból tőke"
-author: "Nagy Fruzsina"
-authorSlug: nagy-fruzsina
-date: "2026-04-15"
-tags: ["iskolakritika", "kompetencia", "nevelés", "pedagógusok", "szabad nevelés", "IKT"]
-excerpt: "A hagyományos osztályozási kultúra bünteti a hibát és félelmet kelt. A gamifikáció – digitális és analóg egyaránt – átkeretezi a kudarcot: diagnosztikai jelzéssé, a fejlődés nyersanyagává teszi."
-image: /images/cikkek/le-a-piros-tollal.jpg
+title: Le a piros tollal! – Kudarcból tőke
+author: Nagy Fruzsina
+date: '2026-04-15'
+tags:
+  - iskolakritika
+  - kompetencia
+  - nevelés
+  - pedagógusok
+  - szabad nevelés
+  - IKT
+excerpt: >-
+  A hagyományos osztályozási kultúra bünteti a hibát és félelmet kelt. A
+  gamifikáció – digitális és analóg egyaránt – átkeretezi a kudarcot:
+  diagnosztikai jelzéssé, a fejlődés nyersanyagává teszi.
 reads: 3124
+authorSlugs:
+  - nagy-fruzsina
+coverImage: /images/cikkek/le-a-piros-tollal.jpg
+migratedId: 1405
+overrideMigrated: true
 ---
 
 **Digitális és analóg gamifikáció a tanulói fejlődés támogatására. Nagy Fruzsina írása**

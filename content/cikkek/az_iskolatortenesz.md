@@ -1,0 +1,41 @@
+---
+title: Az iskolatörténész
+migratedId: 1337
+overrideMigrated: true
+authorSlugs:
+  - trencsenyi-laszlo
+date: '2025-08-14'
+tags:
+  - örökség
+excerpt: >-
+  Az alma mater diákja, tanára, igazgatója, krónikása. Trencsényi László írása A
+  felkészült tanárság, jeles vezetői képességek azonban aligha lehettek elegek
+  az iskola sikereihez. Ehhez kellett az az elkötelezettség, mellyel Kürti
+  igazgató úr valósággal megteremtette az intézmény kollektív emlékezetét,
+  feltárta…
+coverImage: /sites/default/files/kurti.png
+coverAlt: Kürti György
+coverTitle: Kürti György
+reads: 1649
+---
+<strong>Az alma mater diákja, tanára, igazgatója, krónikása. Trencsényi László írása</strong>
+
+> A felkészült tanárság, jeles vezetői képességek azonban aligha lehettek elegek az iskola sikereihez. Ehhez kellett az az elkötelezettség, mellyel Kürti igazgató úr valósággal megteremtette az intézmény kollektív emlékezetét, feltárta, hozzáférhetővé tette – s teszi – az iskolatörténet megannyi felemelő vagy derűs mozzanatát.
+
+Kürti Györggyel az ezredforduló éveiben volt alkalmam együtt dolgozni. Egy oktatásfejlesztő cég csapatában tettük a dolgunk a közoktatási minőségbiztosítás ügyében. Sokat nem beszéltünk egymással, megkíséreltük többedmagunkkal jobbá tenni az oktatásügyet. Tudtuk, hogy számíthatunk egymásra. A projekttervezés pezsgő tanácskozásain vitába sose keveredtünk. Igaz, a kolléga úr nem is volt igen beszédes.
+
+Ám végre eljött az idő, hogy habitusát, jellegzetes karakterét, humorát, szavajárását, beszédmodorát megismerhessem. Hazai pályán hallgathattam egy pedagógustáborozás programjaként a ceglédi Kossuth Lajos Gimnáziumban, a díszpolgárt, aki vagy 50 esztendeig koptatta az alma mater márványlépcseit. 1964-ben diákja lett a patinás intézménynek. Erre az intézményre a kisváros méltán büszke, nem csupán kiváló egykori diákjai, jeles tanárai miatt. De amiatt is, hogy 1903-ban a majdani névadó iránti tiszteletből a város polgárai kezdeményezték az állami főgymnasium építését és létrehozását (Kossuthot a szabadságharc nyitányaként emlegetett híres toborzóbeszéde miatt tekinti saját hősének a város), s amiatt is, hogy a 125. évforduló tiszteletére sikerült jelentős állami támogatást (vélhetően befolyásos egykori alumnusok segítségével) és kiváló szakembereket szerezni ahhoz, hogy a hajdani vásártéren, a város peremén létesült középiskola ma is Cegléd emblematikus büszkesége legyen.
+
+Hogy ez így történhetett, abban oroszlánrésze volt Kürti Györgynek. Aki az érettségi után szerzett tanári diploma birtokában 1974-ben állást kapott a Kossuthban (abban az intézményben, melynek édesapja is tanára volt, édesanyja pedig gazdasági vezetője), majd 20 évig igazgatóhelyetteskedett, s 15 évig vezette az intézményt, jó hírében adta át azt utódjának. 
+
+A felkészült tanárság, jeles vezetői képességek azonban aligha lehettek elegek az iskola sikereihez. Ehhez kellett az az elkötelezettség, mellyel Kürti igazgató úr valósággal megteremtette az intézmény kollektív emlékezetét, feltárta, hozzáférhetővé tette – s teszi – az iskolatörténet megannyi felemelő vagy derűs mozzanatát. Erről így nyilatkozott egy korábbi interjúban:
+
+> A hetvenes évek második felében az iskola átépítése miatt a tablókat le kellett vinni az alagsorba. Pár hét múlva az egyik diák jelentette, hogy az alagsort elöntötte a víz. Az igazgató úrral lementünk és döbbenten láttuk, hogy a tablók egy része valóban vízben áll, több tablókép pedig a víz felszínén lebeg. Amit lehetett, megmentettünk közülük. Néhány hét múlva egy újabb diák jött hozzám egy nagyalakú fényképpel a kezében, amit az alagsor lefolyójában talált. Egy idős (nekem akkor idősnek tűnő) tanárnő tablóképe volt. Elgondolkodtam. Igazgatóhelyettes vagyok, és mégsem ismerem ezt a kolléganőt, aki lehet, hogy évtizedeken át itt tanított. Ez adta az ötletet, hogy gyűjtsük össze az összes, valaha itt tanító tanár adatait, és ha lehet a fényképüket is, és ezt helyezzük el a tanári szoba folyosóján. Ez a tabló ma is látható, és örülök, hogy az utódom folytatja ezt a kezdeményezést. E munkával kapcsolatban kezdtem el gyűjteni a kistablókat. Kezembe kerültek a régi iskolai évkönyvek és egyéb dokumentumok. Amikor igazgató lettem már az első évben sikerült kiadni az Értesítőt, amely igazgatóságom idején minden évben megjelent.
+
+Ilyen egyszerű ez. Gondoljuk ma, amikor lapozgatjuk az Évkönyvek sorát, a különböző történeti szakaszokról, különböző „szereplőkről”, szereplőcsoportokról (diákokról, „törzstag” tanárokról, kiemelkedő, jeles tanárokról) készült kiadványokat. Aki megismerhette e történeti kutatások eredményeit, s bekukkanhatott a szigorú őrizete alatt álló Irattárba, ahol csakugyan 1903 óta minden kartoték, napló, okirat megtalálható, az bizony nem fogja „egyszerűnek” tekinteni, megérzi a munka mélységeit és nagyságát. És persze jelentőségét is. 
+
+Csak egy példa a tematikus kötetek közül. A trianoni békeszerződés következtében a városba költözött valamennyi diák személyes adata, az iskolában tartózkodás időtartama, családi állásuk (jobbára tanár-, vasutas-, és katonagyerekek voltak több mint hetvenen), s valamennyi tanáré is (27-en voltak, a kollégák fele 2 éven belül elhagyta a várost, másutt próbált szerencsét, de négyen 20 évnél is több tanévet töltöttek a gimnázium szolgálatában. 
+
+Egy más metszetben az alapítók, megint más kigyűjtésben a kiemelkedő tudós-tanárok (köztük 3 Kossuth-díjas) életútjával ismertet meg írásaiban, diaképes előadásaiban a kutató. De hasonlóan fontosnak tartja az adatokat a „névtelen” kollégák sorsát illetően is. Ki az, s miért volt az, hogy mindössze két hetet volt a gimnázium állományában, vagy ki az, aki státuszban volt, de át sem lépte az iskola kapuját (betegség vagy más munkafeladat okán). 
+
+A tanártársadalom összetételét a 125 esztendő három periódusában is megvizsgálta – izgalmas adatokat tudunk meg a fluktuáció arányainak változásairól, a pálya fokozatos nőiesedéséről. S nem kevésbé az intézmény jóhíre, sikeressége – legalábbis egyik – titkáról: az egykori diákokból lett hűséges kollégákról.

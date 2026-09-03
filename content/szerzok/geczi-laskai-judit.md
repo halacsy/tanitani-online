@@ -1,0 +1,3 @@
+---
+name: Géczi-Laskai Judit
+---

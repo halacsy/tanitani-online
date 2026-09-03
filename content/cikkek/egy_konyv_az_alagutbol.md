@@ -1,0 +1,31 @@
+---
+title: Egy könyv az alagútból
+migratedId: 1072
+overrideMigrated: true
+authorSlugs:
+  - kerenyine-probocskai-zita
+date: '2021-02-05'
+tags:
+  - hátrányos helyzet
+  - romák
+excerpt: >-
+  Kerényiné Probocskai Zita könyvismertetése Kardos Ferenc: Az alagút végén.
+  Magyar Pedagógiai Társaság, Budapest, 2020, 60 old.
+coverImage: /sites/default/files/az_alagut_vegen_0.jpg
+coverAlt: Az alagút végén (címlap)
+coverTitle: Az alagút végén (címlap)
+reads: 3160
+---
+<strong>Kerényiné Probocskai Zita könyvismertetése</strong>
+
+> Kardos Ferenc: Az alagút végén. Magyar Pedagógiai Társaság, Budapest, 2020, 60 old.
+
+Először valamit a kiadóról. A Magyar Pedagógiai Társaság először 1891-ben alakult meg, a pedagógia művelőinek önkéntes egyesülése volt. 1950-ben feloszlatták, majd 1967-ben alakult újjá. A Társaság tagjai szakterületeiknek megfelelően szakosztályokban, munkabizottságokban és területi tagozatokban fejtik ki tevékenységüket. A közel 2000 főt számláló civil szakmai szervezet feladata a progresszív pedagógiai hagyományok ápolása és terjesztése.
+
+Jelenlegi elnöke, Trencsényi László felkarolta és segítette munkájában az útját kereső Kardos Ferencet. Kardos Ferenc Pápán született, 1981-ben, sokadik gyermekként családjában. Mélyszegénységgel küzdöttek, szülei alkoholizmusa miatt a gyermekeket kiemelték, nevelőotthonba kerültek. Erről szólt előző könyve, az Iványi Gábor ajánló bevezetőjével megjelent <em>Van kiút</em> (Magyar Pedagógiai Társaság, 2019.) Kardos Ferenc felküzdötte magát a mélyből, kiútra lelt, s elkötelezett nevelővé vált a gyermek- és ifjúságvédelem különböző, nehéz helyzetben működő végvárain – jelenleg az Aszódi Nevelőintézetben. <em>Az alagút végén</em> című munka szintén életrajzi ihletésű, de már a jelenről, napjainkról szóló novellák, szemelvények, gondolatok, mindennapi jegyzetek azokról a pedagógiai, gyermekvédelmi kérdésekről, amelyek foglalkoztatják a szerzőt 2020-ban. Ebben a kötetben már a jelenben vagyunk, történeteket, gondolatokat olvashatunk a már nevelőtanárként dolgozó, a növendékeiért mindent elkövető felnőtt férfitól, aki folyamatosan figyelemmel kíséri növendékei fejlődését, mert munkájában ez a fontos. Ars poeticája, hogy „a gyereket gyerekként kezeljük.” A kötete nem fejezetekre, hanem gondolatokra, novellákra oszlik. Ír a dilemmáról, ami mindenkit foglalkoztat 2020-ban, a koronavírus világjárványtól sújtott évben, hogy hogyan lehet a mai oktatásban az online térben a gyermekeknek megfelelni a mindennapokban, és taglalja, hogy milyen nehézséget jelenthet a leszakadt, szegényebb családoknak ebből az alagútból kijönni a fényre főleg akkor, ha a szülők nemcsak nem követik figyelemmel a gyermek tanulását, de az eszközök sem adottak, és a szülők tudása, ismerete sem megfelelő. A novellákban a szerző korábbi és mostani családja közötti párhuzam is felismerhető. Kardos Ferenc nevelőotthonban cseperedett és szocializálódott gyermekként folyamatosan kiemeli a család szerepét, fontosságát. Ír arról, hogy milyen nehéz megélni a karácsonyt az otthonban, párhuzamként pedig megemlíti, hogy milyen jó már, hogy most párjával meghitten tudja ünnepelni a szeretet ünnepét. A könyvben ismét találkozhatunk az életét meghatározó személyekkel: édesapjával, bátyjával, de megjelennek fiatal életét és annak irányát meghatározó szereplők is: Takács Ildi néni és „Rezsőke néni” is. Megjelennek a korábbi társak, akikkel felnevelkedett a lakásotthonban. Felbukkannak növendékei is, ír az átélt érzésről, hogy mit jelent megtenni valakiért mindent, aki mégsem fogadja meg a tanácsot, meddig lehetünk a másik életének kormányosa, és mikor van az a pont, amikor bár csalódással, de el kell engedi a másik kezét.
+
+Írásából érzékelhető, hogy bár vágyott a családra, és felnőttként visszatért bántalmazó apjához, hogy beszélgessenek, valami okból nem sikerül kapcsolatot teremteniük. Édesanyját pedig függetlenül az elszenvedett gyerekkori bántalmazásoktól, tisztességből eltemeti, és fájó pontként említi, hogy a temetésen csak ő vett részt abból a nagycsaládból, akik korábban voltak. Érződik, hogy Kardos Ferenc vágya az igazi nagycsalád. Kiemeli többször, hogy a hit, ami benne élt, vitte tovább és tovább, hogy elérje jelenlegi életminőségét: családban él feleségével egy évtizede boldogan. József bátyja erősíti meg azt, amit ő már évek óta érzett: van benne valami több, valami többlettel született a szívében, hogy ő kiemelkedett, meg tudta törni a szomorú sorsot, ki tudott törni a nyomorból, kijött az alagútból
+
+Kardos Ferenc élete és írásai példaértékűek azok számára, akik nevelőotthonokban, lakásotthonokban nőttek, nőnek fel. A szerző nagykövete lehet annak, hogy hogyan lehet emberré lenni akkor is, ha nem szerető nagycsalád, hanem szerető, nevelő közösség veszi körül az útját kereső, családját nélkülöző kisgyermeket. Keresztény hite és a benne lévő szeretet, a segíteni vágyás vezette az aszódi javítóintézet falai közé, ahol jelenleg is nevelőtanárként dolgozik. Itt ismerkedtem meg vele, itt lett a kollégám.
+
+Ajánlom könyvét/könyveit mindenkinek, aki nehéz sorsú emberekkel dolgozik, vagy laikus olvasója olyan életrajzi műveknek, amelyek a mélyszegénységről szólnak. Műve olvasmányos, érthető olvasmány, nem szakirodalom. Mégis a szakma művelői számára fontos információkat hordoz egy „sajátélményes” volt állami gondozottól, aki maga is a pedagóguspályára lépett.

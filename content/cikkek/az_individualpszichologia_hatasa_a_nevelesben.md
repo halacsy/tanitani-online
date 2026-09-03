@@ -1,0 +1,151 @@
+---
+title: Adler individuálpszichológiájának hatása...
+migratedId: 948
+overrideMigrated: true
+authorSlugs:
+  - nagy-edit
+date: '2019-06-14'
+tags:
+  - pszichológia
+excerpt: >-
+  ...a nevelésben. Nagy Edit írása Az adleri individuálpszichológia a lelki
+  rendellenességekre és szociális problémákra összpontosít, és ebben a bátorító
+  nevelésnek van kiemelt szerepe.
+coverImage: /sites/default/files/alfred_adler.jpg
+coverAlt: 'Alfred Adler. Forrás: https://www.vision.org'
+coverTitle: 'Alfred Adler. Forrás: https://www.vision.org'
+reads: 8183
+---
+<strong>...a nevelésben. Nagy Edit írása</strong>
+
+> Az adleri individuálpszichológia a lelki rendellenességekre és szociális problémákra összpontosít, és ebben a bátorító nevelésnek van kiemelt szerepe. 
+
+# Bevezetés
+
+Adler úgy tekintett a személyiségre<em>,</em> mint egységes rendszerre, ezáltal iskolájának az individuálpszichológia elnevezést adta.Freud pszichoanalízisének, illetve Adler individuálpszichológiájának (IP) elméleti különbségét az adja, hogy Adler a <em>tudatos szférát </em> helyezte a személyiség középpontjába, így a tudattalan kissé háttérbe szorult, illetve másképp is értelmeződött. Pontosabban az IP elvetette azt a freudi nézetet, amely szerint a két szféra közötti konfliktus kibékíthetetlen, és azt vallotta, hogy a tudatos és tudattalan folyamatok a pszichikum struktúráján belül egységet alkotnak. A tudattalan alatt pedig azokat a tartalmakat értette (életstílus, fiktív célok), amelyeket a személy nem tud magáról, ismeretlenek számára. (Bagdy–Klein 2006)
+
+Az IP az embert öntudatos lénynek tekinti, aki általában tisztában van viselkedése okaival, értelmével, és nincs olyan mértékben kiszolgáltatva a tudattalan vágyainak, ösztöneinek, mint ahogy azt Freud feltételezi. (Adler 1998)
+
+## Az IP elméleti kereteinek bemutatása
+
+Az individuálpszichológiában a személyiség egyedi, Adler szerint a humán, társas érdekek formálják a személyiséget. A személyiség egy egységes rendszer, amely a célkitűzései alapján megérthető. Az ember a cél elérésére törekszik, minden emberi megnyilvánulásnak, valamint viselkedésnek célja van. Az egyénnek célt kell találnia önmaga számára abban a világban, abban a környezetben, amelyben él. Adler szerint, ha egy embernek megváltoztatjuk a célját, akkor az embert változtatjuk meg. Az ember a sorsának az aktív alakítója. Alfred Adler az életcélt életstílusnak nevezi. A gyerekek körülbelül négy éves korukra alakítják ki a saját életstílusukat. Az ember kreatív, olyan élményeket keres, amelyekkel megvalósíthatja életstílusát. Egyedisége az egyéni életstílusából következik. Az életstílus központi eleme a fölényre törekvés.
+
+A fölényre törekvést a kisebbségi érzés hozza elő. A fölény célul tűzését befolyásolja a közösségérzés nagysága is. Nem ítélhetünk meg sem gyermeket, sem felnőttet anélkül, hogy összehasonlítást ne tennénk közösségérzése és az ahhoz járuló hatalmi és fölényre törekvése között. A célt úgy tűzik ki, hogy annak elérése lehetőséget nyújtson arra, hogy fölényüket érezzék, vagy, hogy énjüket olyan magasra emeljék, ahol az életet már élni érdemesnek látják.
+
+Ez az a cél, amely az érzetnek értéket ad. Abban az időben, amikor a hatalomra törekvés keletkezik, nehezen tudjuk magunkat a gyermekkel megértetni. A zabolátlan hatalmi törekvés elfajulásokra vezet a gyermeki lelki élet fejlődésében, úgyhogy bátorsága hetykeséggé, engedelmessége gyávasággá válik. Gyengédségét arra használja, hogy a többieket engedékenységre, szófogadásra, alárendeltségre bírja. (Adler 1994)
+
+## Az IP nevelési koncepciója
+
+Alfred Adler pszichológiája kihat a nevelésre. Az adleri individuálpszichológia a lelki rendellenességekre és szociális problémákra összpontosít, és ebben a bátorító nevelésnek van kiemelt szerepe. A nevelésnek fel kell készítenie a gyermeket a szociálisan elvárt magatartásra. (Adler 1994)
+
+A gyermeket meg kell érteni, és figyelembe venni a fejlettségét: például egy három- négy-vagy hatéves gyermekre észérvekkel nem tudunk hatni. Pozitívan kell meg fogalmazni az elvárásokat, tehát például miután elkészítette a házi feladatot, mehet játszani. A helyes viselkedést úgy lehet elősegíteni, ha bátorítják, ha segítik, hogy elérjék a céljukat a megfelelő úton. A nevelésben a harc elkerülésének egyetlen módja az, ha a gyermeket nem tárgynak vagy alanynak, hanem teljesen egyenrangú embertársnak tekintjük. A gyermek elleni harc mindig kilátástalan. A gyermeket erőszak alkalmazásával sohasem lehet legyőzni, vagy az együttműködésnek megnyerni. A büntetés, mindenekelőtt a testi fenyítés mindig ártalmas a gyermekekre nézve. Adler szerint a gyermeket nem dicsérni, hanem bátorítani kell, nem büntetni, hanem a megfelelő szembesülés kell a jó neveléshez.
+
+Az adleri pszichológiában a bátorítás bemutatásánál elemeznünk kell a családkonstellációt. Minden gyermek más szerepet játszik a családban. Adler különleges jelentőséget tulajdonít a családon belül a testvérek közötti viszonyoknak és az újonnan megszülető gyerekek helyzetének. Különösen az első és a második gyermek nagyon is figyelik egymást, ahol az egyik sikeres, ott a másik feladja, és ahol a másik gyengeséget mutat, ott fogja az egyik a sikert keresni. A rivalizálás gyakran megmutatkozik, a kisebbik testvér kiszolgáltatottnak érzi magát, előtte áll egy testvér, aki mindig megelőzi őt. Amelyiküknek sikerül felülkerekedni a másikon, annak nagyobb lehetősége lesz arra, hogy az életben is sikeres legyen, míg a másik hajlamos lesz a kudarcra. Napjainkban a szülők képesek mindent feláldozni gyermekük érdekében. Az individuálpszichológia nemcsak a gyermek negatív lelki magatartásának megszüntetésére törekszik, hanem meg akarja mutatni az életfeladatok pozitív megválaszolásának az útját is. (Brezsnyánszky 1998)
+
+Sokan úgy gondolják, hogy a jutalmazással és a büntetéssel nincs semmi gond. A helyes magatartást megjutalmazzák, a helytelent pedig megbüntetik. De a gond az, hogy mit találunk helyesnek, és mit helytelennek. A jutalmazás és a büntetés formái igen eltérőek az egyes családokban. Ezeket a szülők személyiségének érettsége, aktuális közérzete határozzák meg. Napjainkban a büntetésformák között gyakran fordul elő a szeretetmegvonással való fegyelmezés. Ennek hamar kiderül a hatékonysága, így sokan, és sokszor élnek vele. Adler tanítványai szerint azt mondhatjuk, hogy a szeretetmegvonás a nevelés hátrányos eszköze. (Ranschburg 2003)
+
+Azt mondhatjuk tehát, hogy a legtöbb nevelő még mindig azt hiszi, hogy a gyermeknevelésben a jutalmazással és büntetéssel célt lehet érni. Az a baj, hogy a mai gyermek, ha jutalmat kap, akkor jogosultnak érzi magát további jutalmazásokra is. Szinte már mindenért elvárja a jutalmat. Éppen ezért a jutalmazások terén a jutalmazások helyes arányát nehéz megtalálni. A túljutalmazó szülők gyermekei általában csak akkor hajlandóak megtenni valamit, ha a család megtapsolja, vagy valami ellenszolgáltatást nyújt érte. Így a gyermek minden más közösségben kudarcot él át, csak a családban képes feloldódni.
+
+A családhoz tapad, nem tud felnőtté válni, s alkalmazkodási problémái lesznek. (Bagdy 1995) A büntetésnél, amikor egy szülő büntet egy gyereket, akkor a nem kívánatos viselkedését próbálja ezzel fegyelmezni. Azonban oda kell figyelni a büntetés mértékére, illetve a mások előtt való büntetésre is. Adler szerint a büntetés rossz, és nem segíti a gyermek helyes úton való fejlődését. Az erőszak alkalmazása egyáltalán nem vezet semmi jóra, és közben sérülhet a gyermek identitása. A gyermeknevelésben nem a szóbeli ráhatások határozzák meg elsődlegesen a karakterfejlődést, hanem a szülők magatartása, a bevéshető minták, a példa önmaga. (Adler 1994)
+
+# Nevelés a családban
+
+Vizsgálták a család szerepét az 1940-es 1960-as években, és kimutatták, hogy a korai anya-gyermek kapcsolat jelentősen meghatározó. A kis csecsemő bioszociális lény, akinek társadalmi, közösségi igénye az anya-gyermek kapcsolat gyengédségigényében fejeződik ki. A pszichoszomatikus anyák azok az édesanyák, akik nem tudnak megbirkózni a problémáikkal, gondjaikkal, feszültségeikkel, és ez visszatükröződik a gyermek lelki világában. (Albert-Leveleki 2010)
+
+Az 1960-as években már az apa szerepét is vizsgálták. Itt megjelenik az inadekvát apa fogalma, ők azok az apák, akik nem képesek ellátni a családi szerepüket.
+
+Fontos a családi rendszer stabilitása és a szabályok megléte, betartása, mert enélkül nincs meg a harmónia, és a rendszer összeomlik. A családi rendszer nem más, mint az egymással kölcsönhatásban lévő egyének összessége, akik valamilyen szabály szerint élnek. (Albert-Leveleki 2010)
+
+A család közvetítő szerepet tölt be az egyén és a társadalom között. Az a feladata, hogy olyan embereket neveljen, akik elsajátítják a társadalom érték és normarendszerét, és így beilleszkednek a közösségbe. A család felelőssége óriási, a jellem alapvonásai, a külvilághoz való viszonyulás kisgyermekkorban alakulnak ki, és így ez az életszakasz nagyon jelentős. Az emberek általában az egyes tulajdonságok megítélésekor az öröklést hangsúlyozzák. (Ranschburg 2003)
+
+Nézzük meg, hogy mi is a szülők feladata! A szülőknek meg kell tanulniuk, hogyan tudják befolyásolni a gyermeküket. Az egyik ilyen módszer a gyerekek bátorítása. Ugyanis a gyermeki kudarc leggyakoribb oka a bátortalanság. A szülőknek oda kell figyelni a nevelésben arra, hogy bátorítják vagy bátortalanítják gyermeküket. Hiszen mindegy, hogy a szülő dorgálja, kényezteti vagy bünteti a gyereket, ezzel csak elbátortalanítja őt. A bátorítás azt jelenti, hogy a gyermeknek az önbecsülés és a teljesítőképesség érzését adjuk, ami persze csak akkor lehetséges, ha ebben magunk is hiszünk.
+
+Ugyanis csak a gyermek erősségeire, nem pedig a gyengeségeire lehet építeni. Tehát a jutalmazást és a büntetést kerülni kell. A szülők megteremthetik a mindennapi élet nyugodt rutinját, melybe a gyerekek kényszer nélkül beilleszkedhetnek anélkül, hogy a saját akaratukat rájuk erőltetnék. Természetesen a gyerekeknek szükségük van némi útmutatásra, és hogy bizonyos feladatokra felkészítsék őket.
+
+A probléma, amit a mai szülők átélnek, hogy ne bocsátkozzanak hatalmi harcba, ne avatkozzanak bele a más gyermekekkel folytatott vitákba, hanem hagyják, hogy a gyerekek a problémáikat maguk oldják meg. A heves reakció nem tanácsos, hiszen többnyire csak a gyerek hibás célját erősíti.
+
+Ha a gyermek a félelmét a szülők befolyásolására akarja felhasználni, ők nehezen tudják kivonni magukat a nyomás alól, s ezáltal is erősítik a gyermek hajlamát a félelemre. Ha a gyermek drámai élményeknek van kitéve, a szülő könnyen együtt érez vele.
+
+A barátok, rokonok együttérzése is gyakran többet árt, mint a gyermek fájdalma, mert ez rendszerint csak azt idézi elő, hogy a gyermek okozzon fájdalmat saját magának, hogy így mások az adósainak érezzék magukat. Nem engedhetjük meg a gyereknek, hogy azt tegye, amit akar, a felelősséget pedig áthárítsa a felnőttekre. Rá kell nevelni arra, hogy vállalja magára a családon belül a felelősség rá eső részét. (Brezsnyánszky 1998)
+
+# Nevelés az iskolában
+
+Az iskolában való nevelés felkészíti a gyerekeket a szociálisan elvárt magatartásra. Fontos, hogy a szülők oda figyeljenek, hogy a gyermekük milyen osztályközösségbe kerül.
+
+Nem mindegy, hogy kikkel barátkozik, milyen társaságban van. Ugyanis ez mind hatással van a gyerekekre, különösen a kisebb korosztályúaknál, s majd később a serdülés idején. Érdemes a gyermeket bölcsődébe és óvodába is küldeni, hiszen itt korán megtanul közösségben lenni, alkalmazkodni. Később az iskolában könnyebben tud majd barátkozni.
+
+Ferge Zsuzsa <em>Társadalmunk rétegződése</em> című könyvében írja, hogy az 1960-as években Magyarországon az értelmiségi származású gyerekek középiskolába kerülési esélykülönbsége a segédmunkás szülők gyerekeihez képest négyszeres, az egyetemekre jutásé pedig 19-szeres. Középiskolákban már csökken a különbség, de a gimnáziumok esetében még mindig jelentős. (Albert-Leveleki 2010) Általában lakóhelyünk szerint választunk magunknak oktatási intézményt. Tehát minél közelebb van az iskola, annál jobb. Budapesten az a gyakorlat, hogy mindenki a saját kerületéhez tartozó intézményekbe szeretne leginkább beiratkozni.
+
+Az iskolát legjobb 7 éves korban elkezdeni. Ez egy megpróbáltatás, mind a szülőknek, mind a gyerekeknek. A szülők ugyanis ekkor szembesülnek a saját nevelési módszerükkel, ha a gyermeket kudarcok érik, a pedagógusok sokszor a szülőket, vagy magát a gyereket hibáztatják. A szülőknek meg kell találniuk a közös hangot a pedagógusokkal, ez sokszor nem könnyű feladat. A gyermek azt viszi az iskolába, amit otthon tanul, de az iskolában a diáktársai között is gyakran formálható, nevelhető vagy jó, vagy pedig rossz irányba. Sajnos sokszor az utóbbi következik be. Ez azonban egy jó pedagógussal elkerülhető. A tanároknak tudniuk kell, hogy a diák miért viselkedik úgy az adott pillanatban, hogy mit akar ezzel elérni, és ehhez pszichológiai ismeretekre van szükség. Ezért fontos a pszichológiai képzés, valamint az ismeretek elsajátítása. Nem szabad hagyni, hogy a diák uralkodjon a pedagógus felett, tekintélyt és magabiztosságot kell mutatni, és ezzel elkerülhető az esetleges konfliktus. (Albert-Leveleki 2010)
+
+## A pedagógus szerepe
+
+Az individuálpszichológia már régóta elismert a pedagógiában. Figyelemre méltó, hogy Adler pszichoterapeutaként ilyen sokat foglalkozott a gyermekneveléssel. Felismerte a nevelés jelentőségét a személyiségfejlődésben. A legfontosabb feladat, hogy a pedagógusokat megismertessük a pszichológiával. Adler pedagógusi konferenciákat tartott az első világháború előtt, és ezeken bemutatta a pedagógusoknak a szülőt és a gyereket. Ezután a pedagógusok, különösen Spiel, Birnbaum ezt a tudást megpróbálták átvinni az individuálpszichológia egyik kísérleti iskolájába.
+
+Vannak pedagógusok, akik tiltakoznak a pszichológia tanulása ellen. A legtöbb nevelő nem tudja, hogyan lehet a gyereket rávenni az együttműködésre büntetés, és kényszerítés nélkül.
+
+A pedagógus alkotó munkája az emberformálás. Ebben pedig nemcsak szakismereteit, tapasztalatait, hanem saját személyiségét használja fel munkaeszközként. Míg a szülők nevelési feladatai életük meghatározott szakaszára korlátozódnak, addig a pedagógus egy életen át hivatásos „másodszülői funkciókat” vállal. (Bagdy 1995)
+
+A pedagógusok tanítottak, vagyis tudást közvetítettek, a gyerekeknek pedig az volt a feladatuk, hogy ezt a tudást elsajátítsák. Ha ezt mégse tették meg, akkor alkalmazták a büntetésből és dicséretből álló módszert. Egy zsarnoki társadalomban az ilyen módszerek jó eredményekhez vezettek.
+
+De a mostani oktatási módszerek már nem hozzák meg a kívánt eredményeket. Egyre nő azoknak a gyerekeknek a száma, akik nem akarnak tanulni. Ahhoz hogy egy pedagógus sikeres legyen, többel kell rendelkeznie a szaktudásnál. A pszichodinamika és a csoportdinamika tanulmányozásával minden pedagógus megtanulhatja azt a tudást, amelynek a segítségével le tudják győzni a gyerekeknél az ellenállást.
+
+Jelenleg a pedagógusok keveset tanulnak arról, hogyan lehetne a gyereket befolyásolni. Hiszen így is túl vannak terhelve munkával, hogyan lehetne tőlük még egy újabb felelősséget elvárni. Elvégre a szülők feladata az, hogy a gyerekeket rávegyék a tanulásra, az alkalmazkodásra, és hogy rendesen viselkedjenek. A pedagógusnak, hogy minden egyes tanulónak segíteni tudjon, meg kell tanulnia megérteni őket. Nézzük, hogy mit ér el a gyerek a magatartásával. Viselkedéséből általában következtetni lehet szándékára és céljára.
+
+Ha a pedagógus bosszankodik, akkor valószínűleg a gyerek a figyelmét akarja felkelteni. Ha kihívást érez, akkor feltehetően a gyerek hatalmi harcban áll vele. Ha a pedagógus mélyen sértve érzi magát, akkor pedig valószínűleg a gyerek bosszút akart állni. (Adler 1994)
+
+Ha a pedagógus egyszerűen már felad minden próbálkozást a befolyásolásra, akkor olyan gyerekkel lehet dolga, aki a tehetetlenségéről akarja őt meggyőzni. Fontos hogy tudatosuljon a pedagógusban, hogy nem szabad áldozatul esnie a provokációnak. A magatartás akkor értelmezhető, ha a gyerek céljait pszichológiailag közelítjük meg. Sok módszer áll rendelkezésre. Alfred Adler a bátorítást emelte ki. Minden olyan gyerek elbátortalanodott, aki rosszul viselkedik, vagy kudarcok érik. Az iskolai rendszerben egyre inkább érvényesülnek az elbátortalanító hatások, és ezeknek a leküzdéséhez a pedagógusoknak meg kell tanulniuk a bátorítás módját. Minél félénkebb egy tanuló, annál kevesebb bátorítást kap.
+
+A dorgálás, a szidás, a fenyegetés és a büntetés csak azt eredményezi, hogy a gyereket még jobban belehajszoljuk a kudarcba.
+
+A pedagógusnak mindenekelőtt ahhoz kell értenie, hogy az osztályt egységbe kovácsolja, a jókat a rosszakkal, a fejlettebbeket a lemaradókkal egyesítse. Csak így teremthető kedvező osztálylégkör, különben viszály és konkurencia tölti be a termet. Szükség van a pedagógusok vezető szerepére, de meg kell találniuk a középutat.
+
+Ugyanis ha túl szigorúak, akkor ezzel lázadást keltenek a gyerekek között, viszont az engedékenységükkel felfordulást, zűrzavart okoznak. A zsarnoki módszert alkalmazó pedagógus kritizál, utasításokat ad, míg a demokratikus belülről motivál, bátorít és javasol. Az osztálymegbeszélések feltétlenül szükségesek. Ezen szabad beszélgetések során minden tanuló megtapasztalhatja a felelősségének az érzését. A gyerekek megoszthatják a felelősséget a pedagógussal, így könnyebb a konfliktusok és a problémák megoldása. Ezen a módon a gyerekeket bevonják a kölcsönös segítésbe, így a teljesítmény és képességbeli különbségek nem vezetnek viszályhoz az osztályban, hanem mindenkinek kölcsönösen előnyére válnak. Ezen a módon az iskola döntő szerepet játszhat abban, hogy a fiatalság és a felnőttek közötti jelenlegi szakadékot áthidalja. (Brezsnyánszky 1998)
+
+A legtöbb pedagógus, főként, akik az alsó osztályokban tanítanak, megpróbálják felvenni a kapcsolatot a diákok szüleivel. Ha a gyerek jól teljesít, akkor általában ezekkel a találkozókkal nincs is semmi gond, azonban ha a gyerek rosszul teljesít, akkor a pedagógusok leginkább a szülőket hibáztatják.
+
+Általában azt tanácsolják nekik, hogy segítsenek a gyereknek a tanulásban. A gyerek reakciója az lesz, hogy még inkább elutasítja az iskolát és a tanulást. A másik oldalon a szülők érzik úgy, hogy a pedagógus nem képes a feladatával megbirkózni.
+
+Több vizsgálat készült arról, hogyan befolyásolja a családok társadalmi helyzete a szülők és az iskola kapcsolatát. A rosszabb társadalmi helyzetű szülők hamarabb konfliktusba kerülnek az iskolával, és gyakran meg is szüntetik a kapcsolatot. Sok félreértés az eltérő értékrendszerből, a kommunikáló felek közötti társadalmi távolságból fakad. (Albert-Leveleki 2010)
+
+Milyen együttműködést várhatunk el valójában a pedagógus és a szülők között? A pedagógusok ugyan tudnak követelményeket támasztani a szülőkkel szemben, de csak akkor tudják megmondani, hogy az ilyen követelményeknek hogyan lehet megfelelni, ha ismerik azokat a hatásos módszereket, amelyeket a szülők tudnak alkalmazni a nevelésben is. (Brezsnyánszky 1998)
+
+# Összegzés
+
+A csecsemőnek, később a gyermeknek és felnőttnek az élettel szemben tanúsított magatartását, a környezet rázúduló benyomásai befolyásolják a legtartósabban. Már a csecsemőkor első hónapjaiban megállapítható, hogyan viselkedik a gyermek az élettel szemben. Ettől kezdve már nem téveszthetünk össze két csecsemőt abban a tekintetben, ahogyan reagál a környezetének ingereire. A gyermek lelki életének fejlődését leginkább áthatják társadalmi vonatkozásai, megnyilvánulnak benne a veleszületett közösségérzés első jelei. Az összetartozóság érzése, a közösségérzés alapvetővé válik a gyermek lelkében. (Adler 1994)
+
+A gyermek lassú fejlődését szemlélve megállapíthatjuk, hogy az emberi élet csak úgy fejlődhet ki, ha oltalmazó közösség veszi körül. A gyermek nevelhetősége a gyengeségét felülmúlni igyekvő törekvésében rejlik. (Adler 1994)
+
+Mindezek alapján megértjük annak szükségszerűségét, hogy az embert társas lénynek tekintsük. Adler azt vallotta, hogy az embert elsősorban társadalmi késztetések motiválják. Nem csupán azt állítja, hogy az embert a társadalmi hatások szocializálják, hanem azt, hogy maga a szociális érdeklődés veleszületett tulajdonság. A biológiai evolúció hozta létre a gondolkodó embert, így ezt a folyamatot célorientáltnak láthatjuk. (Adler 1998)
+
+Adler szerint mindenkinek kell találnia egy célt az életében, és e szerint kell élnie, cselekednie. A célunk határoz meg minket, és ha megváltoztatják egy ember célját, akkor magát az embert változtatják meg. Adler elméletében elengedhetetlenül fontos az anya-gyermek kapcsolat a szociális érzés kialakításához. A korai anya-gyermek kapcsolat jelentősen kihat a gyermek személyiségfejlődésére és az egészséges lelki fejlődésére. Egy kisgyereknek nagyon is szüksége van az édesanyjára, ő az elsődleges szereplő, utána következik az édesapa és a család funkciója. Adler a mélylélektani emberismeretből indul ki, és következtetéseket von le a korszerű neveléshez. A nevelés célja az legyen, hogy az egyént mint tevékeny és fejlődő individuumot illessze be a társadalomba. (Vajda 2001)
+
+A közösség követelményei szabályozzák az emberek egymáshoz való viszonyát, mely abszolút igazságként, magától értetődően már eleve fennállott. Az egyes ember egyéni élete előtt már megvolt a közösség. Sehol nem éltek az emberek másként, mint társadalomban. Ez a jelenség könnyen érthető.
+
+Az egész állatvilágban érvényes az a törvény, hogy azok a fajok, amelyek nincsenek kellőképpen felfegyverezve, egyesülnek, hogy aztán sajátságos módon fejlődjenek tovább. Sehol nem találunk egyedül élő gyenge állatokat.
+
+Az ember se elég erős arra, hogy egyedül éljen. Az embernek a természettel szemben több segédeszközre is szüksége van, hogy létét fenntartsa és biztosítsa. Képzeljük csak el annak az embernek a helyzetét, aki a kultúra minden segédeszköze nélkül tartózkodik egy őserdőben. Sokkal veszélyesebb helyzetben lenne, mint más élőlény. (Pléh 1992)
+
+Érthető ebből, hogy az ember csak úgy tudott fennmaradni, ha különösen kedvező körülmények közé került. Ezt legelőször a csoportos élet adta meg számára, mert csak az együttélés tette lehetővé, hogy a munkamegosztással olyan nehézségeket győzzön le, melyekkel szemben egyedül elbukna. Az emberi faj fennmaradásához szükség volt a nevelés, hit s törvényhozás biztosítására, s ezeknek a közösségi eszme vonalával kellett megegyezniük. Nem nőhet fel teljes értékű ember a közösségérzés ápolása és gyakorlása nélkül. (Adler 1994)
+
+# Irodalomjegyzék
+
+Adler A. (1994): Emberismeret, Göncöl Kiadó, Budapest.
+
+Adler A. (1998): Életismeret, Kossuth Kiadó, Budapest.
+
+Albert József- Leveleki Magdolna (2010): Szociológiai alapismeretek, Ziggy Bt., Budapest.
+
+Bagdy Emőke- Klein Sándor (2006): Alkalmazott pszichológia, Edge 2000 Kiadó, Budapest.
+
+Brezsnyánszky László (1998): A bátorító nevelés alapjai, Iskolafejlesztési Alapítvány, Budapest.
+
+Dr. Bagdy Emőke (1995): Családi szocializáció és személyiségzavarok, Nemzeti Tankönyvkiadó, Budapest.
+
+Pléh Csaba (1992): Pszichológiatörténet, Gondolat Könyvkiadó, Budapest.
+
+Ranschburg Jenő (2003): Szülők lettünk, Saxum Kiadó Bt., Budapest.
+
+Ranschburg Jenő (2002): Jellem és jellemtelenség, Saxum Kiadó Bt., Budapest.
+
+Vajda Zsuzsanna (2001): Lélektankönyv, Műszaki Könyvkiadó, Budapest.

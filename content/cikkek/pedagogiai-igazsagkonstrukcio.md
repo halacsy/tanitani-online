@@ -1,12 +1,22 @@
 ---
-title: "Pedagógiai igazságkonstrukció"
-author: "Knausz Imre"
-authorSlug: knausz-imre
-date: "2024-10-26"
-tags: ["iskolakritika", "oktatáspolitika", "nevelés", "pedagógusok"]
-excerpt: "Az igazság elvesztése – az intézményi bizalom megrendülése és az igazság iránti közöny – aláássa a demokratikus diskurzust és utat nyit az autoritarizmusnak. Az oktatás ezt a tendenciát erősíti vagy megfordíthatja."
-image: /images/cikkek/pedagogiai-igazsagkonstrukcio.jpg
+title: Pedagógiai igazságkonstrukció
+author: Knausz Imre
+date: '2024-10-26'
+tags:
+  - iskolakritika
+  - oktatáspolitika
+  - nevelés
+  - pedagógusok
+excerpt: >-
+  Az igazság elvesztése – az intézményi bizalom megrendülése és az igazság
+  iránti közöny – aláássa a demokratikus diskurzust és utat nyit az
+  autoritarizmusnak. Az oktatás ezt a tendenciát erősíti vagy megfordíthatja.
 reads: 5841
+authorSlugs:
+  - knausz-imre
+coverImage: /images/cikkek/pedagogiai-igazsagkonstrukcio.jpg
+migratedId: 1279
+overrideMigrated: true
 ---
 
 **Knausz Imre írása. Elhangzott Debrecenben, az Országos Neveléstudományi Konferencián 2024. október 25-én.**

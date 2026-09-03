@@ -1,0 +1,35 @@
+---
+title: 'Tóth Andrea: Egy fontos könyvről'
+migratedId: 535
+overrideMigrated: true
+authorSlugs:
+  - toth-andrea
+date: '2014-02-17'
+tags:
+  - multikulturális nevelés
+  - tantárgy-pedagógia
+excerpt: >-
+  Körner András: Hogyan éltek? A magyar zsidók hétköznapi élete 1867-1940,
+  Corvina Kiadó, 2013.
+coverImage: /sites/default/files/hogyan_eltek.jpg
+coverAlt: 'Körner András: Hogyan éltek?'
+coverTitle: 'Körner András: Hogyan éltek?'
+reads: 5484
+---
+> Körner András: Hogyan éltek? A magyar zsidók hétköznapi élete 1867-1940, Corvina Kiadó, 2013.
+
+Pedagógusként szakmai ártalom, hogy az olvasmányaimat is „pedagógus szemmel vizsgálom”. Mit is jelent ez a gyakorlatban? Judaisztika szakos tanárként fontosnak tartottam, hogy a tanóráimon a diákjaimat minél jobban motiváljam, hogy a tanulók az óráim után is szívesen foglalkozzanak a tananyaggal, és önálló kutatásokat is végezhessenek. Jelenleg kisbabámmal otthon tartózkodom, de figyelemmel kísérem a judaisztikához kapcsolódó aktuális szakirodalmat is. 
+
+Körner András Kóstoló a múltból (Vince Kiadó, Budapest, 2005) című kortörténetet is bemutató szakácskönyvét már olvashattam. A könyv nem a „mindennapi” szakácskönyvekhez hasonlítható, ezért számomra különleges olvasmány volt. Igyekeztem e könyvét is minél előbb megvásárolni és elolvasni. Kíváncsian vártam az 1967 óta az Egyesült Államokban élő szerző legújabb munkáját, amelynek már a bevezetőjéből megtudhattam, hogy további kötet, képeskönyv megírására is készül, amely a most megjelent műve folytatása lesz. 
+
+Pedagógusként azt tapasztalhattam, hogy a zsidóság történetét, életét, szokásait és hagyományát is szemléltető eszközök segítségével jobb tanítani, mert általuk a tanítás hatékonyabbá válhat. Jelenleg is pedagógia szakos óraadó tanárként tevékenykedem az Országos Rabbiképző – Zsidó Egyetemen, ahol a zsidó nevelést bemutató előadásomon e könyv képanyagának egy részét segédanyagként is felhasználtam. A tapasztalatom az volt, hogy a hallgatók érdeklődéssel tanultak a zsidóságról az általam kiválasztott képanyag segítségével. Természetesen egy egész tanév is kevés lenne az összes fotó részletes bemutatására. Körner András az MTI-nek elmondta, hogy a munkája során megvizsgált időszak, a 19. század második és a 20. század első fele egybeesett az ország modernizációjának a felgyorsulásával. 1868 volt a zsidó emancipáció éve, a törvénybe iktatott egyenjogúságé, a magyar zsidóság az adott lehetőséget kihasználva erőteljesen bekapcsolódott az ország megújításába. A szerzőnek a könyv megírásával a fő célja az volt, hogy megpróbálja bemutatni a hihetetlen sokféleséget, amely jellemezte a magyar zsidóságot. 
+
+Színes világukhoz tartoztak a szekularizált, kitért zsidók, az asszimiláltak, akiknek a nagy része vallásos volt ugyan, de a gyerekeik állami iskolákba jártak, nem jiddisül, hanem magyarul beszéltek. Az ortodoxia sem volt egyforma, Kárpátalján más körülmények között éltek, és másként gyakorolták vallásukat, mint a Dunántúlon. A trianoni békeszerződés előtt az országban az ortodoxok voltak szűk többségben, 1920 után viszont az asszimiláltak, mert ezt is várta el tőlük a többségi nemzet. Az ország lakosságának 5 százaléka volt zsidó, és a többséghez viszonyítva nagyobb százalékban voltak közöttük írni és olvasni tudók. Ennek a korszaknak jelentős képanyaga van – jegyezte meg Körner András –, és azt mutatja be, hogy milyenek voltak a mindennapi élet fizikai körülményei, vagyis a külsejük, a lakóhelyük és kenyérkereső foglalkozásuk. Ez a hármas tagolódás uralja a könyvet. A szerző dédanyját és annak rokonságát is láthatjuk a fotókon. A zsidó emberek ruházata nem különbözött a magyar polgárság öltözékétől. Kárpátalján az ortodoxok vagy a hászidok öltözéke viszont megkülönböztette őket a többségtől. Érdekes a könyvnek a rabbik ruházatának és szakállviselésének a bemutatásáról szóló része is. 1910-ben a 12 700 település öthatodában, minden járásban és faluban éltek zsidók. 1860-ig birtoktilalom volt, addig nem lehetett saját házuk, földjük, majd szántóvetők lettek. Volt köztük földbirtokos, nyersprémkereskedő, kőműves, asztalos, faúsztató, vándorköszörűs és edény- és üstfoltozó is. A nagyobb városokban orvos, ügyvéd, patikus, vendéglős, kávéház-tulajdonos, kiskereskedő volt a foglalkozásuk. A zsidó emberek mindennel foglalkoztak, amit a hatóságok engedélyeztek nekik. Így ők lehettek a magyarországi bankszakma, a malomipar, a cukorgyártás és a szalámigyártás alapítói. Fontos szerepet tölthettek be mint lapkiadók és szerkesztők. 
+
+A magyarországi kabaré műfajának „alapítói” zsidó származásúak voltak, mint Nádas Sándor és Nagy Endre. A fővárosban voltak szép számmal a zsidók közt írók, mint Heltai Jenő, Bródy Sándor, színészek, így Rózsahegyi Kálmán, zenészek, mint Kálmán Imre, a filmesek közt Korda Sándor, Kertész Mihály, a fotográfusok között például André Kertész. A 19. században Óbudán élt a legrégibb zsidó közösség, majd Pest, Buda, Óbuda egyesülése után Pesten a Károly körút és Király utca közötti területen ott volt a nevezetes Orczy-ház is. A gazdag bankárok, gyárosok lakhelye a Belváros, a Rózsadomb volt, vagy vidéki kastélyukban éltek, mint Hatvany báró, a cukorgyáros. 
+
+Körner András bevezetőt írt a könyvhöz, jegyzeteket a képekhez, a fotók lelőhelyeit is megjelölte csakúgy, mint a felhasznált irodalmat, és ellátta a kötetet névmutatóval is. A könyv képanyagának a segítségével a diákok további kutatásokat végezhetnek. A felhasznált irodalomjegyzék egy-egy könyvének a tanulmányozásával a kötetben megtalálható témakörök részletesebben is megvizsgálhatóak. A közel 250 fotó közül mindegyiknek megvan a maga története, érdekessége. A fotók melletti kis történetek is érdekesek. 
+
+A szerző a könyv megírásával emléket szeretett volna állítani a holokauszt során megölt embereknek, közösségeknek. Nem a híres emberek bemutatása volt a könyv megírásának a célja, hanem a hétköznapi zsidó emberek életmódjának a felidézése. A könyv olvasása során egy időutazáson vehetünk részt, a korabeli fotók segítségével megtudhatjuk, 1867 és 1940 között hogyan éltek a zsidó emberek. Az olvasmányosság mellett a könyv tagozódása is segíti az olvasóit abban, hogy fokozatosan, lépésről lépésre egyre többet tudjanak meg a zsidóság mindennapi életéről. A fejezetek előtti történelmi áttekintés segítségével az egyes fejezetek könnyebben értelmezhetőek. A szöveg olvasmányos, a 229 oldalas kötet igényesen megtervezett munka. Dicséret illeti a szerkesztő és a tipográfus munkáját is. 
+
+E könyvet ajánlani szeretném pedagógusoknak és diákoknak egyaránt, hogy általa a zsidóságról minél több hiteles információhoz, ismerethez juthassanak. A diákok fotók segítségével ismerhetik meg a korabeli Magyarországon élt zsidó emberek életét. Megtudhatják, hogy az asszimilált zsidók élete nem sokban tért el a nem-zsidó vallású polgártársaiktól. A könyv anyaga önálló, páros és csoportos munkaforma segítségével egyaránt feldolgozható. A diákok a saját családjuk, lakóhelyük történetét is kutathatják a könyvből szerzett ismereteik segítségével.

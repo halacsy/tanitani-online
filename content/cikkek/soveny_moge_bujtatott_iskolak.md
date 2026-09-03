@@ -1,0 +1,125 @@
+---
+title: Sövény mögé bújtatott iskolák
+migratedId: 973
+overrideMigrated: true
+authorSlugs:
+  - nemeth-tibor
+date: '2019-10-31'
+tags:
+  - nemzetközi
+excerpt: >-
+  Németh Tibor írása Azok az ír szavaink, melyeket – mikor tanításról beszéltek
+  – a régiek használtak, mutatják, hogy tökéletesen értették a folyamat
+  lényegét. Az öreg ír számára a tanító nevelőszülő (aite), a tanítvány nevelt
+  gyerek (dalta), maga az oktatás pedig dajkaság (aiteaochas) volt. (Pearse
+  1916:6)
+coverImage: /sites/default/files/falfestmny_belfastbl.jpg
+reads: 9260
+---
+<strong>Németh Tibor írása</strong>
+
+> Azok az ír szavaink, melyeket – mikor tanításról beszéltek – a régiek használtak, mutatják, hogy tökéletesen értették a folyamat lényegét. Az öreg ír számára a tanító nevelőszülő (aite), a tanítvány nevelt gyerek (dalta), maga az oktatás pedig dajkaság (aiteaochas) volt. (Pearse 1916:6)
+
+<em>Drága szüleimnek, mindenkori tanítóimnak</em>
+
+Az időszámításunk előtti ötödik századra az ír sziget egészén kelták éltek. A bonyolult társadalmi tagozódás szerint élő törzsek politikai egységre nem jutottak, de joggyakorlati, vallási és kulturális szempontból nem voltak megosztva, és ugyanazt a nyelvet beszélték. A szigeten az időszámításunk szerinti negyedik századra kialakult (a mai napig létező) négy nagy területen – Ulster, Leinster, Munster és Connaught – másfélszáz kiskirályság létezett, mind szigorúan szabályozott társadalmi hierarchikus rend szerint. A három társadalmi osztályt az arisztokrácia, a szabad emberek és a rabszolgák alkották. Az arisztokrácia nem csak a királyt (rí) és udvari népét jelentette, hanem ide tartoztak a teológiával, filozófiával és mágiával, illetve ezek tanításával megbízott druidák, a tanítók és a regösök (filí) is. 
+
+<img alt="Németh Tibor" src="/sites/default/files/nemeth_portre.jpg" style="margin-right: 13px; font-size: 12px; background-color: rgb(232, 232, 232); text-align: justify; width: 250px; height: 362px; float: left;">
+
+A regösök gyűjtötték össze és jegyezték le elsőként a kelták történeteit és mondakincsét, és annak ellenére, hogy a törvényekkel sokszor meggyűlt a bajuk, tisztelte őket nemes és közember. Úgy mondták: gunyoros verseik rontást hoznak arra, kiről írják, mert szavaiknak hatalma van. Nemcsak regös-költők, de krónikusok, a kelta hagyományok őrei és a jog ismerői is voltak – tanácsaikra büntető ügyekben és örökléskor is szükség volt. Iskolákba csak ők jártak: jogot, történelmet, irodalmat, versírást és zenét is tanultak jellemzően ír közvetítő nyelven, de sokszor latinul és görögül is. 
+
+Az iskolák élén az alapító költő-mester (ollamh) állt – egyetlen versének értéke több tehén árával ért föl –, diákjai hosszú évekig, akár két évtizedig is tanultak tőle. Az iskolák önálló szakmai műhelyként működtek, a tehetséges hallgatók egyikből a másikba jártak tanulni. Nem csupán a költő-mesterek diákjai vándoroltak, de a felső társadalmi körökben elterjedt gyakorlat szerint a családok gyermekeiket gyakran befogadó szülőkhöz küldték néhány évre (a gyakorlat Írország egyes részein a tizennyolcadik század végéig fennmaradt.)
+
+A kelták műveltsége szóbeli hagyományra épült, az írásbeliség csak a negyedik század második felében érkezett kereszténység elterjedésével bontakozott ki. A hagyomány szerint szent Patrik a pogány világ erényeit, a hűséget, a bátorságot és a nagylelkűség jellemerejét egyesítette a hit, remény és szeretet keresztény erényeivel. A történetmondók, eredetmagyarázók és a papi személyek rendjéből sokan keresztény szerzetesek lettek, de a költő-énekesek egészen a tizenhetedik század végéig megtartották függetlenségüket. 
+
+Az ír szigeten – Európa szárazföldi területeivel szemben – a kereszténység előtti kultúrák hagyatékát nem igyekeztek kitörölni a köztudatból, az új hit véráldozat nélkül terjedt, és a világtól elvonuló remeték lassan közösségekbe szerveződtek. Bár szent Patriknak (460 körül) sikerült megszerveznie az Európa szárazföldi részein jellemző püspöki rendszert, ez a nagyvárosok és utak nélküli és egységes politikai rendszert nélkülöző szigeten néhány évtizeden belül széthullott: az oktatási és lelkiségi központokká váló apátságok vezetői jelentősebb politikai tényezőkké váltak, mint maguk a püspökök. 
+
+A kereszténység sok változást hozott. A régi írásrendszert (Ogham) a hetedik század elején felváltotta a latin alapú, ma is használt ábécé, és megérkezett a szigetre a klasszikus nyelvek és kultúrák szeretete és használata is. A karthágói zsinat döntése (436), mely megtiltotta a pogány kultúrák művelését, az ír szigeten nem talált meghallgatásra: a bárdok iskolái és a szerzetesi iskolák itt évszázadokon keresztül termékenyítőleg hatottak egymásra (idézi Fernández-Suárez 2006:17).
+
+> Azok a szerzetesek, akik a latin ábécét Írországba hozták, egy kidolgozott írásrendszert találtak itt, mely prózai művek és versek írására is alkalmas volt, és amely az újonnan érkező tudás gazdagító hatását is hajlandó volt befogadni. Ők is elismerték az írott és szóbeli hagyomány értékét: a monostorokban a helyi hagyományok jelentősége tovább élt.
+
+A tizenkettedik század végéig az ír sziget Európa távoli szeglete maradt. 640 és 1180 között nem volt írásos kapcsolat az ír egyház és Róma között, ír csapatok a keresztes hadjáratokban nem vettek részt, és az írek egyházfegyelmi ügyekben is csak ekkor vetették magukat alá Róma akaratának: a casheli püspöki szinódus kimondta, hogy a kelta egyház az angol egyház liturgiáját követi; az ír sziget a canterbury érsek fennhatósága alá került (1172).
+
+<img alt="1. kép" src="/sites/default/files/irorszag1.jpg" style="width: 470px; height: 352px;">
+
+Ekkorra – az anglo-normann hódítással (1170-től) – megérkezett a politikai és faji feszültség. A kelta ősökre hivatkozó írek és a hódító anglo-normannok között kialakult faji keveredés megakadályozására a britek a telepesek faji méltóságának elherdálását és angol szokásaik méltatlan elvesztegetését megfékező törvényeket hoztak (1366): a telepesek számára tilos lett az ír nyelvet használni, ír személlyel házasságot kötni vagy vele ágyasi viszonyba lépni, gyermekeket tanítás céljából befogadó családokhoz küldeni, tilos költőket és énekmondókat befogadni. 
+
+Mivel a törvények nem hozták meg a kívánt hatást, Londonban nyilvánvalóvá vált, hogy az íreknek szükségük van egy újbóli brit gyarmatosításra. Miután VIII. Henrik nem csupán az anglikán (1534), de az ír egyház fejének is nyilvánította magát (1537), és az ír szigeten az Írországi Anglikán Egyház lett az egyetlen hivatalos egyház; a katolikus kolostorokat bezárták, a templomokban és az iskolákban csak az előírt tankönyveket lehetett oktatás céljára használni (1539). Miután a britektől megfélemlített legjelentősebb katolikus földesurak külföldre menekültek (Flight of the Earls, 1607), az országban a parasztság teljesen magára maradt.
+
+A dublini parlamentben a protestáns képviselők a törvényeket azzal a céllal hozták, hogy a katolikus vallást teljességgel száműzzék a szigetről. Bár tömeges térítésre irányuló állami valláspolitika nem került megvalósításra, (1695-től) büntető törvényeket (Na Péindlíthe) kezdtek bevezetni a katolikus írek ellen. Az egyik elsőként hozott törvény (1695) megtiltotta a katolikus oktatást, egy később (1697) hozott jogszabály pedig halálbüntetés terhe mellett tiltotta, hogy katolikus pap az ír szigetre lépjen. Az elsőrangú állampolgárok az Ír Anglikán Egyház (Churh of Ireland) tagjai lettek; katolikus vallású személy közhivatalt nem vállalhatott, földet nem vásárolhatott, katolikus oktató hivatalosan nem taníthatott.
+
+A vezető társadalmi körök a tizenhetedik század végéig büszkén őrizték kelta hagyományaikat: a vagyonos családok udvaraiban költőket alkalmaztak, akik történeteikben feldolgozták és ünnepi alkalmakkor megénekelték a családok történetét. Noha a kereszténység az énekes költőt spirituális tekintélyétől megfosztotta, társadalmi megbecsülését olyannyira nem ásta alá, hogy azoknak az angol telepesek udvaraiban is megbecsült helyük volt. Akkortól kezdve azonban, hogy az (ezúttal Európa katolikus nagyhatalmaitól is támogatott) ír csapatok megint csak elsöprő vereséget szenvedtek a britekkel szemben (1690), és ezzel az írek politikai függetlenségük reményétől is hosszú időre búcsúzni kényszerültek, a kelta kultúrát még mindig ápoló dalnokok is elveszítették támogatóikat, és a megélhetés új módja után kellett nézniük. 
+
+Az ír falvakban vándorló katolikus tanítókat már a tizenötödik századtól kezdve ismerünk. A jó oktatót nem csak a felső és középosztály, de a parasztság is nagyra értékelte: még a legszegényebb vidékeken és a legnehezebb történelmi körülmények között is áldoztak a szülők arra, hogy gyermekeik oktatásban részesüljenek: a nevelőt befogadták, élelmezték, gondozták, szolgáltatásait – hol természetben, hol pénzzel – megfizették. Azok az iskolák, amelyeknek a legnagyobb sikere volt az ír szegényparasztság köreiben, a rejtekező iskolák voltak.
+
+A rejtekező iskolák tanítói a bárdok hagyományaira és iskolahálózatuk továbbra is fennálló rendszerére építkeztek: a tehetséges diákot mesterei menetlevéllel másik iskolába küldték, ahonnan egy idő után – ahova befogadó iskolamestere küldte – továbbment. A befogadó tanár a vándordiáktól nem kért semmit az oktatásért, elégséges fizetség volt számára az, hogy az őt látogató diákok számával együtt nőtt presztízse. Ha a diák úgy érezte, felkészült arra, hogy ő maga is tanítson, párbajra hívhatott egy tanítót – akár hajdanvolt mesterét. A lakosság értékelése szerinti finomabb elme, műveltebb szellem nyerte a jogot, hogy tanítson, a vesztes eltávozott. 
+
+<img alt="2. kép" src="/sites/default/files/irorszag2.jpg" style="width: 470px; height: 352px;">
+
+Bár vízmosásokban, sziklák odvaiban, mezőgazdasági épületekben és magánházaknál is tanítottak, és sok egyéb elnevezés is gyakori volt (fizetős, kunyhóban berendezett, kápolnában vagy vizek mellett rejtekező iskola), leginkább a sövény mögé bújtatott iskola (hedge school) név terjedt el. Az elnevezés azt a helyszínt jeleníti meg, ahová mester és tanítványai bújtak a hatóságok elől (idézi Fernández-Suárez 2003:3).
+
+> A derék tanító a sűrűn nőtt sövénykerítés napos oldalán… a törvények és az ellenség szeme elől rejtekezve tanított és nevelt.
+
+Iskolamesterré (máistir scoile) jellemzően háromféle módon vált valaki. Volt a kéziratmásoló-poéta, aki anyagi segítség híján, iskoláról-iskolára járva tanulta a mesterséget és alapított vagy elnyert egy katedrát – így a tizenhetedik század végéig eleven bárd-iskolák jó néhány hajdani tanulója. A másik ösvény, mely a katedrára vezetett, a katolikus egyházból indult: a francia forradalom bukása utáni szétszóratás idején sok ír szeminarista tért haza és kezdett tanítani. Mások az iskolák régi tehetséges növendékei voltak, akik a tervezett külföldi tanulmányok helyett tanításra adták a fejüket. 
+
+A katolikusokat sújtó büntető törvénykezés bevezetése (1695) után, főleg a <em>Külhonban folytatott tanulmányok akadályozására </em> hozott és <em>A pápistáknak az ír társadalomban való további térnyerését megakadályozó</em> törvények kihirdetése után a katolikus tanítók gerillaháborúba kezdtek a gyarmatosító britek ellen. Amíg a törvények érvényben voltak, az ír katolikus püspöki kar, hogy a vallásszabadság korlátozására irányuló döntések visszavonását a britektől kieszközölje, teljes hűséget és odaadást igyekezett mutatni a brit Korona iránt. A katolikusok jogait korlátozó törvénycsomag egyes elemeit 1715-től kezdték visszavonni – bár a papoknak továbbra is hűségesküt kellett tenniük a brit Koronára –, úgyhogy a püspöki kar még a látszatát is igyekezett elkerülni a Korona tekintélyét csorbító politikai mozgalmakban való részvételnek. A katolikus egyház néhány évtized alatt hajdani jogait is visszaszerezte (1782), sőt mivel a britek tartottak egy a francia forradalom hatására kibontakozó felkelés-hullámtól, papnevelő intézet létrehozását is engedélyezték (Maynooth, 1795). Ahhoz, hogy az immár jogaiba visszaállított ír katolikus egyház újra valóságos politikai szereplő lehessen az ír közéletben, meg kellett szereznie a lakosság nyolcvanöt százalékát kitevő katolikusok oktatásának irányítását. 
+
+A katolikus oktatás két szereplőjének – a papoknak és az iskolamestereknek – az álláspontja mindeközben folyamatosan távolodott egymástól. Miközben a püspökök többsége parlamenti helyeket szerezni igyekezett, a tanítók többsége radikális politikai mozgalmakban vett részt, és a nemzeti büszkeség védelmezője lett. A hivatalos egyház kiközösítéssel válaszolt, a püspökök pásztorlevelekben utasították a népet a britek iránti hűbéri viszony fenntartására. Az elmérgesedő viszony ellenére a katolikus egyház azonban továbbra is igénybe vette az iskolamesterek szolgáltatásait: a tanítók hittant oktattak az egyre nagyobb számban megnyitott katolikus iskolákban. A tanítók is igyekeztek jó viszonyt ápolni a helyi plébánossal, hiszen mivel az egyház egyre nagyobb befolyásra tett szert a katolikusok oktatásának ellenőrzésében, a tanítók iskolát mind gyakrabban csak a helyi plébános engedélyével nyithattak. Az egyre erősödő politikai befolyással bíró katolikus egyház mind nagyobb befolyást gyakorolt a britekre annak érdekében, hogy azok az erőszakosan térítő protestáns egyházak tevékenységét korlátozzák. Annak érdekében, hogy az oktatás irányításában kulcsszerephez jusson, a katolikus klérus régi szövetségeseitől – az iskolamesterektől – egyre inkább elhatárolódott.
+
+Az ír katolikusokat jogaikba visszahelyező <em>Emancipációs törvény </em> kihirdetése (1828) után megalapított nemzeti iskolahálózat (1830) egyre erősödő konkurenciája ellenére az iskolamesterek tovább tanítottak. A krumplivész nyomában kibontakozó tömeges éhhalál és kivándorlás (1845-1848) a rejtekező iskolák tanulóinak tömegbázisát jelentő szegényparasztság köreiben okozta a legnagyobb veszteségeket. Az iskolamester válaszúthoz érkezett: vagy a rendszerbe simul, és a nemzeti iskolahálózat tanára lesz (ha fölveszik), vagy a számára oly drága szabadságból valamennyivel többet megtartva magániskolát alapít. Sokan az utóbbit választották – az utolsó iskolák az 1890-es évekig működtek.
+
+Ahogy egy társadalom az új nemzedéket neveli, sokat mond arról, mit tart értéknek. A körülbelül kilencezer sövény mögé bújtatott iskola két évszázadon keresztül nemzeti és vallási megosztottságtól mentes, demokratikus oktatási környezetet biztosított mintegy négyszázezer növendéke számára. A tanítók – akinek sikerült a társadalom kasztrendszerét feltörniük – az ínséges hétköznapokban a gyermekei számára szebb jövőt álmodó ír paraszt számára szellemi horizontot nyitottak, és a műveltség igényének hagyományát kétszáz éven keresztül továbbörökítették.
+
+A sövény mögé bújtatott iskolák közül nem volt mind ugyanolyan – sok helyütt csak elemi ismereteket tanítottak, másutt esti kurzusokon egyetemi tanulmányokra készítettek fel (legalábbis a nagy éhínség idejéig (1845-48) sok szülő örömmel látta volna, ha fia a francia forradalom után elnéptelenedő szemináriumokba felvételt nyer), az esti kurzusokon pedig azokat oktatták, akiknek délelőtti és délutáni munkáját családjuk nem nélkülözhette. 
+
+Az oktatás ekkor még nem volt külön mesterség – ahhoz, hogy valaki taníthasson, sokszor elég volt írni és olvasni tudnia, ezekben az iskolákban azonban sok mester ennél sokkal, de sokkal többet tudott. Néhány iskola nemzetközi hírnévnek örvendett – James Baggott Napoleon nevelőjének, a fizikus Laplace-nak jó barátja volt, Owen Reynolds tanítót „a matematikatanítás fényes csillagaként” ismerték messze földön is. A különböző iskolákban az olvasás, írás és számtan oktatása mellett angol és ír nyelvtant, szerződésírást, könyvelést, földmérést, fizikát, valamint jellemzően klasszikus nyelveket (latint és görögöt, néha hébert) tanítottak. Nem csupán a jómódú felső osztályok tagjai, de a külföldi utazók is több ízben beszámoltak arról, mennyire megdöbbentek annak láttán, hogy a legszegényebb családokból érkező parasztgyerekek Vergiliust vagy Ovidiust olvastak vagy kommentáltak. 
+
+Mivel a sövény mögé bújtatott iskolák fizetős oktatást kínáltak, az oktatók bizonyos mértékig kénytelenek voltak meghajolni a szülők kívánsága előtt azzal kapcsolatban, hogy mit tanítsanak, a szülők és nevelők közötti szoros kapcsolat pedig segítette a nevelők módszertani és oktatásszervezési készségeinek fejlesztését is. A tanítók mindig a közösség igényeit igyekeztek kielégíteni: a tanítás rendjét az igényekhez szabták, az iskola idényjelleggel akár arrébb is költözött, és ha a cudar időjárás hetekre-hónapokra esetleg kiszorította az iskolát a sövénykuckóból, gyermekei tanításáért cserébe mindig akadt, aki befogadta a tanítót.
+
+A sövény mögé bujtatott iskolák tanítói két világ polgárai voltak. Egyfelől a bárdok szellemi örökségének őrzői, akik a tizenkilencedik század végéig másolták a középkori kéziratokat, gyűjtötték a helyi mondákat és énekeket, másfelől koruk demokratikus eszméinek letéteményesei – Voltaire, Rousseau és Thomas Paine tanainak hirdetői; a hatóságok számára – mivel általában nagy népszerűségnek örvendtek a szegényparasztság körében – a politikai és társadalmi status quo fenntartására veszélyesnek tekintett elemek. 
+
+A hivatalos iskolarendszerben alkalmazott tanárokkal ellentétben ők azt tanították, amit akartak, akkor és úgy, ahogy, és nem tartoztak elszámolással se tanfelügyelőnek, se igazgatónak. Az intézményes hatalom szemében a rejtekező iskolák az ellenállás kifüstölni való fészkei voltak. Az Oktatási Bizottság jelentése (1825) szerint (Lyons 2006:31):
+
+> ezek az iskolák – ahogy az nagyon gyakran megesik – kifogásolható módon működnek, több szempontból is. Ahelyett, hogy vallásos és erkölcsi előírások szerint egyre jobbá válnának, erőt vesz rajtuk a szellemi rontás, mely törvény nélküli és feslett kicsapongáshoz, babonasághoz, elhajláshoz és a zendülés szelleméhez vezet.
+
+Majd mikor a törvényes renden kívül működő iskolák iránt megfogyatkozik a nép bizalma, akkor kezdődhet el igazán a központosított és ellenőrizhető rendszer kiépítése. Azt, hogy a mesterek közül sokan igen kiváló munkát végeztek, az oktatási rendszer irányítói is pontosan tudták, hiszen a nemzeti iskolahálózat magalapítása után tanítóvá lett hajdanvolt iskolamesterek ellenőrzése során ez sokszor be is bizonyosodott. Egy szakfelügyelő a következőket jelentette elöljáróinak (1835) (Fernández-Suárez 2006:202):
+
+> Döbbenten tapasztaltam, hogy a tizenkét éves fiúk milyen nagyszerűen olvasnak az új könyvekből, és felmerült bennem, vajon nem emlékezetből mondják-e. Lehet, hogy egyszerűen betanulták? Egyiküket utasítottam, hogy olvasson föl nekem egy részt Máté evangéliumából. A gyerek nyilvánvalóan félreértett. A táskájában kutatott, és amikor meglelt egy rongyosra olvasott könyvet, felállt és elkezdte olvasni a Krisztus szenvedéséről való beszámolót – görögül.
+
+A tizennyolcadik század végéig a tanítók a tárgyakat írül tanították az iskolákban, ekkortól azonban az angol nyelv – hasznossága miatt – vonzóbbnak tűnt a szülők számára (akik egyébként jellemzően nem beszélték ezt a nyelvet). A kelta hagyományok őrzői a gyűlölt gyarmatosítók nyelvének tanítóivá váltak, de a legszegényebbek mesterei (dajkái) maradtak.
+
+## Ajánlott olvasmányok listája
+
+Cavendish, Richard (2014): [Brian Boru, High King of Ireland, killed.](https://www.historytoday.com/archive/brian-boru-high-king-ireland-killed) History Today, Vol. 64/April.
+
+Clarke, Peter (2010): [The Teaching of Book-Keeping in the Hedge Schools of Ireland](https://www.estudiosirlandeses.org/2010/03/the-teaching-of-book-keeping-in-the-hedge-schools-of-ireland/). Estudios Irlandeses/5/1-11. oldal.
+
+Fernández-Suárez, Mª Yolanda (2003): [The Hedge School and its Landscapes](https://www.researchgate.net/publication/272497586_The_Hedge_School_And_Its_Landscapes), AEDEI III. International Conference, Aguadulce, Almeria, Vol. III.
+
+Fernández-Suárez, Mª Yolanda (2005): [The Hedge Schoolmaster, Trespasser of Socio-cultural Barriers. Re-writing Boundaries](https://www.researchgate.net/publication/272497910_The_Hedge-schoolmaster_Tresspasser_of_Socio-cultural_Barriers), AEDEI V. International Conference, Tarragona, Vol. V.
+
+Fernández-Suárez, Mª Yolanda (2006): [An Essential Picture in a Sketch-Book of Ireland: The Last Hedge Schools.](http://www.estudiosirlandeses.org/wp-content/uploads/2013/05/YFernandez.pdf) Estudios Irlandeses/1/45-57. oldal.
+
+Fernández-Suárez, Mª Yolanda (2006): [Las „Hedge Schools” Irlandesas: Naturaleza, Etapas y Representación](https://www.researchgate.net/publication/38444680_Las_Hedge_Schools_irlandesas_naturaleza_etapas_y_representacion), Doktori disszertáció, Universidad de Burgos.
+
+Harris, Frank (1980): [The State of the Realm: English Military, Political and Diplomatic Responses to the Flight of the Earls](https://www.researchgate.net/publication/277618205_The_State_of_the_Realm_English_Military_Political_and_Diplomatic_Responses_to_the_Flight_of_the_Earls_Autumn_1607_to_Spring_1608_in_14_The_Irish_Sword-the_Journal_of_the_Military_History_Society_of_Ir), Autumn 1607 to Spring 1608. The Irish Sword: the Journal of the Military History Society of Ireland. 14(54)/47-64. oldal.
+
+Heron, James (1898): [The Celtic Church in Ireland](https://archive.org/details/celticchurchinir00herorich/page/n7). Service & Paton, London.
+
+Kelly, Mary (1978): [Selection and Transmission Processes within the Irish National System of Education: 1831-1900.](http://hdl.handle.net/10197/2940) Doktori disszertáció, Cambridge University.
+
+Lyons, Tony (2006): [The Hedge Schools of Co. Limerick.](<http://www.limerickcity.ie/media/NMAJ%20vol%2046%2007%20The%20Hedge%20Schools%20of%20County%20Limerick,%20by%20Tony%20Lyons.pdf >) North Munster Antiquarian, Vol. 6.
+
+Lyons, Tony (2016): [Inciting the Lawless and Profligate Adventure – the Hedge Schools of Ireland. 18th-19th Century Social Perspectives](https://www.historyireland.com/volume-24/inciting-lawless-profligate-adventure-hedge-schools-ireland/), Features. Vol. 24. 28-31. oldal.
+
+McManus, Antonia (2000): [The Groves of Academus: a Study of Hedge Schools and their Reading Books 1694-1831](http://www.tara.tcd.ie/handle/2262/77209). Doktori disszertáció, Trinity College Dublin School of Education.
+
+O’Connell, Anne-Marie (2011): [The Irish Hedge Schools: Rejection, Resistance and Creativity (1695-1831).](https://www.raggeduniversity.co.uk/wp-content/uploads/2017/01/Hedge-Schoolmasters-ilovepdf-compressed1.pdf) Revue Civilisations/Le rejet/Rejection, 55-86. oldal.
+
+O’Donovan, Bernadette (2013): [Primary School Teachers’ Understanding of Themselves as Professionals](http://doras.dcu.ie/17725/1/Bernadette_O%27Donovan_Doctorate_Thesis.pdf). Doktori disszertáció, Dublin City University.
+
+Pearse, Pádraic (1916): [The Murder Machine](<https://www.cym.ie/documents/themurdermachine.pdf >).
+
+<hr>
+
+A szövegben előforduló összes idézetet Németh Tibor fordította.

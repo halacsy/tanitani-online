@@ -1,0 +1,3 @@
+---
+name: Pataki Gyula
+---

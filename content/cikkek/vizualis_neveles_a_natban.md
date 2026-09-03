@@ -1,0 +1,38 @@
+---
+title: A vizuális nevelés a Nat 2018-as tervezetében
+migratedId: 898
+overrideMigrated: true
+authorSlugs:
+  - bodoczky-istvan
+date: '2018-09-26'
+tags:
+  - művészetpedagógia
+excerpt: >-
+  Bodóczky István írása Mindeközben persze a művészetek fontosságáról,
+  mindennapos jelenlétéről beszélnek.
+coverImage: /sites/default/files/muveszetek.jpg
+reads: 23147
+---
+<strong>Bodóczky István írása</strong>
+
+> Mindeközben persze a művészetek fontosságáról, mindennapos jelenlétéről beszélnek.
+
+<img alt="Bodóczky István" src="/sites/default/files/b.bodoczkytempus_-w250.jpg" style="width: 250px; height: 333px; float: right; margin-left: 15px;">A 2018-as Nat tervezetet olvasva szomorúan konstatálhatjuk a pedagógus szakma vergődését. A szöveg a művészetek szempontjából olyan, mintha profik és béna amatőrök felváltva írtak volna bele mondatokat. Ha csupán a vizuális kultúra rész évfolyamokra bontott tervezetét olvasom, azt szakmailag többnyire jónak, elfogadhatónak tartom, másrészt a teljes szövegbe bekúsznak olyan elemek, amelyektől az összességében mégis elfogadhatatlan. Korábban magam is részt vettem a Nat Művészetek műveltségterületének kidolgozásában, így tisztában vagyok azzal, hogy a szerzők anonimitására azért is van szükség, mert a végleges szövegért nem ők felelősek. Az lobbiharcok és politikai szándékok eredményeként alakul ki.
+
+A mostani Nat-tervezet minden eddiginél szégyenteljesebb!
+
+Teljesen nyilvánvalóvá teszi, hogy a művészeteket a „központi akarat” nem tartja fontosnak.
+
+Hiába jók az általános alapelvek, az „alkotva befogadás”, a „holisztikus megközelítés” a „kortárs képzőművészet”, a „kortárs kulturális jelenségek értelmezése” , az „épített, tervezett környezetünk vizuális szempontú vizsgálata” és a „komplexitásra törekvés” kiemelése. Mindezt teljesen felesleges volt leírni, mert a tervezett óraszámok (vizuális kultúra esetében 5. évfolyamtól heti 1 óra!, majd a 11-12. évfolyamokon nulla!) ezt úgysem teszik lehetővé. Heti 1 órát tervezni a vizuális kultúra órákra teljes hozzá nem értést vagy cinizmust tükröz. Pedig még a tervezet szövegében is ott van, hogy ezek tevékenységalapú órák. Heti egy órában viszont értelmes gyakorlati tevékenység nem lehetséges. Az egyórás vizuális kultúra azonnal hagyományos elméleti órává alakul: vetítés, előadás, beszélgetés, néha egy kis maszatolás (A4-es papíron persze), vagyis lényegét veszíti el. Ennyi erővel meg is szüntethetnék a művészeteket, akkor legalább nyíltan vállalnák a felelősök, hogy mit jelent számukra a kultúra. A heti egy óra álságosság!
+
+Mindeközben persze a művészetek fontosságáról, mindennapos jelenlétéről beszélnek. Igaz, ezt csak a délutáni sávban ajánlják, és egy elszólásból az is kiderül, hogy a művészeteket „rekreációs” jelentőségűnek gondolják. Másutt pedig – egy korábbi babona szajkózásával – a készségfejlesztést hangsúlyozzák, mintha más tantárgyak esetében a készségek fejlesztése nem fordulna elő. („A művészeti neveléshez kapcsolódó́ eredményes készségfejlesztés...”)
+
+A művészeti foglalkozások sokrétű fejlesztő hatását pedig nyilván nem veszik komolyan, különben nem javasolnák, hogy alsó tagozatban csak formatív, fejlesztő értékelés legyen. Bár magam is egyetértek azzal, hogy ne riogassuk a gyerekeket az osztályzással, ugyanakkor elengedhetetlen, hogy a tanító időnként tárgyilagos mérésekkel tájékozódjon munkája eredményességéről. Mert a közhiedelemmel ellentétben a vizuális nevelésnek számos mérhető hozadéka is van.
+
+A művészetek szempontjából a tervezet legfőbb botrányos újdonsága tehát azok teljes leértékelése. Amellett, hogy az óraszámokat a minimálisra tervezi csökkenteni, a középiskolában az a művészettörténet még a szabadon választható tantárgyak között sem szerepel! Vagyis ebből érettségizni sem lehet majd. A művészetek általános háttérbe szorítását azzal is próbálják igazolni (kiforgatva a művészettel nevelés ideáját), hogy a Művészetek „művészeti pályára nem készít fel”. Pedig a vizuális területeken továbbtanulni szándékozóknak igenis itt kell az alapokat, azt a közös minimumot elsajátítani, amire egyébként mindenki másnak is szüksége van, akár orvos, villanyszerelő vagy festőművész lesz.
+
+A médianevelés mint önálló tantárgy kiiktatása ugyancsak óriási veszteség a vizuális nevelés szempontjából is. Bár várható volt, hogy a kritikus médiahasználatot, a kevésbé manipulálható fogyasztók és polgárok nevelését célzó tantárgy politikai körökben nem lesz népszerű. Így a tanterv írói, hogy valamit mégis mentsenek belőle, itt-ott beleszőtték elemeit a vizuális kultúrába.
+
+A drámapedagógia eltörlése, illetve a médiához hasonlóan más tárgyakba szétszórása ugyancsak súlyos veszteség. Jóllehet mindkét terület integrálása más tantárgyakba akár jó is lehetne (drámapedagógia esetében kifejezetten szükséges lenne), azonban ezek olyan szakértelmet kívánnak meg, amellyel sajnos a pedagógusok többsége jelenleg nem rendelkezik, így megjósolható, hogy az elmúlt évtizedek értékes erőfeszítései semmivé foszlanak.
+
+Vagyis a szakmai és „nem szakmai” szándékokból kialakuló összkép siralmasra sikerült.

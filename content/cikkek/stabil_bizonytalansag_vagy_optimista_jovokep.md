@@ -1,0 +1,68 @@
+---
+title: Stabil bizonytalanság...
+migratedId: 937
+overrideMigrated: true
+authorSlugs:
+  - szucs-norbert
+  - fejes-jozsef-balazs
+date: '2019-04-06'
+tags:
+  - hátrányos helyzet
+excerpt: >-
+  ...vagy optimista jövőkép? A tanodák helyzetéről az állami finanszírozású
+  pályázatok eredményeinek megjelenése kapcsán. Szűcs Norbert és Fejes József
+  Balázs írása Általánosságban is kijelenthető: egy állami (intézmény)rendszerbe
+  integrálódni nemcsak lehetőségekkel és stabilitással járhat, hanem a működési
+  keretek…
+coverImage: /sites/default/files/cmlapra.jpg
+reads: 4694
+---
+<strong style="font-size: 1em;">...vagy optimista jövőkép? A tanodák helyzetéről&nbsp;az állami finanszírozású pályázatok eredményeinek megjelenése kapcsán. Szűcs Norbert és Fejes József Balázs írása</strong>
+
+> Általánosságban is kijelenthető: egy állami (intézmény)rendszerbe integrálódni nemcsak lehetőségekkel és stabilitással járhat, hanem a működési keretek szűkülésével, rugalmatlanságával is.
+
+<em>Baló Györgynek ajánlva,<br><span>aki több alkalommal <a href="http://rtl.hu/rtlklub/magyarulbaloval/civilek-es-tanodak-penz-nelkul" target="_blank">nyilvánosságot&nbsp;</a></span><br><span><a href="http://rtl.hu/rtlklub/magyarulbaloval/civilek-es-tanodak-penz-nelkul" target="_blank">biztosított </a>a tanodák érdekképviseletének</span></em>
+
+2019\. március 27-én nyilvánossá vált az Emberi Erőforrások Minisztériuma által meghirdetett, <em>A tanoda szolgáltatást működtető szolgáltatók befogadására és állami támogatására</em> elnevezésű pályázat eredménye. A TanodaPlatform szervezőiként áttekintettük a pályázat hátterét, az eredményeket és a tanodák előtt álló időszakot.
+
+> A [TanodaPlatform](http://tanodaplatform.hu/) a [Motiváció Oktatási Egyesület](https://motivaciomuhely.hu/hu/) által 2013 óta szervezett tanodahálózat. A TanodaPlatform célja a hatékony érdekképviselet megvalósítása, a hálózatépítés elősegítése, valamint a tanodák szakmai munkájának támogatása, fejlesztése.
+
+### A közelmúlt
+
+2016 októberében az EFOP-3.3.1-15 tanodapályázat anomáliáinak feltárása kapcsán (részletesen lásd: A [TanodaPlatform jelentése az EFOP-3.3.1-15 tanodapályázat eredményeiről](http://tanodaplatform.hu/letoltesek/TP_EFOP-palyazat_jelentes.pdf)) a TanodaPlatform három területre fókuszálva fogalmazott meg javaslatokat, az alábbi témakörökben:
+
+<ol><li>A tanodapályázat eredményeivel kapcsolatos problémák azonnali kezelése.</li><li>A tanodák hosszú távú fenntartására vonatkozó szabályozás kidolgozása.</li><li>A pályázati rendszer működésével összefüggésben a civilszféra megerősítése és a demokráciadeficit felszámolása.</li></ol>
+
+Az 1. pontban foglalt célkitűzés elérése nagyrészt sikerrel járt. Bár a hibásan elbírált pályázati eredmények visszavonására nem került sor, az európai uniós<img alt="Szűcs Norbert" src="/sites/default/files/szucs_norbert.jpg" style="width: 200px; height: 300px; margin-left: 15px; float: right;"> pályázaton támogatást nem nyert, de régóta működő tanodák számára egyrészt egy összesen 200 millió forint keretösszegű gyorssegély, másrészt egy 2 milliárd forint keretösszegű pályázat került kihirdetésre, ami közel 100 tanoda további működését biztosította.
+
+A 3. pontban foglalt célkitűzés kapcsán megítélésünk szerint nem értünk el eredményeket, s ez indirekt módon – mint a jelentés lentebbi soraiból majd kitűnik –, a tanodák helyzetére is kihatott.
+
+A tanodák hosszú távú fenntartásának kezelése érdekében az alábbi pontokat javasoltuk:
+
+2.1 Normatív finanszírozás bevezetése a tanodák fenntartható, tervezhető és folyamatos működése érdekében<br>2.1.1 A normatív finanszírozás szakmai és pénzügyi keretrendszerének kidolgozása.<br>2.1.2 Az EFOP-3.3.1-15 megvalósítási időszak lezárása 2018. december 31-én, normatív finanszírozás elindítása 2019. január 1-től<br>2.2 A tanoda és az iskola eltérő szerepének, funkciójának kanonizálása annak érdekében, hogy a Tanodasztenderd szellemiségét megtartva a tanodák ne az iskolák célrendszere szerint működjenek, illetve a köznevelési rendszer és a tanodák finanszírozási rendszere elkülönüljön.
+
+<img alt="Fejes József Balázs" src="/sites/default/files/fejes_jozsef.jpg" style="width: 200px; height: 308px; margin-right: 15px; float: left;">A tanodák hosszú távú fenntartásának ügyét két konkrét ok miatt képviselte a TanodaPlatform. Egyrészt másfél évtizedes tapasztaltunk volt arról, hogy az egyes projektciklusok között tanévekben mérhető finanszírozási hiányok jelentkeztek, ami minden alkalommal az aktuálisan működő tanodák többségének a megszűnéséhez vezetett (lásd részletesebben: [Fejes József Balázs és Szűcs Norbert: A tanodaszféra és a TanodaPlatform kapcsolódási pontjai](https://motivaciomuhely.hu/wp-content/uploads/2016/04/Mire-j%C3%B3-a-tanoda_webfinal.pdf)). Másrészt az adott fejlesztési időszak tervezésében nem szerepelt további tanodapályázat, így valószínűsíthettük, hogy megszűnik a tanodák európai uniós támogatása. Mindkét probléma kezelésére alkalmasnak tűnt az állami finanszírozás.
+
+Az EMMI Szociális Ügyekért és Társadalmi Felzárkózásért Felelős Államtitkársága partner volt a hosszú távú javaslatok megvalósításában. Az Oktatási Hivatal, a TanodaPlatform, valamint további civil és állami szereplők részvételével létrehozott egy munkacsoportot, ami 2017 tavasza óta az állami finanszírozású működés koncepcióját készítette elő. A feladat jelentőségét mutatja, hogy a Biztos Kezdet Gyerekházak programján kívül nem volt példa az ágazatban az európai uniós fejlesztésű programok rendszerszintű állami finanszírozású továbbélésre.
+
+A munkafolyamat során, részben külső körülmények hatására, eldőlt, hogy a jövőben a szociális ágazathoz kapcsolódik a tanoda, illetve nem normatíva, hanem állami finanszírozású pályázat biztosítja a forrást a tanodák számára. A TanodaPlatform álláspontja szerint e fejleményeknek egyaránt vannak pozitív és negatív következményei. Általánosságban is kijelenthető: egy állami (intézmény)rendszerbe integrálódni nemcsak lehetőségekkel és stabilitással járhat, hanem a működési keretek szűkülésével, rugalmatlanságával is. Az állami finanszírozás – természetéből adódóan – fokozottabb szabályozást feltételez, ami leginkább a tanodák intézménnyé válásával függ össze. Az a tanoda, amely nem tudja az állami rendszerbe való integrálódás feltételeként előírt működési engedélyhez szükséges feltételeket teljesíteni, például az infrastruktúra és a humán erőforrás tekintetében, az nemcsak az állami támogatástól esik el, hanem a „tanoda” elnevezést sem használhatja a továbbiakban.
+
+A tanodáknak a szociális ágazathoz való csatlakozása kapcsán szakmai szempontú kritikák is megjelentek. A tanodát működtetők körében kialakult egy olyan félelem, miszerint az ágazathoz csatlakozással a tanodákban a gyermekvédelmi intézményekhez hasonlóan, egyfajta hatósági szemlélet lesz az elvárás (pl. [L. Ritók, 2018](https://nyomorszeleblog.hvg.hu/2018/07/22/639-tanodak-ujratervezve/)), ami ellentétes a tanodák céljával. A pályázati kiírás és a folyamat eddigi fejleményei alapján e félelem még nem igazolódott.
+
+Összegezve az előzményeket, a tanodák döntő többsége szempontjából háromféle jövőkép rajzolódott ki: (1) finanszírozás hiányában megszűnnek; (2) az eredeti tervezéstől eltérően mégis sikerül számukra egy európai uniós pályázati kiírást kilobbizni; (3) az állami finanszírozás elérésével oldódik meg a működésük. Mind a releváns kormányzati szereplők, mind a TanodaPlatform szakértői az utóbbi opció megvalósulásért dolgoztak az elmúlt két évben.
+
+### A pályázati eredmények
+
+A 2018 decemberében kiírt pályázatra 223 pályázat érkezett be, melyből 18-at elutasítottak, 9-et pedig tartaléklistára helyeztek. Ez a szám a 2015-ös EFOP pályázati kiírás jelentkezőihez (közel 1000 pályázó) és az EFOP/VEKOP finanszírozásból működő projektek számához (288 db) képest alacsonynak tűnik, ám megfelel a várakozásainknak. Egyrészt a kiírás szabályozása szerint csak olyan tanodák működtetésére lehetett pályázni, melyek a korábbi években már működtek. Fontos megjegyezni, hogy működésüket nem csupán az európai uniós finanszírozás bizonyíthatta, ennek hiányában szakmai referenciákkal és dokumentációval is alátámaszthatták múltjukat, s ezáltal jogosultságukat. Másrészt a kiírás – a TanodaPlatform szándékaival megegyezően – kizárta a tanodák iskolai helyszínen történő megvalósítását. Mindkét döntés jelentősen csökkentette a pályázók számát, de nem ad teljes magyarázatot a csökkenés mértékére a pályázók számában. Megítélésünk szerint további ok, hogy a túlzottan projektszemléletű, kevésbé elkötelezett, beágyazódott tanodák egy része eleve nem pályázott. Ennek oka, hogy bár a támogatás mértéke nagyságrendileg nem csökkent, a szakmai keretek (pl. óraszámok, szolgáltatások) szabályozása jelentősen megnehezítette a források esetleges eltérítését.
+
+A tanodák fenntartói körében erős, az előző finanszírozási ciklusban már tapasztalt koncentrálódási folyamat mutatható ki. 122 fenntartó nyerte el összesen 196 tanoda támogatását. A nyertesek összesen közel fele (93) olyan pályázóhoz köthető, aki egy tanodát működtet, 29 fenntartó irányítja a tanodák másik felét (103 tanodát). A koncentráció mértékét jól jellemzi, hogy 9 fenntartó működteti a tanodák közel harmadát (57 tanoda, 29%). A két legnagyobb fenntartó (Magyar Máltai Szeretetszolgálat Egyesület, Magyarországi Református Egyház) összesen 23 tanoda munkáját fogja össze (12%).  
+
+A TanodaPlatform számítása szerint a támogatott tanodák több mint negyede egyházi hátterű fenntartóhoz tartozik. Ez az adat önmagában nem igényel értelmezést, a TanodaPlatform hálózatának tagjai között is található számos egyházi fenntartású tanoda, megítélésünk szerint az elköteleződés és szakmai munka minősége nem a fenntartó hátterétől függ. Azt viszont ellentmondásosnak ítéljük meg, hogy a tanodát fenntartó egyházak egy része az iskoláiban szegregál: nem fogadja be a hátrányos helyzetű, illetve roma tanulókat, vagy esetenként az integrált oktatás feltételeinek megléte ellenére is külön iskolát működtet számukra. Szintén visszás helyzet, hogy az EMMI releváns miniszteri rendelete ([40/2018., XII. 4., 17. §](https://net.jogtar.hu/jogszabaly?docid=A1800040.EMM)) szerint „az egyházi fenntartó által fenntartott tanodák kivételével a tanodában a szolgáltatás nyújtása a miniszter által jóváhagyott módszertan alapján folyik.” Vagyis a civil és az egyházi hátterű tanodák szakmai feltételrendszere eltérhet. A pályázat benyújtásakor a nem egyházi fenntartóknak igazodnia kellett a részletesen előírt – egyébként szakmailag indokolható – módszertanhoz, azonban az egyházi fenntartók felmentést kapnak ezen elvárások alól.
+
+### A jövő?
+
+A pályázati kiírás a 2019. december 31-ig tartó időszakot fedi le. Ezt az évet egyértelműen a kipróbálás és a finomhangolás időszakának tekinthetjük. Például a tanodáknak meg kell ismerniük és a gyakorlatban kell tesztelniük a működtetéssel és az elszámolással kapcsolatos új szabályokat. Fokozottan együtt kell működniük a szociális szféra intézményeivel, kiemelten a Szociális és Gyermekvédelmi Főigazgatósággal. Teljesíteniük kell a szolgáltatói jegyzékbe történő felvétel követelményeit. Ennek az átmeneti évnek az előre látható nehézségeit abban az esetben tudják nagyobb veszteségek nélkül teljesíteni a tanodák, ha a releváns állami szereplők is tisztában vannak a rendszer kiforratlanságával, s ennek megfelelően támogatják a megoldások kialakítását. 
+
+Számos ismeretlen tényezőn túl a jelenlegi rendszer néhány jelentős problémája már most azonosítható. Bár a tanodák távolodtak a köznevelési rendszertől, az iskolai tanév és a támogatás alapját képező költségvetési év eltéréséből fakadó nehézségek egyértelműek (pl. mérések időpontja, toborzás, pedagógusok alkalmazása). Mindezt felerősíti a pályázati ciklus rövid időtartama. Az állami finanszírozás kialakításának legfontosabb oka a stabilitás biztosítása volt. Így egy átmeneti, bevezető év kompromisszumait elfogadva a következő projektciklust javaslatunk szerint 4-8 éves időszakra kell kialakítani, természetesen köztes monitoring alkalmazásával. Mindaddig ugyanis nehezen tudnak jelentős eredményeket felmutatni a tanodák, amíg nem biztosított a középtávon kiszámítható működésük.
+
+Bár bizonyos szempontból centralizáltabban működnek a jövőben a tanodák, a szervezett szakmai támogatás intenzitása vélhetően drasztikusan csökken, mivel az Oktatási Hivatal releváns projektje véget ér. Javaslatunk szerint a jövőben ki kell alakítani a mezoszintű hálózatokat koordináló módszertani tanodák körét, amelyek hatékonyan elláthatják a tanodák szakmai támogatását. Munkájuk lehetőséget teremtene annak az anomáliának a kezelésére is, hogy az újonnan alakuló tanodák nem tudnak csatlakozni az állami támogatású rendszerhez.

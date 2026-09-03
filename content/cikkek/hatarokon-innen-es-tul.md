@@ -1,12 +1,22 @@
 ---
-title: "Határokon innen és túl"
-author: "Pintér Lilla"
-authorSlug: pinter-lilla
-date: "2025-11-26"
-tags: ["magyartanítás", "nevelés", "oktatáspolitika", "külföld"]
-excerpt: "A Magyar Tudományos Akadémián megnyílt kiállítás a Kárpát-medence magyar nyelvhasználatáról. Pedagógiai tanulsága: a nyelvi helyesség nem abszolút, hanem társadalmi és kulturális kontextustól függ."
-image: /images/cikkek/hatarokon-innen-es-tul.jpg
+title: Határokon innen és túl
+author: Pintér Lilla
+date: '2025-11-26'
+tags:
+  - magyartanítás
+  - nevelés
+  - oktatáspolitika
+  - külföld
+excerpt: >-
+  A Magyar Tudományos Akadémián megnyílt kiállítás a Kárpát-medence magyar
+  nyelvhasználatáról. Pedagógiai tanulsága: a nyelvi helyesség nem abszolút,
+  hanem társadalmi és kulturális kontextustól függ.
 reads: 1678
+authorSlugs:
+  - pinter-lilla
+coverImage: /images/cikkek/hatarokon-innen-es-tul.jpg
+migratedId: 1393
+overrideMigrated: true
 ---
 
 **Amikor a magyar nyelv többféleképpen szól. Pintér Lilla írása *A magyar nyelv a Kárpát-medencében* c. kiállításról**

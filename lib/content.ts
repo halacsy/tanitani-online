@@ -202,12 +202,12 @@ function editorialAuthorMap(): Map<string, AuthorRef> {
   if (fs.existsSync(curatedAuthorsDir)) {
     for (const filename of fs.readdirSync(curatedAuthorsDir).filter(name => name.endsWith('.md'))) {
       const authorSlug = filename.replace(/\.md$/, '')
-      if (result.has(authorSlug)) continue
       const { data } = matter(fs.readFileSync(path.join(curatedAuthorsDir, filename), 'utf-8'))
+      const existing = result.get(authorSlug)
       result.set(authorSlug, {
-        id: stableNegativeId(`author:${authorSlug}`),
+        id: existing?.id ?? stableNegativeId(`author:${authorSlug}`),
         slug: authorSlug,
-        name: String(data.name || authorSlug),
+        name: String(data.name || existing?.name || authorSlug),
       })
     }
   }
@@ -216,6 +216,7 @@ function editorialAuthorMap(): Map<string, AuthorRef> {
 
 function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
   if (!fs.existsSync(editorialDir)) return []
+  const migratedById = new Map(migrated.map(article => [article.id, article]))
   const migratedBySlug = new Map(migrated.map(article => [comparableSlug(article.slug), article]))
   const migratedTitles = migrated.map(article => comparableTitle(article.title))
   const authors = editorialAuthorMap()
@@ -228,9 +229,11 @@ function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
     const { data, content } = matter(fs.readFileSync(filePath, 'utf-8'))
     const title = String(data.title || '').trim()
     const titleKey = comparableTitle(title)
+    const migratedId = Number(data.migratedId)
+    const idMatch = Number.isInteger(migratedId) ? migratedById.get(migratedId) : undefined
     const slugMatch = migratedBySlug.get(comparableSlug(fileSlug))
     const titleMatches = migrated.filter(article => comparableTitle(article.title) === titleKey)
-    const migratedMatch = slugMatch ?? (titleMatches.length === 1 ? titleMatches[0] : undefined)
+    const migratedMatch = idMatch ?? slugMatch ?? (titleMatches.length === 1 ? titleMatches[0] : undefined)
     const alreadyMigrated = Boolean(slugMatch) || migratedTitles.some(existing =>
       existing === titleKey || existing.endsWith(` ${titleKey}`) || titleKey.endsWith(` ${existing}`),
     )
@@ -244,16 +247,28 @@ function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
     const baseRecord = fullMigratedPath && fs.existsSync(fullMigratedPath)
       ? JSON.parse(fs.readFileSync(fullMigratedPath, 'utf-8')) as ArticleRecord
       : migratedMatch
-    const authorSlug = String(data.authorSlug || '').trim()
-    const author = authors.get(authorSlug)
-    const authorRefs = author
-      ? [author]
-      : data.author
-        ? [{ id: stableNegativeId(`author-name:${data.author}`), slug: slugify(String(data.author)), name: String(data.author) }]
+    const authorSlugs = Array.isArray(data.authorSlugs)
+      ? data.authorSlugs.map(String).filter(Boolean)
+      : data.authorSlug
+        ? [String(data.authorSlug)]
         : []
+    const authorRefs = authorSlugs
+      .map(authorSlug => authors.get(authorSlug))
+      .filter((author): author is AuthorRef => Boolean(author))
+    if (authorRefs.length === 0 && baseRecord?.authors.length) {
+      authorRefs.push(...baseRecord.authors)
+    } else if (authorRefs.length === 0 && data.author) {
+      authorRefs.push({
+        id: stableNegativeId(`author-name:${data.author}`),
+        slug: slugify(String(data.author)),
+        name: String(data.author),
+      })
+    }
     if (authorRefs.length === 0) continue
     const date = editorialDate(data.date, baseRecord?.date)
-    const publishedAt = Math.floor(new Date(`${date}T12:00:00+02:00`).getTime() / 1000)
+    const publishedAt = baseRecord?.date === date
+      ? baseRecord.publishedAt
+      : Math.floor(new Date(`${date}T12:00:00+02:00`).getTime() / 1000)
     const tagNames = Array.isArray(data.tags) ? data.tags.map(String) : null
     const tags = tagNames
       ? tagNames.map(name => ({
@@ -275,13 +290,13 @@ function loadEditorialRecords(migrated: ArticleRecord[]): ArticleRecord[] {
       authors: authorRefs,
       publishedAt,
       date,
-      updatedAt: publishedAt,
+      updatedAt: baseRecord?.updatedAt ?? publishedAt,
       tags,
       sections: baseRecord?.sections ?? [],
       excerpt: String(data.excerpt || baseRecord?.excerpt || plainText(bodyHtml).slice(0, 320)),
       coverImage: String(data.coverImage || data.image || baseRecord?.coverImage || ''),
-      coverAlt: title,
-      coverTitle: baseRecord?.coverTitle ?? '',
+      coverAlt: String(data.coverAlt || baseRecord?.coverAlt || title),
+      coverTitle: String(data.coverTitle || baseRecord?.coverTitle || ''),
       reads: data.reads === undefined ? baseRecord?.reads ?? 0 : Number(data.reads),
       commentCount: baseRecord?.commentCount ?? 0,
       issueYear: baseRecord?.issueYear ?? '',

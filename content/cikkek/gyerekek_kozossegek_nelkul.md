@@ -1,0 +1,123 @@
+---
+title: Gyerekek közösségek nélkül
+migratedId: 922
+overrideMigrated: true
+authorSlugs:
+  - kerenyi-mari
+date: '2019-01-20'
+tags:
+  - alternatív iskolák
+excerpt: >-
+  Kerényi Mari írása Elhangzott a Magyar Pedagógiai Társaság "Gyermekérdekek
+  Szakosztálya – Korczak Munkabizottság" és a kecskeméti Neumann János Egyetem
+  Pedagógusképző Kara által szervezett Gyermeklét 2018 konferencián. Baj van Nem
+  kell ahhoz futurológusnak lenni, hogy képet kapjunk a jövőnkről. Ha tudni
+  akarjuk, milyen…
+coverImage: /sites/default/files/kzssg.jpg
+coverAlt: 'forrás: pixabay.com'
+coverTitle: 'forrás: pixabay.com'
+reads: 4778
+---
+<strong>Kerényi Mari írása</strong>
+
+> Elhangzott a Magyar Pedagógiai Társaság "Gyermekérdekek Szakosztálya – Korczak Munkabizottság" és a kecskeméti Neumann János Egyetem Pedagógusképző Kara által szervezett Gyermeklét 2018 konferencián.
+
+### Baj van
+
+Nem kell ahhoz futurológusnak lenni, hogy képet kapjunk a jövőnkről. Ha tudni akarjuk, milyen lesz a világ évtizedek múlva, nem a technikai fejlődés ütemét, irányát érdemes vizsgálnunk. Nézzük a gyerekeket, a gyerekeinket – amilyenek ők most, s amilyenné válnak felnövekedve, az határozza meg világunk jövőjét. 
+
+Mi neveljük fel őket. Mi, szülők, akiknek csoda és ajándék minden gyerekünk. Mi, pedagógusok, akiknek izgalmas fejtörőt és rácsodálkozó mosolyt hoz minden tanítványunk. 
+
+Mi szabjuk meg a felnövekedés kereteit is az ilyen-olyan törvények, rendeletek által szabályozott oktatási rendszerünkkel.
+
+Miénk a sikerek öröme és a kudarcok felelőssége. És most nem tudjuk eltagadni: baj van. Valami nagyon nem működik. Egyre több az iskolai kudarc. Sok a lemorzsolódó gyerek. Sokuknál állapítanak meg tanulási vagy beilleszkedési és viselkedési zavart. A gyerekek, a gyerekeink közül egyre többen egyre nehezebben illeszthetők be a szabott keretek közé. Elmagányosodva, idegenül téblábolnak az iskola világában. Abban a világban, mely az ő örömüket és épülésüket volna hivatott szolgálni.
+
+Ők elszenvedői, áldozatai valaminek, amiről a mi dolgunk kideríteni, hogy hát micsoda is valójában. A kutatás éppen csak elkezdődött. Ez az aggodalom szülte írás korántsem tudományos elemzés. Mindössze arra vállalkozik, hogy felmutassa a jelenség néhány aspektusát és egy most születőben levő megoldási kísérletet. Lássunk hát hozzá!
+
+### A törvény szelleme
+
+Az oktatásirányítás legfontosabb dokumentuma a törvény. A ma Nemzeti Köznevelési Törvénynek nevezett dokumentum 1991 óta sok változtatáson ment keresztül, ám deklarált céljai változatlanok:
+
+> A köznevelés <em>kiemelt célja a nevelés-oktatás eszközeivel a társadalmi leszakadás megakadályozása és a tehetséggondozás.</em> (NKT 1. a törvény célja és alapelvei 1.§ (1))
+
+Nincs ember, aki ezzel egyet ne tudna érteni. Nem lehet kétséges, hogy ennek alapján minden gyereknek a számára legmegfelelőbb nevelést kell kapnia a közoktatás keretein belül. Senki sem maradhat az út szélén, és nem sikkadhat el egyetlen tehetség sem, mert a közoktatás feladatának tekinti a különleges igények kielégítését is.
+
+A törvény szellemében fogalmazódott meg a közös nemzeti tudásminimumot összefoglalni hivatott Nemzeti alaptanterv legújabb tervezetének bevezetője is:
+
+> <em>A köznevelés célja és feladata az, hogy támogassa a fejlődő-kibontakozó egyént a harmonikus egyensúly megtalálásában az alábbi területeken:&nbsp;</em> 
+>
+> <ul><li><em>önmaga és mások elfogadása;&nbsp;</em></li><li><em>autonómia megélése és közösségi felelősségvállalás;&nbsp;</em></li><li><em>újító kezdeményezésre való nyitottság és bevált megoldások belátásra épülő alkalmazása;&nbsp;</em></li><li><em>reflektív mérlegelés és aktív, cselekvő részvétel a különböző tevékenységekben. </em>(A Nat tervezete, 2018.08.31.)</li></ul>
+
+Ezt elolvasván ismét nem mondhatunk mást: igen, egyetértünk. Ki ne szeretné, ha ilyen szellemben nőne fel a következő generáció? Amennyiben a köznevelési intézmények – prózaibban: óvodák és iskolák – efféle célok felé igyekeznek, abból csak jó dolgok sülhetnek ki. Örömmel nyugtázhatjuk, hogy minden, a közoktatás irányítását szolgáló dokumentum bevezetője a legkorszerűbb, gyermekközpontú szellemben fogant. 
+
+### A mindennapok gyakorlata
+
+Valahol mégis kisiklik a jószándék. Valahol elszivárog az a vonzó szellemiség, mely a szabályozók idézett szakaszaiból sugárzik. Tovább olvasva ezeket a dokumentumokat a célok megvalósításának konkrét módozatait szabályozó passzusokban mind több ellentmondást találhatunk. Nem idézzük most fel a részletekben bujkáló ördögöket, csak a lesújtó végeredményről számolunk be. Mire az iskolákig ér a törvény keze, addigra vasmarokká szigorodik. A finanszírozás szabályozása nemritkán harmincas létszámú osztályokat teremt. Az iskolában kötelezően eltöltött idő megfelel egy akármilyen gyári műszaknak. Az előírt tananyagot a pedagógusnak le kell adni, haladni kell, nincs lacafaca. A gyerekek teljesítményét folyamatosan mérni kell, elemezhető, összevethető adatokkal kimutatni, ki a legjobb diák, pedagógus, osztály, iskola. Nézheti magát, aki hátul kullog a sorban. Az osztályozás a második évtől kezdve a bukás, évismétlésre utalás mumusával ijesztget. Az óvodában az iskolára, az alsóban a felsőre, aztán a középiskolára kell készülni. Így nehezen képzelhető el, hogy a mindennapos sárdagasztás közben a fentebb idézett alapvetések világítótoronyként útmutató célkitűzéseire emeli a tekintetét bármely szereplő. Az előtte dagonyázó hátát nézve megy, amerre a fáradt lába viszi.
+
+### Ugyanaz a szülők szemszögéből
+
+A Zöld Kakas Líceum alternatív iskola több mint húsz éve született olyan középiskolások számára, akiket a közoktatás rendszere nem képes tolerálni, az elmúlt néhány évben azonban egyre szaporodtak vonzáskörében az általános iskolás gyerekek. Addig-addig, míg a ZK „lefelé nyitott”, vagyis most már általános iskolásokat is fogad, és saját alternatív kerettanterve szerint igyekszik megfelelő tanulási környezetet teremteni a számukra is. Ugyanakkor munkatársai kutatni is kezdték a jelenség okát. A kutatáshoz sok szülővel (és pedagógussal) készítettek interjút. Az interjúkból közoktatási rendszerünk kíméletlen kritikája süvít. 
+
+A kis elsős édesanyja gyereke kudarcában az iskola diszfunkcióját ismeri fel:
+
+> <em>„Anyuka, gyakoroljanak, gyakoroljanak, gyakoroljanak!” És én mindig mondtam, hogy nyolctól négyig van a gyerekem az iskolában és mondtam, hogy nem, hazajön és alig várja, hogy játsszon a testvéreivel, nem fogom nyúzni!</em>
+
+Egy másik történetből az derült ki, hogy az általános iskolát végigszenvedő kislány már komoly fizikai tüneteket is produkált. A szülő ekkor ismerte fel a helyzet tarthatatlanságát, ekkor ébredt rá, hogy muszáj változtatni:
+
+> <em>…nyolcadikban már odáig jutottunk, hogy állandóan felhívott a tanárnő, hogy „Megint rosszul van a gyerek, hazaengedem”. Hát engedje! Szóval, hogy már annyira, hogy így tényleg már nem tudott bemenni a terembe, és a szünetben rosszul lett.</em>
+
+<em>Mindketten (és még sokan) azzal szembesültek, hogy nem megy; egyértelműen árt a gyereküknek az iskola. Valamit tenniük kellett. A köznevelésről szóló törvény is meghagyja, hogy a szülő kötelessége, hogy gondoskodjon gyermeke értelmi, testi, érzelmi és erkölcsi fejlődéséhez szükséges feltételekről.&nbsp;</em> (NKT 72. § (1) a))
+
+Nem kellett ahhoz a törvényt silabizálni, hogy az ilyen szülő belássa: ha ő nem lép, akkor bizony veszélyezteti gyermeke értelmi, érzelmi, testi és erkölcsi fejlődését. Szívet sajdító egyszerűséggel fogalmazva:
+
+> <em>…a lelkem nem tudja végignézni, hogy hogyan teszi tönkre az iskola a gyerekemet.</em>
+
+### Magán mentőakciók
+
+Mit tehet hát? A szülő fogja magát, és kiszabadítja gyerekét a nyilvánvalóan betegítő közegből, az iskolából. Nem akarja ő megváltani a világot, csak ki akarja menekíteni a gyerekét onnan, ahol szenved. Nem forradalmár ő, mindössze átlátja és felvállalja szülői felelősségét: 
+
+> <em>Beszélgethetnénk arról, hogy a rendszert hogyan kéne teljesen átalakítani, de minek? Én nem vagyok tanár. Én nem vagyok oktatáskutató, én nem vagyok pedagógus. És főleg nem vagyok rendszerben gondolkodni képes ember. Én kisember vagyok, aki a saját problémáin nem akar túllátni.&nbsp;</em> 
+>
+> <em>A gyerekeim magántanulók. Félévente vizsgáznak.</em>
+
+Legtöbbjük szíve szerint nem is ragaszkodna a magántanulósághoz, de úgy érzi, nincs más választása. A közoktatás intézményrendszere nem kínál számukra elfogadható alternatívát.
+
+> <em>Én nem feltétlen ragaszkodnék az otthonoktatáshoz, szó nélkül beíratnám bejárós iskolába, ha találnék olyat, amiről úgy érzem, hogy normális keretek közt működik és elfogadható. De ami most van, nem fogadható el.</em>
+
+Mikor belevágtak, igazából nem tudták felmérni, mi mindennel jár ez a magántanulóság dolog. Az biztos, hogy egészen másként kell szervezni a család mindennapjait, mint eddig. Otthoni munkát vállalni vagy feladni a nyolcórás állást valakinek, aki a legtöbb időt tölti a gyerekkel. Ez pénzkiesést is jelenthet. Meg kell találni azt az iskolát, amelyik hajlandó befogadni a magántanulót – hiszen korántsem biztos, hogy ahová eddig járt, az vállalja. Az iskolának a magántanuló gyerek semmi bevételt, viszont plusz nyűgöt jelent; ugyan kinek kell ez? Jó, ha a szülő ismeri az idevonatkozó rendelkezéseket, tudja a hivatalos ügymenetet, mert bizony kevés segítségre számíthat. A szülőnek kell megszervezni a tanulást kezdve a tananyag áttekintésétől a követelmények ismeretéig, segítséget szerezni ahhoz, amihez nem konyít sem ő, sem senki a környezetükben. 
+
+> <em>…hihetetlen nagy terhet rak a családokra egy ilyen helyzet, mert a családok nemcsak családként funkcionálnak, hanem gyakorlatilag bele kell tanulniuk a fejlesztésekbe, intézményeket kell alapítani.</em>
+
+Nagy bátorság kell ahhoz, hogy valaki belevágjon ebbe. Hogy mégis meglepően sokan vannak, az ugyanúgy jelzi a közoktatás tarthatatlan merevségét, mint a szülők eliminálhatatlan igényét, hogy beleszóljanak gyerekük nevelésébe. A közoktatás képtelen megfelelni ezeknek az igényeknek, a szülő pedig nem hajlandó belenyugodni ebbe a képtelenségbe. 
+
+Azonban nemcsak szülők érzik ezt a lépéskényszert, hanem pedagógusok is. Ne azokra gondoljunk, akik jobb kereset, számukra testhezállóbb elfoglaltság reményében elhagyják a pályát, hanem azokra az elhivatottakra, akik mégis iskolaelhagyók lesznek.
+
+### Összekapaszkodók
+
+> <em>Elhagyni a közoktatást&nbsp;<span style="background-color: rgb(232, 232, 232); font-size: 12px;">–&nbsp;</span></em> <em style="font-size: 1em;">nyilván nem egyik pillanatról a másikra megy az. Évekig csak forgott a fejemben. Harminc éve vagyok a pályán</em> – mondta egy ragyogóan tehetséges tanítónő.
+
+A szülőkkel készített interjúk mellett olyan pedagógusokat is megkerestünk, akik elhagyva a közoktatást másféle keretek között folytatták hivatásukat. Az idézetek a velük készült interjúkból származnak. Mindhárom idézet forrása különböző. Ő sok pályaelhagyó pedagógustól eltérően nem a tanítást hagyta abba, hanem az iskola számára is elviselhetetlenül szűk világából szállt ki. Azokon a kereteken belül lehetetlennek látta pedagógiai krédójának megvalósítását, pedig nem akar mást, mint hogy a gyerekekkel való munkáját ne a tantervi követelmények, hanem a gyerekek kíváncsiságának teret adó szabadság és az öröm határozza meg. Ez pedig a fentebb idézett törvény szellemének megfelel ugyan, ám a mindennapi gyakorlattal merőben szembemegy.
+
+Egy másik iskolaelhagyó pedagógust is ilyen motiváció vezérelt. Megelégelte a tiltások és büntetések szárnyakat nyesegető fenyegetését. Közalkalmazotti létét saját kockázatára egy nemlétező pedagógiai formációra, egy tanulócsoportra cserélte:
+
+> <em>...úgy gondoltam, hogy ezért a rizikóért cserébe nekem jár, hogy azt csinálhassam, amit jónak látok, és belefér, és senkit se bánt, legfeljebb szokatlan. Miért kellene beleállnom a rettegésbe? Hogy már mindig előre rettegjek, hogy itt-ott valamit nem szabad és akkor kiderül, hogy nem is szabad.</em>
+
+Ez a forma valóban nem létezik hivatalosan, miközben az iskolából kimenekített gyerekek egy része új közösséget talál a mindegyre szaporodó tanulócsoportokban. Ezek a csoportok a közoktatás keretein kívül, az oktatásirányítás fennhatóságától szabadon léteznek. Semmiféle szabály nem vonatkozik rájuk. Nem kell engedélyeztetni egy ilyet, de nem is lehet megtiltani a működését – ugyan minek alapján lehetne? Teljesen civil dolog ez. Akadnak szülők, akik magántanuló gyereküket gyerektársaságba küldik. Vannak pedagógusok, akik szívesen foglalkoznak az amúgy magántanuló gyerekekkel. Összekapaszkodnak és végre mindannyiuk örömére és épülésére tudják fordítani az együtt töltött drága időt: 
+
+> <em>Azt vettük észre… ők nagyon originálisak, és hogyha megkapják azt a teret és azt a tempót, ami megfelel annak, hogy az ő különböző képességeik hogyan alakulnak ki, akkor elkezdik formálni a tanulásnak a módját, minket, felnőtteket, akik foglalkozunk velük.</em>
+
+### Happy end?
+
+Már hogy is lehetne az! Egyes gyerekek, egyes családok számára megoldást jelenthet a magántanulóság intézményének használatba vételével kimenekülni a fojtogató közoktatásból. Ez azonban nem lehet mindenki útja. Tudatosság, tájékozottság, anyagi források, infrastruktúra szükséges ahhoz, hogy felfedezze és élni is tudjon egy család a menekülésnek ezzel a lehetőségével. Egyes pedagógusok kialakíthatják szakmai kiteljesedésük terét a közoktatás intézményein kívül. De tudjuk: minél több a szerencsés menekült, annál sanyarúbb a helyzete a kénytelen-kelletlen maradóknak. 
+
+Az oktatásirányítás ingerküszöbét is eléri lassan ez a jelenség. Hogy is van ez? Abban a rendszerben, ahol a tankötelezettség már kiterjed az óvodára, ahol a családi pótlék juttatása az iskolába járáshoz kötött, ahol az egésznapos iskola előírás, nem jó szemmel nézik, ha valaki kibújik a közoktatásból. Nem kérdés: valamit tenni kell. 
+
+De mit? 
+
+Lehet félrenézni és hagyni, hadd menjen a dolog a maga útján. Valójában nem olyan sok gyereket érint. Ha a tudatosabb, izgágább szülők egyéni gyerekmentési akciója megvalósulhat, ez az egész rendszer stabilitását nem ingatja meg. Ha a folyton valami mást, máshogy akaró pedagógusok máshol akarják mindazt, attól csak nagyobb lesz a béke és az egység. Maradhat minden úgy, mint eddig volt. Sőt, a zavaró elemektől megtisztulva még úgyabbul.
+
+Lehet felülvizsgálni azokat a szabályozókat, melyek megengedik az efféle anomáliákat. Törvénymódosítással, rendelettel végül is el lehet érni, hogy a magántanulóság intézménye ellehetetlenüljön. Elég a szülő által felhozható indokok körét leszűkíteni, a magántanulóság engedélyezéséhez kötelezően beszerzendő szakértői véleményekhez szükséges vizsgálatokat kibővíteni – a bonyolult eljárás máris kedvét szegi a kevésbé elszántaknak. Kidolgozható a tanulócsoportokra vonatkozó szabályozás, amely igyekszik a közoktatás intézményeivel kompatibilissá szelídíteni az ott folyó munkát. Ha elkezdenek maguk is iskolaszerűvé válni, mindjárt nem lesznek olyan keresettek.
+
+És lehet a jelenséget jelzésként tekinteni. Megvizsgálni, megérteni az üzenetét. Felismerni, miféle hiány, milyen igény szülte. Eltanulni, ami jót kiizzadt magából (akár kínjában, mint a kagyló az igazgyöngyöt). A tanulságok felhasználásával jobbá válni az iskoláknak; olyan jóvá, hogy ne kelljen gyereket menekíteni, pedagógusnak menekülni onnan. 
+
+Kétségtelenül ez a legnehezebb, ugyanakkor az egyetlen igazi megoldás. Minden egyéb elfedi vagy elnyomja, de nem szünteti meg azt a gondot, mely a jelenséget szülte. Túlságosan nagy a tét ahhoz, hogy ezt megengedhessük magunknak. Az adekvát megoldást választani több, mint fontos – életbevágó. Nem kicsiségről: a jövőnkről van szó.

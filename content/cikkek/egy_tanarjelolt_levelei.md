@@ -1,0 +1,156 @@
+---
+title: Egy tanárjelölt levelei
+migratedId: 1073
+overrideMigrated: true
+authorSlugs:
+  - martin-janosne
+date: '2021-02-06'
+tags:
+  - pedagógusok
+  - pedagógusképzés
+excerpt: >-
+  Lejegyezte és kommentálta: Martin Jánosné Egy tanárnak nincs nagyobb
+  elismerés, mint mikor tanítványai közül többen is bevallottan az ő hatására
+  választják élethivatásul a pedagóguspályát.
+coverImage: /sites/default/files/tanari.jpg
+coverAlt: 'A kép forrása: https://veszpresszo.hu/'
+coverTitle: 'A kép forrása: https://veszpresszo.hu/'
+reads: 2607
+---
+<strong>Lejegyezte és kommentálta: Martin Jánosné</strong>
+
+> Egy tanárnak nincs nagyobb elismerés, mint mikor tanítványai közül többen is bevallottan az ő hatására választják élethivatásul a pedagóguspályát.
+
+<em><img alt="Martin Jánosné" src="/sites/default/files/martin_janosne.jpg" style="width: 200px; height: 267px; float: left; margin-right: 15px;">Boldoggá tesz, hogy az én életpályám is megkapta ezt a jutalmat. Egyik kedves tanítványom az általános iskolai együttműködés után, a további tanulmányok idején is tartotta velem a kapcsolatot, hol személyes találkozó, hol levelezés útján. A pedagógussá válás tapasztalatairól beszélgetve formálódott az a gondolat, hogy mások számára is tanulságos lehet egy-két mozzanat. A levélstílus látszott a legalkalmasabbnak arra, hogy beszélgetésünk érzelmi tartalmát, nyíltságát visszaadja, megérintse az olvasók lelkét, s állásfoglalásra késztesse őket.</em>
+
+<em>Így születtek meg azok a fiktív levelek, amik igazságtartalmához nem fér kétség. Kérem az olvasót, hogy a fiatal pedagógus munkájához kívánjanak örömteli eredményességet.</em>
+
+## Első levél
+
+Kedves Tanárnő!
+
+Sajnálom, hogy ilyen hosszú ideig nem adtam hírt magamról, nem volt szép tőlem. Talán mentségemre szolgál, hogy mozgalmas és nagyon tevékeny időszak van a hátam mögött.
+
+Mi mással is kezdhetném, mint hogy ősszel lesz egy éve, hogy először tanítottam. A gimiben végeztem első tanítási gyakorlatomat. Őszintén mondhatom, hogy életemben nem voltam olyan boldog és kiegyensúlyozott, mint akkor. Beigazolódott, amit a tanári hivatásról vallok. Igyekszem teljes képet adni a gondolataimról ezzel kapcsolatban.
+
+Ön is tudja, hogy mennyire tudatosan készültem a pedagógus pályára, de még így is sikerült párszor elbizonytalanodnom. Már a gimnáziumban is nehéz volt olyan tanárra találnom, aki támogatott elképzeléseimben, és hitt bennem. Akkoriban szembesültem a pálya szinte összes visszásságával mindkét oldalról. Nem akarok túl szigorú lenni, de nem mondhatok mást, mint azt, amit igaznak vélek és tudok. Az erkölcsi normák teljesen megváltoztak, már-már el is tűntek, és ez hol ütné fel legjobban a fejét, mint egy iskolában. Habár be kell vallani, hogy igaz ez már az élet minden területére. Ezért volt nehéz a gimnáziumban eltöltött négy év, mert kapaszkodni kellett egy-egy olyan emberbe, aki példát tudott mutatni. De persze a lehúzó erők őt is kikezdték, nehéz bármit tenni a rosszindulat és butaság ellen. Jó tanulópénz volt, felkészített sok mindenre.
+
+Az egyetemen folytatódott ez a tendencia, és meglepett, hogy nem azokat segítik az érvényesülésben, akik elhivatottak a tanári hivatással kapcsolatban. Gyakorlatilag az első szakmódszertanórán a fejemhez vágta az előadó, hogy olyan kritikus hozzáállással, mint az enyém, sosem leszek jó pedagógus. Hozzáteszem, hogy a 20 fős szemináriumi csoportból csak én akartam a pályán elhelyezkedni. Ha valamiben biztos voltam és vagyok, hogy a kellő alázat megvan bennem. Rosszul esett, hogy ezt megkérdőjelezték.
+
+De sebaj, csak erősebb lettem az efféle támadásoktól, nem hódoltam be a legújabb trendeknek, és tudatosan készültem a gyakorlatra. Mindenképpen a gimis magyar tanárom irányítása alatt szerettem volna dolgozni, mert szükségem volt egy olyan bizalmi közegre, amit ő tudott teremteni nekem. Biztonságban akartam tudni magam, mert féltem attól, hogy most fog kiderülni: nem is vagyok alkalmas tanárnak, és nem is ez a végzetem. De hála Istennek, minden a legjobban alakult.
+
+Ősszel az ő osztályát, 10.-eseket tanítottam. Arra készültem, hogy mivel még fiatal vagyok, és új lesz a helyzet nekik is, nem vesznek majd komolyan, és gyorsan meg akarják találni rajtam a fogást. De éppen ellenkezőleg történt. Legalább annyira meg voltak szeppenve, mint én. Az első órámon egy pisszenést sem lehetett hallani, ami egy idő után már-már zavaró volt. Az idő előrehaladtával azonban őszintén mondhatom, olyan munkamorál alakult ki közöttünk, amiről nem is álmodtam. Mikor a Candide-ot tanítottam nekik, akkor már nagyon sokan el merték mondani a gondolataikat, és úgy éreztem, hogy a tanterem a természetes közegem a gyerekek között.
+
+Fegyelmezési problémám sosem volt velük, tudták, hogy tisztelem őket, és ez meglepő volt a számukra. Furcsa ez és szomorú, természetesnek kéne lennie. A vizsgatanításom olyan volt velük, mint egy valóra vált álom. Még az is részt vett a munkában, akinek később köze sem lesz az irodalomhoz, és ez a legfontosabb visszajelzés. Mikor véget ért az egy hónap, és meg kellett tőlük válnom, nagyon üresnek éreztem magam, és visszasírtam ezt az időszakot. Nehéz volt visszamenni az egyetemre. Nem sokkal később visszahívtak magukhoz, páran e-mailt is írtak, hogy nagyon örültek, hogy megismertük egymást, s együtt, egymástól tanultunk.
+
+A gyakorlatvezető tanárnő is meg volt velem elégedve, legalábbis ez derült ki az értékeléséből, nagyon fontos volt a véleménye, most is az.
+
+Tavasszal is ott tanítottam, de akkor már 9.-eseket, egy E-osztályt. Ez már nehezebb feladatnak bizonyult, de megbirkóztam velük, az sem volt rossz élmény, de egyértelművé vált számomra, hogy nem érdemes nyolcosztályos gimnáziumba íratni egy gyereket. Sajnos már korán kialakul bennük egyfajta kiválasztottsági érzés, felerősítik bennük a zsenitudatot, és annak nem lesz jó vége. Persze van megannyi ellenpélda is, de ez egy általános tapasztalat. Már gimnáziumban is érezhető volt a hierarchia, ami az E-seket elválasztotta a hagyományos gimnáziumi osztályoktól. De most nem is ez a legfontosabb. Számomra a legtanulságosabb a tanári működése belülről. Hihetetlen, hogy felnőtt emberek hogy áskálódnak egymás ellen, akadályozzák egymás munkáját és kapaszkodnak felfelé, miközben nem törődnek azzal, hogy milyen károkat hagynak maguk után. Mint mondtam, az erkölcs, az elhivatottság és a tudás már nem sokat számít. a jó tanárnak már csak az a pár gyermek a mentsvára, akiknél értő és kíváncsi fülekre talál. Mint egykori diák bízom abban, hogy az ilyesfajta szeretet kárpótolja a pedagógust mindazért az igazságtalanságért, amit elszenved.
+
+Remélem, nem untattam ezzel a hosszú elbeszéléssel. Még rengeteg mindenről szeretnék írni, de majd legközelebb.
+
+2012\. 8. 12.
+
+Várom a levelét, addig is szeretettel gondol Önre: volt tanítványa, Réka
+
+<em>Nagy büszkeség volt számomra, hogy általános iskolai tanítványom a magyar szakos tanári pályát választotta. Fejlődését, útját nyomon követhettem, hisz a kapcsolatot mindketten fenn akartuk tartani, levél és személyes találkozás során tárta fel nekem problémáit, és hallgatta meg tanácsaimat.</em>
+
+<em>Az itt (engedéllyel) nyilvánosságot kapott levelek azért lehetnek közérdekűek, mert írójuk a pedagógus szakma, hivatás tanárjelöltjeként, majd kezdő tanárként olyan mentális és szakmai problémákról vall, ami gondolkodásra és átgondolásra késztetheti mindazokat, akiknek közük van a pedagógusképzéshez, illetve fontosnak tartják az oktatás színvonalának emelését.</em>
+
+<em>Amikor az eredményességi felmérések egyre csökkenő szintre hívják fel a figyelmet, az érdekeltek az okokat és megoldásokat keresik. A felnőtt társadalom minden tagjának van tapasztalata az iskoláról saját élmény alapján, s bár az oktatás eredményessége sok tényezőn múlik, abban egyetérthetünk, hogy szakmai tudása birtokában e sokszereplős életjátékban a pedagógus a főszereplő. Az ő képzettsége, szakmai tudása, hivatástudata, szakmai attitűdje mindennek a gyökere. Ha emelni szeretnénk az oktatási színvonalat, mindenképpen a pedagógusképzéssel kell kezdeni a feltételek javítását.</em>
+
+<em>Az egész társadalomnak érdeke, hogy olyan emberek hatása alatt nevelődjenek gyerekeink, a jövő nemzedéke, akik példamutatóak emberségből, munkaszeretetből, a másik ember iránti tiszteletből. A levélíró „tanárpalánta” már a középiskolában a kamasz kritikus szemével látta a felnőttek jellemhibáit. Nagy a felelőssége a tanároknak, hisz a tanári pályáról az iskolában szerzik a fiatalok az első benyomásokat. Az is kitűnik, hogy mennyire vágyott levélírónk a bizalomra, a megerősítésre, ami persze minden diáknak kijár, ha a motivált tanulást el szeretnénk érni. „Hősnőnk” érezte a pályaválasztás felelősségét, s arról akart bizonyosságot, hogy alkalmas-e tanárnak, jól választott-e.</em>
+
+<em>A pedagógusképzés első lépcsőfoka lehetne, hogy ehhez segítséget kapjanak. Akár pszichológus közreműködésével (már a felvételi eljárásban), akár a kezdetektől iskola közelbe vinni a jelölteket, nem várni ezzel a hivatalos tanári gyakorlatig. A diákszerepből minél hamarabb tanárszerepbe lépni, s átélni a másik oldal nehézségeit s örömeit is. Minél előbb derüljön ki, rendelkezik-e a tanárszemélyiség vonásaival!</em>
+
+<em>Megható olvasni, hogy a tanítási gyakorlat sikere milyen lelkesedést váltott ki. „Valóra vált álom!” De keserű érzés arról olvasni, hogy a tiszteletet nem tapasztalják meg a diákok tanáraiktól. S ez a fiatal tanárjelölt áskálódó, a másikat letiporni akaró felnőtteket látott a tanári szobában! Megtapasztalhatta volna az együttműködést, a tanítványokért együtt tenni akaró pedagógusi magatartást. Nem ez történt, de Rékát ez nem riasztotta el. Bízott abban, hogy az erkölcs, az elhivatottság és a tudás valahol érték lesz.</em>
+
+<em>Leginkább a gyerekektől várja, akiknek szeretetet kíván adni.</em>
+
+## Második levél
+
+Kedves Tanárnő!
+
+Nem sürgetni akartam Önt, mindössze féltem, hogy nem kapta meg a levelem, elő szokott fordulni az ilyesmi. Ami a rossz tapasztalatokat illeti: Megtanultam azt, hogy kevesekben szabad bízni. Azonban az emberek, akik körülvesznek, mind tiszteletre, mind szeretetre méltóak. Tőlük sokat tanulhatok. Általuk megismertem saját magam is. E téren az életem tökéletes, nincs okom panaszra. Barátként és szakmabeliként a mentor tanárnő a mai napig mellettem áll, fontos szerepe van az életemben, és sokat segített abban is, hogy az életben tisztességes és igaz ember maradjak. Nagyon vigyázni kell ezekre az erényekre, ezt megtanultam. Mindig tükröt tart elém, még ha néha nem is veszi észre. Ha egyet kívánhatnék, az lenne, hogy becsüljék meg ebben a városban úgy, ahogy megérdemli.
+
+Jó érzés, hogy az általános iskolai évekhez is visszanyúlhat az ember, boldoggá tesz, hogy jó szívvel írhatok Önnek, hisz minden, ami most vagyok, ott gyökerezik. A mai napig hálás vagyok Önnek ezért.
+
+Ami a jelenemet illeti, most már itthon vagyok, bár nem végzett egyetemistaként. Nagypapám egy éve beteg lett, anyagilag sem tudtuk tovább finanszírozni a pécsi éveimet, ezért láttuk jobbnak, ha itthon vagyok, s egyéni tanrendesként fejezem be az egyetemet.
+
+A tavaszi félév végén leadtam a filozófia szakomat, ami eléggé megviselt, kudarcként éltem meg. Bár nem azt kaptam ott, amire számítottam. A filozófia szak gyakorlatilag tematika nélkül működik. Abból indulnak ki, hogy mi valamiféle alaptudással érkezünk oda. Persze a gimnázium negyedik évében a heti egy filozófia óra igencsak vérszegény volt. Mondhatnám azt is, hogy a tanárnő, aki tartotta, 25 percet késett, majd 20 perccel korábban el is hagyta a termet. Így eléggé nehéz volt az élet az egyetemen, s ráadásul a magyar szak sem váltotta be a hozzá fűzött reményeimet.
+
+Tűnhet úgy, hogy túl igényes vagyok, de az egyetemtől azt vártam, hogy megkapom azt a fajta általános műveltséget, amivel nyugodt szívvel léphetek értelmiségi pályára. Nos, mindenféle előadást hallgattam, csak azt nem, amit igazán szerettem volna.
+
+Senki sem végezte el négy év alatt az egyszakos magyart sem. Ebből azért sok minden kiviláglik. Nem érzem úgy, hogy tengtem-lengtem az egyetem alatt, sőt volt olyan tárgyam, amivel sokáig küszködtem.
+
+Alapvető gond van az egyetemi képzés felépítésével. Véletlenül sem tanulhattam azt, amit szerettem volna, ehelyett hallgattam privát pénzügyeket és efféle (számomra) érdektelen előadásokat. Éppen ezért a tanítási gyakorlaton vért izzadtam. Mindent újra kellett tanulnom, de inspirálóbb úgy, ha mások tudása múlik rajtunk. Éreztem a felelősség súlyát.
+
+Hogy hol állok most? A teljes idegösszeomlás szélén. Persze ez túlzás, hisz most már a vége felé járok, de nehéz időszak következik. Új szakdolgozat témát választottam magamnak. Most megtaláltam az igazi, nekem való témát. Mindig érdekelt a kapcsolat két ember között, akik egymástól tanulnak, és speciális helyzetben vannak. Volt életemben erre példa. Összehasonlító elemzést írok Babits és Hesse regényéről. Rengeteg lehetőség van az adott két műben irodalmi, pedagógiai és pszichológiai szempontból is.
+
+Ha minden jól megy, januárban fogok államvizsgázni. Addig még egy-két szigorlatomat is meg kell csinálnom, és le kell adnom a szakdolgozatom.
+
+Ismét rengeteg témát érintettem, sajnálom, ha bő lére eresztettem a mondandóm, de jó érzés, ha értő fülekre találok. Szívesen veszem, ha ír, szeretettel várom a levelét!
+
+2013\. 07. 25.
+
+Addig is minden jót kíván: Réka
+
+<em>Elismerem és tisztelem azt az emberi magatartást, ami a fiatal tanárnő gondolataiból kirajzolódik. Tisztességes és igaz ember szeretne maradni minden nehézség közben, s tudja, hogy mennyire fontos a bizalom s az olyan emberek közelsége, akiket tisztelhet.</em>
+
+<em>E levelében az egyetemi képzés keltette hiányérzetéről ír. Látszik, hogy nemcsak diplomát szeretne, hanem főleg tudást. Nem kellett volna vért izzadnia a gyakorló iskolában, ha arra kapnak felkészítést, ami szakmódszertanból szükséges lett volna.</em>
+
+<em>Igazi szakmai érdeklődés és felelősség vezette ekkor is, de feltételezhetjük, hogy nem mindegyik tanárjelölt ilyen elhivatott. A gyakorlat eredményes elvégzéséhez több támogatásra lenne szükség. A mentortanárok elfoglaltak, s az elmélethez képest rövid gyakorlati képzésben nem kapják meg a hallgatók a szükséges felkészítést.</em>
+
+<em>Tele volt ez a lány várakozással, s azzal a hittel, hogy mivel mások tudása rajta múlik, életének magasztos célja van.</em>
+
+<em>De olvassuk el azt a levelet is, amit már nem a gyakorlóiskolai, s nem is terepgyakorlati tapasztalatok ihlették, hanem már a nagybetűs pedagógusi lét az első munkahelyen.</em>
+
+## Harmadik levél
+
+Kedves Tanárnő!
+
+Szinte hihetetlen, hogy sikerült a városban állást találnom, mégpedig olyan iskolában, ahol már évekig helyettes tanár tanította a magyart, s nem volt helyben „gazdája” a tantárgynak. Úgy érzem, hogy sokat várnak tőlem, s ez egy kicsit nyomaszt, hiszen még tanulnom kell a szakmát.
+
+Mert ugye ez is szakma, amit meg lehet tanulni, csak ahogy mondják, rátermettnek is kell lenni. Hiszem, hogy bennem megvan az elhivatottság, sőt hitvallásom is van, ami szerint élni szeretnék ebben a közegben, de most derül ki majd igazán, hogy tudom-e ezt csinálni. Remélem, nem terhelem Tanárnőt ezzel a sok lelkizéssel, de tudom, hogy Ön megért.
+
+Az elit gyakorlóiskolában válogatott, motivált gyerekekkel a mentortanár jelenlétében csak az óravázlatot kellett megvalósítani, az egyhavi terepgyakorlat szerintem elég kevés ahhoz, hogy a lehetséges váratlan helyzetekre is felkészülhessek.
+
+Most itt vagyok egy szakmunkásképzőben a magyar és a világirodalom magas szintű elméleti tudásával, s töröm a fejem, hogyan tudnám emészthetővé, sőt érdekessé tenni számukra a magyarórát. Az igazgató sajnálattal közölte, hogy nem tud segítő tanárt felkérni, akivel konzultálhatnék, mert mindenki nagyon sokat dolgozik, s ezek a gyerekek mindenkiből kiveszik az energiát. Hát akkor ez a mélyvíz!
+
+Bújom a módszertani anyagokat, szinte minden szavamat leírom a vázlatban, de soha nem sikerül úgy. S a módszertani órákon csak a kooperatív technikákat nyomták az egyetemen, de az nem derült ki, hogy nem minden órán alkalmazhatóak, s egyelőre még azt sem látom, hogy a nagyon sérült, s nagyon sajátos nevelési igényű tanítványokkal mit tudok kezdeni.
+
+Erre a tömeges problémára sem kaptunk felkészítést. Muszáj türelmesnek lennem, s még sokszor a tiszteletlenséget is eltűrnöm azzal a belátással, hogy ők még gyerekek, olyan a hátterük, amilyen.
+
+Most azt követem, hogy a mű üzenetét aktualizálom, s beszélgetést kezdeményezek róla. Így nem váltok ki ellenállást, bár az egész órát így sem bírják. akkor jöhet a spontán téma, egy kis humor.
+
+Ez nem a klasszikus tanóra, csak alkalmazkodás a feltételekhez. De lesz ebből érettségi?
+
+Nem tartanak a vizsgától, úgyis meglesz, könnyűnek tartják!
+
+Szóval gyakran kell nyelni, s segítséget, tanácsot senkitől nem remélhetek, mert valamennyi kolléga küzd az integrációval.
+
+Tanultuk, hogy a nevelés-oktatás több szereplős tevékenység, s a tanulók mögötti családot kell a legfontosabb partnernek tekinteni. Én mindent elkövetek, hogy a szülőkkel való kapcsolatot szorossá fűzzem. A telefonszámomat is megadtam, bármikor hívhatnak, e-mailben értesítem őket minden fontos dologról, s a szülői értekezleten mégis alig jelennek meg. Nulla érdeklődés!
+
+Tele van a levelem problémával, egy kicsit panaszkodtam, elnézést érte!
+
+Jó lenne találkozni is, s ha tudnánk időpontot egyeztetni, nagyon örülnék.
+
+2014.05.04.
+
+Minden jót kívánok, s várom a levelét! Réka
+
+<em>Nagyon sajnálom, hogy ilyen nehézségek keserítik egy olyan személyiség lelkivilágát, életét, aki pedagógusként akar hasznos életet élni.</em>
+
+<em>Biztos nem egyedi sors!</em>
+
+<em>Lehetne másképp?</em>
+
+<em>Erősebb hangsúlyt kaphatna a gyakorlati felkészítés, hogy szakmai szempontból minél felkészültebben léphessenek a tanárjelöltek tanárként az osztályterembe. Lehetőséget kellene teremteni arra, hogy már az alsóbb évfolyamokon megismerkedhessenek a konkrét iskolai világgal. Így a gyakorlati képzés ideje megnőhetne. Fontos lenne, hogy módszertani tudással kezdjenek tanítani, s a tanulók megismerésére, elmélyültebb kapcsolat kiépítésére fordíthatnának több időt s energiát.</em>
+
+<em>Már az egyetemi évek alatt a valós társadalmi helyzetnek megfelelő körülményekkel lenne jó találkozniuk, s nem az egyetemi gyakorlóiskolák oktatási-nevelési szituációiban szereznének csak tapasztalatot. A gyakorlóiskolák és a többi gyakorlati helyszín együttműködése is segíthetné a gyakorlati tudás kialakulását, illetve a problémákra való felkészülést. Az integrációs oktatás módszertana teljességgel hiányzik a képzésből, s tapasztalatom szerint a mindennapi oktatási gyakorlatból is.</em>
+
+<em>Az az érzése az embernek, hogy hiányzik az elméleti és gyakorlati tudás összhangja, s óriási bizonytalansággal kezdik a fiatal tanárok a munkájukat.</em>
+
+<em>Csak remélhetjük, hogy többségük leküzdi a nehézségeket, s nem megy el a kedvük az embernevelő hivatástól.</em>
+
+<em>Rékának sok emberi és szakmai sikert kívánok, s hogy szándékának megfelelően igaz emberként tudjon élni. Természetesen rám számíthat.</em>

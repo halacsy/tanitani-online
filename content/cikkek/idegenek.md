@@ -1,0 +1,46 @@
+---
+title: Idegenek
+migratedId: 1311
+overrideMigrated: true
+authorSlugs:
+  - alexovics-ingrid
+date: '2025-03-30'
+tags:
+  - ifjúsági kultúra
+excerpt: >-
+  Alexovics Ingrid filmismertetője Kamaszok (Adolescence). Brit drámasorozat.
+  Rendező: Philip Barantini. Főszereplők: Owen Cooper, Stephen Graham.
+coverImage: /sites/default/files/adolescence.jpg
+coverAlt: 'Forrás: https://theplaylist.net/'
+coverTitle: 'Forrás: https://theplaylist.net/'
+reads: 1444
+---
+<strong>Alexovics Ingrid filmismertetője</strong>
+
+> Kamaszok (Adolescence). Brit drámasorozat. Rendező: Philip Barantini. Főszereplők: Owen Cooper, Stephen Graham.
+
+<img alt="Alexovics Ingrid" src="/sites/default/files/alexovics_ingrid_copy.jpg" style="width: 200px; height: 200px; float: left; margin-right: 15px;">Az elmúlt napokban egyre-másra jelentek meg filmismertetők és kritikák a Netflix streaming szolgáltató alig két hete látható négyrészes minisorozatáról, mely magyarul a <em>Kamaszok</em> címet kapta. (Talán szerencsésebb lett volna az eredeti <em>Adolescence</em> – Kamaszkor – mellett maradni, de már mindegy is.) 
+
+A jelenség, hogy egy új sorozat hirtelen a kritikusok vagy éppen a nézők érdeklődésének homlokterébe kerül, önmagában még nem meglepő, az azonban talán mégis szokatlan, milyen hullámokat vetett, sőt milyen komoly társadalmi párbeszédet indított el ez a film.
+
+Azt hiszem, nagyon régen történt olyasmi, hogy napok óta szinte minden ismerősömmel és barátommal ugyanarról az alkotásról beszélgessünk, holott össztársadalmi problémákat feltáró dokumentumfilmekből és játékfilmekből azért az elmúlt években, évtizedekben nem volt hiány. A Kamaszok azonban az elevenünkbe vág a szó átvitt és szó szerinti értelmében is.
+
+A film filmtechnikai megoldásairól, a vágásról, a színészi alakításokról én ebben a rövid írásban nem fogok szólni, megtették, megteszik ezt azok, akiknek ez a szakterületük. Engem most kizárólag az a világ foglalkoztat, amit a sorozat bemutat, annak a furcsa, megrendítő közegnek az ábrázolása, mely sokakat késztetett arra már eddig is, hogy megvitassák, mi is történik valójában ebben a filmben. És itt rögtön szeretném előre bocsátani, hogy az én értelmezésem minden bizonnyal csak egy a sok közül. Nem törekszem arra, hogy kizárólagosként tüntessem fel a véleményem, sőt, minél többen, minél többet beszélgetünk, annál közelebb kerülhetünk majd talán egyszer ahhoz, hogy a világ jobb hellyé váljon a kamaszok számára is.
+
+Úgy hiszem, a film nagy erénye az, hogy nincs tekintettel a nézőre. Már az első rész első perceiben szembesülünk a történet hátborzongató alapvetésével: egy gyerek megölt egy másik gyereket. Itt most szándékosan használom a gyerek kifejezést, mert sokakkal ellentétben én nem gondolom, hogy alapvető jelentőséggel bír, ki milyen nemű, nem inceltörténetnek vagy kizárólag a nők elleni erőszak bemutatásának érzem a filmet, mert azt gondolom, a probléma, amit látunk, ennél sokkal általánosabb. 
+
+Persze én magam, akárcsak felnőtt ismerőseim egy része is, minden racionalitást félretéve reménykedtem abban, hogy csak valami fatális félreértésről lehet szó, majd lesz egy csavar a történet utolsó perceiben: nem így történt, nem ez a fiú volt a tettes, nem lehetett azon a felvételen annyira kivenni, mi történt, meg különben is, ilyesmi nem történik, csak valami olyan világban, olyan emberekkel, akik tőlünk nagyon messze vannak. Nálunk, velünk ilyesmi nem történhet meg. 
+
+Nos, a rossz hír, amit egyébként már egy ideje mind sejtünk, akiknek kamaszokhoz köze van élethelyzet vagy professzió okán, hogy ilyesmi nem csak megtörténhet, de meg is történik. És bár ezzel szembenézni fájdalmas, talán itt az utolsó előtti pillanatban mégis muszáj lesz erre erőfeszítést tennünk társadalmi szinten is.
+
+Sokféle értelmezést olvastam már eddig is azzal kapcsolatban, mi vezethet odáig el, hogy egy tizenhárom éves fiú kést ragadjon, én azonban úgy gondolom, hogy a felnőtt énem értetlenségének az oka az, hogy a mai kamaszok egy tőlem és a többi felnőttől is tökéletesen elzárt világban élik a mindennapjaikat. Egy olyan világban, amely részben a telefonok, a laptopok, a közösségi média színfalai mögött zajlik. Mivel a tanár, a szülő a kamaszok életéből gyakorlatilag csak a felszínt látja: tanárként az unott arcokat az órán, a motiválatlan, „neveletlen” fiatalokat, akik már nem olyanok, mint amilyen gyerekekhez régen szokott, szülőként pedig a rendetlenséget a gyerek szobájában, ha a kamasz távollétében olykor bemerészkedik oda, mindaz, ami a kamaszok világában történik, a felnőtt számára érthetetlen, értelmezhetetlen marad. 
+
+De miért nem érdeklik a felnőtteket a gyerekek eléggé? Nem elég jó tanárok vagy szülők? Én azt hiszem, nem erről van szó. Persze tudom, vannak kiégett tanárok, vannak túlszerető vagy épp a gyerekre nem odafigyelő szülők, de nem ebben látom a probléma gyökerét. A felnőtt abban a világban él, annak a világnak a szabályai szerint értelmezi a jeleket, amiben szocializálódott, amit dekódolni tud, amit ismer. A kamasz világa egy mai felnőtt számára terra incognita: többnyire a leghalványabb fogalma sincs róla, és értelmezni sem tudja. Számára a virtuális tér maga, és a gyerekek által használt nyelv is ismeretlen. Tulajdonképpen éppen annyira, amennyire a kamasz számára értelmezhetetlenné vált az a másik világ, ahol a felnőttek a számukra világos, de a kamasz számára érdektelen társadalmi normák szerint élnek. A felnőttek teljesen külön értékrenddel bíró világban léteznek, és más-más valóságot érzékelnek.
+
+Tudom, minden felnőtt olvasó volt kamasz, mindenki magára volt egy kicsit hagyva, talán mert a szülei dolgoztak, talán másért, a mostani helyzet azonban, és ezt fontos megérteni, teljesen új. Az internet világa és különösen a közösségi média üzenetküldő applikációinak térhódítása előtt a kommunikáció IRL, vagyis a való világban folyt, ahol a visszajelzés szemtől szembe érkezett. Ha megbántottál valakit, sírva fakadt, vagy elküldött a fenébe. Ha dühös volt rád valaki, láttad rajta. Ha eleged volt valakiből, hazamentél, az ágyadra vetetted magad, és bámulhattad a falat. Ma a kamaszok kommunikációja egy olyan virtuális térben folyik a nap huszonnégy órájában, ahonnan nincs menekvés. Nincs menekvés, mert mire kamasz lesz valakiből, addigra a közösségi média sajnos nagyon gyakran azonnali jutalmazásra kondicionálta az idegrendszerét, a dopaminfüggésből pedig nehéz kilábalni. Ráadásul, ha valaki csak az online térben kommunikál, nem tanulja meg, milyen következményei vannak a szavainak, milyen reakciót vált ki a másikból, amit írt, pedig a kamaszkor az az időszak az életünkben, amikor a kortársakra való érzelmi ráhangolódást, az együttérzést, a szolidaritást, saját érzelmeink finomhangolását meg kellene tanulnunk. A közösségi média mint közeg azonban semmiféle támpontot nem ad, semmiféle támogatást nem nyújt, így lehet ugyanaz a kamasz egyszerre hiperérzékeny és kegyetlen bully. 
+
+A Kamaszok egyik legnagyobb erénye, hogy megmutatja, az a társadalom, ahol a felnőtt és a gyerek valósága nem tud találkozni, ahol külön világok léteznek egymás mellett érdemi párbeszéd, érdemi kíváncsiság, a megismerésre való törekvés nélkül, tragédiák sorozatára van ítélve. 
+
+Tanárként, szülőként és állampolgárként sem tudom azonban megkerülni a felelősség kérdését. Az önmarcangolás, a hibáztatás, az önmagunkra vagy a másokra mutogatás helyett eljött az ideje annak, hogy megértsük, a mi felelősségünk a következő nemzedék, mert ha eltűnik a jó és a rossz között évszázadok alatt megértett és elfogadott különbség konszenzusa, egy ponton túl mindenki áldozattá válik.
+
+Bármennyi hibát is követtünk el lustaságból, jó szándékból, tájékozatlanságból vagy szeretetből, ideje új utat választani, mert idegenné lettünk egymás számára.

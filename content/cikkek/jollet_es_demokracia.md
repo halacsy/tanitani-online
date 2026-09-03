@@ -1,0 +1,75 @@
+---
+title: Jóllét és demokrácia
+migratedId: 1146
+overrideMigrated: true
+authorSlugs:
+  - gyarmathy-eva
+date: '2022-07-11'
+tags:
+  - iskolakritika
+  - tehetség
+  - pszichológia
+excerpt: >-
+  Gyarmathy Éva írása A demokrácia elsősorban az egészség, a harmonikus
+  idegrendszeri fejlődés valamint a tanulás függvénye, és csak másodsorban
+  eszmei, politikai kérdés.
+coverImage: /sites/default/files/zsonglor.jpg
+reads: 2144
+---
+<strong>Gyarmathy Éva írása</strong>
+
+> A demokrácia elsősorban az egészség, a harmonikus idegrendszeri fejlődés valamint a tanulás függvénye, és csak másodsorban eszmei, politikai kérdés.
+
+A demokrácia nincsen beleírva a homo sapiens génjeibe, a demokrácia a kulturális, társadalmi fejlődés, a civilizáció kimagasló terméke, a homo sapiens egyfajta túlélési esélye.
+
+<img alt="Gyarmathy Éva" src="/sites/default/files/gyarmathy_eva.jpg" style="width: 200px; height: 200px; margin-right: 15px; float: left;">Az emberi alaptermészet meghaladása az azonnali jutalom helyett a hosszabb távú előnyök előtérbe helyezése, a késleltetés képessége, az önkontroll, a konfliktusok rugalmas megoldása, a win/win helyzetek keresése, szemben az egyéni érdek mások elé vagy mások alá rendelésével. Ha a neveltetése során nem kapja meg a lehetőséget az egyén, hogy a társadalmi együttélés szabályainak megfelelően élhessen a szabadságával, akkor az autokratikus helyzetek lesznek számára a mérvadók. Amint azonban szabadsága van, és nincsenek külső korlátok, akkor vagy nem tud élni a szabadságával, és a külső irányítás biztonságába akar visszahúzódni, vagy visszaél a szabadságával akár mások szabadságának rovására is. Mindegyik esetben a civilizáció során kifejlődött idegrendszeri önirányítás anomáliájáról van szó.
+
+A demokratikus rend fenntartásának másik buktatója az, ha az alapvető szükségletek[fn]Maslow, A.H. (1943) A Theory of Human Motivation. Psychological Review, 50 (4): 370–96.[/fn] terén hiányokat észlel az ember, mert ilyen esetben könnyen az egyéni túlélés primitívebb formái kerülnek előtérbe. A félelem, harag, irigység és önzés az azonnali megoldások felé sodor, és az önérdekek felé fordítja a motivációt. Ezért a demokratikus átalakulásnak legalább két alapfeltétele van, a társadalom pszichés felkészültsége és jóléte, jólléte.
+
+## A demokratikus fejlődés aspektusai
+
+Kurt Lewin a múlt század közepén írta le az autokratikus, demokratikus és laissez faire vezetői stílusokat.[fn]Lewin, Kurt (1944) The Dynamics of Group Action. Educational Leadership, Vol. I. No. 4, January, p 195-200.[/fn] Ellentétben az általános elképzeléssel, miszerint a vezetés lazasága szempontjából kontinuumot képeznek a stílusok, sokkal inkább háromszög kapcsolatban érdemes gondolkodni.
+
+<img alt="1. ábra" src="/sites/default/files/abra_2.png" style="width: 470px; height: 394px;">
+
+<em>Szabályok nélkül a csoport nem valódi csoport</em>, inkább véletlenszerűen mozgó egyének összessége. Az ésszerű és tiszta szabályok az együttélés alapjai, betartásuk életmentő lehet, segítik a harmonikus együttműködést, a szabadság mellett a demokratikus társadalom másik alapját képezik.
+
+Az autokratikus vezetés eredményes lehet, ha gyors megoldásokra van szükség, és nem kell többféle szempontot figyelembe venni. Feltétlenül autokratikus vezetést igényelnek a vészhelyzetek, illetve a „veszélyes üzem”. Ezért <em>a diktatúrára törő vezetés érdeke, hogy állandó vészhelyzetet tartson fenn.</em>
+
+A demokratikus vezetés esetén lehetőség van a sokféle szempont és megoldás mérlegelésére, ezért igen hatékony és kreatív formáció. A demokratikus légkör széleskörű potenciál a fejlődésre, változásra. Ha új helyzetekre kell megoldásokat találni, és körültekintő mérlegelésre van szükség, akkor a demokrácia lassan kibontakozó, de színes választékot biztosító világa adhat megbízható hátteret a megfelelő döntésekhez.[fn]Gyarmathy Éva (2019) Pszichomeditáció. Móra Kiadó, Budapest[/fn] A 21. században ezekre hatalmas szükség van.
+
+<em>A demokrácia gyenge pontjai a szabadság, mérlegelés és lassúság, akadálya lehet az önszabályozás gyengesége, az autokratikus nevelés, bármely vészhelyzet és a polarizálódás.</em>
+
+<ul><li class="rtejustify">A szabadság csak az <em>önirányítás képességével együtt</em> vezethet felelős autonómiához, ami elsősorban önszabályozás, nem pedig csak külső erő utasításainak követése.</li><li class="rtejustify">Ahhoz, hogy mérlegelni, összehangolni, érdekeket egyeztetni legyen képes az egyén és a csoport, az <em>önkontroll mellett megfelelő gondolkodási képességek</em> is szükségesek, de még fontosabb a szocializáció. <em>Az autokratikus légkörben felnövő nemzedékek számára könnyen elfogadható a diktatúra.</em></li><li class="rtejustify">A demokratikus döntésekhez idő kell, tehát <em>vészhelyzetek esetén szükséges a központi irányítás.</em></li><li class="rtejustify">A sokféleség a demokrácia alapja, <em>a polarizálódás</em> viszont a demokratikus folyamatok ellen hat, mert <em>feszültséget gerjeszt</em>. A túl nagy tapasztalati és szemléleti távolság miatt az egymástól nagyon eltérő helyzetben lévők közötti <em>megértés nehezen jön létre.</em></li></ul>
+
+<em>A demokrácia alapfeltétele a jóllét biztosítása.&nbsp;</em> Mindenki számára kell egy környezeti, lakhatási és táplálkozási minimum, mert enélkül a jövő nemzedékének fejlődésében zavarok alakulnak ki.
+
+<em>Környezeti minimum:&nbsp;</em> tiszta levegő, víz és energia. <em>Lakhatási minimum:</em> az alapjövedelem helyett/mellett elfogadható lakhatási lehetőséget kell adni. <em>Egészséges táplálkozás és életmód:</em> az életmódbeli rendszeresség, a fizikai és szellemi képességek védelme, az étkezés meghatározza a testi-szellemi fejlődést, megalapozza a megküzdéshez szükséges fizikai és mentális erőket.
+
+Képzésoldali javaslat:
+
+<ul><li class="rtejustify"><em>Táplálkozás</em>: olcsó és egészséges élelmiszerekből egyszerű receptek (burgonya, répa, hüvelyesek, alma, stb.).</li><li class="rtejustify"><em>Zöld gondoskodás</em>: könnyen termeszthető zöldségek, gyümölcsök, fűszerek.</li><li class="rtejustify"><em>Egészséges életmód</em>: higiénia, egyszerű betegségek megelőzése és kezelése, elsősegély ismeretek, rendszeresség.</li><li class="rtejustify"><em>Társas készségek</em>: érzelmek felismerése, kezelése, vita, érdekegyeztetés.</li><li class="rtejustify"><em>Pénzügyi és gazdasági alapismeretek</em>: kiadások, költségek, háztartási ismeretek.</li></ul>
+
+<em>Biztonság érzése:&nbsp;</em> a gyorsan változó világban növekszik a bizonytalanság. Ennek csökkentése egy demokratikus berendezkedés alapfeladata, mert a veszélyészlelés az autokratikus megoldások felé sodor.
+
+<em>Tervek a vészhelyzetek megelőzésére és kezelésére:&nbsp;</em> az előrelátható és az előre nem látható veszélyes eseményekre kidolgozandó előzetes tervek nyilvánosságra hozatala – épületben kitörő tűztől kezdve a terrortámadás, járvány vagy földrengés esetére egyaránt.
+
+<em>A demokratikus légkörre szocializálódni kell:&nbsp;</em> a jóllét biztosítása csak alap, mert az autokratikus nevelésben felnövő nemzedékek számára otthonosabb a hatalmi szó követése, mint a saját felelősség felvállalása.
+
+<em>Az önkontroll problémák megelőzése és kezelése a demokratikus társadalom önvédelme:&nbsp;</em> a környezetben egyre gyakrabban megjelenő vegyianyagok, gyógyszerek, vírusok[fn]Minthogy a kisgyerekek között is erősen terjed már a COVID, erre a problémára különösen számítani kell.[/fn], fény- és zajszennyezés apró idegrendszeri eltéréseket okoznak, amelyek a fejlődő idegrendszer esetén súlyos zavarokká válhatnak, de megfelelő környezeti hatások esetén akár a tehetségfejlődés irányába is fordulhatnak.[fn]Mrazik, M., Dombrowski, S. C. (2010) The Neurobiological Foundations of Giftedness. Roeper Review, 32(4), 224-234.[/fn] Az evolúciósan legújabb agyi ideghálózatok a legérzékenyebbek. A csak az utóbbi tízezer évben megerősödött végrehajtó funkciókban nagy szerepet játszó prefrontális kéreg mindig érintett terület az atipikus fejlődésben. Ez azt jelenti, hogy a tervezett, módszeres tevékenység, az egyén fékrendszere és a rugalmas alkalmazkodás gyenge vagy megzavart. Ezeknek a civilizációs fejlődés során kialakult működéseknek a hiánya vagy gyengesége lehetetlenné teszi az autonóm viselkedést, és így a demokratikus utakat, mert a belső kontroll hiányában sokkal keményebb külső irányításra van szükség. Egész életen át, a korai kisgyerekkortól kezdve tudatosan kell a végrehajtó funkciók fejlődését támogatni.
+
+<ul><li class="rtejustify">A civilizáció hajnalán az ókorban is ez alapozta meg a társadalmi együttélést. Mozgás, művészet, a stratégiai játékok mind olyan kulturális eszközök, amelyek amellett, hogy a belső és külső harmóniát növelik, a végrehajtó funkciókat támogatják. Az ezen a téren már létező pedagógiai megoldásokat a mindennapi tanulásba be kell vezetni.</li><li class="rtejustify">A tiszta, következetes szabályok, követhető rend, algoritmusok segítik az agy kontrollfunkcióinak fejlődését. Erre egész életében szüksége van az embernek, de különösen a gyermekkorban.</li><li class="rtejustify">Az önirányította és társas tanulási formák, a tapasztalat-, projekt- és problémalapú tanulás a tevékenységszervezés szintjén fejlesztenek, amellett, hogy a 21. században szükséges tanulási formák.</li></ul>
+
+<em>Az atipikus idegrendszeri fejlődés egyre gyakoribb lesz:&nbsp;</em> Az idegrendszer fejlődésének fent leírt kisebb eltérései miatt gyakoribbá válik a tanulási, figyelem-, kontroll- és autizmus spektrumzavar. Ugyanakkor a szokásostól eltérő fejlődés a tehetség irányban is nagyobb lehetőségeket hordoz. Az egyén belső jellemzőitől és különösen a külső környezettől függ a kimenet.
+
+<ul><li class="rtejustify">A különleges nevelési igényű, atipikus idegrendszeri fejlődésű tanulók közös jellemzője, hogy a tipikushoz képest sokkal érzékenyebbek a környezeti hatásokra, éppen ezért problémáik felhívják a figyelmet azokra a gyenge pontokra, hiányosságokra, amelyek egyébként csak észrevétlenül vagy elviselhető szinten okoznak zavarokat. Például a kiemelkedő és átütő tehetségfejlődést mutató tanulók alkalmazkodási nehézségei az oktatás és a tehetséggondozás terén meglévő hibákat nagyítják fel. A neurológiai alapú teljesítményzavarokkal küzdő tanulók sokféle szintű és irányú fejlődési eltéréseket mutatnak, és a jelenség egyre gyakoribbá válása felhívja a figyelmet arra, hogy a 21. században az ismeretközlésre épülő egyentanítás, vagyis az egyféle tananyag, egyféle haladás, egyféle számonkérés nem tartható.</li><li class="rtejustify">A 21. századi tanulási környezet egyénre szabott, megismerés- és fejlesztéshangsúlyos, ami az atipikus fejlődés természetes ellátását is jelenti.</li><li class="rtejustify">A különleges helyzetek hasonló hatást fejtenek ki, mint a különleges fejlődésű gyerekek, mert felnagyítják és kiélesítik a korábban nem, vagy alig észlelt és félresöpört hiányosságokat, anomáliákat. A koronavírus-járvány okozta otthontanulás és távtanítás most ezt tette az oktatással is.</li></ul>
+
+<em>A megismerő-fejlesztő tanulási környezet és a digitális technika egymást erősíti:&nbsp;</em> A minősítő/számonkérő szemlélet akadályozza, hogy a 2016-ban elkészült kiváló Digitális Oktatási Stratégia gyakorlatban megjelenhessen, pedig nagy segítség lenne. Eltörlendő a régi típusú, bár újnak nevezett Nemzeti Alaptanterv, amely még egy másik korszak szellemében készült, és a bevezetése egyet jelent a visszalépéssel, hiszen ha a 21. században megjelenő kihívások nem is ütötték át a hazai oktatási rendszer ingerküszöbét, a koronavírus-járvány 2020-ban történelmi változást hozott az iskolákban is. A pedagógusok képesnek mutatkoznak a változtatásra, az oktatásirányítás a szabályozással tartja fenn a régi szemléletet, magukat a pedagógusokat is a minősítő-számonkérő keretekbe kényszerítve.
+
+Tanmenet, tantárgy, tananyag, tanóra, házifeladat, számonkérés, osztályzatok, évfolyamok, igazolt és igazolatlan hiányzások – ezek az elavult oktatás fő eszközei, amelyek legfőképpen kategorizálásra alkalmasak, és ezek által a diák passzív elszenvedője a folyamatoknak.
+
+A 21. századi tanulás eszközei a problémamegoldás, a kommunikáció, az egyéni és társas helyzetek kezelése, együttműködés, tervezés, döntés, tudásépítés, értékelés, ahol a diák aktív résztvevő. A 21. század a gyors változások százada, amikor az állandó változással járó bizonytalanság elfogadása és ehhez a tanulásbeli rugalmasság, vagyis a tanulás és a felejtés majd új tanulás szükséges. Az információk befogadása helyett a releváns információk megválasztása, az utasítások követése helyett a helyzetek, problémák megoldása a cél.
+
+A 21. században nem szabad, hogy zavart okozzon, ha valamilyen nem várt helyzet miatt a pedagógus nem tud közvetlenül részt venni a diákok tanulásában, mert nem a tananyagot kell megtanítani, hanem magát a tanulást, amelyhez a digitális technika rendelkezésre áll.[fn]Gyarmathy Éva (2020) [A különleges nevelési igény és a távtanulás a 21. század fényében](https://mta.hu/tudomany_hirei/a-kulonleges-nevelesi-igeny-es-a-tavtanulas-a-21-szazad-fenyeben-110655).[/fn] A pedagógusok tanulás- és közösségszervezők, akik a fejlesztő tanulási környezetet biztosítják. Az életkornak megfelelően önirányítottá majd autonómmá váló tanulás így természetes módon egyénre szabottá válik, vagyis a 21. században megjelenő sokféle képességfejlődés és érdeklődés nem akadályai, hanem a fejlődés különböző útjai lesznek.
+
+A pedagógusoknak elsősorban módszertanokra, háttéranyagokra, feladat- és projektbankra van szükségük, hogy gyorsan tudjanak átállni.

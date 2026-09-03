@@ -1,0 +1,47 @@
+---
+title: 'Parád díszpolgára, Somfai Tiborné...'
+migratedId: 953
+overrideMigrated: true
+authorSlugs:
+  - sos-tamas
+date: '2019-07-07'
+tags:
+  - örökség
+excerpt: >-
+  …Elvira néni. Sós Tamás írása Akivel találkozott, az a hatása alá került, és
+  szinte észre sem vette, hogy bevonódott, részese lett Elvira gyermekek
+  érdekében végzett közösségi munkájának.
+coverImage: /sites/default/files/elvira_neni.jpg
+coverAlt: Somfai Tiborné
+coverTitle: Somfai Tiborné
+reads: 3005
+---
+<strong>…Elvira néni. Sós Tamás írása</strong>
+
+> Akivel találkozott, az a hatása alá került, és szinte észre sem vette, hogy bevonódott, részese lett Elvira gyermekek érdekében végzett közösségi munkájának. 
+
+A festői szépségű Mátra keleti részén található Parád. A nagyközség önkormányzata ez év április közepén a Közösségi Házba invitálta a település „apraját és nagyját”, hogy mindannyian részesei legyenek annak az ünnepségnek, ahol a sokoldalú tanáregyéniség, Somfai Tiborné, Elvira néni átvehette Mudriczki József polgármestertől a település legrangosabb kitüntetését, a díszpolgári címet. A kitüntetéssel kivételes pedagógusi pályafutását, az itt élők érdekében végzett páratlan közösségszervező, helytörténeti és a népi hagyományokat feldolgozó munkáját ismerték el.
+
+A Szabolcs-Szatmár-Bereg megyei Kékcséről 1953-ban került Parádra. Férjével, Somfai Tiborral köztiszteletnek örvendve, példaértékű nevelő munkát végeztek. Nyugdíjazásáig, 1989-es Egerbe költözéséig a helyi iskola az egyetlen munkahelye, tanított, gyűjtötte a palóc népszokásokat, gyerekjátékokat, tárgyi emlékeket, ezekből létrehozott egy gyűjteményt, egy tájházat. Diákjai rajongtak a történelemóráiért, az egyes történelmi korokat igyekezett átélhetővé tenni, tanítványaival megtanultak egy-egy korhoz illő táncot, zenét hallgattak, korhű viseletet készítettek. Folyamatosan képezte magát,  történelem–földrajz tanári szakja mellé testnevelő tanári, díszítő művészeti, néprajzos és néptánc-pedagógusi oklevelet is szerzett.
+
+Akivel találkozott, az a hatása alá került, és szinte észre sem vette, hogy bevonódott, részese lett Elvira gyermekek érdekében végzett közösségi munkájának. Nem ismer lehetetlent, ha el kell intézni valamit. Otthonosan mozog a térség településein, az egri, a megyei hivatalokban, szervezeteknél, de ismerik a környező üzemekben is.
+
+Tanítványai szülőként szeretik ma is, sokukkal napi a kapcsolata évtizedek távlatából is. A gyerekek mellett a hozzátartozóikról és környezetükről is mindent tudott: osztályai, csoportjai úgy működtek, mint egy nagy család.
+
+Mindezt először a hetvenes évek második felében tapasztaltam meg, amikor egy Heves megyei úttörődelegációval Csuvasia több településén jártunk egy ötfős pedagógusküldöttséggel, és a Parádi iskola Elvira vezette huszonöt fős tánccsoportjával. Minden helyzetre fel voltak készülve a diákok, négy műsorral készültek, valamennyi fellépésük flottul, színvonalasan sikerült. Félszavakból is szót értett a tanárnő gyerekekkel. A palóc tájegységet méltóan reprezentálták színvonalas műsoraikkal az iskolai, üzemi, tábori, vagy a Csebokszári főterén felállított színpadi fellépések során.
+
+Egy másfajta életkép tárult elém, amikor általános iskolás lányunk második alkalommal kérte, hogy részt vehessen a Heves megyei településekről érkező diákok Elvira néni által vezetett táborában Parádon, ahol Palócország népi kultúrájának feldolgozására került sor. Népi játékokat, néptáncokat, népdalokat tanultak a táborban résztvevők, de elsajátították a gancakészítés fortélyait is. Aki ide egyszer eljött, ameddig tehette, rendszeresen visszajárt, mert annyira jól érezte magát. A parádi programokon túl közreműködött a felsőtárkányi, csillebérci, zánkai úttörőtáborok – a résztvevők számára máig feledhetetlen – egyedülállóan élményt adó programjain. Bíróné volt a palócföldi altáborban, Másodoszként második sztratégosz a híres ógörög tábor Aszteriász poliszában.
+
+Elvirának a mindennapi pedagógusi munkája mellett energiájából futotta még a Parád térségében lévő felnőtt néptánccsoportok munkájának segítésére is. A közeli bodonyi asszonykórussal is több alkalommal értek el emlékezetes sikereket a palóc napokon, de eljutottak Törökországba is, ahol számos sikeres fellépésükre került sor.
+
+Elismerik néprajzos munkáját szakmai berkekben is. A nagysikerű <em>Csepű, lapú, gongyola</em> című televíziós néprajzi vetélkedő szervezésében jelentős szerepet vállalt. Neves néprajzos szakemberekkel került kapcsolatba. Bakó Ferenc egri múzeumigazgatóval járta a házakat, gyűjtötték a népi emlékeket, ezek eredményeiből a Vármúzeum jelentős anyaggal gazdagodott. Gyakran látta vendégül és kalauzolta az ország leghíresebb néprajzkutatóit, köztük Ortutay Gyulát és Dömötör Teklát. Tagja, majd elnöke lett a Heves Megyei Honismereti Egyesületnek.
+
+Egerbe kerülése során hamar bekerült az itteni közösségi életbe. Gyorsan repült az idő – ami Elvirán nem látszik –, harmadik évtizede vezet népművészeti szakköröket a városban. A Forrás Szabadidő Központban nemzedékeket tanított szövésre, fonásra, különböző kézműves mesterségekre.
+
+Nyugdíjazása után közel tíz évig az egri Eszterházy Károly Főiskolán oktatott. A leendő pedagógusokat hamar bevonta a gyakorlati tevékenységbe. Ők is szerették az együtt töltött játékos órákat.
+
+Egri élete úgy lett teljes, hogy az elismert és sok helyen fellépő egri Dobó Katica Népdalkörnek tagja, majd vezetője lett, és ma is az. Az elmúlt évtizedek alatt Somfai Tiborné neve fogalommá vált a városban, de a megyében is, az országos elismerések mellet megkapta Eger város számos elismerését, és <em>Heves megyéért</em> díjban is részesült.
+
+Most, mikor ezeket a sorokat írom, egy napba telt, míg Elvirát elértem, korát meghazudtolóan elfoglalt, nyolcvanhét évesen is rendkívül aktív. Minden napra jut egy-két közösségi program, hétfőn énekkar, keddenként az egri Vitkovics Alkotóház Művésztelepen található meg, ahol a programok aktív közreműködője, többek között szövő szakköre járnak hozzá, a hét hátralévő napjain pedig több egri általános iskolában kézműves foglalkozásokat vezet.
+
+Személyes találkozásunkkor az elmúlt évtizedek emlékeinek felelevenítésén túl, sok-sok elképzeléssel a tarsolyában a jövőt tervezte. Jelenleg, ahogyan összeszámolta, két civilközösségből visszavonult, de így is kilenc civilszervezetben vesz részt aktívan. Csodálatos adottsága, képessége, elhivatottsága mutatkozik meg ebben is…

@@ -1,0 +1,53 @@
+---
+title: Báron László
+migratedId: 1019
+overrideMigrated: true
+authorSlugs:
+  - szentirmai-laszlo
+date: '2020-06-04'
+tags:
+  - művészetpedagógia
+  - örökség
+excerpt: >-
+  Euterpé, Kalliopé, Minerva és Thaleia táncpartnere. Szentirmai László írása
+  Báron László mesterien bánt az anyaggal – holttal, élővel egyaránt. Birtokában
+  volt a tudásnak: fúrni, faragni, gyúrni, festeni..., konokul, pontosan és
+  felelősséggel csinálni.
+coverImage: /sites/default/files/baron_laszlo.jpg
+coverAlt: Báron László
+coverTitle: Báron László
+reads: 3703
+---
+<strong>Euterpé, Kalliopé, Minerva és Thaleia táncpartnere. Szentirmai László írása</strong>
+
+> Báron László mesterien bánt az anyaggal – holttal, élővel egyaránt. Birtokában volt a tudásnak: fúrni, faragni, gyúrni, festeni..., konokul, pontosan és felelősséggel csinálni.
+
+A Művészetpedagógiai Konferenciáknak immár hagyománya, hogy a múzsák testvérisége jegyében a hazai művészetpedagógia közelmúltja nagyjainak életútját, munkásságát méltatják. 2019-ben, Tóth László, az észak-magyarországi kulturális ősbozót fáradhatatlan cserkésze, bábjátékos művészpedagógusa alakját vázoltam fel.
+
+Idei kiválasztottam Báron László, a valamikori kecskeméti Óvónőképző, majd Tanítóképző Főiskola tanára (1971-1992, főiskolai docens). Elismerten sokoldalú: grafikus, zománcművész, festő, bábművész, mellesleg a kecskeméti Ciróka Bábszínház alapítója – a bábjáték pedagógusképző alkalmazója. Ő a hazai kortárs zománcművészet egyik legkorábbi és legjelentősebb képviselője volt, ami szorosan kapcsolható kutató, merészen innovatív, alkotó személyiségéhez. A bábjáték pedagógusképzésben való alkalmazása ugyaninnen eredeztethető. Tűzzománcból bábfigura... nem mindennapi társítás.
+
+Persze az életutját áttekintve ez nem is olyan különös dolog – Báron László nagy műfaji vándornak bizonyult. Erősen kapaszkodva a kecskeméti művésztelep mitologikus, archaikus és folklorisztikus hagyományokat felvállaló vonulatába – ám mindebbe bábművész voltát is beleoltva – ontotta e sajátos keverék figuratív, nonfiguratív eredményeit, a műből műbe könnyedén átúszó motívumokat, a sokat sejtető szimbolikát, a még többet mondó üzeneteket. Mindezt humorral, játékossággal átitatva. Igazi kár, hogy az ilyen és ekkora organikus oeuvre ma a jelentőségénél fénytelenebb életet él. De létezik: 2162 <em>Őrbottyán</em>, Rákóczi u. 82/3.
+
+<em>Életút... lépcsők, járólapok</em>. A művészet iránti vonzalom az anyai ágból eredezett – a nagymama kedvtelésből (szín)játszó, zenélő testvéreivel a családi <em>oral history</em> része volt... Négy évvel fiatalabb öccsével a harmonikusan leélt gyermekkorról emlékezve felfénylik Kerekes (tanító) Bácsi „mutatópálcás színháza” is – vasárnapi vetítésekkel, a mama kezevarrta piros oldaltáskába csúsztatott kiflivel – pókhálóvékony szál a vásári képmutogatás felé. A gyermekévek a polgári iskolában Kecskeméten teltek le.
+
+<em>Fiatal évek – a továbbtanulás...</em>Édesapja asztalosmester, sorsszerű hogy Budapesten, a <em>Felsőipari Iskolában,</em> <em>faipari</em> szakon tanul. Kiváló rajztanárokra emlékezik. Ez az iskola Báron László művészi ambícióinak felszínre kerülése, kiteljesedése szempontjából döntő jelentőségű volt. Visszakerülve Kecskemétre egy ipari üzemben kezdi a felnőtt életet, de minden szabadidejében festett, rajzolt, több alkotó művésszel kerül szorosabb-lazább kapcsolatba. Mátis Kálmán szabadiskoláját nevezte meg a legfontosabbnak.
+
+Alkotói pályáján indulását Gödöllőhöz, a Remsey-családhoz, a gödöllői művésztelephez köti... A telep életfilozófiája, s az is, hogy ott látott először bábelőadást... mérföldkőnek bizonyult. Így vallott róla: „megtörtént velem a csoda”.
+
+Az ipari üzemből – munkahelyet váltva – a kecskeméti iparitanuló-iskolába került, ahol szakismeretet és szak<em>rajzot</em> kezdett tanítani. Ugyanitt a gödöllői élmények hatására – asztalosokból, varrónőkből, fodrászokból verbuválódott – bábszakkört indít. Eközben Egerben rajztanári diplomát szerez (1971). A bábművészet beszippantja, s mindez a nyolcvanas évek végéig kitart. Közben az együttes az óvónőképző hallgatóival, a Kodály Zeneiskola növendékeivel színesedik, s nívóvá nemesült nevet kap: Ciróka.
+
+A tankönyvkiadónál jó negyven évvel ezelőtt bocsájtották ki az óvónőképző szakközépiskolák számára készített rajz- és kézimunka-tankönyvet. A szerzőtrió – egyikük Báron László – rendkívül fontos könyvet tett le az asztalra. Már a tartalomjegyzék is több mint két oldalas. A lapok hiánytalanul tartalmazzák, mit, mivel és hogyan kell csinálni, hogy az óvodában <em>korszerű látásnevelést</em> folytathasson az óvópedagógus. A kötet tele van képekkel. A szöveg s a jobbnál jobb illusztrációk még ma is jól használhatóvá teszik.
+
+A <em>kézimunka</em>\-fejezet szinte teljesen át van itatva azzal az összművészeti gondolkodásmóddal, melynek a legfőbb jellemzője a szín, a forma, a kompozíció törvényszerűségeinek megfelelés, ám mellette ott az a „hasznosság”, amelyik csak a színházban érhető tetten.
+
+Ott (de leginkább a bábszínházban) van minden úgy megformálva, hogy minden megfeleljen a térrendezés, a színelmélet törvényeinek, formavilága legyen esztétikus – mindezen túl tudjon mozogni benne a balettművész, az operahős. De ha mindezt valaki fából faragná, akkor e tárgy legyen képes akár repülni, de legalábbis élethűen mozogjon. Ám a sarokkő szilárdságú, vagy ha úgy tetszik az „<em>ultima materia</em>” erejű elv, hogy a bábszínházban mindent meg kell teremteni. A hősök itt nem anyaszülte, hanem emberkéz alkotta testek, s az egész környezet hozzájuk mérve teremtetik, saját univerzumuk van. Ez az isteni benne...
+
+A fejezet rámutat arra, hogy az a legokosabb, ha játékos tevékenység közepette és már kora gyermekkorban megkezdődik a világát esztétikusan alakító ember képességeinek megalapozása, fejlesztése – nehogy elkéssünk. Tudatosítja, hogy a gyerekek érzetvilága (Báron László szavai – SZL), akár ha otthonról hozták, vagy éppen az óvodában szerezték, <em>rendkívül gazdag</em>. A kézimunka-foglalkozásokon így aztán könnyen bevonhatók a köznapi anyagokból való tárgyak, formák készítésébe. Ha az óvópedagógus abba a játékba is beleviszi a gyerekeket, hogy az ember- és állatfiguráknak lötyögjenek a végtagjai, mozgatható legyen a fülük, a mosóporos dobozokból készített házak ajtajai és ablakszárnyai kinyílhassanak, akkor ezek mind-mind együtt egy tárgyjátékos, asztali bábjáték szereplőivé lényegülhetnek át. Figyelmeztet, hogy egy ilyen felelősségteljes munkálkodásnak a legerősebb oszlopokon kell nyugodnia: a gyermekrajzok, a népművészet és a naivok által létrehozott kincsesvilág, a képzőművészet és a művészettörténet ismeretén. Táncolni kell tudni – de egyszerre ám – az összes múzsával.
+
+A főiskolán, ahol a vizuális nevelés keretén belül bábjátszást is tanított, a hallgatók egy-egy saját maguk által választott bábdarab eljátszásával vizsgáztak. Egy ilyen alakalommal <em>A kis herceg</em> került elé. Engedte, segítette, örült is neki. Ráérzett, hogy sokkal jobban hatott rájuk így, hogy meg kellett kínlódni a színpadra állítással, nem volt elég „csak” elolvasni. Végül az egyik sokat emlegetett darabbá csiszolta a Cirókával, a városi bábegyüttessel. Elsősorban látványként, a darabhoz szerzett zenére játszották. Az alapműből csak egy mondat hangzott el: „Jól csak a szívével lát az ember”. Feldolgozták az eredeti, Li Hszing-tao által írt <em>Krétakör</em>t is. A bábokat fából faragták, már a megfelelő fa kiválasztása is nagy esztétikai élményt jelentett. Karaktert ábrázolt a fa jellegével, a gondosan válogatott vásznakkal, a paraszti világból kiemelt eszközökkel, szerszámokkal – mikor másutt még az obrazcovi tanításokat próbálták magvazni...
+
+Az egyik kolléganőre hivatkozva figyelmeztetett. Ő egy alkalommal az akkor ötéves fiát vitte haza az óvodából, aki elmesélte neki, mit látott aznap a bábszínházban. A mama eközben gondolatban már otthoni tennivalóit rendezte, nem figyelt a gyerekre, csak arra kapta fel a fejét, hogy a gyerek bejelenti: 10 perc szünet. Kiderült, hogy minden eseményt szóról szóra megjegyzett és az anyjának elmondott.
+
+Báron László mesterien bánt az anyaggal – holttal, élővel egyaránt. Birtokában volt a tudásnak: fúrni, faragni, gyúrni, festeni..., konokul, pontosan és felelősséggel csinálni. De azt is tudta, hogy ezt az emberrel nehezebb! Mindebből az alábbi bölcsesség következtethető:
+
+<em>Az embert – ha elrontod – nem gyúrhatod vissza, semmiképp nem kezdheted újra</em>...!

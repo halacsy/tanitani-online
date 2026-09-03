@@ -1,0 +1,3 @@
+---
+name: Sugár S. András
+---

@@ -1,12 +1,21 @@
 ---
-title: "Az MI az iskolában 2."
-author: "Bessenyei István, Apáti Balázs"
-authorSlug: bessenyei-istvan
-date: "2026-04-17"
-tags: ["oktatáspolitika", "IKT", "kompetencia"]
-excerpt: "A NAT és az adaptív mesterséges intelligencia nem feltétlenül kerülnek konfliktusba egymással, ha különböző működési szinteken helyezkednek el. A kulcs a határok pontos meghatározása."
-image: /images/cikkek/az-mi-az-iskolaban-2.jpg
+title: Az MI az iskolában 2.
+author: 'Bessenyei István, Apáti Balázs'
+date: '2026-04-17'
+tags:
+  - oktatáspolitika
+  - IKT
+  - kompetencia
+excerpt: >-
+  A NAT és az adaptív mesterséges intelligencia nem feltétlenül kerülnek
+  konfliktusba egymással, ha különböző működési szinteken helyezkednek el. A
+  kulcs a határok pontos meghatározása.
 reads: 4201
+authorSlugs:
+  - bessenyei-istvan
+coverImage: /images/cikkek/az-mi-az-iskolaban-2.jpg
+migratedId: 1407
+overrideMigrated: true
 ---
 
 **Az MI és a NAT viszonya: adaptivitás a központi tanterv keretei között. Bessenyei István és Apáti Balázs írása**

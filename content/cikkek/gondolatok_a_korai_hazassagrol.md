@@ -1,0 +1,42 @@
+---
+title: Gondolatok a korai házasságról
+migratedId: 622
+overrideMigrated: true
+authorSlugs:
+  - baracsi-kitti
+date: '2015-01-17'
+tags:
+  - hátrányos helyzet
+  - romák
+  - szülők
+  - szexuális nevelés
+excerpt: >-
+  Baracsi Kitti írása Jelen írás igyekszik néhány kérdést megfogalmazni, amely
+  segíthet újraértelmezni a korai házasság és oktatás kapcsolatáról szóló
+  vélekedéseinket.
+coverImage: /sites/default/files/a_young_mother_of_bodo_tribe_in_assam_india_0.jpg
+reads: 6962
+---
+<strong>Baracsi Kitti írása</strong>
+
+> Jelen írás  igyekszik néhány kérdést megfogalmazni, amely segíthet újraértelmezni a korai házasság és oktatás kapcsolatáról szóló vélekedéseinket.
+
+A korai iskolaelhagyás elleni küzdelem az EU oktatással kapcsolatos célkitűzései között előkelő helyet foglal el, ahogy a nemzeti roma stratégiák európai keretrendszere is kiemelten kezeli a középiskolákból kimaradó roma tanulók számának csökkentését. Az előbbiről szóló [EP határozatban](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2011-0531+0+DOC+XML+V0//EN) a roma tanulók, közülük is a lányok speciális helyzetét külön említik. A dokumentum szerint ugyan a korai iskolaelhagyás általában jobban érinti a fiúkat, mint a lányokat, a hagyományos roma közösségek helyzete speciális, ugyanis a korai házassággal összefüggésben a lányok korábban (12-13 éves korukban) kerülnek ki az oktatásból. A dokumentum „káros tradicionális gyakorlatként” hivatkozik a korai házasságra.
+
+A korai házassággal kapcsolatos viták viszonylag markáns álláspontok által közrefogva többnyire ugyanabban a körben forognak hosszú ideje. A gyakran evidenciaként kezelt kulturális okok kizárólagosságával szemben fontos szakmai érvként jelennek meg a reprodukció és a társadalmi-gazdasági helyzet összefüggései. Ugyanakkor a képlet nem ilyen egyszerű, a kulturális elemek a gazdasági lehetőségekkel összefüggésben folyamatosan alakulnak, adaptálódnak, a szegénységre és kirekesztettségre adott válaszokat, stratégiákat is magukba foglalják. Egy másik fontos csomópontja a vitának a roma nők helyzete, jogai, az őket érő hátrányok interszekcionalitása, amit azonban szintén érdemes a többi szempont figyelembevételével, valamint az adott társadalmi-gazdasági kontextusban értelmezni. A kényszerházasság, elrendezett házasság és a gazdasági stratégiák összefüggései rendkívül fontosak a kérdés értelmezésében.
+
+Jelen írás nem kíván választ adni a „korai házasság problémájára”, azonban igyekszik néhány kérdést megfogalmazni, amely segíthet újraértelmezni a korai házasság és oktatás kapcsolatáról szóló vélekedéseinket.
+
+<img alt="" src="/sites/default/files/2dccbcc.jpg" style="width: 150px; height: 150px; float: left; margin-right: 15px;">A <em>korai házasság</em> fogalmát legtöbbször annak megkérdőjelezése nélkül elfogadjuk és használjuk. Az első és legfontosabb lépés azonban magának a fogalomnak az értelmezése. Mit jelent az, hogy <em>korai házasság</em>? Az, hogy egy házasság <em>korai</em>\-e, relatív, az adott társadalmi-kulturális közeg által meghatározott normákhoz képest, a domináns értelmezés alapján válik azzá.
+
+Szintén nem egyértelmű az összefüggés a korai házasság, korai gyermekvállalás és az iskolaelhagyás között. A gyakorlatban természetesen legtöbbször egyenes következmény az iskolából való kimaradás, de vajon mindez az adott „kultúra”, a család elvárásai, maga a házasság, a gyerekvállalás ténye vagy éppen ellenkezőleg, az iskola, illetve a hozzá kapcsolódó szolgáltatások hiányosságai miatt alakul így? Hajlandó-e/képes-e az oktatáspolitika/iskola figyelembe venni a 12–13 éves lányok szüleinek félelmét, a család érdekeit vagy bármilyen más okot, ami miatt kimarad az iskolából? Hajlandó-e/tudja-e az iskola támogatni azokat, illetve szolgáltatásokat biztosítani azoknak, akik középiskolásként gyermeket vállalnak? Képes-e az iskola különféle „sikeres” párkapcsolati mintákat felmutatni? Vajon minden társadalmi csoport esetében ugyanolyan következményekkel jár az iskolai előmenetelre a házasság vagy egy gyermek születése?
+
+Messzire vezet, de szorosan kapcsolódó kérdés az is, hogy vajon mennyiben változna a helyzet, ha az iskola a marginális helyzetben lévőknek is valódi mobilitási stratégiát jelenthetne, illetve olyan közeget, ahol elsajátíthatják a boldogulásukhoz szükséges képességeket. Vajon teljes mértékben igaz az ígéret, miszerint az oktatás kiutat jelent a számukra?
+
+Ugyan mindkét kutatási terepemen, Magyarországon és Olaszországban – eltérő szervezettségi szinten, de – jelen vannak különböző „második esély” típusú kezdeményezések, melyek az iskolából kimaradt tanulók iskolába vagy munkaerőpiacra történő reintegrációjáért dolgoznak, a gyakorlatban előfordul, hogy ezeknek a lehetőségeknek a jelenléte kifejezetten ösztönzi a „normál” iskolai oktatásból való kimaradást. Még a legjobb szakmai háttérrel, a legjobb eredményekkel is gyakran jól bevált csatornáivá válnak a roma tanulók közoktatásból való eltávolításának, azaz a probléma falakon kívül helyezésének – természetesen akaratukon kívül.
+
+A „problémásak” stigmatizálása egyben azt is jelenti, hogy az iskola alapvető, lényegi átalakulásának szükségessége nem kerül középpontba. Hiszen a kérdés valójában az, hogy tud-e a közoktatás választ adni a párkapcsolattal/házassággal, gyermekvállalással kapcsolatos sokféleségre és speciális szükségletekre? És vajon a felsőoktatás vagy akár maga a társadalom? Hiszen a gyermek melletti tanulás, a család gazdasági érdekeinek és az egyéni tervek ütközésének vagy a férfi-női szerepeknek a problémái nem csupán a fiatal roma lányokat érintik.
+
+<hr>
+
+A kutatás a TÁMOP 4.2.4.A/2-11-1-2012-0001 azonosító számú Nemzeti Kiválóság Program–Hazai hallgatói, illetve kutatói személyi támogatást biztosító rendszer kidolgozása és működtetése konvergencia program című kiemelt projekt keretében zajlott. A projekt az Európai Unió támogatásával, az Európai Szociális Alap társfinanszírozásával valósul meg.

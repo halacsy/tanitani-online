@@ -1,0 +1,89 @@
+---
+title: Árgyélus királyfi és a minyonok
+migratedId: 773
+overrideMigrated: true
+authorSlugs:
+  - tolgyessy-zsuzsanna
+date: '2016-10-09'
+tags:
+  - népi kultúra
+excerpt: >-
+  Tölgyessy Zsuzsanna írása A múltnak és a felnőttek tudásának a
+  leértékelődésével a kultúra átadása és vele együtt a kultúra folyamatossága is
+  veszélybe kerül.
+coverImage: /sites/default/files/argyelusminyon.png
+reads: 6245
+---
+<strong>Tölgyessy Zsuzsanna írása</strong>
+
+> A múltnak és a felnőttek tudásának a leértékelődésével a kultúra átadása és vele együtt a kultúra folyamatossága is veszélybe kerül.
+
+<em>„A legtöbb, amit gyerekeinknek adhatunk: gyökerek és szárnyak.”</em><br>(Johann Wolfgang von Goethe)
+
+<img alt="Tölgyessy Zsuzsa" src="/sites/default/files/tolgy.jpg" style="width: 200px; height: 241px; float: left; margin-right: 15px;">A cikk logikájának magyarázatául: eredendően magyar-történelem szakos középiskolai tanár vagyok, aki drámapedagógiai témájú dolgozattal neveléstudományból PhD-fokozattal bír; és egy kicsiny tanszéken óvodapedagógus és tanító szakos hallgatókat tanítok. E körülményekből adódóan több egymástól távol álló diszciplínával (pl. társadalomtörténet, gyermekirodalom, népköltészet, játékpedagógia, médiapedagógia, neveléselmélet) foglalkozom, és két évtizedes tapasztalatom szerint ez a tény kizárja az egyes területeken való elmélyülés lehetőséget, de lehetőséget ad bizonyos holisztikus összefüggések keresésének kísérletére.
+
+Gyors változások idejét éljük, melyek kultúránknak nem csak felszínét, hanem belső értékeit is érintik. Ezek a változások a gyermekkort is elérték – a világ gazdagabb részén a dolgozó, a felnőtteknek kiszolgáltatott gyermek helyett a fogyasztó, az elektronikus médiában elmerülő gyermek a domináns.
+
+A mindenkori folyamatos változás az élet, a kultúra természetes jellemzője. Napjainkban a változás üteme azonban még soha sem tapasztalt gyorsaságú lett. A múltnak és a felnőttek tudásának a leértékelődésével a kultúra átadása és vele együtt a kultúra folyamatossága is veszélybe kerül.
+
+Mediatizált világunkban a gyerekek, a fiatalok IKT-kompetenciája jóval meghaladja az idősebbekét, ez kikezdi az idősebbek amúgy is eltűnőben lévő tekintélyét, akik egyrészt arra kényszerülnek, hogy végleg lemondjanak a mindentudás illúziójáról, másrészt gyakran a fiatalabbak segítségére is szorulnak, pl. ha használni kívánják az újabb és újabb technikai eszközöket, alkalmazásokat, amelyekre szükségük is van, ha részeseivé akarnak válni modern világunk vérkeringésének – az internetnek.
+
+Az iskola nehezen találja helyét ebben "a Google-on minden megtalálható" világban: próbálja az ún. klasszikus műveltség végvárát védeni, aminek következtében nem engedi falai közé a gyerekek saját világát. Az előírt közműveltségi elit kultúra kiszorítja az iskolából azokat a dallamokat, képeket, filmeket, könyveket, gondolatokat, kihívásokat, amelyek iránt a diák érdeklődik, amelyeket magáénak érez. Az eredmény a tantárgyak kiüresedése: A kőszívű ember fiait ma már nem lehet a 12-13 éves tanulók torkán lenyomni, de az általuk kedvelt képregények lekicsinyelt száműzöttek, így marad az "úgy csinálunk, mintha tanítanánk-tanulnánk" forma.
+
+Balassa Bálint a korabeli népszerű dallamokra szerzett verseket, ezzel példát is mutat az elit és a közkultúra kapcsolatára: sajnos a mai fiatalok lelkét, fület megfogó dallamok, szövegek se énekórára, se irodalomórára nem kerülhetnek be a tanterv utasításai alapján. Ezekután nem kérdés, miért nem tudnak, nem akarnak semmilyen dalt elénekelni a diákok, miért tehetetlenek bármilyen szöveggel szemben, legyen az egy szöveges matematikai feladat vagy egy orvosság használatának az ismertetése. A magyar oktatás azonban nem csak a fiatalok populáris kultúráját rekeszti ki, hanem a magyar valóságot is: testnevelés órán különböző sportágakkal ismerkednek meg a tanulók (bár gyakoribbak a felmérések, mint a felkészítések, felzárkóztatások), csak éppen a legnépszerűbb sportág marad ki – a labdarúgás.
+
+A nehézségek, bizonytalanságok ellenére azonban a kultúra átadása a XXI. században is meghatározó fontosságú a generációk közti kommunikáció, a nemzeti identitás érdekében, de egyben az ember közösségi léte és időtudata miatt is.
+
+Ez az írás csak arra tesz kísérletet, hogy próbál elgondolkodtatni: mit lehet átadni, átmenteni a már száz-százötven éve folyamatosan eltűnő népi kultúránkból, e keretek közt az átadás kulcsfontosságú hogyanjára nem ad választ. (Valószínűleg arra lehet építeni, hogy a gyerekek életének a pillérei ma is a szokások – pl. a reggeli kakaóivás és a Minimax csatorna meséinek egyidejű fogyasztása.) 
+
+A népi kultúra közösségi tulajdonunk, véleményem szerint az örökös jogán jogunk és kötelességünk válogatni és mérlegelni – természetesen felelősségünk teljes tudatában: mi menjen, mi maradjon, min kell változtatni, mit kell megőrizni. Azaz egyenként meg kell vizsgálnunk a hagyomány egyes darabjait, hogy valóban alkalmasak-e arra, hogy életünk részei legyenek, és még nagyobb felelősséggel azt, amit a gyerekeknek szeretnénk átadni. Ehhez a teendőhöz kapcsolódóan szeretnék néhány konkrét példát hozni.
+
+Régi tárgyak, régi munkafolyamatok átadásának a helye a család (bár erre a tudásra sokkal intenzívebben építhetne az iskola). Itt döntő szerepe van a nagyszülők és unokák találkozásának, a közösen egy térben (tehát lehetőleg nem Skype-kapcsolatban) eltöltött időnek. Ha ez megvalósul, akkor nem csak szerszámok, háztartási eszközök helyes használatát tanulják el a gyerekek, hanem számos családi történetet is végighallgathatnak, aminek a segítségével családjuk értékrendszerét is észrevétlenül magukba szívják. A nagyszülő-unoka kapcsolat révén egy kicsit visszaforgatható az idő kereke is – én például hiába vagyok 1963-as születésű, sok történetet ismerek nagyszüleim révén a második világháborúról, és ezek révén megismerhettem a <em>&nbsp;"nehéz volt, de nem adtam föl"&nbsp;</em> tanítást.
+
+Ezekután szeretnék bemutatni tényleges példákat a népköltészetből és a népköltészeti gyökerű szépirodalomból .
+
+A népmese eredeti környezetében, azaz élőbeszéd formájában a felnőttekhez szólt, de az átdolgozott, mesekönyvben kiadott változatának célközönsége már a gyereksereg lett. Érdekes módon napjaink mesefilmjei szinte kivétel nélkül családi filmek, melyekben mind a gyermek (mint a címben is megjelölt aranyos gyermeki-állati minyonok – a <em>Gru</em> című film figurái), mind a felnőttek találnak nekik szóló üzeneteket (az utóbbira példa lehet az előbb említett filmből a munkahelyi teljesítménykényszer). A mai mesefilmek is a népmesei ősi motívumokra, jungi archetípusokra épülnek – a Gru című film hősei három árva kislány, akik nem a sárkányt, hanem az őket érdekből befogadó Gruban lévő rosszat győzik le őszinte gyermeki ragaszkodásukkal.
+
+A népmese legkisebb formai elemei a meseformulák, amelyek szerepe a mese kezdetén a műfajmegjelölés (Egyszer volt, hol nem volt…), a mese végén a lezárás (Itt a vége fuss el véle!), de a mesei élőbeszéd folyamatosságát is biztosítják (ment mendegélt, míg sűrű erdőbe nem ért; olyan szép, hogy a napra lehet nézni, de rá nem). A napjaink világát idéző kifejezések (pl. picinyke volt a királykisasszony lábacskája: 35-ös és feles; fele királyság ÁFA nélkül) véleményem szerint a mesei világot érdekes módon aktualizálják, és mosolyt, nevetést váltanak ki a mese hallgatóitól anélkül, hogy a mesei világ csorbát szenvedne – ezért mértékletes és indokolt, nem paródiaszerű használatuk elfogadható lehet.
+
+Egyik legszebb, legteljesebb varázsmesénk a <em>Tündérszép Ilona és Árgyélus</em>. A gyerekek leginkább a hollók átváltozását, a sánta farkas szerepeltetését és az ördögfiak civakodását élvezik a mesében. A felnőtteket elgondolkoztatja a mese végén Árgyélus tizenegy pofonja, amit azért ad Tündérszép Ilonának, mert az nem hitt szolgálólányainak, mikor ők Árgyélus megérkezését jelentették, és dühében tizenegy pofont osztott ki közöttük. Úgy gondolom, hogy a mesének ezt a motívumát a mai világunkban kiválthatná a szóbeli kérdőre vonás, ill. a bocsánatkérés.
+
+A rest macska mese csattanóját az asszonyverés furfangos állatveréssel való kijátszása adja: az ifjú férj szavát tartva, hogy asszonyára nem emel kezet, a lusta asszonya helyett a felesége hátára kötözött macskát náspángolja el. Véleményem szerint ez a mese ma már alkalmatlan bármilyen korú gyermek szellemi táplálására, esetleg csak történeti forrásként hasznosítható. De pl. a hasonló szüzséjű <em>Aki nem dolgozik, ne is egyék! </em> mese asszony- és állatverés nélkül is a jogok és kötelességek napjainkban is érvényes összhangját fogalmazza meg.
+
+A tündérmesék őszintén szólnak az emberi élet egyetemes céljairól: a királykisasszony keze és fele királyság egyértelműen utal egyrészt a párválasztásra, a családalapításra, másrészt az egzisztenciális és intellektuális függetlenségre. Jelenünkben mintha e célok magától értendőségének megkérdőjelezése zajlana. Csak címszavakban utalok a kibontakozó felnőttség fogalomra, amely gyűjtőfogalma a mamahotel, a papabank, a mozaikszerű érettség, a bumeránggyerekek, az életkezdési pánik jelenségeknek. Mintha a XXI. századi huszonévesek nem találnák a vezérfonalat a továbblépéshez a felnőttkorba, túlzott, irreális elvárásokat támasztanak saját útjuk keresésekor az élettel szemben. Az útkeresésüket segíthetnék, szolgálhatnák a népmesék, tehát nem a népmesei világot kérem számon napjainkon, hanem csak arra hívnám fel a figyelmet, hogy elbizonytalanodáskor, kiútkereséskor hallgassuk meg a régi történeteket, hátha segítik vagy épp provokálják egy döntés meghozatalát.
+
+Az emberiség emlékezetének nevezi a népmesét <em>Petrolay Margit</em>. A népmesék egyetemes tudásanyagot hordoznak, melyet generációk örökítettek, és általuk a hallgatók mintát kaptak a problémáik megoldására. Nagy Olga szerint a mese szintézisét adja a nép legmélyebb élet- és világfelfogásának.  A nép által elfogadott alapértékek a mese mozgatórugói: az állatmesében az életben maradás, a párválasztás, a családalapítás a tündérmesékben.
+
+A meseterápiát kidolgozó <em>Boldizsár Ildikó</em> szerint a mese nem a „minden rendben van világa”, hanem „a mese olyan történet, amelyben mindenért meg kell dolgozni, semmi sem magától szép és jó, semmi sem magától működik rendben, \[…\] ha a hős valamit el akar érni, megtalálja a megfelelő formát és segítőt a cél eléréséhez. A ’lehetséges’ erői ugyanis nem rajta kívül, hanem benne vannak.” (Boldizsár, 9. o.)
+
+<em>Bruno Bettelheim</em> A mese bűvölete és a bontakozó gyermeki lélek című könyvében kifejti, hogy az élettel együtt járó megpróbáltatásokat a mese a hősön keresztül mutatja be, akinek szintén rengeteg problémával kell szembesülnie, egészen addig, míg eléri végső célját, elnyeri a királykisasszony kezét, a királyságot, s a mindezzel együtt járó boldogságot. Bettelheim véleménye szerint célját a hős és a gyermek is csak úgy érheti el, ha megküzd ezekkel a problémákkal, de csak úgy tudja felvenni velük a harcot, úgy találhatja meg a helyét a világban, és úgy lelheti meg „azt az embert, akivel azontúl boldogan élhet majd, ha útnak indul, kilép a világba”. (Bettelheim, 19. o.)
+
+Fontos, hogy a gyerekek megismerjék az élni segítő népmesét, és mélyen megmerítkezzenek ebben a világban, amely egy életre szóló reménytartalékot biztosíthat. Ahogy <em>Kádár Annamária</em> pszichológus állítja: „A mese az ősbizalom élményét erősíti meg – azt, hogy jó a világ, jó volt ide megszületni”. (Kádár, 16-17. o.)
+
+A népköltészet triviális világának beivódása saját egyéni kultúránkba a dajkarímek által már azonnal a születésünk után elkezdődik, fénykora a kisgyerekkor, így az óvoda és alsó tagozat tananyagának alapja. Éppúgy, mint a népi játékoknak, melyek napjaink közösségi játékainak egyik legfőbb forrása, így pl. a drámapedagógia A típusú szabályjátékainak különösen. Ugyan nem meglepő, hogy egy <em>Röpülj páva! </em> táborban 2016-ban métáznak a gyerekek, de az igényes, a felnőtt léthez méltó gólyatáborokban is előkerülnek közösségépítés céljából az énekes-táncos körjátékok, bár gyakori, hogy a népi dallamokra újabb szövegvariánsokat illesztenek.
+
+Egyik legnagyobb meseírónk – <em>Lázár Ervin</em> – példát mutat arra, hogy a kulturális örökséggel vitatkozni is lehet. A kőbe vésett evidenciákat gondoltatja végig velünk azzal, hogy változtat a hagyományos népmesei kereteken. A <em>Szurkos kezű királyfiak</em> című mese befejezése a hét országra szóló dínom-dánom helyett egy eldöntetlen mérges vita: vajon melyik király adta jól férjhez a lányát, az, aki egy dolgos legényt választott vőül, vagy az, aki a mellett a fiú mellett döntött, akinek a megszeretett lány volt a legfontosabb, így semmi mást sem csinált egy álló évig, csak vigyázott a beszurkosított kezére. A paraszttársadalom teljes bizonysággal az előbbi legény mellett tette le a voksát, de ez nem jelenti ma az egyéni döntések szabadságát.
+
+„A modern magyar meseirodalom egyik legszebbikében sem élnek boldogan, amíg meg nem halnak, bár A legkisebb boszorkány nagyon is szabályos boldogság történetnek indul"  –  elemzi ezt a mesét <em>Komáromi Gabriella</em>.  „A mesemondó több tündérmeseláncból fonta történetét, de a történetalakításban Lázárt alapjában véve Ámi Lajos Király Kis Miklósról és Tündér Terciáról szóló meséje ihlette.” (Komáromi, 247-248. o.) A mesehős az őt segítő legkisebb boszorkánynak, Amarillának köszönhetően elnyeri Tündér Terciát. A mese azonban szomorúan ér véget, Amarillát széllé változtatja az anyja, hiszen milyen boszorkány az, aki az ellenséghez húz. Király Kis Miklóst pedig már menyegzője napján szomorú nyugtalanság keríti hatalmába, pedig elérte célját: feleségül vette Tündér Terciát. „De a győztes szomorú. Sírni hallja a szelet. A szellővé vált legkisebb boszorkányt hallja, aki szereti őt, talán Tündér Terciánál is jobban, és akit talán ő is szeret. A modern mese kis hableányának sírását halljuk a szélben, aki egyszer csak nem tudott ártani a királyfinak, aztán nem tudott nem segíteni, és a halhatatlanságával fizetett a szerelméért.” (Komáromi, 248. o.)
+
+A legkisebb boszorkány Király Kis Miklósa a szokások embere, átvett sémákban gondolkodik. Az újságban elolvassa, hogy a világ legszebb lánya Tündér Tercia, így elhatározza, ha törik, ha szakad, Tercia lesz a felesége, és közben nem veszi észre Amarillát, a legkisebb, vakarcs boszorkalányt, aki mindig segít neki, aki többször is megmenti az életét. Király Kis Miklós képtelen az újszerű, meglepő helyzetre reagálni – vagyis arra, hogy épp az ősi ellenség, a boszorka legkisebb lánya szeretett belé őszinte, valódi érzelemmel, és a szokványos feleségválasztás Tündér Tercia oldalán hideg formaságokba torkollik csupán.
+
+Lázár Ervin másutt is felszabadítja az eredetileg determinált népmesei hősöket. Így lesz „a hétfejű szörnyből vagy hétfejű sárkányból, avagy hétfejű boszorkányból" véres küzdelem során „a Hétfejű Tündér, a világ legjóságosabb tündére”. A krisztusi magatartást idéző Hétfejű Tündérből áradó elfogadó szeretet váltja meg a mese hősét, aki a fenti felismerés után élete feladatát is megtalálja: ő lesz a Hétfejű Tündér védelmezője. A Szegény Dzsoni és Árnika meseregény Százarcú boszorkányából pedig pótnagymama lesz, miután az általa megátkozott ellenfelei – Dzsoni és Árnika – megvédik, sőt befogadják. Így szól fogadott kis unokájához a népmesei szerepkörből kilépő boszorka: „Tudod, kis Dzsoni, seprűnyélen lovagolni is jó volt, denevérként röpködni is jó volt, viharként száguldani se volt kutya, de hogy te ilyen bizalommal meg szeretettel mosolyogsz rám, azt semmiért nem adnám.”
+
+Archaikus nyelven idéz fel egy ősi témát <em>Tóth Krisztina</em> versprózája A lány, aki nem beszélt (Móra Könyvkiadó, Bp., 2015), amely harmadmagával az Év Gyermekkönyve lett 2016-ban. E népmesei, balladai hangulatú mesekönyv az elhagyás és örökbe fogadás drámáját rögzíti, amelyben az emlékező forrás mellett az elhagyott, majd örökbe fogadott lány próbálja tisztázni viszonyát nemzőapjához, szülőanyához és nevelőszüleihez. A múlt elfogadása és megbocsátása után az addigi néma lány gyönyörűséges emberi szavakkal beszélt: hamarosan híre is ment csobogó hangjának, kedves mosolyának, és ha valaki jó szóra vágyott, úgy kerítette az útját, hogy betérhessen a házukba. Érdekes módon épp az ősi formák adnak megfelelő védelmet ahhoz, hogy az írónő legszemélyesebb vállalását (egy cigány kislány örökbefogadását) a világ elé tárhassa.
+
+A kulturális örökségünket jó lenne nem eltékozolni, parlagon hagyni. Döntéshelyzetekben eszünkbe juthatna, hogyan választottak, választanának elődeink, de saját egyedi és egyéni életünk megtalálása már a mi feladatunk.
+
+### Irodalomjegyzék
+
+Bettelheim, Bruno: A mese bűvölete és a bontakozó gyermeki lélek. Corvina Kiadó, Bp., 2013.
+
+Boldizsár Ildikó: Meseterápia – Mesék a gyógyításban és a mindennapokban. Magvető Könyvkiadó, Bp., 2011.
+
+Kádár Annamária: Mesepszichológia – Az érzelmi intelligencia fejlesztése gyermekkorban. Kulcslyuk Kiadó, Bp., 2013.
+
+Komáromi Gabriella: Lázár Ervin élete és munkássága. Osiris Kiadó, Bp., 2011.
+
+Nagy Olga: Hősök, csalókák, ördögök. Kriterion Könyvkiadó, Bukarest, 1974.
+
+Petrolay Margit: Az emberiség emlékezete: könyv a meséről. Magyar Pedagógiai Társaság, Bp., 1990.

@@ -1,0 +1,70 @@
+---
+title: Gyarmatosítás és kiengesztelődés
+migratedId: 509
+overrideMigrated: true
+authorSlugs:
+  - tolgyessy-zsuzsanna
+date: '2013-11-11'
+tags:
+  - multikulturális nevelés
+  - neveléstörténet
+excerpt: >-
+  Tölgyessy Zsuzsanna recenziója Németh Tibor könyvéről Gyarmatosítás és
+  kiengesztelődés. Őslakos hagyomány Kanadában. Budapest, 2013, ELTE Eötvös
+  Kiadó.
+coverImage: /sites/default/files/indian_bentlakasos-w400.jpg
+reads: 12222
+---
+<strong>Tölgyessy Zsuzsanna recenziója Németh Tibor könyvéről</strong>
+
+> Gyarmatosítás és kiengesztelődés. Őslakos hagyomány Kanadában. Budapest, 2013, ELTE Eötvös Kiadó.
+
+A 70-es évekre eső kamaszkoromban faltam az indiános könyveket: Coopert, Karl Mayt és a minden év március 15-én sugárzott indiános (Gojko Mitićes NDK-s) filmek is meghatározóak voltak számomra. A Kádár-rendszer „megáll az idő” világában e hamis üvegszilánkokban láthattam példát bátorságra és szabadságra. Így érthető, hogy megdöbbentett a Németh Tibor által rendkívüli alapossággal bemutatott távoli történet. Most tudtam meg, hogy amikor én úgy tizenhárom évesen Winnetou-t siratva megfogadtam, hogy csak egy indián lehet a férjem, a kanadai bentlakásos indián iskolákban még gőzerővel folyt az indián kultúra felszámolása. 
+
+Németh Tibor könyve a kulturális antropológia és a multikulturális nevelés nézőpontjából mutatja be az általa feltérképezett világot. Boglár Lajos, aki egy személyben a magyarországi kulturális antropológia megteremtője és a dél-amerikai indiánok kutatója, írja, hogy a kultúrák közötti kommunikáció alapjának a saját hagyományaink ismerete és a másik kultúra tisztelete kell, hogy legyen. Hozzáteszi, hogy ezt nem könnyű elérni, mert a meglévő etnocentrizmus jegyében minden nép saját tagjait „ember”-nek, de a többieket furcsa lényeknek tartja.[fn]Boglár Lajos – Papp Richárd: A tükör két oldala. Bevezetés a kulturális antropológiába. Budapest, 2008. Nyitott Könyvműhely Kiadó, 3–5. o.[/fn] De az etnocentrizmus nem szül szükségszerűen gyűlöletet az egyes népek közt, az etnikumok közötti viszony függ az adott társadalmi rendszertől, az azonos értékekre épülő erkölcstől, amely biztosíthatja a békés együttélést. Megjegyezendő még, hogy a kulturális antropológia alapfilozófiája szerint mindenegyes kultúra azonos értékű és a fejlettség dimenziója mentén összehasonlíthatatlan. 
+
+Az interkulturális nevelés fogalmát Magyarországon Boreczky Ágnes és Cs. Czahesz Erzsébet vezette be.[fn]Boreczky Ágnes: Cigányokról – másképpen. Budapest, 2009, Gondolat Kiadó, 5–15. o. Lesznyák Márta – Czahesz Erzsébet: Multikulturális oktatáspolitikai koncepciók. In: Cs. Czahesz Erzsébet: Multikulturális nevelés. Szöveggyűjtemény tanító- és tanár szakos hallgatók számára. Szeged, 1998, Mozaik Oktatási Stúdió, 7-17. o.[/fn] Véleményük szerint a mindenkori iskolának nem kellene asszimilációs gépezetként működnie. Napjaink multikulturális társadalmaiban az iskola ne csak a többséget képviselje, hanem tolerálja, sőt értékelje a kisebbségek másságát, értékeit, azaz a fókuszban ne csak az adott kisebbségi csoport problémássága álljon. 
+
+Az interkulturális nevelés értelmében a gyerekek elé célként egymás megismerését és az egymáshoz való alkalmazkodást kell kitűzni, ennek értelmében a kisebbségi kultúrának a tananyagba is be kell kerülnie, de nem egyszerű kiegészítésnek kellene történni, hanem a másik kultúrával szembeni pozitív attitűdök kialakításának, amelynek legjobb eszköze a kooperatív tanulás, azaz a csoportos együttműködéshez kötődő pozitív élmények – szögezi le Boreczky Ágnes és Cs. Czahesz Erzsébet. Véleményem szerint, ha már a kisiskolások elsajátítják az egymáshoz való alkalmazkodás, ill. az együttműködés képességeit, ez valamennyi etnikum későbbi felnőtt életét is biztonságosabbá és eredményesebbé teheti. 
+
+Németh Tibor könyvének adatai, összefüggései biztos alapokon állnak, a szerző a friss szakirodalom feldolgozása mellett terepmunkát is végzett: 2011 márciusát a kanadai Brit Kolumbia Merritt városában töltötte, ahol a bentlakásos iskolák egykori lakóival is találkozott, ill. módjában állt az indiánok fenntartása alatt működő iskolákat is meglátogatni. 
+
+Az eredmény a 240 oldalas könyv 7 fejezete. Az első fejezet a kezdetektől mutatja be az indián gyerekeket érintő kanadai oktatáspolitikát 1996-ig, mikor az utolsó állami fenntartású indián bentlakásos iskola is bezárta a kapuit. Fontos határkő még 2008, mikor Stephen Harper kanadai miniszterelnök nyilvánosan bocsánatot kért az őslakosságtól a bentlakásos iskolák okozta súlyos testi, lelki sebekért. A második fejezet párhuzamot von a kanadai és az ausztráliai, egyesült államokbeli oktatáspolitika közt. Kanadai sajátosság, hogy ott a bentlakásos iskolákat az egyházak működtették. A feltárt dokumentumok és a személyes visszaemlékezések alapján a harmadik fejezet a bentlakásos iskolák belső világát, az ötödik fejezet az iskolaévek utáni visszatérést vázolja fel. A negyedik fejezet emberjogi kérdéseket tisztáz: ezekben az iskolákban nem emberbaráti szándék által vezérelt, de elhibázott gyakorlat zajlott, hanem genocídium: az őslakosság kiirtásával az indián földek megszerzése, ill. „jobb híján” másodrangú, lenézett, tehetetlen báb-alattvalók gyártása. A hatodik fejezet az indán ősök tanításait követő gyógyulásról, a hetedik fejezet pedig a Kanadában zajló társadalmi kiengesztelődésről szól. A könyvek állításait alátámasztják és mélyítik az előre- és visszautaló jegyzetek, a kép- és térképmelléklet és a bőséges, alapos bibliográfiai adatok.
+
+## A történetről
+
+A történetet el lehet kezdeni a végéről: az Egyesült Államokban 2,5 millió indián él, ami a teljes lakosság 0,8%-a, Kanadában pedig 1,2 millió indián, ami a lakosság 3,3%-át teszi ki. Az észak-amerikai indiánok 10%-a beszél valamilyen indián nyelven. Így egyértelműen sikeresnek mondható az európai bevándorlók célkitűzése – „kill the Indian, save wasp (white anglo-saxon protestant) culture”, avagy öld meg az indiánt, és tedd uralkodóvá a fehér, angolszász, protestáns kultúrát – elérte célját. 
+
+Ennek az új észak-amerikai kultúrát létrehozó folyamatnak az egyik láncszeme volt az indián gyermekek számára létrehozott bentlakásos iskolarendszer: 1880 és 1980 között mintegy 150 ezer indián gyermeket szakítottak el erőszakosan szüleitől csak a mai Kanadában, és küldtek otthonuktól távoli bentlakásos iskolákba. Ezeknek az iskoláknak a célja az őshonos indián kultúra tudatos és hatékony megsemmisítése volt. Az indiánok előtt két út állt: vagy kihalnak, vagy beolvadnak a fehér lakosságba. A gyerekek ebből csak annyit értették, hogy nevelőik gyűlölik őket. A bentlakásos iskolákban az oktatás alacsony szintű volt: a tanárok nagy része képesítés nélküli (többségük rendőrségtől, katonaságtól, börtönből szerelt le), a gyerekeket a tanulás mellett folyamatos fizikai munkavégzésre is kötelezték – eredmény: az indiánok sikeres proletarializálása.
+
+A tehetetlen szülőktől a gyermekeket erőszakkal vette el a kanadai állam. A bekerült gyerekeket megfosztották indián ruhájuktól, nevüktől, hajukat is lenyírták, ami az indiánok közt a büntetés jele. A testvéreket elszakították egymástól. A tanárok a gyerekek szüleiről lenézően beszéltek: semmirekellő indiánoknak nevezték őket. Szigorúan tiltották az anyanyelv használatát – erre a „bűnre” alkalmazták például a nyelv tűvel való átszúrását. 
+
+Az életben maradt, ma már felnőtt korú indiánok arról vallanak, hogy a gyerekek verése hétköznapi gyakorlatnak számított, és ezen felül e bentlakásos iskolák az intézményes pedofíliának is a melegágyai voltak. Ennek a következménye, hogy a bentlakásos iskolák növendékei felnőtt korukban is félnek az öleléstől. Gondot okoz nekik az érzelmeik kimutatása, hiszen érzelmi tetszhalottakká váltak, és az apai, anyai feladataikat se tudják megfelelően ellátni. 
+
+Az iskolák épületei egészségtelenek voltak, a gyermekek élelmezésére sem gondot, sem anyagiakat nem fordítottak a megfelelő mértékben. Ennek egyik következménye, hogy a XX. század első felében a bentlakó gyerekek 24%-a elkapta a tüdőbajt, amiben sokan meg is haltak.
+
+Néhányan szökéssel próbálkoztak. Közülük azok voltak a szerencsések, akiket elkaptak, őket veréssel büntették. A sikeresen elszökött gyermekek többsége a nagy távolságok miatt vagy éhen halt vagy megfagyott.
+
+Az iskolát kinőve se ők magukat, se a külvilág őket nem tekintette se fehérnek, se indiánnak, a gyökértelenség kíséri őket az öreg korukig. 
+
+Az indián népnek szembe kell néznie a következményekkel, amely az egész népüket sújtotta, hiszen egyaránt sérültek a bezárt gyerekek és a gyerekeiktől megfosztott szülők. A rájuk zúduló test-lelki bajok a következők: az önbecsülés rendkívül alacsony foka, krónikus depresszió, testi működési zavarok, fóbiák, szexuális működési zavarok, alkohol- és drogfüggőség, öngyilkosságra való erős hajlam, gyűlölet bárki iránt, bűnözés.
+
+A kanadai állam igyekszik jóvátenni az indiánokon elkövetett vétségeket, de paradox módon ez újabb veszélyt is jelent az indián lakosságra nézve, hiszen felkeresték már őket Kolumbusz óta hittérítők, katonák, antropológusok. A fehér kultúra pszichológusaiból nem kérnek, ők inkább a saját hagyományaikat, világképüket felélesztve szeretnének a gyógyulás útjára lépni, így az individualista európai én-tudat helyett a közösségi létforma mi-tudata segíti testi-lelki felépülésüket. Az „egy közösséghez tartozom” (healing circle) tudata újra erőssé teheti őket, és az európai orvoslás tablettái helyett megoldást találnak az ősi módszerekben, mint például az izzasztó kunyhóban (sweat lodge) létrejövő látomások keresésében (vision quest). (Érdekes párhuzam, hogy a modern pszichológia is már figyelembe veszi a képekben gondolkodó jobb félteke nélkülözhetetlenségét.) A gyerekeik oktatását is a saját kezükbe szeretnék venni indián iskolák, kulturális központok létrehozásával.
+
+A kanadai kormány vezetésével elindult egy társadalmi lelkiismeret-vizsgálat, ami több, mint az anyagi kárpótlás és bizonyos földterületek visszaszolgáltatása: Kanadának esélye van arra, hogy épp az őslakosok kultúrájának befogadásával és az ezzel járó gazdagodással megtalálja saját arcát az amerikai kontinensen és a világban. 
+
+## Reflexiók
+
+Ha egy nemzet nem emlékezik, az egyéni emlékezés lehetősége csökken, és a világ – az indián felfogás szerint – nem más, mint a múltat és a jövőt is magába foglaló kapcsolatok rendszere. Az egyént ért rossz végighullámzik e láncolaton, és végül az egész társadalomra kihat. A gyógyító igazságépítésnek, tény- és okfeltárásnak mindkét közösség előtt kell lezajlania, méghozzá önkéntes alapon, majd a feleknek visszavonhatatlan formában el kell köteleződniük amellett, hogy a jövőben az eddigitől különbözőképpen akarnak együtt élni – írja a Kanadában zajló kiengesztelődésről Németh Tibor. Fájdalmasan felhívva a figyelmet arra, ami nálunk elmarad(t) – és eszembe juttatja Kertész Imre töviskereszttel felérő Nobel-díját vagy a magyar vidék bútorbolttá átalakított zsinagógáit.
+
+A 2001. szeptember 11-i események óta nem söpörhetjük a szőnyeg alá a multikulturalizmus eszméi és az iszlám fundamentalizmus közti ellentéteket. Az individualizmus, a tolerancia és a kompromisszumok elfogadása szöges ellentétben áll a normatív erkölcsi törvények, csoportérdekek és a tekintély engedelmes követésével. A világ fehér ember uralta részein a nevelés célja az autonóm erkölcsi érettség kialakulása, amely „csak a heteronóm erkölcstől való eltávolodásokon keresztül szerezhető meg, az egymással ellentétes elvárásokról és kötelezettségekről való társadalmilag segített, facilitált – de ezzel együtt is személyes – tájékozott és kritikus reflexió révén.”[fn]Vine, Ian: Morális sokszínűség vagy egyetemes értékek? Az erkölcsi nevelés problematikája szociálisan tagolt társadalmakban. In: Cs Czahesz Erzsébet: Multikulturális nevelés… 99. o.[/fn] A multikulturalizmus elleni vád épp az, hogy általa valójában ismét az európai kultúra saját hegemóniáját igyekszik kifinomultabb módon érvényesíteni, hiszen nem tudja tolerálni az intoleranciát. Emellett az emberiség vallásait, kultúráit úgy tálalja föl, mintha azok csak a szabadpiac fogyasztási javai lennének, amiből ki-ki tetszése szerint választhat. 
+
+Vajon ki lehet-e választani azokat az azonos erkölcsi értékeket, amelyek az egyes kultúrák közti békés egymás mellett élést segítik elő – pl. önzetlenség, személyes javak tisztelete, adott szó megtartása, agresszió feletti önuralom? És mit lehet tenni, ha a békés egymás mellett élés sem közös cél? Lehetünk ebben az esetben arrogánsak? 
+
+Az indián-genocídium nem egyedi történet, a világtörténelem sok hasonló történetet ismer a brit gyarmatbirodalomból vagy akár a kommunista Szovjetunióból, ahol hasonló módszerekkel semmisítették meg a voguloknak és az osztjákoknak, azaz a nyelvrokonainknak a kultúráját az orosz bentlakásos iskolákban.
+
+Milyen tanulságai lehetnek Magyarországon napjainkban ennek a távoli történetnek? Fontos lenne szem előtt tartani a cigány gyerekek vagy akár a nem történelmi egyházhoz (buddhisták, Jehova tanúi) tartozó gyermekek tanításakor. Számtalan, a magyar iskolarendszert érintő kérdés merül fel még. Milyen céljai lehetnek a cigányságnak az oktatásra vonatkozólag? Van-e beleszólási joguk? A cigány lakosság a gyerekeik iskoláztatásában miért nem látja a társadalmi felemelkedés lehetőségét? Miért hiányoznak a pályáról a cigány kisebbséghez tartozó pedagógusok? Mit kellene tenni, hogy a pedagógusok kapcsolata, együttműködése jobb legyen a roma szülőkkel?
+
+A történet fényében szükséges felemelnünk a szavunkat annak érdekében is, hogy a magyar anyanyelvű gyermekek az ország határain túl is anyanyelvükön kezdhessék el tanulmányaikat, ill. a második világháborút követő kitelepítések, lakosságcserék közben elvérzett magyarországi német és szlovák nemzetiségi kultúra se tűnjön el nyomtalanul. 
+
+Nem lehet bűntudat nélkül szembenézni a könyv fényképein látható elpusztított vagy csak „átalakított” gyermekekkel – Németh Tibor munkája mintha az énekmondó bárdok feladatát teljesítené: a múlt igaz őrzőjeként bábáskodik a jelenben megszülető jövő körül.

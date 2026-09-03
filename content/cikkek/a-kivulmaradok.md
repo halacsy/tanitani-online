@@ -1,20 +1,23 @@
 ---
-excerpt: Az élményalapú tanulás programjai – erdei iskolák, múzeumlátogatások,
+excerpt: >-
+  Az élményalapú tanulás programjai – erdei iskolák, múzeumlátogatások,
   cirkuszpedagógia – elérhetetlen maradnak a hátrányos helyzetű tanulók számára.
   Az innovatív módszerek léteznek, de a főáramú oktatáson kívül.
 author: L. Ritók Nóra
 title: A kívülmaradók…
 overrideMigrated: true
-authorSlug: ritok-nora
-date: 2026-04-21
+date: 2026-04-21T00:00:00.000Z
 tags:
   - hátrányos helyzet
   - iskolakritika
   - pedagógusok
   - romák
   - SNI
-image: /images/cikkek/a-kivulmaradok.jpg
 reads: 3513
+authorSlugs:
+  - ritok-nora
+coverImage: /images/cikkek/a-kivulmaradok.jpg
+migratedId: 1409
 ---
 **L. Ritók Nóra írása**
 

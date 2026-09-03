@@ -1,12 +1,23 @@
 ---
-title: "Kommunikáció az óvodában"
-author: "Czipczerné Bartók Erika"
-authorSlug: czipczerne-bartok-erika
-date: "2026-04-23"
-tags: ["nevelés", "magyartanítás", "művészetpedagógia", "pedagógusok", "szabad nevelés"]
-excerpt: "A kommunikáció nem egyirányú folyamat, hanem az óvodai élet minden pillanatát áthatja. Az óvodáskor a szókincs és a kifejezőkészség robbanásszerű fejlődésének időszaka."
-image: /images/cikkek/kommunikacio-az-ovodaban.jpg
+title: Kommunikáció az óvodában
+author: Czipczerné Bartók Erika
+date: '2026-04-23'
+tags:
+  - nevelés
+  - magyartanítás
+  - művészetpedagógia
+  - pedagógusok
+  - szabad nevelés
+excerpt: >-
+  A kommunikáció nem egyirányú folyamat, hanem az óvodai élet minden pillanatát
+  áthatja. Az óvodáskor a szókincs és a kifejezőkészség robbanásszerű
+  fejlődésének időszaka.
 reads: 2322
+authorSlugs:
+  - czipczerne-bartok-erika
+coverImage: /images/cikkek/kommunikacio-az-ovodaban.jpg
+migratedId: 1410
+overrideMigrated: true
 ---
 
 **Az anyanyelvi nevelés fontossága az Óvodai nevelés országos alapprogramjában 2. Czipczerné Bartók Erika írása**

@@ -1,0 +1,87 @@
+---
+title: 'Messziről jött, hazaért'
+migratedId: 1315
+overrideMigrated: true
+authorSlugs:
+  - nemeth-tibor
+date: '2025-04-27'
+tags:
+  - pedagógusok
+excerpt: >-
+  Németh Tibor interjúja Borda Hajnalkával Célom: élménypedagógiai eszközökkel,
+  rendhagyó módon megismertetni a tanulóifjúságot a magyarországi németek
+  történelmével, kultúrájával és életével. Ezért alakítottam ki tanösvényt,
+  szerkesztettem segédletképpen budaörsi vonatkozású helytörténeti jegyzetet a
+  tanárok számára, és…
+coverImage: /sites/default/files/borda_hajnalka.jpg
+coverAlt: Borda Hajnalka és Németh Tibor
+coverTitle: Borda Hajnalka és Németh Tibor
+reads: 2873
+---
+<strong>Németh Tibor interjúja Borda Hajnalkával</strong>
+
+> Célom: élménypedagógiai eszközökkel, rendhagyó módon megismertetni a tanulóifjúságot a magyarországi németek történelmével, kultúrájával és életével. Ezért alakítottam ki tanösvényt, szerkesztettem segédletképpen budaörsi vonatkozású helytörténeti jegyzetet a tanárok számára, és hívtam szakmai megbeszélésre a pedagógusokat.
+
+<em>Ki vagy te, Borda Hajnalka?</em>
+
+Egy nógrádi kicsi zsákfaluból indultam küzdelmes utamra, ma anya, barát, szaktanár, osztályfőnök, kolléga, referens, koordinátor, multiplikátor, innovátor, önkéntes és mediátor egy személyben, immár kettős gyökérrel: Balassagyarmaton palóc, Budaörsön sváb. Így találtam meg a helyem a múltban és a jelentben.
+
+1990 óta dolgozom a Budaörsi 1. Számú Általános Iskolában, mely városunk legrégebbi, ma legmodernebb iskolája, ahová pályakezdőként kerültem, itt formálódtam tanárrá. Jelenleg német nemzetiségi nyelvet, valamint honismeretet és történelmet oktatok magyar és német nyelven alkotásra inspiráló közegben. Nemzetiségi referensként a nemzetiségi némettanárok munkáját felügyelem.
+
+Tanári diplomámat orosz-történelem szakos általános iskolai tanárként az egri Eszterházy Károly Tanárképző Főiskolán szereztem 1990-ben. Tudatosan, egyrészt családi hagyományt, másrészt általános iskolai és gimnáziumi orosztanáraim példáját követve kezdtem meg tanulmányaimat az egykori Ho Shi Minh Tanárképző Főiskolán, mivel szaktudásukat, felkészültségüket, tájékozottságukat és műveltségüket követendőnek tartottam. Egész pályámon végigkísér a náluk megtapasztalt, mind a mai napig példaértékűnek tartott szakmai elhivatottság és igényesség.
+
+Alig indultam el tanári pályámon, máris ismeretlen helyzetben kellett megállnom a helyem, mivel a szinte változatlannak érzékelt világpolitikai folyamatok hirtelen eladdig ismeretlen viszonyrendszerré álltak össze. Rácsodálkozásom az újdonságra hamar a gyermekkoromból már ismert kíváncsisággá változott. Ez a tulajdonságom – a megújulásra való képesség forrása és az élethosszig tartó tanulás motorja bennem – a mai napig megmaradt. A Budapesti Közgazdasági Egyetemen német nyelvtanári diplomát, az ELTE-n német nemzetiségi tanár és tantervfejlesztő végzettséget szereztem. Azóta a tanítás és a nevelés területén a tanítványaim fejlődését támogatva gyerekekkel együttműködve gyerekeknek teremtek iskolát Pestalozzi „ésszel, szívvel, kézzel” módszere alapján.
+
+<em>Miért az „ésszel, szívvel, kézzel” módszert használod?</em>
+
+Már pályakezdőként megtanultam, hogy nem tankönyvet kell tanítani, hanem ismeretet közvetíteni. Bár egy adott évfolyamon a gyerekek egyidősek, nem lehet séma szerint oktatni őket. Hamar tanulni kezdtem, hogyan kell differenciálni, hogyan lehet a tananyagot sokszor különböző perspektívából megközelíteni és az adott gyermekcsoportnak a leginkább célravezetően közvetíteni. Ekkor még nem került sor pályámon pedagógiai paradigmaváltásra, a főiskolán megszerzett viszonylag gazdag módszertani tárházam még hosszú évekig elégségesnek bizonyult. 
+
+1995-ben német nyelvi egyetemi tanulmányaim előtt fel kellett frissítenem az átképző tanfolyamon megszerzett nyelvi ismereteimet, mivel időközben megszületett a lányom, és ezért egy időre felfüggesztettem szakmai munkám. A sikeres felvételi érdekében az Osztrák Kulturális Intézet nyelvtanfolyamára iratkoztam be, ahol Marion Koller volt a kurzusvezetőm. Ezeken a foglalkozásokon találkoztam először a kooperatív technikákkal. Az első pillanattól kezdve lelkesedtem értük, bár akkor még csak azt tapasztaltam meg, hogy tanulói oldalról milyenek, és mennyire hatékonyak a tanulók érdeklődésének felkeltésére és motivációjuk fenntartására. 
+
+<em>Mire kezdted használni a kooperatív technikákat?</em>
+
+Kurzusvezetőm lassan a mentorommá vált, szakmai beszélgetésekre is sort kerítettünk, és a munkámat segítő tankönyveket is kaptam tőle. Így alakítottam ki a német nyelvű történelemórák tematikus tervezetét. Majd kilenc éven keresztül dolgoztam ezeknek a tankönyveknek az anyagára építve az iskola által meghatározott óraszám-keretekhez alkalmazkodva e tantárgy szerkezeti vázlatát. Mára sikerült kialakítanunk az iskolánk profiljához és az óraszámokhoz leginkább illeszkedő, a tanulók sikeres nyelv-, és továbbtanulását segítő rendszert: heti két óra magyar nyelvű történelemoktatás, egy német nyelvű szókincsfejlesztés történelmi szövegeken keresztül, kapcsolódva és támaszkodva a már tanult magyar nyelvű ismeretekre, illetve a nyelvi logika fejlesztése szövegalkotás és szövegértés segítségével. A tananyagfejlesztéssel párhuzamosan kialakult bennem az alkotás iránti vágy és szenvedély, amely az egyik legnagyobb megtartó erő a pedagóguspályámon. 
+
+<em>Pedagógiai szereprepertoárod hogyan bővült tovább, és miért?</em>
+
+A kooperatív élménypedagógiai módszer hamar pedagógiai életstílusommá vált. Ekkor még csak ösztönösen, a Marion Kollernél látott minta követéseként léptem át a facilitátor-tanár szerepébe. 
+
+1999 óta alkalmazom tudatosan pedagógiai tevékenységemben azt a célt, hogy az iskolát a gyerekekkel, a gyerekek számára építsük-formáljuk, élménypedagógiai elemekkel ötvözve. Az ehhez szükséges módszertani ismeretek alapjait 2000 és 2001 között a budapesti Goethe Intézet, a Kultur Kontakt Austria és a Veszprémi Pedagógiai Szolgáltató Intézet együttműködésében szervezett egyéves nemzetközi projekt keretében sajátítottam el. Ebben az esetben is többet kaptam, mint vártam. Azzal a céllal vettem részt ezen a továbbképzésen, hogy a szakmai munkámhoz szükséges módszertani ismereteket rendszerezzem és bővítsem. Arra nem számítottam, hogy tanártovábbképző multiplikátorokká is képeznek majd bennünket. 
+
+A Goethe Intézettől lehetőséget kaptam a továbbképzésen szerzett ismereteimet portfólió formában a bajai Nyári Akadémián bemutatni. Bár az előadásomnak sikere volt, akkor még nem voltam érett arra, hogy oktatók oktatója legyek, mára azonban eljutottam oda, hogy kipróbált projektjeimet és módszereimet az építés szándékával úgy tudom bemutatni kollégáimnak, hogy ők annak közvetlen hasznát látják. 
+
+<em>Mik a fő feladataid a tanításon kívül?</em>
+
+Az elmúlt években a honismeret tantárgyhoz kapcsolódó gyakorlatorientált továbbképzéseken több témában tartottam továbbképzéseket, workshopokat. Építő volt számomra a többi bázisiskola jó gyakorlatainak és szakmai munkájának a figyelemmel kísérése is. 
+
+Munkám másik hangsúlyos területe a hagyományőrzés. Mint pályám során minden, ez is feladatból lett szenvedély. A Budaörsi Német Nemzetiségi Önkormányzat az általános iskolásoknak néhány évvel ezelőtt nemzetiségi hetet szervezett, ahol korosztályonként helytörténeti vetélkedőt, versmondó, népdaléneklő és dramatikusjáték-versenyt is meghirdettek. A dramatikus játékok során bemutatott meséket látva fogalmazódott meg bennem, hogy miért nem magyarországi német írók műveit vagy kultúrkörük mondáit mutatjuk be, hiszen elég széles a paletta. Kezdetben csak egy-egy művet dramatizáltam, színesítettem zenével, és készítettük el hozzá a gyerekekkel közösen a díszleteket. Mára – sok tanulás után – megtanultam azt, hogyan lehet a gyerekek kreativitására alapozva sikeresen létrehozni egy-egy darabot. Az elmúlt években sok budaörsi népdalt ismerhettem meg, melyeket a tanításom során meg is tanítok a gyerekekkel. Így építek a magyarországi németek kultúrájához vezető érzelmi hidat tanítványaimban, és szilárdul meg ennek során bennem is a hozzájuk fűződő kapcsolatom. Mára a magyarországi németség kultúrájának elkötelezett hirdetője lettem. 
+
+<em>A szenvedély tartott meg a tanári pályán?</em>
+
+A pályán maradáshoz képesnek kell lenni a folyamatos megújulásra, amit leginkább a körülmények változásai kívánnak meg. Ilyen volt az informatika feltartózhatatlan térhódítása az oktatásban, mely az ismeretszerzés és kommunikáció új módjait alakította ki. Számomra is új feladat volt az IKT eszközök alkalmazásának elsajátítása, melyet sikerült az eredményes tanulási folyamatok tervezéshez elégséges-szükséges szintre fejlesztenem. 
+
+Pályám során mindig kerestem a fejlődési lehetőségeket, ezért vettem részt továbbképzéseken, szakmai rendezvényeken, konferenciákon, pedagógiai napokon. Mindenütt alkalmam nyílt a kollégákkal folytatott beszélgetések során szakmai tapasztalatcserére, melyekből sokat tanultam. 
+
+Egykori testvériskolánkban, a németországi Haarban betekinthettem a német oktatási rendszerbe, ezzel saját tanítási stílusom újraértelmezéséhez kaptam támogató segítséget. Néhány évvel ezelőtt úgy gondoltam, hasznos lenne, ha kidolgoznék egy programtervet arra vonatkozóan, hogy hogyan lehet még hatékonyabban közvetíteni a nemzetiségi német nyelvi kultúrát. Ezt mestertanári programnak be is adtam. 
+
+<em>Miről szól ez a program?</em>
+
+A program kialakítását Riedl Ferenc gondolatai határozták meg: <em>Népünk örökségét megőrizni, hűen ápolni, gondozni, becsület dolga; Ne hagyd e kincset elveszni, ne engedd dőrén eltékozolni, hogy méltó lehess a jussra. </em> Kodály is tanítja, hogy a kultúrát nem lehet örökölni, mert, mint mondja, az elődök kultúrája egykettőre semmivé lesz, ha a mindenkor következő új nemzedék nem szerzi azt meg magának. 
+
+Ebből a hitvallásból kiindulva állítottam össze egy három részből álló programot, melynek fókuszában a fenntartható hagyományápolás áll. A magyarországi németek kultúrájának közvetítése nyilvánvalóan nem korlátozódhat a tanórákra, minden további lehetőséget is meg kell ragadni arra, hogy azt továbbadjuk. Célom: élménypedagógiai eszközökkel, rendhagyó módon megismertetni a tanulóifjúságot a magyarországi németek történelmével, kultúrájával és életével. Ezért alakítottam ki tanösvényt, szerkesztettem segédletképpen budaörsi vonatkozású helytörténeti jegyzetet a tanárok számára, és hívtam szakmai megbeszélésre a pedagógusokat.
+
+A <em>300 év / 300 lépés</em> tanösvénnyel a célom egy történelmi folyamat bemutatása a budaörsi német ajkú lakosság háromszázéves múltjának történésein keresztül a szokásostól eltérő perspektívából. A tizenkét állomás felépítése egységes: egy-egy asszociációs kép, mint inspiráló, útbaigazító vizuális információ, egy-egy növény, amely kapcsolódik az épülethez vagy eseményhez, és egy-egy QR kóddal elérhető információs szöveg. Az állomások közti távolság lépésekben mérve az események egymáshoz viszonyított időbeli távolságát mutatja, egy év egy lépés.
+
+A tematikusan rendezett, helytörténeti ismereteket összegző, oktatójátékokkal, projekttervezetekkel kiegészített didaktikai segédletet azért állítottam össze, hogy azt a honismereti órákon használhassák kollégáim Budaörs kulturális értékeinek megőrzését célzó élményalapú, tevékenykedtető, IKT eszközök használatát ösztönző tanóráikon. Az eredményes honismeret-oktatáshoz nem elegendő a tantervhez illeszkedő tankönyv, a helyi vonatkozású dokumentumokkal, irodalmi alkotásokkal vagy népdalokkal még személyesebbé kell tenni a nemzetiségi oktatást. 
+
+A covidjárvány miatt az ötvenéves német nyelvoktatás történetére a tervezett jubileumi gálaműsor helyett a Budaörsi Pedagógiai Nap munkaközösségi megbeszélésének keretében tekintettünk vissza, elemeztük a jelenlegi nemzetiségi oktatás helyzetét, és jövőbeli terveket vázoltunk fel. 
+
+<em>Mik a további terveid?</em>
+
+Megszerzett tudásomat szeretném a fiatalabb nemzedékekkel megosztani. Szívügyem a fenntartható nemzetiségi oktatás és nevelés, ezért szeretnék még egy digitális örökséget létrehozni, amely tartalmazza az általam kidolgozott tanítási módszereket, tananyagokat és pedagógiai tapasztalatokat, hogy a jövő tanárai inspirációkat nyerhessenek belőle. Remélem, hogy a nyugdíjazásomig hátralévő idő lehetőséget nyújt még számomra, hogy valóban izgalmas és innovatív módszerekkel gazdagítsam az oktatást. 
+
+<em>Mit üzensz a tanárjelölteknek?</em>
+
+Tompa Mihály szavait küldöm nekik: <em>Bármerre visz az életed, csak egy célod legyen: Segíteni mindig, mindenütt, a többi emberen, Légy erős, védd minden ember életét, Tanulj, taníts s a tudomány hős magvetője légy!</em>
+
+Üzenem a tanárjelölteknek, hogy minden körülmények között szükséges megőrizniük lelkesedésüket. Biztatom őket, hogy legyenek céljaik, törekedjenek mindig valami újra, és munkájukat jókedvvel végezzék. Kérem őket, hogy legyenek nyitottak környezetük változásaira, és engedjék magukat jó tanárrá formálni. Mert jó tanárnak nem születünk, csak kellő alázattal és tenni akarással válhatunk azzá.

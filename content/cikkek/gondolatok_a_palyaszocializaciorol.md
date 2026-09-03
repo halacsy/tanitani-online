@@ -1,0 +1,58 @@
+---
+title: Gondolatok a pályaszocializációról
+migratedId: 1109
+overrideMigrated: true
+authorSlugs:
+  - foldes-petra
+date: '2021-10-02'
+tags:
+  - pedagógus
+excerpt: >-
+  „Tanárnő, sose hittem volna, hogy ez ennyire bonyolult…” Földes Petra írása A
+  személyes érintettség okán tehát az igény nagy az ilyesfajta eszmecserére. Ám
+  pontosan a személyes érintettség (veszélye) az oka annak is, hogy a valódi,
+  személyes bevonódás minimális.
+coverImage: /sites/default/files/fp_borito.jpg
+coverAlt: 'Forrás: https://www.marcandangel.com/'
+coverTitle: 'Forrás: https://www.marcandangel.com/'
+reads: 2663
+---
+<strong>„Tanárnő, sose hittem volna, hogy ez ennyire bonyolult…” Földes Petra írása</strong>
+
+> A személyes érintettség okán tehát az igény nagy az ilyesfajta eszmecserére. Ám pontosan a személyes érintettség (veszélye) az oka annak is, hogy a valódi, személyes bevonódás minimális.
+
+<img alt="Földes Petra" src="/sites/default/files/foldes_petra.jpg" style="width: 200px; height: 224px; float: right; margin-left: 15px;">A címben szereplő mondat sok évvel ezelőtt, egy „Pedagógiai helyzetgyakorlatok” foglalkozáson szakadt fel egy fiatalemberből, miután színes montázst vágtunk-ragasztottunk egész órán. S bár egy ilyen mondat arról tanúskodik, hogy hirtelen minden összekuszálódott, mégis ez volt az a pillanat, amikor először éreztem: végre talán jó úton járunk. És azt is megértettem, hogy mi okozta korábban az amúgy izgalmas beszélgetések után mégis egyre inkább elhatalmasodó, formátlan frusztrációt, ami hétről hétre fokozódó módon lett úrrá rajtam.
+
+Mert a látványos aktivitást kiváltó, parázs vitákat követően minden alkalommal pontosan ugyanonnan indultunk, mint az előző héten, s a résztvevők ugyanazzal a lelkesedéssel vetették magukat az eszmecserébe, hogy azután újra és újra elismételjék és mélységes bevonódással ütköztessék a legcsekélyebb változást se mutató gondolataikat. Vagyis a hallgatók számára láthatólag igazán élvezetesek, izgalmasak voltak ezek az órák, amire tanárként simán büszke is lehettem volna, csak hát… a fejlődés szempontjából meglehetősen kétes értékűnek láttam azt, ami történt (illetve egyáltalán nem történt). Azóta tudatosan figyelem, hogy hogyan lehet, hogyan érdemes pedagógiáról közösen gondolkodni annak reményében, hogy a fejünkben lévő, igencsak stabil (nézet)rendszerek képessé váljanak a másoktól (akár a tanártól, akár a társaktól) érkező gondolatok, érzések számára nyitottá válni és így a változás lehetőségét megteremteni. A reflektív folyamatszervezés (fejlődési terv, reflektív napló, képzési portfólió) kétségtelenül <em>motiválja</em>, <em>szabályozza</em> és <em>leképezi </em> a változást, de hogy az <em>mi által </em> jön létre, arra nem könnyű választ adni.
+
+## Rugalmatlan rendszerek
+
+A neveléssel kapcsolatos (naiv, laikus) nézeteink spontán módon annyira zárt rendszerbe szerveződnek (ennek okairól később szólok), hogy gyakorlatilag lehetetlenné teszik az érdemi diskurzust, s akadályozzák a nyitott, rugalmas gondolkodást. Bár egy-egy parázs eszmecsere könnyen félrevezethet bennünket, a gyakran látványos aktivitást kiváltó, akár heves vitákat generáló helyzetek inspirálónak tűnhetnek, ám gyakran fordul elő, hogy a következő alkalommal meglepve tapasztaljuk: a mélyebb struktúrák érintetlenek maradtak, és a résztvevők pontosan ugyanonnan indulnak, ahonnan az előző beszélgetésben. S ami még ennél is érdekesebb: mindez nem okoz frusztrációt; sem a partnerek meggyőzhetetlensége, sem a magunk mozdíthatatlansága nem bizonytalanít el abban, hogy ezeket a beszélgetéseket, vitákat <em>jó nekünk</em> vég nélkül folytatni. Úgy tűnik, hogy a gondolatok újra és újra történő kimondása kielégít: a saját véleményünk átismétlése, másokkal szemben való megfogalmazása biztonságot ad. Vajon miért történik mindez, és miért olyan nehéz a változást is lehetővé tevő helyzetet teremteni?
+
+## Naiv pedagógiai nézeteink eredete
+
+Evidencia, hogy a naiv pedagógiai nézeteink a saját nevelődésünk tapasztalataiból, illetve a környezetünk nevelési helyzetekre való reflektálásából származnak. Ennek van néhány olyan következménye, ami a tartalmuktól függetlenül meghatározza ezeknek a nézeteknek a viselkedését.
+
+<ul><li class="rtejustify">A saját „neveltetésünknek” gyermekként passzív elszenvedői vagyunk – nevelődésünk körülményeit a környező felnőtt világ alkotja meg. Ebben eligazodni elementáris érdek, s ezért fontos, hogy a gyereknek legyen stabil saját verziója, értelmezése a nevelődési történetéről. Ebből desztillálódnak azután a neveléssel kapcsolatos nézetei, amelyekhez ragaszkodnia kell, hiszen mindez saját életének narratívájához tartozik; ha valaki egy ilyen nézetet újraértékel, az egész múltját is újra kell értékelnie. („Én azt mondom, hogy egy apa legyen szigorú. Az én apámnak is eljárt néha a keze, és attól lettem becsületes ember”; nehéz ezt a nézetet elengedve a verés elutasítását belsővé tenni, hiszen az érintettnek ezzel együtt az apjáról alkotott képét is újra kell alkotnia.)</li><li class="rtejustify">Ugyanezt a problémát egy másik nézőpontból megvilágítva: a nevelődésünkkel kapcsolatos élményeink, tapasztalataink, gondolataink rendszerét, személyiségünk integritása érdekében, igyekszünk ellentmondásmentesen összeszervezni. Mivel a felnőtt világgal kapcsolatos tapasztalatok, de még az egyetlen felnőttel kapcsolatos élmények sem ellentmondásmentesek, gyakran szükségünk van a kognitívdisszonancia-redukció jól ismert mechanizmusára. Például egy nagy szaktudású, ám kivételező tanár, ha a személye egészében véve szimpatikus, kiválthatja belőlünk azt a vélekedést, hogy „az érdemek mentén teljesen jogos a megkülönböztetés.” Azonban, ha ugyanez a tanár nem nyerte el a rokonszenvünket, vélekedhetünk így: „A szakmai tudás nem feledtetheti az emberi kicsinyességet. A tanárnak igazságos embernek kell lennie.” Látható, hogy ezek az értelmezések a személy saját belső világában erednek, ugyanakkor kifelé objektív tudásként jelennek meg, s nagyon is stabilan viselkednek. Az objektiválódott nézetek így védik meg a gazdájukat attól, hogy a mögöttük húzódó ellentmondásos tapasztalati világgal újra és újra meg kelljen küzdenie.</li><li class="rtejustify">A folyamatosan épülő tapasztalati valóság és a hozzá kapcsolódó értelmezési szokások, a mind inkább kialakuló nézetek azután megteremtik a további tapasztalatok értelmezési kereteit, sőt az észlelés korlátait is. Az előzetes elvárásoknak megfelelő tapasztalatok észlelése és értelmezése tovább erősíti a nézetrendszert, míg az ezzel ellentétes jelenségek gyakran a tapasztalati mezőn is kívül maradnak. (Ez történik például akkor, amikor az alternatív pedagógiák hívei csakis olyan jelenségeket tapasztalnak a többségi iskolában, melyek alátámasztják, hogy „a hagyományos iskola egyet jelent a porosz oktatással”, míg a hagyományos pedagógia megrögzött hívei csupa olyan történetet ismernek, melyekben „az alternatív iskolák kaotikusak és az oda járó diákok deviánsak”.)</li></ul>
+
+## A verbalitás csapdájában
+
+Tapasztalatom szerint a hallgatókkal folytatott puszta beszélgetésben ugyanaz történik, mint bármilyen baráti, kollegiális körben vagy akár a médiában – vagyis jellemzően nincs elmozdulás. Amikor a nevelésről szóló eszmecsere kinek-kinek a naiv nevelési nézeteit érinti, azok a fentiek szerint, az érintettek integritását védendő, igen stabilan viselkednek, s mások érveinek hatására nem mutatnak változást. Hogy a résztvevők mégis fontosnak, tartalmasnak, sőt izgalmasnak és vonzónak élik meg ezeket a helyzeteket, annak paradox módon éppen ez a stabilitás az oka és záloga. Ez teszi lehetővé számukra, hogy egy nagyon személyes történetről (a saját nevelődésük történetéről) védett körülmények között, pontosan a saját nevelési nézeteik stabilitásának, megkérdőjelezhetetlenségének védelme alatt beszélhessenek.
+
+A személyes érintettség okán tehát az igény nagy az ilyesfajta eszmecserére. Ám pontosan a személyes érintettség (veszélye) az oka annak is, hogy a valódi, személyes bevonódás minimális. Az élmények újraélését, érettebb fővel való újraértékelését a tapasztalatokról leválasztott, veszélytelenné desztillált nézetek megvallása és ütköztetése helyettesíti. Ez a „mintha”-párbeszéd éppen az eredeti helyzet további stabilizálására alkalmas, hiszen a résztvevők azt élik meg, hogy az övékkel ellentétes nézetekkel találkoztak, és saját nézetrendszerük ismét „kibírta” ezt a behatást. Ezért menetelünk sokszor üresben, ha a hőn óhajtott attitűdváltást (15 év nevelődési tapasztalatainak felülírását!!!) kizárólag a kognitív és verbális síkon mozgó pályaszocializációs foglalkozásokkal kívánjuk elérni.
+
+## Projektív gyakorlatok
+
+Hogyan lehet elősegíteni, hogy a naiv nézetek a pályaszocializációban védőpajzs helyett munícióként szolgáljanak? A saját munkám során azt láttam: ahhoz, hogy a pedagógusszereppel kapcsolatos kérdésekről érdemi, az attitűdöket is érintő és alkalmasint elmozdító eszmecsere jöjjön létre, természetesen legelsősorban valós tapasztalatokra, a szemináriumi helyzetben pedig a verbalitást meghaladó, projektív (képes, rajzos, mozgásos stb.) gyakorlatokra van szükség. Az ezekben megélt helyzetek teszik lehetővé, hogy közvetlenül a megéléseinkkel lépjünk érintkezésbe, s a reflexiónk az élmény komplexitására, és ne – ahogy korábban láttuk – pusztán egy elvont gondolatra vagy verbális aktusra vonatkozzon. Így lép kapcsolatba a <em>mai</em> élmény a korábban rögzült nézettel, visszahatva rá és lehetővé téve akár az attitűd változását is.
+
+Illusztrációképpen egy nagy kedvenc: tanári avatárok pályaszocializációs foglalkozásokról
+
+ [<img a="" alt="" src="/sites/default/files/fp1_kicsi.jpg" style="width: 115px; height: 191px;">](sites/default/files/fp1.jpg)[<img alt="" src="/sites/default/files/fp2_kicsi.jpg" style="width: 115px; height: 161px;">](sites/default/files/fp2.jpg)[<img alt="" src="/sites/default/files/fp3_kicsi.jpg" style="width: 115px; height: 191px;">](sites/default/files/fp3.jpg)[<img alt="" src="/sites/default/files/fp4_kicsi.jpg" style="width: 115px; height: 191px;">](sites/default/files/fp4.jpg)
+
+[<img alt="" src="/sites/default/files/fp5_kicsi.jpg" style="width: 115px; height: 191px;">](sites/default/files/fp5.jpg)[<img alt="" src="/sites/default/files/fp6_kicsi.jpg" style="width: 115px; height: 161px;">](sites/default/files/fp6.jpg)[<img alt="" src="/sites/default/files/fp7_kicsi.jpg" style="width: 115px; height: 147px;">](sites/default/files/fp7.jpg)[<img alt="" src="/sites/default/files/fp8_kicsi.jpg" style="width: 115px; height: 147px;">](sites/default/files/fp8.jpg)
+
+…és a teljes tanári kar:
+
+<img alt="" src="/sites/default/files/fp9_kicsi.png" style="width: 470px; height: 354px;">
+
+[<img alt="" src="/sites/default/files/fp9_kicsi.png">](sites/default/files/fp9.png)

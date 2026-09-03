@@ -1,0 +1,104 @@
+---
+title: Időpocsékolás
+migratedId: 1301
+overrideMigrated: true
+authorSlugs:
+  - stefan-ruppaner
+date: '2025-03-02'
+tags:
+  - szabad nevelés
+excerpt: >-
+  Lilith Volkert interjúja Stefan Ruppanerrel a Süddeutsche Zeitungban (2024.
+  február 25.) "A hagyományos tanítás időpocsékolás" – mondja a kisvárosi
+  iskolaigazgató, aki azzal kezdte a reformot, hogy kiverte az iskola belső
+  falait.
+coverImage: /sites/default/files/ruppaner_0.jpg
+coverAlt: 'A Süddeutsche Zeitung címlapfotója alapján – https://www.sueddeutsche.de/'
+coverTitle: 'A Süddeutsche Zeitung címlapfotója alapján – https://www.sueddeutsche.de/'
+reads: 1830
+---
+<strong>Lilith Volkert interjúja Stefan Ruppanerrel a Süddeutsche Zeitungban (2024. február 25.)</strong>
+
+> "A hagyományos tanítás időpocsékolás" – mondja a kisvárosi iskolaigazgató, aki azzal kezdte a reformot, hogy kiverte az iskola belső falait.
+
+> „Sors bona, nihil aliud”, azaz „Jó szerencse, semmi más” – volt jelmondata többek között Zrínyi Miklósnak. Ugyanezt elmondhatná Stefan Ruppaner nyugdíjas német iskolaigazgató is, akinek az volt a szerencséje, hogy jó időben jutott arra döntésre, hogy szeretné az iskoláját értelmesen megreformálni egy baden-württembergi kisvárosban. Szerencséje volt, mert éppen akkoriban került napirendre az iskolareform kérdése, Baden-Württembergben először adták a zöldek a tartományi kormányfőt, és a helyi polgármester is megértette (nem könnyen), mit szeretne az igazgató tenni azért, hogy a gyerekek jobban tudjanak tanulni az iskolában. Talált magának témába vágó jó filmeket és nagyon okos tanácsadót is (Peter Fratton). Nyugdíjba vonulása után megírta egy könyvben a történetét, és az alábbi interjúban [beszámolt róla a Süddeutsche Zeitungnak is](https://www.sueddeutsche.de/projekte/artikel/gesellschaft/alemannenschule-ruppaner-schule-interview-revolution-unterricht-abgeschafft-e852296). Ezt fordítottuk le abban a reményben, hogy talán egyszer elvonul Magyarország fölül is az iskolarendszer komoly reformját minden szinten akadályozó és a gyerekek életét megkeserítő bürokrácia és fekete pedagógia. (Fóti Péter)
+
+Stefan Ruppaner majdnem húsz éven át vezette az Alemannenschulét a Fekete-erdőben található, Wutöschingen nevű kisvárosban. Ez idő alatt az egykori általános és középiskolát közösségi gimnáziummá alakította át, ahol mintegy 900 tanuló tanul önállóan. Ruppaner a <em>Precedenst teremthet</em> című (Anke Willers társszerzőségével) február 18-án a Rowohlt Kiadónál megjelenő könyvében írja le az odavezető, gyakran rögös utat. Egy videóinterjúban arról beszél, miért gátolja a tanítás a tanulást, és mire van szükség helyette. Csuklóján <em>„Ruppanerair 2024”</em> feliratú textil karkötőt visel. A tanítványai által szervezett ballagási ünnepségen kapta, amikor a repülésért rajongó tanáruk tavaly nyáron nyugdíjba vonult.
+
+<em>Süddeutsche Zeitung: Ruppaner úr! Több mint tíz éve lebontották az iskola épületének belső falait, hogy felszámolják a tantermeket. Miért?</em>
+
+Stefan Ruppaner: Mert akadályozták a tanulást. A korábbi években fokozatosan hagytuk, hogy a diákjaink egyre önállóbban dolgozhassanak. Egy adott ponton rájöttünk, hogy szükség van olyan térre, ahol a fiatalok önállóan tanulhatnak, nyugodtan, csendben. De szükség van olyan helyre is, ahol együtt dolgozhatnak, járkálhatnak, és halkan beszélgethetnek egymással. Ahol a tanárok is jól szemmel tartanak mindenkit. Erre az osztálytermi struktúrában nincs lehetőség. Ezután kialakítottunk tanulószobákat az egyénre szabott tanuláshoz, valamint egy úgynevezett „piacteret” a kooperatív tanuláshoz.
+
+<em>Radikális lépés.</em>
+
+De fontos lépés. A környezet a nevelés harmadik szereplője: a tanárok és az osztálytársak mellett ez is jelentős hatást gyakorol arra, hogyan tanul valaki. Az Alemannenschule jelenleg négy épületből áll. Mindegyikük nyitott tanulási környezetet biztosít.
+
+<em>Hol zajlik a „tanítás”?</em>
+
+Vannak úgynevezett oktatótermek, ahol a tanárok – mi tanulássegítőknek nevezzük őket – bemutatnak egy-egy új témát. De ez csak a fő tantárgyakat érinti, és csak heti néhány órában. Ezen túl nincsenek tanórák az Alemannenschuléban.
+
+<em>Miért nincsenek?</em>
+
+A hagyományos tanítás időpocsékolás. Mindenki számára. A tanárok részéről felesleges felkészítő munkát igényel. Sokkal rosszabb azonban, hogy megakadályozza, hogy a tanulók a saját tempójukban dolgozzák fel az anyagot. A hagyományos tanítás lényege, hogy valaki kiáll a katedrára, és mindenkit ugyanazon a gondolatmeneten és kognitív folyamatokon vezet végig. De a fenntartható tanulás nem így működik.
+
+<em>Így működnek az iskolák 150 éve.</em>
+
+Valamikor ez indokolt is volt. A tudomány segítségével azonban ma már sokkal többet tudunk a fenntartható tanulásról. Vegyük például a 2009-ben készült Hattie-tanulmányt. Az új-zélandi John Hattie oktatáskutató több mint 800 – a világ minden tájáról származó több mint 50 000 tanulmányra épülő – metaanalízis eredményeit vizsgálta. Az eredmény: a gyerekek maguk is nagy hatást gyakorolnak a tanulási folyamatra, amikor felváltva tanítanak egymásnak valamit – ezt a szakma kölcsönös tanulásnak hívja. És amikor mindenki a saját tempójában haladhat, azt gyorsulásnak nevezzük. Ezt a hagyományos órai keretek között nem tudom megvalósítani.
+
+<em>Hogyan néz ki egy iskolai nap tanórák nélkül?</em>
+
+Akinek kedve van, az a napot fél nyolckor zenével, művészettel vagy sporttal kezdheti. A délelőtt a fő tantárgyak és az elmélyült tanulás ideje. Ezt mi „önszerveződő tanulásnak” hívjuk. Ehhez a gyerekek letöltik az iPadjükre a megfelelő oktatócsomagokat a digitális platformunkról. Délután pedig a fő tantárgyakon kívüli tárgyakkal foglalkoznak. Itt interdiszciplináris klubokban tanulnak, ilyen lehet például a helytörténeti vagy a méhészeti klub. Vagy saját projektjeiken dolgoznak. E mögött a „tapasztalati tanulás” koncepciója húzódik meg. Az ilyen tanulás gyakran a tágabb közösségben és az iskolán kívül zajlik. Pillangópedagógiának neveztük el átfogó koncepciónkat, Wutöschingen címerállata után, amely iskolánk logójában is megjelenik. Az egyik szárny az önszerveződő tanulást, a másik a tapasztalati tanulást jelenti.
+
+<em>Elbírnak a gyerekek ekkora szabadságot?</em>
+
+Igen, nagyon jól bírják. Nálunk senki sem marad magára. Minden tanulótárs – így hívjuk a diákokat – hetente egyszer találkozik a mentorával, egy tanárral. Ilyenkor megbeszélik, hogy mit végzett az eltelt időben, és mit tervez a következő hétre. Minden tantárgyhoz tartozik egy kompetenciatábla, az adott tantárgy keretében elsajátítható készségeket és ismereteket felsoroló táblázat. Ebben rögzítik, hogy a gyerek milyen tanulási célokat ért már el. Annak érdekében, hogy mindenki betartsa a szabályokat, van egy értékelő rendszerünk is. Négy szint létezik, a kezdőtől a profiig. Ez határozza meg, mekkora önállóságot élvezhet az adott gyerek. A kezdők munkáját szorosan felügyeljük, a profik viszont saját kulcsot kaphatnak az iskolához. Este vagy hétvégén is bejöhetnek. Aki megbízhatónak bizonyul, az magasabb kategóriába kerül, aki pedig bajt csinál, az alacsonyabb szinte csúszik vissza.
+
+<em>És mi van, ha valakinek nincs kedve tanulni?</em>
+
+Azt is elfogadjuk. Mentorként időnként megkérdezem: Akarsz még állatorvos lenni? Akkor ideje lenne csinálni valamit, mert ehhez a szakmához tanulni kell. Ha nem szeretnél tanulni, talán jobb választás lenne az állatgondozói munka. Szeretek úgy gondolni magunkra, tanárokra, mint vendéglátókra, a diákokra pedig mint vendégekre: mi készítjük az ételt, mi terítünk, de mindenki maga dönti el, mit eszik. Az Alemannenschuléban senkibe nem tömjük az ételt. De kijelenthetem, hogy a gyerekek és fiatalok túlnyomó többsége tanulni akar.
+
+<em>Mi motiválja Önt? Sok tanár és szülő úgy véli, hogy a fiatalok nem tesznek semmit a tanulás érdekében külső nyomás nélkül.</em>
+
+Kezdetben volt egy pihenősarkunk, benne több kanapé, azoknak, akiknek nincs kedve tanulni. Az első napokban jó sokan töltötték itt az idejüket, de két héttel később már nem volt ott senki. A gyerekek rájöttek: senki nem kényszerít semmire, minden rajtam, a saját döntésemen múlik. Adtunk nekik időt, hogy újra megtalálják saját belső motivációjukat. Minden gyereknek van beépített „tanulómotorja”. Fantasztikus látni, hogyan pörgetik fel ezt a motort a saját energiájukkal. Sajnos ez az öröm gyakran elveszik, amikor elkezdenek iskolába járni. Mert ott a tanulás kényszerrel, szorongással és vizsgadrukkal jár.
+
+<em>Hogyan történik az értékelés az Alemannenschuléban, ha mindenki a saját tempójában tanul?</em>
+
+A sikernek vannak mérőeszközei. Ezek olyan tesztek, amelyekre mindenki maga jelentkezhet, miután jól felkészült egy adott tárgykörből. Ha nem sikerült a teszt, még kétszer próbálkozhat. Az eredményességnek három különböző szintje van: a minimumszint, a középszint – ezt sok gyerek elérheti, de ez nem feltétlenül szükséges –, valamint a profi szint a különösen motiváltak számára. Mivel az évfolyamokat is megszüntettük – itt inkább szintekről beszélünk –, a gyerekek még nagyobb rugalmasságot élveznek. Aki számára könnyű a matematika, az akár a nyolcadik szintet is sikerrel teljesítheti, akkor is, ha a többi tantárgyból még a hetedik szintnél tart. Ez a jó az egyénre szabott tanulásban: mindenki azt eheti, amire szüksége van.
+
+<em>Jól hangzik, de a diákjai a hagyományos vizsgákat is le tudnák tenni?</em>
+
+Természetesen, ráadásul nagyon jó eredménnyel. Tanulóink rendszeresen részt vesznek az úgynevezett VERA-teszteken. Ezek olyan összehasonlító tesztek, amelyeket az egész országban a harmadik és a nyolcadik osztályosok írnak. Tanulótársaink rendszeresen átlagon felül teljesítenek. Például a nyolcadikosok különösen jók a helyesírás és az olvasás terén, pedig már nincs is németórájuk. Az első érettségizőink átlaga 2022-ben 1,7 volt. Baden-Württembergben az átlag 2,17 volt, majdnem fél osztályzattal alacsonyabb.[fn]Németországban a legjobb osztályzat az 1-es, a leggyengébb a 6-os.[/fn] Tehát nem kell amiatt aggódni, hogy csökken a teljesítménye azoknak a gyerekeknek, akik a rendszerünkben tanulnak. Épp ellenkezőleg!
+
+<em>Az iskolának jelenleg több mint 900 tanulója van, de nagyon vidékies környezetben található.</em>
+
+Ennek ellenére Wutöschingen nem idilli környezet oktatási szempontból. A városkának csak 7000 lakosa van, közülük sokan az alumíniumgyárban dolgoznak, körükben jelentős az aluliskolázottság. Amit az Alemannenschule csinál, az máshol is működhet.
+
+<em>Amióta 2019-ben és 2021-ben Ön elnyerte a Német Oktatási Díjat, rengeteg tanár és iskolaigazgató látogatott el ide, mert szeretnék megismerni az iskola koncepcióját. Mit tanulhatnak Öntől, ha nem akarják azonnal kiverni a falakat?</em>
+
+Sok iskola alkalmazza az önszerveződő tanulás módszerét, és engedi, hogy diákjai heti néhány órát így tanuljanak. Vagyis kapnak az egyes témakörökhöz kapcsolódó különféle anyagokat, amelyeket a saját tempójukban dolgozhatnak fel. Ez nem rossz dolog, de szerintem ez csak az első lépés a tanórai keretek lebontása felé. Nehéz kombinálni a strukturált tanítást és a önálló munkát. Ez egyszerűen nem felel meg a heterogén tanulói közösség igényeinek. De megértem azokat, akik nem akarnak vagy az előírások miatt nem tudnak mindent azonnal kidobni az ablakon. Én is fokozatosan, lépésről lépésre találtam meg a saját utamat.
+
+<em>Majdnem 50 éves volt, amikor elindult ezen az úton.</em>
+
+2007-ben véletlenül találkoztam [<em>A jövő melegházai</em>](https://youtu.be/foxcULxYcUs?si=9YBYcYIJ_Sbsq2sq) című dokumentumfilmmel. A rendező, Reinhard Kahl ellátogatott különböző alternatív iskolákba. Az egyik ilyen Friedrichshafenben van, nem messze innen. Ez felkeltette a kíváncsiságomat. Meglátogattam az iskolát, és lenyűgözött, hogy a gyerekek mennyire önállóan és koncentráltan dolgoznak ott. Nem tudtam elképzelni, hogy ez a diákjainkkal is működhet. Bevallom, nem nagyon bíztam bennük.
+
+<em>Ennek ellenére belevágott.</em>
+
+Kezdetben ez egyáltalán nem a tanulásról szólt. Csak azt akartam, hogy javuljon az iskolai légkör, és hogy nagyobb tisztelettel bánjunk egymással. Az első lépés az volt, hogy nem nyolc óra előtt 5 perccel nyitottuk csak ki az iskola kapuját – ilyenkor mindenki rohant befelé, amit mindannyian nagyon utáltunk. Megkértem a tanárokat, hogy reggel tíz perccel korábban legyenek az osztályteremben, és olyan melegen üdvözöljék a gyerekeket, mintha vendégek volnának. Azt hitték, megőrültem.
+
+<em>A következő években tovább változtak – mondhatni, le is omlottak – a tanári szerepek.</em>
+
+Ha a hatalmat és a státuszt fontosnak tekintjük, akkor ez igaz. A tanáraink nem állnak ki a katedrára, és nem „prédikálnak” a diákoknak. Ehelyett társukul szegődnek és támogatják őket, cserébe viszont le kell mondaniuk a kontroll nagy részéről. Szorosan együttműködnek a kollégáikkal is. Nyilván ezt is meg kell szokni.
+
+<em>Hogyan sikerült ilyen alapvető változásokat végrehajtani egy állami iskolában?</em>
+
+Egyszerűen kihasználtuk a rendszer adta mozgásteret, és az első években az Oktatási Minisztérium radarja alatt maradtunk. 2011-től zöld-vörös koalíció kormányzott, amely támogatta a nagyobb egyenlőséget az oktatás terén. Akkoriban váltunk közösségi iskolává, ahol a tanulók együtt tanulhatnak, és különböző végzettségeket szerezhetnek. A svájci iskolaalapító, Peter Fratton is támogatott minket, ő tette világossá számomra, hogy a hozzáállás fontosabb, mint a részletes koncepciók. Később azonban nem kevés ellenállást tapasztaltam az oktatásirányítás részéről. Még személyes zaklatást is tapasztaltam.
+
+<em>Senki sem tagadja, hogy az iskolarendszert meg kell reformálni. A tanulmányok szerint egyre több az olyan fiatal, aki nem tanul meg rendesen olvasni és számolni az iskolában. Miért nem másolják széles körben az Önök koncepcióját?</em>
+
+Az oktatásügyi hatóságok és az illetékes minisztériumok felelőseinek nem azzal van a gondjuk, hogy ne lenne elegendő tudásuk, hanem azzal, hogy nem akarnak tudni semmit. Egyszerűen nem akarnak tudomást venni a helyzetről. Nehezen tudom elviselni, hogy kínozzuk a gyerekeket egy rendszerrel, amely oly sokakat cserben hagy, és nem hoz jó eredményeket. Egyébként úgy gondolom, hogy az apró változtatások ideje már lejárt. Nincs itt már mit megreformálni, forradalomra van szükség. A tanítás, a merev hierarchia: ezek akadályozzák, hogy a gyerekek önálló, magabiztos és kreatív felnőttekké váljanak.
+
+Fordította: Juhász Vera.
+
+Kapcsolódó oldalak:
+
+<ul><li class="rtejustify"><a href="https://www.foti-peter.hu/blog/hannelore-zehnpfennig-miert-hagytam-fel-a-frontalis-tanitassal/">Hannelore Zehnpfennig: Miért hagytam fel a frontális tanítással?</a></li><li class="rtejustify"><a href="https://upszonline.hu/index.php?article=731112006">Falko Peschel: Gyakran ismételt kérdések a nyitott tanítás és a demokratikus iskola kapcsán</a></li><li class="rtejustify"><a href="/darrington_hall">Fóti Péter: Bill Curry és a Dartington Hall Iskola</a></li></ul>

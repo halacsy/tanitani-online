@@ -1,0 +1,63 @@
+---
+title: Igazságosság és empátia
+migratedId: 1435
+overrideMigrated: true
+authorSlugs:
+  - foti-peter
+date: '2026-08-02'
+tags:
+  - nevelés
+  - tanulás
+  - demokratikus nevelés
+  - pedagógus
+excerpt: >-
+  George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása A mai
+  pedagógiai viták gyakran az empátia és a következetesség szembeállításáról
+  szólnak. Mintha választani kellene együttérzés és szabályok között. Dennison
+  szerint ez hamis dilemma. A valódi igazságosság éppen abból születik, hogy
+  előbb megpróbáljuk…
+coverImage: /sites/default/files/dennison.jpg
+coverAlt: Igazságosság és empátia
+reads: 1602
+---
+<strong>George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása</strong>
+
+> A mai pedagógiai viták gyakran az empátia és a következetesség szembeállításáról szólnak. Mintha választani kellene együttérzés és szabályok között. Dennison szerint ez hamis dilemma. A valódi igazságosság éppen abból születik, hogy előbb megpróbáljuk megérteni a másik embert. Az empátia tehát nem helyettesíti az igazságosságot, hanem megalapozza azt.
+
+<img alt="Fóti Péter" src="/sites/default/files/foti_portre_nagy.jpg" style="width: 210px; height: 315px; float: left; margin-right: 15px;">George Dennison neve ma elsősorban azok számára ismert, akik érdeklődnek a demokratikus nevelés, a szabad iskolák vagy a gyermeki szabadság kérdései iránt. Pedagógiája azonban sokkal többről szól, mint egy alternatív iskola megszervezéséről. Írásaiban újra és újra ugyanahhoz az alapvető kérdéshez tér vissza: hogyan kell bánnunk a gyerekekkel, ha valóban embereknek tekintjük őket? Erre a kérdésre nem módszertani, hanem erkölcsi választ ad. Meggyőződése szerint az iskola nem elsősorban tanítási intézmény, hanem emberi kapcsolatok színtere. Ezeknek a kapcsolatoknak pedig két alapvető erkölcsi pillére van: az igazságosság és az empátia.
+
+A mai iskolarendszerek többnyire az igazságosság fogalmából indulnak ki. Ugyanazokat a szabályokat alkalmazzák mindenkire, egységes követelményeket állítanak fel, objektív értékelésre törekednek. Ez első pillantásra méltányosnak tűnik. Dennison azonban arra figyelmeztet, hogy az egyenlő bánásmód még nem feltétlenül igazságos. Az emberek nem egyformák, élethelyzeteik sem azok. A pedagógusnak nem egyszerűen szabályokat kell alkalmaznia, hanem meg kell értenie azt az embert, aki előtte áll.
+
+Ezért olyan fontos számára az empátia. Nem pusztán kedvességet vagy jóindulatot ért alatta, hanem azt a képességet, hogy a tanár képes legyen a gyermek szemével látni a világot. Csak ezután következhet minden más.
+
+Ez a gondolat már [<em>A gyerekek élete</em> első fejezetében](https://www.demokratikusneveles.hu/blog/dennison-first-street-school-1/) megjelenik. Dennison szerint az iskola legfontosabb sajátossága nem a tanterv, nem a tantárgyak, hanem az, hogy a gyerekek és a tanárok között valódi emberi kapcsolatok alakuljanak ki. Az iskola gerincét nem az adminisztráció, hanem ezek a kapcsolatok adják. A tanulás a növekedés része, ezért a tanár feladata nem csupán a tanítás, hanem a gyerekek életével való törődés. Az iskola lényegét nem épületekben vagy szabályzatokban kell keresnünk, hanem a gyerekek és felnőttek közötti viszonyokban.
+
+Ez a gondolat gyökereiben rokon Jean-Jacques Rousseau pedagógiájával. Rousseau az Émile-ben azt írja, hogy a nevelő első feladata nem a tananyag átadása, hanem a gyermek természetének megértése. A fejlődést nem lehet siettetni. A nevelőnek gyakran éppen az a dolga, hogy türelmesen kivárja, amíg a gyermek saját kérdései megszületnek. Dennison maga is idézi Rousseau híres mondását: <em>„Az oktatás legfontosabb szabálya: az idővel való takarékoskodás helyett el kell azt vesztegetni.”</em> Ez a kijelentés első pillantásra meghökkentőnek tűnik, valójában azonban ugyanazt fejezi ki, mint egész pedagógiája: a kapcsolat fontosabb, mint a sietség, a fejlődés fontosabb, mint a teljesítmény.
+
+Ennek a szemléletnek talán a legszebb példája Maxine története. A hagyományos iskola problémás gyereknek tekintette, fegyelmezni akarta, végül már a kicsapását fontolgatta. Dennison azonban egészen másként közelített hozzá. Nem azt kérdezte, hogyan lehetne megfékezni ezt a kislányt, hanem azt, hogy mit akar valójában közölni viselkedésével. Arra jutott, hogy minden lázadása valójában segítségkérés volt. „Foglalkozzatok velem, foglalkozzatok az életemmel!” – ezt hallotta ki a viselkedéséből. Nem a szabályszegést látta, hanem a mögötte álló embert.
+
+Ugyanez a szemlélet jelenik meg José és Willard történetében is. Az állami iskolarendszerben a két fiú valószínűleg egész életében ellenség maradt volna. A rasszizmust nem előadások vagy erkölcsi prédikációk számolták fel közöttük. A tanárok nem tartottak nekik toleranciaórákat. Egyszerűen létrehoztak egy olyan közösséget, ahol a két fiú fokozatosan megismerhette egymást. A személyes kapcsolat lassan lebontotta a fantáziákból és félelmekből felépült előítéleteket. Mire az iskola véget ért, már barátok voltak, José pedig sírva búcsúzott Willardtól, mert tudta, hogy a külvilágban ismét ugyanazok a társadalmi erők fogják őket egymással szembeállítani.
+
+Dennison számára tehát az empátia nem valamilyen érzelgős hozzáállás. Inkább megismerési módszer. A tanár folyamatosan igyekszik rekonstruálni a gyermek belső világát. Nem azért, hogy felmentse, hanem azért, hogy megértse. A viselkedés mögött mindig valamilyen emberi szükséglet húzódik meg.
+
+Éppen ezért különösen érdekes Dennison rövid esszéje, amelynek címe: <em><a href="https://www.demokratikusneveles.hu/blog/dennison-szeretet-igazsagossag/">Szeretet vagy igazságosság?</a></em> A cím első pillantásra azt sugallja, mintha választani kellene a kettő között. A szöveg azonban egészen más következtetésre jut.
+
+Dennison szerint nem lehet minden gyereket szeretni ugyanúgy. A szeretet mindig személyes. Egy konkrét emberhez kötődik. Nem osztható szét egyformán egy egész osztály között. A pedagógus nem képes ugyanazzal az intenzitással szeretni húsz vagy harminc gyereket egyszerre.
+
+Van azonban valami, amit minden gyereknek meg tud adni.
+
+<em>„Figyelem, megértés, türelem, gondoskodás, és mindenek felett igazságosság.”</em>
+
+Ez a mondat kulcsa egész pedagógiájának.
+
+Dennison szerint az igazságosság valójában a szeretet általánosított formája. Olyan szeretet, amely már nem egyetlen emberre irányul, hanem minden emberre egyformán. Az igazságosság tehát nem a szeretet ellentéte, hanem annak társadalmi formája. Ezért írja azt is, hogy a szeretet hiányát egy gyermek még túlélheti, de az igazságosság hiánya mélyen eltorzítja személyiségét. Az igazságtalanság gyanakvóvá teszi, képtelenné a bizalomra, és valóságképét egészen a gyökerekig meghamisítja.
+
+Ez a gondolat rendkívül fontos. A mai pedagógiai viták gyakran az empátia és a következetesség szembeállításáról szólnak. Mintha választani kellene együttérzés és szabályok között. Dennison szerint ez hamis dilemma. A valódi igazságosság éppen abból születik, hogy előbb megpróbáljuk megérteni a másik embert. Az empátia tehát nem helyettesíti az igazságosságot, hanem megalapozza azt.
+
+Ez a szemlélet hatja át az Első Utcai Iskola egész működését. A gyerekeknek joguk volt nemet mondani. Joguk volt unatkozni. Joguk volt vitatkozni. Joguk volt kilépni egy tevékenységből. A tanárok ugyanakkor komoly elvárásokat támasztottak velük szemben. A szabadság nem jelentette a követelmények hiányát. A konfliktusokat nem próbálták megszüntetni, mert tudták, hogy ezek a fejlődés természetes részei. A különbség csupán annyi volt, hogy a konfliktusokat nem hatalmi kérdésként kezelték, hanem kölcsönös alkalmazkodási folyamatként.
+
+Ezért neveztem ezt az iskolát [„a szegények Summerhilljének”](https://www.demokratikusneveles.hu/blog/a-szegenyek-summerhillje/). A First Street School ugyanis nem jómódú családok gyermekeivel dolgozott, hanem New York egyik legszegényebb negyedének huszonhárom gyerekével. Olyan gyerekekkel, akik közül sokan már kudarcot vallottak az állami iskolában, akik szegénységben, rasszizmusban, erőszakban éltek. Mégis éppen náluk bizonyosodott be a legerősebben, hogy a fejlődés kulcsa nem a szigorúbb fegyelmezés, hanem a bizalomra épülő emberi kapcsolat. Amikor sikerült helyreállítani ezt a kapcsolatot, a tanulás is megindult. A személyiség változása megelőzte a tanulmányi eredmények javulását.
+
+Dennison pedagógiája ezért ma is rendkívül időszerű. Egy olyan korban, amikor az iskolák egyre inkább mérési eredményekben, kompetenciákban és standardokban gondolkodnak, emlékeztet bennünket arra, hogy a nevelés mindig emberek között történik. Az igazságosság nem egyszerű szabályalkalmazás, hanem a másik ember méltóságának elismerése. Az empátia pedig nem gyengeség, hanem annak előfeltétele, hogy valóban igazságosak tudjunk lenni.
+
+Talán ez George Dennison legfontosabb öröksége. Az iskola nem attól válik emberivé, hogy több szabályt alkot, hanem attól, hogy a gyerekeket nem problémáknak vagy tanulóknak, hanem teljes emberi életet élő személyeknek tekinti. Ha ez sikerül, akkor az igazságosság már nem kívülről kényszerített rend lesz, hanem a kölcsönös tiszteletből és megértésből természetesen megszülető emberi kapcsolat.

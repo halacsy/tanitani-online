@@ -1,0 +1,87 @@
+---
+title: Identitáskeresőben
+migratedId: 1231
+overrideMigrated: true
+authorSlugs:
+  - trencsenyi-laszlo
+date: '2024-01-17'
+tags:
+  - alternatív iskolák
+excerpt: >-
+  Az alternatív iskolák a humanista pedagógia jegyében. Trencsényi László
+  recenziója Humanista Pedagógia. Szerk.: Czike Bernadett. Szabad Iskolákért
+  Alapítvány, Budapest, 2023.
+coverImage: /sites/default/files/humanista.jpg
+coverAlt: Humanista pedagógia
+coverTitle: Humanista pedagógia
+reads: 2323
+---
+<strong>Az alternatív iskolák a humanista pedagógia jegyében. Trencsényi László recenziója</strong>
+
+> Humanista Pedagógia. Szerk.: Czike Bernadett. Szabad Iskolákért Alapítvány, Budapest, 2023.
+
+<em>Úgy néztem magamra mindig,</em><br><em style="font-size: 1em;">ahogy csodára nézni illik,</em><br><em style="font-size: 1em;">csodára, az ember fiára,</em><br><em style="font-size: 1em;">kezeire, nyírott hajára.</em><br>(Szécsi Margit)
+
+Az alternatív pedagógiákról (így többesszámban), s elődeikről, a reformpedagógiákról annyit biztosan tudunk, hogy a XX. század elején, majd később is több jellegzetes hullámban – megannyi kritikai indulattal fűtötten, optimista jövőképpel – jelentek meg a nevelési intézmények világában. Vajon tudtak-e egymásról a nagy iskolateremtők? Keresték-e közös vonásaikat, vagy éppenséggel versenyeztek egymással (is) az elterjedésretörekedve? Van példa az öntudatos szuverenitásra, van példa – különböző történeti időkben – laza nemzetközi hálózatosodásra is (ez utóbbit hol serkentette, hol pedig éppenséggel akár erőszakkal is korlátozta bizonyos – nem is mindig egy tőről fakadó – politikai akarat).
+
+Milyen társadalmi kihívásokra válaszul jöttek létre? A modernitás – de a modernitás önfeledt igenlése (mint a művészetben a futurizmus) – vagy a modernizációnak már-már a posztmodernt előhívó korai kritikája, mint az életreform-exodusokban?
+
+Válságjelek: atársadalom, benne a nevelési intézményrendszer diszfunkcióira adott válaszok vagy a progresszió diadalútja? (Hogy diadalmenet volt-e terjedésük, vagy mégsem, e kérdést most tegyük félre.)
+
+Más írásaimban a reformpedagógiák társadalom- és emberképét elemezve két „narratívát” vázoltam fel. Az egyikben – fentiek szerint – a „kivonulás” (pedagógiai szigetek, mondhatni kommunák) a jelenség lényegi motívuma, a másikban pedig éppenséggel a „bevonulás”; az iskola és a társadalom organikus integrációjának helyreállítása vagy éppen új módonvaló megszervezése.
+
+Milyen társadalmi csoportok szükségletei dajkálták a reformpedagógiákat/alternatív pedagógiákat? A modern kapitalizmus új elitje szabadult volna a tömegoktatás bilincseiből, vagy éppenséggel a tömegoktatás viszonyai között valójában hiába bukdácsoló, a szegénység demotivációját cipelő kortársaktól? (Csak emlékeztetek: ez utóbbi volt a ’36-os szovjet s a ’48-as magyar, pedológiát betiltó határozatok ideológiai bázisa.)
+
+Vagy éppen ez utóbbi páriák iskolai sikerei – iskolai sikerei? A most ismertetett, reflektált kötetben említést ugyan nem kapott Paolo Freire-vel szólva: <em>felszabadításuk</em> érdekében születtek új pedagógiák? A – nem kis részt pszichológiai szempontokra tekintő – adaptivitás, a szociokulturális különbségek előnyt is hordozó potenciáljára figyelő új tevékenységek, új tudások legitimációja jutott szóhoz e pedagógiákban (legalábbis karakteres részükben, Kerschensteinertől Freinet-n át Makarenkóig – a kényesebb ízlésűeknek utóbbi helyett Blonszkijig – vagy éppen a nép dalait tananyaggá szervező Kodályig)?
+
+Vagy a modernizálódó, urbanizálódó, szekularizálódó világban versenyképességre törő, mobilitásra igyekvő középosztály keresett, követelt s talált magának új iskolát?
+
+Vagy mégse járható út az elemzésben ez az „osztályharcos”, szociologikus értelmezési kísérlet?
+
+Vagy a gyermek jogainak egyre markánsabb megfogalmazása nyomán formálódtak az új pedagógiák? A tolsztojánus orosz Ventcel, majd a kötetben is emlegetett Freinet, végül a kollektív szakmai emlékezetünkből sajnálatosan annyira hiányzó Janusz Korczak követeléseire gondolok.
+
+Vagy egyszerűen az a közös a reformpedagógia/alternatív pedagógia jelenségvilágában, hogy a „körmös”, a „tintaleves-papírgaluska”, a „magolás-puskázás” pedagógiáját egyre több nebuló utasította vissza – olykor meglehetősen harsányan – a mindennapok iskoláiban, s a tanítók, tanárok egy része az iskolai boldoguláshoz, nyugalomhoz, az „iskolabékéhez” új technikákat keresett?
+
+Tudjuk be az egészet a „szakma” szinteegyenes vonalú fejlődésének, a gyermekről, tanulásról, tudásról keletkezett s elterjedt új tudományos eredmények nyomán keletkezett csaknem normális evolúciónak? Ahogyan a XX. század új, egyre inkább empirikus tudományainak (pszichológia, szociológia, némi késéssel a kulturális antropológia, egy ideig integrált nevén: gyermektanulmány) eredményei, ha nem is zökkenőmentesen, erőszakos vagy spontán visszarendeződésekkel, de behatoltak a mindennapi óvodai, iskolai, kollégiumi, nevelőotthoni praxisba s átalakították a pedagógiai kultúrát, vagy előbb-utóbb normává váltak, vagy éppen a legitimáció levegőjéhez jutó kisebbségi nekibuzdulások érvrendszerét gyarapították.
+
+A SZIA (Szabad Iskolákért Alapítvány) csapata alighanem ez utóbbi paradigmát választotta identitása kifejezésére. Kik is a SZIA-csapat tagjai? A rendszerváltással meg-/újraindult hazai „iskolamegújító” műhelyek (eleinte a kísérleti intézmények védjegyét megszerző, később magukat alternatívnak nevező nevelőintézmények alkotó kedvűés gyermekszerető munkatársai – az új demokrácia újrafényesedő szellőitől erőre kapva új iskolákat teremtettek. Jobbára akkor fiatal emberek (a kontinuitás jelképes személyiségei között tán néhai – a Sorbonne-n tanult, ám a Vörös Hadsereg egyenruhájában hazatérő, a NÉKOSZ élére álló – Mérei Ferencet, az antropozófus Török Sándort, a „karácsonyista” művészetpedagógus Székácsné Vida Máriát, a Györffy-kollégista drámapedagógus Mezei Évát – lánya ma is a Burattino Iskola vezetője –, s a szerencsénkre még köztünk élő, alkotó, hajdan a Nagy László/Domokosné-féle Új Iskolában tanult, majd Leveleki Eszter Pipeclandjában felserdült, az egész napos iskola úttörőjeként ismert Kereszty Zsuzsát emlegethetjük. Számomra öröm, hogy a kötet beemelte az elődök közé a kisdednevelés nagy (mostanában vitatott) innovátorát, Pikler Emmit is.
+
+De a kérdés ettől még kérdés: a rendszerváltásban felnőtté váló innovátorok keresték-e történelmi előzményeiket vagy nem? Ha a legitimációhoz nemzetközi presztízsre (netán támogatásra) volt szükség, akkor keresték e hivatkozásokat – ezen a kapcsolaton erősödött meg a Waldorf-mozgalom, a több buktató kísérte Montessori-, vagy Freinet-adaptáció.
+
+Mások a ’85-ös törvényt követő pezsgésben nagy tájékozódási kedvvel összegyűjtött innovációk elemeiből saját ötvözet, eredeti konstrukció összeállítására törekedtek – emlékeim szerint hol féltve őrizve, hol boldogan megosztva „jó gyakorlataikat” (bár akkor ezt a fogalmat még nem ismertük). Karakteres entitás lett például a Lauder, a Belvárosi Tanoda, a Gyermekek Háza, az AKG, a Közgazdasági Politechnikum, a Novus, a Burattino, a Kedvesház, a Montessori Oktatási Centrum, az Edelényi Munkaiskola, a Kürt, az Életfa (több intézmény is létrejött e névvel), a Kincskereső, a Zöld Kakas, majd az Ámbédkar. S ne feledjük a személyközpontú pedagógiák ideológusára is rátalált Rogers Iskolát sem.
+
+Mi tagadás, a ’93-as oktatási törvénybe foglalt ún. „kétszintű tartalomszabályozás” voltaképpen olyan iskolarendszert vizionált, melyben a mainstream, hagyományos, tömegiskola (lám erre sincs egzakt, jó szavunk) fogalma is értelmét veszítette volna, hiszen <em>saját – </em> egyediként tételezett – pedagógiai programjával, valóban helyi tantervével minden iskola lényegében az összes többi alternatívája lehetett – „marketingjében” az egyediség, a valóságos helyi szükségletek és helyi tradíciók hangsúlya kaphatott szerepet. A Magyar Bálint nevéhez kötődő irányított innovációtámogatás idején – legalábbis így tűnt – az „alternatívok” pedagógiai kultúrája is érzékelhetően (ha nem is fenntartások nélkül, és a nem mindig sikeres implementációs technikák miatt akadozva) terjedt az intézmények világában.
+
+Aztán (komplex okainak feltárása nem e recenzió tárgya) az „új” fényes szelekre korai fagyok jöttek. Az „alternatívok” szekértáboraikba vonultak vissza, némelyeknek az állami figyelem és támogatás elapadása miatt komoly fenntartási válsággal is kellett küzdeniük. Másutt a klientúra összetétele – vagy éppen „megrendelése” – változott.
+
+Ez a sajátos helyzet késztette a SZIA Műhely hűséges aktivistáit, hogy összefoglalják, rendszerezzék e – gyakran spontán szerveződő – pedagógiai kultúra elemeit, egységes elméletet teremtsenek e jelenségvilág köré. S ehhez a rendszerezési kísérlethez szolgált alapul az a teória, mely a rogersi tanítások hazai interpretációját (nem kis részt a Klein Sándor nevéhez köthető „Rogers-kultusz” útmutatásait, de alapvetően Bányai Éva és Varga Katalin Affektív pszichológia c. könyvénektanulságait) jelenítette meg, s melyet pedagógiára alkalmazva Czike Bernadett foglalt össze a kötet bevezető tanulmányában.(A jeles szerző már próbálkozott hasonlóval: elsősorban német szakirodalomból formált neveléselméleti kézikönyvet Bevezetés a pedagógiába címmel.)
+
+Tehát a megtalált elmélet elnyerte a „humanista” nevet.
+
+E nemes jelző jelentése értelmezést kíván. A „humanista” terminust ókori tradíciók nyomán (csak emlékeztetek Terentius közismert mottójára:„…semmi sem idegen tőlem, ami emberi”) a reneszánsz gondolkodói használták. Témánk szempontjából is fontos megidézni Dante híres sorát a Színjátékban Odüsszeusz hitvallásáról. Most ne a babitsi fordításra gondoljunk, hanem az eredeti olasz szöveg tartalmát kövessük: „gondoljatok a belétek vetett magra” – írta a költő, kifejezendő, hogy az odüsszeuszi kíváncsiság és vakmerőség <em>eredendően humán </em> – emberi – vonás. A jelző később az újkorban (elemzők szerint némi jelentéstorzulással) a klasszikus gimnáziumok (tradicionális tartalmak) jellemzője lett. Még később a marxizmus emberképében, utópiájában is meglelhetjük a szó jelentését: ez az <em>emberi lényeg kibontakoztatása. </em> Nevelési célként, eszményként is megjelent. (Ezúttal nem feladatunk az eszmények és a praxis feszültségének elemzése.)
+
+A könyv interpretációjában nem egészen erről van szó. De az <em>emberi lényeg </em> kereséséről igen.
+
+A maslow-i szükségletpiramis magasabb rendű stációira figyelő <em>motivációrendszer</em>ben azok az elemek nyernek hangsúlyt, melyek jellegzetesen humánspecifikusak – az élővilág más fajainálnem fordulnak elő. S az <em>új pedagógiát </em> ezen ismérvek alapján rendezik csokorba:
+
+<ul><li class="rtejustify">affiliáció és intimitás,</li><li class="rtejustify">autonómia,</li><li class="rtejustify">önmegvalósítás,</li><li class="rtejustify">teljesítménymotiváció,</li><li class="rtejustify">kompetenciamotívum,</li><li class="rtejustify">transzcendencia.</li></ul>
+
+A fogalmak értelmezésétől, leírásától eltekintek. Annyit azért jelzek, hogy a „humanista” értékrendben emberi mivoltunkhoz, nembeli lényegünkhöz csupa a pozitív értéktartományban található motívum jelenik meg. Mintha a teóriaalkotók a híres szophoklészi kardal nevezetes sorából („Sok van, mi…”) továbbra is a “csodálatos” jelzőt olvasnák ki, azt a szót, melyet a frissebb fordítások inkább „szörnyűségesnek” értelmeznek.
+
+A motívumok áttekintő-rendszerező táblázatokban való bemutatásakor már-már felidéznek – messze a teljesség igénye nélkül – (akár történeti) példákat is (megjelenik pl. Neill), de a tanulmánykötet már a SZIA Műhely törzstagjaira fókuszált. Egy-egy motívumban különösen jeleskedő, azt különösképp vállaló iskola tapasztalatait ismerjük meg a motívumrendszer logikáját követve. Így szó esik az AKG Általános Iskolájáról, a Rogers Iskoláról, a Waldorfról, a Belvárosi Tanodáról, a Lauderről, a Közgazdasági Politechnikumról, Freinet-ről s mintegy meglepetésként: Pikler Emmiről.
+
+A krónikaíró emlékeztet arra, hogy egykoron Benda Józsefék szépreményű innovációja is a humanisztikus-kooperatív tanulás elnevezést viselte, egyebek közt a rogersi hagyományban is keresve helyét.
+
+A szövegek hangsúlyaiból kitűnik, hogy – akárhogy is – az egyes műhelyek a „humánspecifikus motívumrendszer” egy-egy elemét karakterisztikusabban viselik, mint a másikat (pl. a transzcendencia-motívum jóformán csak a Waldorf-iskola sajátja. (Most arról nem is beszélve, hogy ez utóbbi motívum keretei közt értelmezhető, hangsúlyosan evilági, a személyes partikularitáson túlemelkedő, akár lokálpatrióta, akár nemzeti, akár európai, akár globális identitások fel sem merülnek.)
+
+Nincs ezzel bajom. Az „alternatívok” egymáshoz képest is alternatívok – a motivációrendszer 6 eleme nem kipipálandó „checklist”, inkább a sarkcsillaghoz vezető Göncöl-szekér egy-egy csillaga.
+
+S más csillagképek ezen a horizonton?
+
+Ezúttal is fájdalmasan hiányolom – igaz, nem sorolódtak a SZIA-műhelyhez – azokat a hagyományos értelemben vett humanista innovációkat (Mihály Ottó az „iskola humanizálása” név alatt róluk is szólt pedig meghatározó egykori tanulmányában), melyek „említése” egy-egy lábjegyzet erejéig odaférhetett volna:aGáspár László-Loránd Ferenc-féle kísérleteket a „szocialista nevelőiskola” égisze alatt, vagy a nyitott iskola (open education), közösségi iskola, nevelési központ törekvéseit – Pécstől Sármelléken, Csepelen át, mondjuk Mezőhegyesig.
+
+Igaz, ez utóbbiak szekértáborai már „elestek” a nagy visszarendeződésben. Tapasztalataik immár történetiek.
+
+Mindezzel együtt korszakos, fontos mű a Humanista Pedagógia. Jelentős kísérlet az „alternatív pedagógia” átfogó identitásának megfogalmazására – igényes pszichológiai alapokon.
+
+A szociologisztikus narratíva megfogalmazását majd elvégzik mások.

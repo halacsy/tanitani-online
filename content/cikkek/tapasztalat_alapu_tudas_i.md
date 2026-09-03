@@ -1,0 +1,99 @@
+---
+title: Tapasztalat Alapú Tudás I.
+migratedId: 1148
+overrideMigrated: true
+authorSlugs:
+  - gyarmathy-eva
+  - kokenyesi-imre
+date: '2022-09-04'
+tags:
+  - oktatás
+  - kompetencia
+excerpt: >-
+  Gyarmathy Éva és Kökényesi Imre írása A partneri kapcsolat azt jelenti, hogy a
+  mediátor és a tanuló is sokat tud a tanuláshoz hozzátenni, vagyis együtt kell
+  működniük.
+coverImage: /sites/default/files/eperience-based.jpg
+coverAlt: 'Forrás: https://www.gettingsmart.com/'
+coverTitle: 'Forrás: https://www.gettingsmart.com/'
+reads: 4199
+---
+<strong>Gyarmathy Éva és Kökényesi Imre írása</strong>
+
+> A partneri kapcsolat azt jelenti, hogy a mediátor és a tanuló is sokat tud a tanuláshoz hozzátenni, vagyis együtt kell működniük. 
+
+<img alt="Gyarmathy Éva" src="/sites/default/files/gyarmathy_eva-w200.jpg" style="width: 200px; height: 200px; margin-right: 13px; float: left;">A MTA Közoktatásfejlesztési Projektjének részét képező Tapasztalat Alapú Tudás módszertannal nem programot adunk, hanem a gyerekekre épülő módszertant, amelyet a pedagógusok szakmai tudásuk szerint alkalmaznak. Százéves ismereteket felhasználva a száz éve idejétmúlt oktatás helyett hatékony tanulási környezet kialakítására adunk módszertant és feladatbankot.
+
+A 21. században a tanítás helyett a tanulás kerül előtérbe. A pedagógus inkább mediátor, afféle szürke eminenciás, aki tanulásszervezőként a tanulók tanulásához megfelelő tanulási környezetet biztosít. Ezzel egy a korábbiaknál sokkal mélyebb és rugalmasabb, tapasztalat alapú tudásra tehet szert a tanuló.
+
+A szürke eminenciás pedagógus prototípusa a korai informatika-számítástechnika tanár:
+
+<ul><li class="rtejustify">a tanítást megelőzően előkészíti a tanulási helyzetet a tanulóknak,</li><li class="rtejustify">más területekhez köthető feladatokat is ad, és a megszerzett tudás máshol is alkalmazható,</li><li class="rtejustify">a tanulókhoz alkalmazkodik,</li><li class="rtejustify">a tanulóknak önálló feladatokat is ad, amelyeket különböző szinten lehet megoldani,</li><li class="rtejustify">a diákok egymást is tanítják, sőt a diákjaitól a tanár is tanul,</li><li class="rtejustify">projekt és probléma alapú a tanítása,</li><li class="rtejustify">fejleszti magát, mert a terület gyorsan fejlődik.</li></ul>
+
+Azóta az informatikából is nehezen elsajátítható tantárgy lett merev tanmenettel, tankönyvekkel, dolgozattal, osztályzatokkal, miközben továbbra is fennáll mindaz a sajátosság, amiért a korai informatika oktatás leképezte az infokommunikációs kor tanulási környezetét.
+
+A tanulás a természetes tanulással indul, ami a tapasztalat avagy élmény alapú (experienced based) tanulás. Sokféle leírása van a tapasztalaton alapuló tanulási környezetnek. Javasoljuk a 6K alkalmazását:
+
+<ol><li>Kezdeményezés, önállóság, választási lehetőség.</li><li>Keretek, közösen kialakított szabályok.</li><li>Kavalkád, sokféleség, mobilitás.</li><li>Kommunikáció, együttműködés, társas helyzetek, megosztás.</li><li>Kreativitás, játék, alkotás, buherálás, gyűjtögetés, cserélgetés.</li><li>Kritikai gondolkodás, értelmezés, saját tudás kialakítása, identitás keresése.</li></ol>
+
+<img alt="Kökényesi Imre" src="/sites/default/files/kokenyesiimre.png" style="width: 200px; height: 212px; margin-left: 13px;  float: right;">A gyerekek nem várhatnak arra, hogy majd egyszer az oktatásirányítás is rájön, hogy az infokommunikációs korszakban az adminisztratív, minősítő-számonkérő szemléletű oktatás nemcsak elmaradott, de kifejezetten káros. Ezért a módszertani változtatásokat elindítjuk a szabadidős foglalkozásokban és olyan oktatási terekben, ahol képesek a résztvevők tanulási környezetté válni.
+
+## A tanító/tanár szerepének változása
+
+A tanár egyfajta mentor/mediátor szerepet tölt be a 21. században. Ehhez el kell távolodnia a hagyományosan kialakult frontális oktatásban felvett megmondó, kioktató, számonkérő szereptől. Sőt, le kell mondania arról, hogy a tanulási folyamatban sztár szerepet játsszon, miközben mégis ő a legfontosabb személy a folyamatban. A gyerekeket partnernek tekinti, ahol a közös cél az ő fejlődésük. Vagyis a tanulási környezethez tartoznak a tanulók és a pedagógus, avagy a mediátor.
+
+A mediátor szerepe az, hogy a gyerekek fejlődését segítse figyelembe véve az egyéni igényeket és az átlagtól való eltéréseket. A mediátor a tanulási célnak és a tanulók sajátosságainak megfelelően alakítja ki a tanulási kereteket és választja ki a feladatokat a feladatbankból.
+
+A mediátor biztonságot és állandó értékrendet közvetít a gyerekek felé. Kialakítja és a gyerekekkel megbeszéli az alkalmazandó szabályokat és viselkedési normákat. Ezeket a normákat be kell tartani. Meg kell beszélnie a résztvevőknek, hogy mi a következménye a szabályszegésnek. A kialakított viselkedési helyzetek, normák nem csak a gyerekekre, hanem a mediátorra is érvényesek, beleértve a megszegésükkel járó következményeket is.
+
+Ez a partneri kapcsolat alapja. A partneri kapcsolat azt jelenti, hogy a mediátor és a tanuló is sokat tud a tanuláshoz hozzátenni, vagyis együtt kell működniük. A partneri kapcsolatban eltérő a feladata a mediátornak és a tanulóknak. Tehát egyenrangúak a tanulási környezetben, de nem egyformák. A tanulási kereteket a mediátor adja, és a tanulókkal együtt tölti ki.
+
+## Megismerő-fejlesztő szemlélet
+
+A minősítő-számonkérő oktatás különösen azokat sújtja, akik nem a szokásos, elvárt úton haladnak. A számonkérés és minősítés a könnyű útja a pedagógiának. A felelősséget a tanulóra hárítja, de nem ad lehetőséget neki, hogy fejlődjön. Olyasmit kér számon, amit a tanuló nem kapott meg, és a minősítéssel bünteti vagy jutalmazza. Ez vagy sikeres, vagy nem. Általában nem, mert kevesen tudnak az átlagos és elmaradott tanításban sikeresek lenni.
+
+A megismerő-fejlesztő szemlélet úgy indul, hogy először adni kell, aztán lehet elvárni. Vagyis a fejlődésre, tevékenységre nyitott környezetet kell biztosítani. Ha nem kell megmérettetéstől, büntetéstől tartania a tanulónak, akkor mer önmaga lenni. Az értő odafigyeléssel így megismerhető az erős és a fejlesztendő oldala, és ezeknek megfelelően szabályozható a környezet, hogy optimális fejlődést tegyen lehetővé. A mediátornak ismernie kell a hozzá tartozó növendékeket. Ennek az ismeretnek ki kell terjednie a kognitív, emocionális, motivációs és szociális jellemzőkre, valamint a tanulók testi-fiziológiai sajátosságaira, szükségleteire.
+
+## Tanulási környezet
+
+A Tapasztalat Alapú Tudás tanulási környezet az optimális tevékenység által történő képességfejlődésre koncentrál, amely alapja lesz a tudás megszerzésének, és nem követ semmilyen tanmenetet.
+
+A tanulás sokféle formációt ölthet: csoportos, egyéni, önálló, néha frontális jellegű. A tanulási környezet kialakítása a mediátor fő feladata. Ehhez úgynevezett napi és foglalkozásokon belüli rutint, állandó keretet ad. Így mindenki tudja, hogy mikor mire számíthat. A rutin függ a gyerekek életkorától, fejlődési szintjétől, a tanulási céltól, illetve a helyi sajátosságoktól.
+
+A tanulást megbeszéléssel kell kezdeni, ahol a mediátor elmondja, hogy milyen foglalkozások, feladatok lesznek, amelyekből a tanulók választhatnak, illetve a tanulás végén egy értékelő-lezáró beszélgetés van, ahol a csoportok és az egyének is elmondhatják és/vagy bemutathatják az aznapi eredményeiket és a feladatokkal kapcsolatos észrevételeiket. Nem kell mindenkit beszéltetni, de jó, ha legalább 2-3 naponta mindenki megszólalhat. Ne alakulhasson ki az a helyzet, hogy valamelyik gyerek nem tud megnyilvánulni, illetve valaki vagy egy csoport véleményvezérré válik. A mediátor feladata, hogy a véleményeket meghallgassa és figyelembe vegye, ha lehet, vagy ha nem, akkor megindokolja, hogy miért nem veszi őket figyelembe.
+
+A beszélgetési szakaszokban a mediátornak példát kell mutatnia szociálisan és kommunikációs szempontból is. Az általa mutatott mintát fogják a gyerekek használni a csoporton belül. Nagyon fontos a kölcsönös tisztelet és a másik gondolatának meghallgatása, illetve az arra való reakció. Meg kell mutatni a gyerekeknek, hogy milyen eszközökkel lehet a kialakult esetleges nézeteltéréseket kezelni. Ehhez kell az előzetesen közösen elfogadott szabályrendszer. Ha egy adott eset nincs szabályozva, akkor azt a javaslatok alapján közösen kell megtenni. Ha a szabályt a közösség elfogadja, akkor az azokra is érvényes, akiknek esetleg más javaslata volt.
+
+A foglalkozások jellemzően 3-7 fős csoportokban folynak. A csoportok kialakításában a mediátornak a feladatot és a tanulási célt figyelembevéve kell dönteni:
+
+<ul><li class="rtejustify">véletlenszerű, random szerveződés (kártyahúzással, képdarabkákkal stb. összeálló csoportok),</li><li class="rtejustify">szimpátia alapján szerveződés (a tanulók választanak csoportot),</li><li class="rtejustify">feladat szerint szerveződés (az ismertetett feladatokból választanak a tanulók, és az így kialakult csoportok állnak össze),</li><li class="rtejustify">differenciált szervezés: homogén nívócsoportok (a mediátor a tanulási cél szerint képességszint és haladás alapján alakítja ki a csoportokat),</li><li class="rtejustify">differenciált szervezés: heterogén szintű csoportok (a mediátor a tanulási cél szerint képesség és haladás szerint vegyes csoportokat alkot).</li></ul>
+
+A tanulási fázisok hossza a gyerekek életkorától és a feladatoktól is függ. Az 5-8 éves korosztályban a 20-30 perces tanulási fázisok az ideálisak, az idősebbek már akár egyórás foglalkozási fázisban is részt tudnak venni, minthogy tevékenységen alapul a tanulás, vagyis nincsen szó egyhelyben való ülésről. A tanulási fázis után bemutatják a gyerekek a megoldásaikat, alkotásaikat, elmondják a gondolataikat. A nap végén lehet a feladatokhoz kapcsolódó szabad játékokat, versenyeket szervezni.
+
+## Feladatok és feladatbank használata
+
+Rendelkezésre állnak témakörök és fejlődési területek szerint szerkesztett feladatcsoportok a feladatbankban. A mediátor a foglalkozásokhoz a megfelelő feladatokat kiválasztja a csoportok számára, illetve saját kialakított feladatait is felhasználhatja. A tanulási fázisokban a csoportok rotálódnak és újabb feladatot kapnak. A rotálást meg lehet úgy is oldani, hogy az adott asztalnál a gyerekek ugyanazt a feladatot oldják meg, de az is lehet, hogy a feladatbankból olyan új feladatot kap/választ a csoport, aminek a nehézsége azonos.
+
+A mediátor javasolja a feladatokat, és elmondja a tanulóknak, hogy melyik asztalnál/helyszínen mi a téma. A feladat vagy gyakorlat bemutatása nem a mediátor dolga, mert tablet segítségével történik. Videó vagy pdf alapon kapják meg a csoportok a gyakorlatokat, és közösen szervezik a megoldást. A mediátor a háttérben marad, nem ő mutatja be a feladatokat, és végképp nem oldja meg vagy mondja meg a megoldást. Csak akkor jelenik meg egy-egy csoportnál, ha láthatólag elakadtak. Ekkor is csak közvetíti, mediálja a továbblépést.
+
+A feladat végén lehetőleg keletkezzen valamilyen mások számára is látható eredmény. A feladatok lehetnek részfeladatokra bontottak, ahol a csoport akkor halad a következő részfeladathoz, ha már mindenkinél készen van az adott részfeladat. A feladatokat bemutató videók is részekre daraboltak, hogy végrehajtható fázisok keletkezzenek. Az egyes fázisok lehetnek olyanok is, amelyekben nincsen meg a megoldás, hanem az addig elsajátított tapasztalat alapján a tanulók maguktól kitalálják, hogy a kezdeti állapotból hogyan lehet eljutni a kívánt állapotba. Itt jelezni kell, hogy abban a fázisban ez a feladatuk.
+
+A feladatokat úgy kell összeválogatni az adott korcsoportnak szánt, nehézségi sorrendbe rakott feladatbankból, hogy a tanulók átlaga számára megoldhatóak legyenek, de erőfeszítést igényeljenek.
+
+Legyenek olyan feladatok, ahol nemcsak egyéni tevékenység van, hanem a csoport feladata részfeladatokra bontott, és azokat a részfeladatokat közösen oldják meg, illetve a kisebb csoportok eredményeiből keletkezhet egy közös alkotás.
+
+A csoporton belül hagyni kell lehetőséget arra, hogy akik megoldották a feladatot, segíthessenek másoknak. Az egymásnak való segítést bátorítja is a mediátor. A segítés szabályrendszerébe beletartozik, hogy az nem segítés, ha valaki helyett más megcsinál valamit. A segítés az, ha a másik megérti, és utána önállóan is képes végrehajtani a tevékenységet. Ez történhet először utánzással, másolással, ami segít az elsajátításban. Nagyon sok múlik a mediátor példaadásán.
+
+A feladatok megoldásából és a játékból alakul ki a tudás. A játékoknak és a feladatoknak az a célja, hogy a gyerekek megtapasztalják a világot. Ha a játékok és feladatok során elég tapasztalat gyűlt össze, akkor a tapasztalatot a mediátor tudatosítja, lefordítja a tudomány nyelvére. Ezt a gyerekek bevonásával a mediátor által nyújtott ismertető, magyarázat biztosítja. A tapasztalat mögött álló természettudományi-matematikai-nyelvi fogalmak és a fogalmak közötti összefüggések összefoglalása térképeken, táblázatokban, illetve poszterek, vetített bemutatók készítésével oldható meg.
+
+A fogalmak használatát be kell gyakorolni, hogy az automatikus legyen. Ehhez a fogalmakat kötni kell a játékokhoz, megoldott problémához, és amikor már ott fixálódnak, akkor lehet azokat általánosítani, illetve a következő, magasabb szintű feladatokban alkalmazni.
+
+A tanulás a tapasztalatszerzés után:
+
+<ol><li class="rtejustify">az általánosítás/tudatosítás a játékban/problémamegoldásban tapasztaltakra való visszautalással történik;</li><li class="rtejustify">a tanulók a beszámolások során verbálisan alkalmazzák a fogalmakat;</li><li class="rtejustify">a fogalmakat és összefüggéseket használják a témakör továbbvitelében;</li><li class="rtejustify">a fogalmakat más területeken is használják.</li></ol>
+
+Ezeknek a követelményeknek megfelelően lehet összeállítani a játékokat, feladatokat és az azokhoz kapcsolódó feladatbankokat. A fogalmak elsajátítása után a játékos módszert a begyakorlásra is a fentekben leírtak alapján kell alkalmazni.
+
+A következő részben a feladatok és feladatbank létrehozásáról, a tanulási környezet kialakításáról és a mediátor szerepről lesz szó.
+
+[A folytatás itt olvasható.](/tapasztalat_alapu_tudas_ii)

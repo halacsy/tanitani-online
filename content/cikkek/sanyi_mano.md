@@ -1,0 +1,47 @@
+---
+title: Sanyi manó
+migratedId: 635
+overrideMigrated: true
+authorSlugs:
+  - trencsenyi-laszlo
+date: '2015-03-03'
+tags:
+  - médiapedagógia
+  - bábpedagógia
+excerpt: >-
+  Trencsényi László írása Tanulságul a XXI. századnak – a „csendes
+  nemzedékeknek”.
+coverImage: /sites/default/files/levai.jpg
+reads: 10907
+---
+<strong>Trencsényi László írása</strong>
+
+> Tanulságul a XXI. századnak – a „csendes nemzedékeknek”.
+
+Akik ismerték, szerették. Lehetetlen volt nem szeretni a fürtös hajú, bozontos szakállú, hol gyereknek, hol matuzsálemnek látszó csendes férfiút, Lévai Sándort. A gyerekek az egykori Esti Mese Mackójának, vagy az egyfejű sárkánynak, Süsünek bábtervezőjeként ismerték – ha ismerték. Hiszen ők stáblistát nem olvastak, szerették e bábokat. S talán elképzelték, hogy ezt is egy szeretetre méltó ember tervezte.
+
+<img alt="" src="/sites/default/files/susu-9.jpg" style="width: 470px; height: 346px;">
+
+Lévai Sándor jelenség volt a gyermektelevíziózás hőskorában, a Játsszunk bábszínházat című legendás televíziós vetélkedő egyik tervezője, szervezője.
+
+<img alt="" src="/sites/default/files/kep.jpg" style="width: 185px; height: 261px; margin-right: 15px; float: left;">Egykori kollégái döntöttek úgy, hogy az immár 10 éve elhunyt művészre, gyerekbarátra emlékező kötettel hívják fel a figyelmet. A kötetet a szülőföld, a tág értelemben vett Palócföld, Nógrád megye értő szakemberei gondozták és adták ki. Követhetjük az életutat, mely a XX. század megannyi sorsához hasonlóan nem vágyott kalandokkal indult. Balassagyarmati születés, kemencei gyerekkor, majd a háború során és után új és új határokkal körülrajzolt folyómenti falucska, Ipolyság (Sahy szlovákul). Majd a származási korlátoktól való meg-, és felszabadulás élménye, a népi kollégista sors.
+
+Sándor – személyesen ismertem – elkötelezett embernek nevelkedett, s az is maradt. Ez a hit táplálta mindennapos alkotásai közben is. S a XX. századközép merész utópiáinak kései – tán utolsó – képviselőjeként többször nekifutott a világ egésze megjavításának. A szóban forgó kötet, Shah Gabriella gondos munkája tartalmazza – Somhegyi Béla egykori gyerektévérendező tolla nyomán – a Sanyi Manó projektet.
+
+A kudarcot vallott tervnek magam is tanúja voltam. A televízió Mikes Sanyi Manójának átdolgozására készült. Sándor kiszámította, hogy a napról napra újjáépített papirmasé díszleteknél olcsóbb lenne, ha a szabadság-hegyi Anna-rét domboldalán tartós anyagból – gyerekeket befogadó méretben – megépülnének e házacskák. Meseskanzen? Játszótér? Ennél sokkal merészebb volt a terv – mely állandóan magával hordozott mappájában az utolsó szög helyéig rajzolva volt precízen és szépen.
+
+> Úgy képzelem – magyarázta lelkesen –, hogy e házakat majd nem csupán lakják a gyerekek, az arra járók, hanem részt vesznek az építésben, magában a mesében is. Majd bemondja a tévéhíradó – szárnyalt a képzelet –, hogy Sanyi Manó házához rézre, akácfára, szögre van szükség, s azon a hétvégén a gyerekek maguk hozzák el saját kezűleg a hiányzó nyersanyagot, alkatrészt, s valóban kezük nyomán épül (az ő) városkájuk.
+
+Ugyan a hetvenes éveket a magyar úttörőmozgalom erős, de már reformista, reformista, de még erős korszakaként tartja számon a történetírás, sok kezdeményezés korszakaként (ebből Sándor többen részt is vett), de e tervhez nem tudott se financiális, se politikai támogatást nyújtani. Kudarcot vallottunk.
+
+> Pedig olyan egyszerű volna! – mondta, s kiteregette a réten terveit.
+
+S alig pár évvel a Sanyi Manó projekt kudarca után újra találkoztunk. Interdiszciplináris diákkörnek nevezte el új kezdeményezését. Erről kevés szó esik a kötetben. Hadd egészítsem ki ezúton.
+
+A nagy lakótelepi építkezések idején azt képzelte, hogy egy egész lakótelepet – szocialista lakótelepet! – fel lehet építeni (nemcsak társasházat) „házilagos kivitelben”. A tanácsi lakásokhoz úgy kell kijelölni, vélte, a majdani lakókat, hogy a majdani suszter, élelmiszerboltos, óvónő, vízvezetékszerelő, házmester, utcaseprő,  teherautóvezető, taxis, szociológus, parkőr egy lakóközösség kívánatos arányaiban kerüljön mint reményteli lakótárs egymás közelébe, s végezzék el együtt a kubikmunkát, az alapozást, a betonkeverést – építsék fel együtt (kalákában) saját városrészüket, építkezve ismerjék, szeressék meg egymást, nőjenek együtt saját városukkal. Igen, ez a kommuna modellje a „szocialista piacgazdaság” hajnalán (Liska Tibor fantziadús öteteivel egyidőben – Tibor egyébként szintén népi kollégista volt). Az agytröszt – a majdani „lakóbizottság” a képzelet szerint – havonta ülésezett egy művelődési házban, s lelkesülten tervezett. Épületet, zöldfelületet, játszóteret, bölcsődét, orvosi rendelőt és védőnői hálózatot, kiskereskedelmet, iskolát – engem erre a programra hívott szakértőnek –, a nemzedéke által – s általa még mindig – annyira várt  „megszerkesztett szép jövőt”. Éveken át  konstruktív beszélgetések zajlottak az Interdiszciplináris diákkörben. Tanulási folyamatnak, mondhatni projektnek remek volt. 
+
+De a valóság már rég nem erre kanyarodott. Néhány alapító tovább lépett az alternativitásban, s vagy valamely valóságos ellenzéki mozgalom alapításán jártatta az eszét (azokba a klubokba járt), vagy különös filozófiákban merült el. (Harmadik Part  beszédes címen folyóiratot is adtak ki – talán még van néhány példány belőle dohosodó könyvespolcokon. Én őrzöm őket.)
+
+Hát a szép, fotókkal gazdagon ékesített emlékező kötet ezt a történetet csalta ki belőlem.
+
+Tanulságul a XXI. századnak – a „csendes nemzedékeknek”.

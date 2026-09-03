@@ -1,0 +1,65 @@
+---
+title: Kicsit másképp… is lehetne
+migratedId: 981
+overrideMigrated: true
+authorSlugs:
+  - l-ritok-nora
+date: '2020-01-09'
+tags:
+  - művészetpedagógia
+excerpt: >-
+  L. Ritók Nóra írása Vagy a kettévágott citrom lerajzolásával. Ami lassan nekem
+  már szimbolikussá válik. Egy letűnt kor szemléletének tananyagát
+  szimbolizálja.
+coverImage: /sites/default/files/maskepp7-w470.jpg
+reads: 5578
+---
+<strong>L. Ritók Nóra írása</strong>
+
+> Vagy a kettévágott citrom lerajzolásával. Ami lassan nekem már szimbolikussá válik. Egy letűnt kor szemléletének tananyagát szimbolizálja.
+
+<img alt="L. Ritók Nóra" src="/sites/default/files/ritok_nora.jpg" style="width: 250px; height: 166px; float: right; margin-left: 15px;">Nemrég egy képzőművészeti aukción voltam. A közelemben egy fiatalember ült, hallhattam a csendes megjegyzéseit a párjának, mikor 20. századi képzőművészek elvont alkotásai voltak soron. Finoman gúnyolódva nézte őket, főleg azokat, amelyek pár ecsetvonásból álltak. Mikor a látványhűeket hozták, elismerően bólogatott. <em>„Na, ez már valami.”</em>
+
+Persze ezzel nem mondok újat, régóta nyilvánvaló, hogy az átlagos magyar oktatásból kikerülők zöme a képzőművészetben csak a valósághű ábrázolást értékeli, nem törődve azzal, hogy ez az egész nem a látványhűségről szól, hanem arról, hogy mit gondol a művész a világról, és hogyan tudja ezt a véleményét egyedi megközelítésben mások számára is értelmezhetővé tenni. A gondolatot, az üzenetet.
+
+Látványhűség. <em>„Olyan, mintha élne…” „Mint egy fotó… csodálatos”</em>– hallani gyakran, mint ahogy az <em>„Ezt én is meg tudnám csinálni…” „Normális ez?! És ezt nevezi művészetnek? Ki sem lehet nézni belőle, micsoda...”</em> mondatokat. Közben ma már minden gyerek egy kattintással rögzíti a képet a telefonján, két mozdulattal manipulálja és lövi ki a közösségi médiába. Mégis, a vizuális nevelés a legtöbb helyen még mindig a naftalinszagú csendéletek világában próbálja értelmezhetővé tenni a mai gyerekek számára a vizualitás jelentőségét. Vagy a kettévágott citrom lerajzolásával. Ami lassan nekem már szimbolikussá válik. Egy letűnt kor szemléletének tananyagát szimbolizálja. Hiába adna a kerettanterv lehetőségeket, a tanmeneteket nem a modern kor szerint írják... hanem az átörökített tartalmak szerint, amelyekbe a kettévágott citrom erősen beágyazódott, és nem szorítja ki semmi. Ott van mai is sok-sok iskola folyosóján dekorációként és persze mutatva a vizuális nevelés tantárgy produktumait.
+
+Szóval lemaradtunk (tisztelet a kivételnek), és így nem várható el a fiataloktól sem, hogy nyitottak legyenek a modern művészet befogadására. Az élményfestés, a fotómásolásos jobbagyféltekés tanfolyamok pedig csak erősítik a folyamatot, ami a gondolat mellőzésével a művészetet a látványhűséggel, a tehetséget a technika profinak tűnő alkalmazásával azonosítja.
+
+Pedig lehetne másképp is. Másfajta megközelítésben, az értékek megtartása mellett. A készségfejlesztésre fókuszálva, de a felvetéseket leporolva, másképp, a mai gyerekekhez közelebb állóan. Azért, hogy másfajta viszonyulást adhassunk át, mint a látványhűség mindenekfelettisége. Megtanítva persze rajzolni őket, de nem a látvány ábrázolását tenni csúcsponttá, hanem a vizuális gondolkodást, a kreativitást, a felfedezés, az egyéni kifejezés útján haladva. Igazodva a mindenkit körülvevő vizuális környezet gyors változásaihoz. Amiben a vizuális hatáskeltés eszközeinek ismerete kell, hogy az alkotó szándékot szolgálja, és egyben értelmezhetővé tegye számukra mindazt, ami a környezetükben látható...
+
+Az igazgyöngyös rajzokat látva sokszor mondják: <em>„Á, ezt nem a gyerek csinálja... az magától nem tud ilyet. Biztosan a tanár rajzolja fel neki. Az enyémnek ilyen nem jutna az eszébe.”</em> Ami nyilvánvaló, a <em>„rajzolj, amit akarsz”</em> feladatkiadásból tényleg nem születnek ilyen rajzok. A titok, ha van, a feladatban rejlik, a jó feladatban, ami előcsalogatja a kreatív megközelítéseket, és segít a bátor asszociációk képi megjelenítésében. Ami megkötéseket tesz a pedagógiai célok teljesülése végett, és amiben a megtapasztalás lassan beépült kifejezőeszközzé válik a gyerekeknél. Ez nem (sem) alakul ki magától, a vizuális kommunikáció elemeit éppúgy fejlesztenünk kell, mint a verbálist, a zeneit, vagy a metakommunikációt. Tudatos pedagógiai munkával, és a gyerek iránti kellő alázattal.
+
+Most bemutatok egy ilyen feladatot, egyet a sok közül. Alsósokkal dolgoztam, de a feladattípus remekül működik nagyobbakkal is. Talán érthetővé válik, miben más a megközelítés.
+
+Nos, ez a feladat épp a térszerű ábrázolásmódot kívánja átlépni, és egy, a gondolatiság mentén szerveződő megjelenítést ad, amiben az arányok, térszeletek, perspektíva helyett a szabad asszociációk vezetik a gyerekeket. Egy fantáziavilágba, ahol korlátok nélkül, szabadon építkezhetnek. Ahol felfedezhetik a formák közötti új viszonyokat, és saját fiktív teret építhetnek. Közben pedig felszabadul bennük sok minden, és megtapasztalásokat szereznek, ami a későbbiekben is alapot adhat a bátor önkifejezéshez.
+
+A feladathoz először témát választanak a gyerekek. Ki mit szeret rajzolni, vagy mit tud jól, házakat, autókat, állatokat, embereket.
+
+Ezután a rajzlapot ceruzával (szabadkézzel) felosztják öt részre.
+
+<img alt="1. kép" src="/sites/default/files/maskepp1-W230.jpg" style="width: 230px; height: 327px;">
+
+Aztán a részeket kis képekként kezelve a témához illő formákat ábrázolnak bennük, kisebb-nagyobb méretben, tetszés szerint. Ha minden mezőbe rajzoltak, akkor a részeket elválasztó vonalakat kiradírozzák. Ezután kezdődhet a móka! Amit a kis képmezők széle elvágott, azt kiegészítik. Próbálnak kapcsolatot teremteni a formák között. Átléphetünk a fantázia-világba, a mesék területére…. kitalálhatnak történeteket, amiket a rajzuk szereplői játszanak le, és ezeket kell vizualizálniuk. Lehetnek vicces jelenetek is, ezek mindig feszültségoldók, felszabadítók.
+
+<img alt="2. kép" src="/sites/default/files/maskepp2-W230.jpg" style="width: 230px; height: 306px;">   <img alt="3. kép" src="/sites/default/files/maskepp3-W230.jpg">
+
+<img alt="4. kép" src="/sites/default/files/maskepp4-W470.jpg" style="width: 470px; height: 352px;">
+
+Ha ceruzával elkészültek, dönthetünk a technikáról… sokféle megoldás volt itt is, a monokróm megoldásokhoz, vagy a nagy színkontrasztok alkalmazásához választottak a tanult technikák közül.
+
+Pár rajzon látszott, hogy nem bírnak még szakítani a térbe helyezéssel, de szinte mindenhol létrejött egy „gondolati” tér, amiben szabadon mozogtak.
+
+8-10 éves gyerekek alkotásait mutatom.
+
+<img alt="5. kép" src="/sites/default/files/maskepp5-W470.jpg" style="width: 470px; height: 332px;">
+
+<img alt="6. kép" src="/sites/default/files/maskepp8-W470.jpg" style="width: 470px; height: 335px;">
+
+<img alt="7. kép" src="/sites/default/files/maskepp6-W230.jpg" style="width: 230px; height: 331px;">   <img alt="8. kép" src="/sites/default/files/maskepp9-W230.jpg" style="width: 230px; height: 329px;">
+
+<img alt="9. kép" src="/sites/default/files/maskepp91-W230.jpg" style="width: 230px; height: 318px;">   <img alt="10. kép" src="/sites/default/files/maskepp92-W230.jpg" style="width: 230px; height: 322px;">
+
+<img alt="11. kép" src="/sites/default/files/maskepp93-W230.jpg" style="width: 230px; height: 331px;">   <img alt="12. kép" src="/sites/default/files/maskepp94-W230.jpg" style="width: 230px; height: 330px;">
+
+Próbáljuk ki így. Vagy legalább így is. Vezessük, fejlesszük úgy őket, hogy érezzék: mindenki megismételhetetlen egyéniség, saját gondolatokkal, képi világgal. Talán akkor majd nem nevetnek a modern művészeten… és talán a világot, és benne magukat is másképp látják majd.

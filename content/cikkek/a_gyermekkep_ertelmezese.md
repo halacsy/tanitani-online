@@ -1,0 +1,123 @@
+---
+title: A gyermekkép értelmezése…
+migratedId: 1178
+overrideMigrated: true
+authorSlugs:
+  - suto-attila
+date: '2023-03-05'
+tags:
+  - neveléstörténet
+excerpt: >-
+  …Ellen Key és a korabeli gondolkodók pedagógiai eszmerendszerében. Sütő Attila
+  írása Három gondolkodónkat azonban nemcsak a mesék vagy mítoszok elbeszélő
+  formája érdekli: ha figyelmesen megnézzük, látható, hogy mindhárman azt a
+  kapcsolatot hangsúlyozzák, amelyet ezek a sajátos történetek pozitív,
+  természetes és…
+coverImage: /sites/default/files/key_steiner_montessori.png
+coverAlt: 'Ellen Key, Rudolf Steiner, Maria Montessori'
+coverTitle: 'Ellen Key, Rudolf Steiner, Maria Montessori'
+reads: 2610
+---
+<strong>…Ellen Key és a korabeli gondolkodók pedagógiai eszmerendszerében.</strong> <strong>Sütő Attila írása</strong>
+
+> Három gondolkodónkat azonban nemcsak a mesék vagy mítoszok elbeszélő formája érdekli: ha figyelmesen megnézzük, látható, hogy mindhárman azt a kapcsolatot hangsúlyozzák, amelyet ezek a sajátos történetek pozitív, természetes és gyümölcsöző módon teremtenek a gyermekek képzeletével. 
+
+## <img alt="Sütő Attila" src="/sites/default/files/suto_attila.jpg" style="width: 200px; height: 263px; margin-right: 15px; float: left;">
+
+## Bevezetés
+
+A XIX. század vége és a XX. század eleje között Ellen Key, Rudolf Steiner és Maria Montessori jelentősen hozzájárult a pedagógiával és a gyermekeknek szóló nevelési tevékenységekkel kapcsolatos gondolkodás megújításához. Innovatív törekvéseik kiemelkedőek, intuitív gondolataik ma is érvényesek. A tanulmány megvizsgálja a három gondolkodó egyes kapcsolódási pontjait, köztük a társadalomnevelésen keresztül történő megújítások mögött megbújó szándékaikat, a saját országhatáraikon túli európai kollégákkal való párbeszéd iránti vágyukat és azt a heves ellenállást, amelyet mindhárman elszenvedtek saját országukban.
+
+<em>Ellen Key</em> legismertebb könyvében, <em>A gyermek évszázada</em> című művében több jelentős fejezetet szentelt a gyermekirodalomnak. Hangsúlyozta a mesék és népi legendák fontosságát a fiatal nemzedék nevelésében, éles kritikát gyakorolt az iskolákban használt tankönyvek elvont és töredékes jellegével szemben, és megfogalmazta azt a ma is érvényes gondolatot, hogy minden otthonban legyen egy könyvespolc a gyermekek számára.
+
+<em>Rudolf Steiner</em> is kiemelte a mesék és legendák alapvető nevelő szerepét a gyermekek szellemi és emberi nevelésében. Olyan filozófiai gondolatokat is kidolgozott, amelyek később a fiatal olvasóknak szóló újabb keletű szépirodalmi művek jelentős részére is hatással voltak.
+
+<em>Maria Montessori</em> pedig megmutatta, hogy az olvasás szeretetének a fiatalabb generációkban való kialakításához nem elegendőek a műveltség alapvető eszközei (az írás és olvasás ismerete), hanem a gyermekek természetes képzelőerejére, kommunikációs igényére és a világ megértésének vágyára kell apellálni.
+
+## Szerepük a gyermekirodalom formálásában
+
+Ellen Key, Rudolf Steiner és Maria Montessori számos társadalmi témát érintettek, a gyermekirodalom marginális helyet foglal el könyveikben gondolkodásuk központi magjához képest. Hármójuk közül Ellen Key az, aki a legtöbb teret szentelte a gyermekeknek szóló történeteknek és könyveknek: <em>Barnets Århundrade</em> című művének két része – Böckerna mot Läseböckerna és Bilaga – a gyermekkor, a történetek, az irodalom és a nevelés kapcsolatát vizsgálja. Rudolf Steiner és Maria Montessori ezzel szemben csak töredékesen – bár jelentős mértékben – foglalkozott a fiatal olvasóknak szánt könyvekkel és történetekkel.
+
+Ellen Key, Rudolf Steiner és Maria Montessori három nagy európai értelmiségi, akiknek a gyermekekkel kapcsolatos nevelési elképzelései ma is nagy jelentőséggel bírnak a nemzetközi pedagógiai vitában. A gyermekirodalomhoz való hozzáállásuk következésképpen nemcsak történelmi, hanem aktuális értékkel is bír. Ezért alaposan meg kell vizsgálni.
+
+A svéd gondolkodónő Barnets Århundrade című könyvének Böckerna mot Läseböckerna fejezetében a maga ironikus módján azt írta, hogy a gyermekek fejlődése és az emberiség fejlődése közötti megfeleltetés konszolidált, bizonyos szempontból elkoptatott koncepció (Key, 1900a, 176. o.). Hozzátette, hogy a gyermekek olyan leleményes idealizmussal és realizmussal vannak megáldva, amely a múltbeli népek epikus költészetében is felismerhető: az ősi történetekben jelen lévő jó, a hősies és a természetfeletti lenyűgözi a gyermekeket, akik egy népszerű mese és egy új Andersen-verzió között kétségtelenül az előbbit választanák, mert azt szórakoztatóbbnak találnák. Azt is kimutatta, hogy ugyanez történt, amikor a gyerekeknek először a régi északi író, Snorre Sturluson eredeti meséjét, majd ugyanennek a történetnek egy modern parafrázisát kínálták (Key, 1900a, 176-177. o.). A gyerekeknek a régi, eredeti történet sokkal jobban tetszett, mint a modern változat. Key ezen megfigyelései szorosan kapcsolódtak a korabeli tankönyvekkel kapcsolatos más megfigyelésekhez. Véleménye szerint ezek a könyvek mesterkélt, moralizáló történeteket meséltek el, amelyek gyakran túlságosan elvontak és töredékesek voltak ahhoz, hogy a gyerekek igazán értékelni tudják őket. Ha a szövegek szerzői meghallgatnák az iskolások véleményét a könyveikről, rájönnének, hogy a gyerekek nem találják vonzónak munkájuk gyümölcsét: inkább valódi meséket és valódi verseket olvasnának, nem pedig a tankönyvek szerzői által kiválasztott darabgyűjteményeket (Key, 1900a, 183-184.o.). Ráadásul a 19. század végén a tankönyvekből tanuló fiatal nők kevésbé voltak műveltek, mint nagyanyáik, akik bár nem jártak irodalomórákra, és nem írtak fogalmazásokat az iskolában, közvetlenül olvashatták a költők műveit, és gyakran a legfigyelmesebb olvasóik voltak (Key, 1900a, pp. 187-188).
+
+Key elismerte ugyan, hogy voltak jól megírt tankönyvek (Key, 1900a, 184-185. o.), de ő egyértelműen a teljes kiadásban megjelent szövegeket részesítette előnyben: számára fontos volt, hogy a gyerekek eredeti formájukban férjenek hozzá az ősi legendákhoz, népmesékhez, északi és bibliai történetekhez. Úgy vélte, hogy az idős dajkák voltak a legjobb mesemondók, mert olyan változatokat meséltek, amelyek megfeleltek az eredeti történeteknek, ugyanakkor érdekes festői vonásokkal egészítették ki azokat (Key, 1900a, 175. o.), és amikor a gyerekek, akik mind művészi természetűek, egy mesét hallgattak, teljes benyomást keltettek bennük, ami öncélú volt, és csak a jó mese hallgatásának öröméhez kapcsolódott (Key, 1900a, 175-176. o.). Minden, ami nagyszerű, jó, hősies és természetfeletti, vonzza a gyerekek figyelmét, feltéve, hogy olyan formában van előadva, amelyet képesek elképzelni, mint a hagyományos mesék esetében (Key, 1900a, 176. o.).
+
+Ellen Key a mese és a gyermekkor kapcsolatának olyan értelmezését dolgozta ki, amely egyszerre ősi és aktuális: ősi, mert a népszerű mese mint egyszerű, autentikus irodalmi műfaj romantikus elképzelését idézi fel újra; a svéd szerző számára a mese olyan, mint egy gyermek által épített játék, míg sok gyermekkönyv, amelyek lehetnek gazdagon illusztráltak, olyanok, mint a drága játékok, amelyek csak múló örömöt nyújtanak abban a pillanatban, amikor először látják őket (Key, 1900a, 178-181. o.). A mese és a gyermekkor kapcsolatának ez az értelmezése rendkívül aktuális is, hiszen számos kortárs, fiatal olvasók számára kiadott műre alkalmazható. Manapság sok olyan könyv van, amely magával ragadó illusztrációkkal rendelkezik, de olyan történeteket mesél, amelyek nem különösebben érdekesek vagy jelentősek. Ezek a könyvek gyakran televíziós sorozatokhoz vagy médiaeseményekhez kapcsolódnak, és hajlamosak arra, hogy sztereotípiák vagy banalitások hordozói legyenek. Gyakran előfordul, hogy ezek a kiadott termékek egy ideig kereskedelmi szempontból nagyon sikeresek, de aztán gyorsan feledésbe merülnek. Ellen Key pedagógiai felhívása tehát az, hogy a gyerekeknek mély, lenyűgöző történeteket kínáljon, amelyekhez népköltészet és csodálatosság társul. Az ő szemszögéből nézve a hagyományos mesék és az ősi legendák azok az elbeszélési formák, amelyek a legjobban alkalmasak a gyermekek nevelésére. A svéd írónő úgy vélte, hogy az óvodákban mindig is szavalt hagyományos rímek különösen fontosak a gyermekek számára: ezek az ősi versek nemzedékről nemzedékre boldoggá teszik a gyerekeket (Key, 1900a, 179. o.).
+
+Gondolkodásának korszerűsége abban is megmutatkozik, hogy azt remélte, hogy minden svéd otthonban létrejön egy ilyen könyvespolc: az ilyen könyvespolc iránti vágy magában foglalja, hogy a gyermekkornak sajátos identitást kölcsönöz, amely nemcsak anyagi gondoskodást, hanem különleges nevelési és esztétikai figyelmet is igényel. Szavaiból folyamatosan a gyermekek mint művészek képe rajzolódik ki: a gyermekek a szép, felidéző és mélyreható történetekben találják meg azt a tartalmat, amelyre szükségük van ahhoz, hogy növekedjenek, és felfedezzék önmagukat és a világot. Key gyermekkönyvekre irányuló figyelmében is felismerhetjük, hogy a svéd írónő gondolatai valójában mennyire modernek.
+
+Steiner, az osztrák-német szerző két előadásában, amelyeket 1908-ban és 1913-ban Berlinben tartott – <em>Märchendeutung</em>, illetve <em>Märchendichtungen im Lichte der Geistesforschung</em> címmel –, a mesék eredetéről, valamint a mesék, a gyermekkor és az emberiség szellemi fejlődése közötti kapcsolatról szóló elméleteit mutatta be. Számára a hagyományos mesék nem a nép fantáziájából eredtek, hanem nagyon régi időkre nyúlnak vissza, amikor az ember még nem alakított ki racionális civilizációt. Ez a régmúlt idők emberisége a tisztánlátás egy olyan formájával rendelkezett, amely az ébrenlét és az alvás közötti köztes állapot volt. Ezen állapot révén az emberiség képes volt felfedezni a szellemi világot és egyesülni a természet erőivel, amelyeket akkoriban a mesékben ábrázoltak (Steiner, 1908, 43-51. o.). Steiner hozzátette, hogy azok, akik a tisztánlátásnak ebben a sajátos állapotában éltek, nem akarták, hogy a világ zaja zavarja őket, és magányosan kívántak élni. A mesékben leírt sok bölcs és remete ezért szegénységben és magányosan élt az erdőkben, de ők is ismerték azokat az erőket, amelyek az embert a szellemi világgal összekötik. Steiner úgy vélte, hogy a mesék táplálékot jelentenek a lélek számára, mert a lélek által létrehozott képek és a világegyetem eseményei közötti mély összefüggéseket mesélik el (Steiner, 1913, 16-18. o.): a mesékben a lélek visszhangot hall arról, amit éppen tapasztal, de nem mindig érti meg. Elméletei szerint a gyermek őseredetileg kapcsolódik az élethez, ezért szüksége van a mesékre mint a lélek táplálékára. A mese a lét gyökereihez kötődik, és ezért erőt ad a gyermekeknek a növekedéshez (Steiner, 1913, 33. o.). Költői módon úgy vélte, hogy a mesék és legendák az őrangyalokhoz hasonlíthatók, akik születésüktől fogva végig kísérik az embereket földi zarándokútjukon (Steiner, 1913, 34-35. o.).
+
+Steiner szemszögéből nézve a mesék és legendák pedagógiai folyamatokat aktiválnak, mert olyan maradandó igazságokat közvetítenek, amelyek a jövőre is vonatkoznak. Steiner ezoterikus filozófiájának is része az a gondolat, hogy a maradandó történetek képesek az emberiséget a szellemi fejlődés útján vezetni. Ez az <em>Akasha-krónikákra</em> vonatkozik (Steiner, 1910, 106-107. o.), amelyeket feltehetően teozófiai tanulmányai során fedezett fel. Steiner számára az Akasha-krónikák egyfajta megfoghatatlan letéti tárat jelentettek, amely a szellemi tettek kitörölhetetlen nyomait őrzi a legrégibb idők óta. Az érzékfeletti érzékelési szintekkel rendelkező beavatottak még mindig olvashatják őket. Szerinte az Akasha-krónikák, akárcsak a legendák és a mesék, a múltból származó elbeszélések formái, amelyek az embert a jövő felé vezető szellemi fejlődésében irányítják. Ez egyfajta mesepedagógia, amelyben a történeteket spirituális és ezoterikus nézőpontból választják ki és értelmezik. Azt is meg kell említeni, hogy Steiner számára a gyermek fejlődése kilenc és tíz éves kora között jelentős fordulóponthoz érkezik, amikor a gyermek figyelme az egész természet felé fordul, mert a gyermekek még nem tudják megkülönböztetni önmagukat a külvilágtól. Az is lényeges, hogy Steiner nem tartotta hasznosnak a tankönyveket a gyermekek számára. Szerinte az ilyen könyvek inkább a felnőttek, mint a gyermekek tájékoztatására alkalmasak.
+
+Steiner szerint például a mítoszok az elbeszélés egy olyan formája voltak, amely természetes módon az ókori ember primitív tudásállapotából eredt, aki a valóságot csak mitológiai képeken keresztül volt képes értelmezni, és nem tettek különbséget az egyén és a kozmosz között. Steiner és Barfield, valamint a romantika korának számos más gondolkodója szerint az egyéni psziché fejlődése a gyermekkortól kezdve az emberi tudás fejlődésének megismétlődése volt (Fischer, 2011, 141-142. o.).
+
+Maria Montessori elmondása alapján a tizenkilencedik század második feléig nem létezett igazi gyermekirodalom Olaszországban, bár a gyermekeknek szóló szóbeli mesemondásnak számos formája létezett, amelyeket gyakran a felnőttek is értékeltek Az olasz gyermekirodalom első igazi „klasszikusa” egy bábnak szentelt könyv – a Pinokkió – volt, amely először 1881-ben jelent meg epizódokban egy gyermekeknek szóló folyóiratban. Olaszországban a XIX. század vége és a XX. század eleje között számos gyermeklap jelent meg. Néhányat közülük jól szerkesztettek és elég széles körben terjesztettek, a legjelentősebbek az 1881-ben alapított <em>Giornale per i Bambini</em> (Gyermekmagazin) és az <em>Il Giornalino della Domenica</em> (A Vasárnapi Kis Magazin), amely először 1906-ban jelent meg.
+
+Maria Montessori egy először 1938-ban megjelent könyvében megjegyezte, hogy a felnőttek egyre inkább tudatában vannak a gyermekek első életévei fontosságának, és a kifejezetten gyermekeknek szánt színházak, könyvek és folyóiratok ezt az új tudatosságot jelzik, a gyermekeknek szóló magazinokat, könyveket és színházakat ugyanolyan fontosnak tartja, mint a gyermekek alapvető higiéniai és oktatási szükségleteit. Ezzel arra utal, hogy a gyermekek gondozása nem korlátozódhat az elsődleges szükségleteik kielégítésére, hanem kiterjeszthető az esztétikai, költői és elbeszélői területekre is. Pedagógiai elemzésének egy másik fejezetében azt is írja, hogy nem csak az írni-olvasni tudás az egyetlen, amire a gyerekeknek szükségük van ahhoz, hogy közel kerüljenek a könyvekhez. Az írás-olvasás alapvető, de az olvasás szeretete csak akkor születik meg, ha a gyermek megérti, hogy a könyvekben lenyűgöző történetek mesélődnek (Montessori, 1938, 181-184. o.). Az olvasás örömeinek felfedezése arra késztetheti a gyerekeket, hogy szó szerint kikapják a kezükből a könyveket, néha még a lapokat is kitépik a felfedezés örömére, hogy mi van bennük. Ezért azt javasolta, hogy a könyvek használatát az osztályteremben szabályozni kell (Montessori, 1938, 184. o.). Ez a józan ész szülte tanács volt, elvégre a nevelés és az olvasás azt jelenti, hogy a gyerekeknek el kell érniük azt a célt, hogy gondosan vigyázzanak a könyvekre. Fontos hozzátenni, hogy Maria Montessori számára (Montessori, 1913, 226-229. o.) a gyermek csak akkor értheti meg egy könyv jelentését, ha elsajátította a logikus nyelvet: még a nagyon jól illusztrált könyveket sem értékelik a gyermekek, amíg nem értik meg a nyelv és a logika közötti kapcsolatot, amely lehetővé teszi a fiatal olvasók számára, hogy megértsék: az írásbeli kommunikáció mások gondolatainak közvetítésére szolgál.
+
+Sőt, az írott nyelv megértése kezdetben még varázslatosnak is tűnik a gyermekek számára. Világosan kirajzolódik Maria Montessori vágya, hogy olyan békés világot teremtsen, amelyben a kultúra, a nevelés és a tudás eszközeivel mindenki testvérként kapcsolódik egymáshoz. A mesékkel kapcsolatban azonban Ellen Key és Rudolf Steiner elképzeléseivel ellentétben Montessori rendkívül óvatos álláspontot képviselt: szerinte a gyerekek akkor merülnek el a fantáziavilágban, amikor valós környezetükben problémákat tapasztalnak. A képzeletbe menekülő gyermek a nehézségek vagy az unalom elől kíván menekülni (Montessori, 1938, 209-217. o.). Maria Montessori nevelési javaslatai azonban hétéves kortól megengedik, hogy meséket olvassanak a gyerekeknek, mert szerinte a kisebb gyerekek nem tudják megkülönböztetni a valóságot a fantáziától, és ezért nagy félelemnek lehetnek kitéve, ha meséket hallgatnak (Tucker, 1981, 73-74. o.). Montessori óvatos hozzáállása a mesékhez valószínűleg tudományos és pozitivista neveléséből eredhetett.
+
+Ráadásul pedagógiai formája mindenekelőtt a logikát, a konkrét tapasztalatot és a racionalitást helyezi előtérbe (noha, mint látni fogjuk, a képzelet is fontos része nevelési módszerének). A montessori gyerekek egy olyan valóságba merülnek bele, amelyet fokozatosan megtanulnak megérteni és irányítani. Montessori nevelési javaslatának van egy fontos eleme, amely döntően visszaszerzi a képzelet és így a mesélés pozitív értékét. Megállapította, hogy a gyermekekben valódi kíváncsiság él a természeti jelenségek okai, a világ eredete és az élet értelme iránt. Montessori kidolgozott egy elméletet és egy kozmikus nevelést, hogy segítsen a gyerekeknek felfedezni és megérteni a nehéz, de alapvető jelenségeket és kérdéseket. Ez a nevelési út azonban csak akkor lehetséges, ha a képzeletből, a mítoszokból és a mesékből indul ki. A képzelet segítségével lehet a gyermekek lelkesedését felkelteni a megtanulandó dolgok iránt, míg a mítoszok és a mesék segítségével lehet a filozófiai jellegű fogalmakat a gyermeki pszichológia számára világos módon tárgyalni (Montessori, 1947, 29-47. o.). Elmélete a képzeletre támaszkodik, és visszanyeri a mítoszokat és meséket, hogy olyan nevelési utat hozzon létre, amely lehetővé teszi, hogy a gyermekek ne csak megismerjék, hanem tiszteljék is a természeti környezetet és a bioszférát. Ez a nevelési és ökológiai törekvés mindenekelőtt napjainkban alapvető fontosságú.
+
+## Összefoglalás
+
+A gyermekirodalom a tanulmányban szereplő gondolkodók korától napjainkig jelentős változásokon, számos metamorfózison és nagy fejlődésen ment keresztül: a mesék, akárcsak a mítoszok, kritikák, átírások és újrafelfedezések tárgyát képezték, amelyek ezeket az ősi meséket olyan történetekké alakították át, amelyek mindig újak és képesek elvarázsolni a fiatal olvasókat. Három gondolkodónkat azonban nemcsak a mesék vagy mítoszok elbeszélő formája érdekli: ha figyelmesen megnézzük, látható, hogy mindhárman azt a kapcsolatot hangsúlyozzák, amelyet ezek a sajátos történetek pozitív, természetes és gyümölcsöző módon teremtenek a gyermekek képzeletével. Ugyanez a kapcsolat képes olyan nevelési és formálási utakat aktiválni, amelyek elsődleges jelentőségűek a gyermekkor harmonikus fejlődése szempontjából. Sok tekintetben ez az egyik legjelentősebb és legaktuálisabb üzenet, amelyet Ellen Key, Rudolf Steiner és Maria Montessori a modern kornak hagyott.
+
+## Bibliográfia
+
+1\. Åkerström, U. (2013). Ellen Key in Italy. In P.I. Planefors (Ed.), Ellen Key. Creating a European Identity (pp. 18-25). Ödeshög, Sweden: Alvastra Publishing House.
+
+2\. Ambjörnsson, R. (2014). Ellen Key and the concept of Bildung. Confero, 2, 1, 133160.
+
+3\. Archinto, R. (2007). Perché un libro illustrato per i bambini?. In S. Blezza Picherle (Ed.), Raccontare ancora. La scrittura e l’editoria per ragazzi (pp. 251-261). Milan: Vita e Pensiero. Barfield, O. (1928). Poetic Diction. A Study in Meaning. London: Faber and Gwyer, Ltd.
+
+4\. Barfield, O. (1957). Saving the Appearances. A Study in Idolatry. London: Faber and Faber (trad. it. Salvare le apparenze. Uno studio sull’idolatria, Genua-Milan, Casa Editrice Marietti, S.p.A., 2010).
+
+5\. Benozzo, F. (2007). Sciamani europei e trovatori occitani. In C. Corradi Musi (Ed.). Simboli e miti della tradizione sciamanica (pp. 96-110). Bologna: Carattere.
+
+6\. Broccolini, G. (1973). La letteratura dell’infanzia: un problema di definizione. Vita dell’infanzia. Rivista mensile dell’Opera Montessori, 10-11, 5-8.
+
+7\. Buongiorno, T. (1995). Dizionario della Letteratura per Ragazzi. Milan: Garzanti.
+
+8\. Grandi, W. (2014). Fairy tales, children's books and schools in Sweden and Italy in the late nineteenth and early twentieth centuries. Historical comparisons and pedagogical remarks. Ricerche di Pedagogia e Didattica – Journal of Theories and Research in Education. 9, 2, 39-56.
+
+9\. Herbart, J.F. (1806). Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet. Göttingen (trad. it. Pedagogia generale derivata dal fine dell’educazione, Firenze, La Nuova Italia, 1997).
+
+10.Herbart, J.F. (1841). Umriss Pädagogischer Vorlesungen. Göttingen: Johann Friedrich Röwer (trad. it. Compendio delle lezioni di pedagogia, Roma, Armando, 1971).
+
+11\. Homberger, T. (1995). Esperienze di un insegnante di classe. I primi otto anni di scuola. Arte dell’Educazione. 1, 2, 44-52.
+
+12\. Honegger Fresco, G. (2014). La teoria dell’educazione cosmica. Gli Asini. Educazione e intervento sociale. 19, 105-114.
+
+13\. Hoppál, M. (2007). La mitologia naturale dello sciamanesimo della Siberia. In C. Corradi Musi (Ed.), Lo sciamano e il suo “doppio” (pp. 19-30). Bologna: Carattere.
+
+14\. Key, E. (1900a). Böckerna mot Läseböckerna. In Id., Barnets Århundrade: studie II (pp. 173-189). Stockholm: Bonnier.
+
+15\. Key, E. (1900b). Bilaga. In Id., Barnets Århundrade: studie II (pp. 245-257). Stockholm: Bonnier.
+
+16\. Kinnunen, T. (2013). A Friend or an Enemy? Ellen Key’s reception among the Finnish middle-class feminists. In P.I. Planefors (Ed.), Ellen Key. Creating a European Identity (pp. 49-65). Ödeshög, Sweden: Alvastra Publishing House.
+
+17\. Lengborn, T. (1993). Ellen Key (1849-1926). Prospects: the quarterly review of comparative education. Unesco: International Bureau of Education, XXIII, 3/4, 825-837.
+
+18\. Melloni, R. (1978). Il teatro popolare. In G. Adani, G. Tamagnini (Eds.), Cultura popolare nell’Emilia Romagna. Espressioni sociali e luoghi d’incontro (pp. 211237). Milano: Silvana Editoriale d’Arte.
+
+19\. Montessori, M. (1913). Il metodo della pedagogia scientifica applicato all’educazione infantile nelle case dei bambini. Roma: Loescher.
+
+20\. Montessori, M. (1938). Il segreto dell’infanzia. Bellinzona-CH: Istituto Editoriale Ticinese S.A.
+
+21\. Montessori, M. (1947). To Educate the human Potential. Adyar-Madras, India: Kalakshetra Publications (trad. it. Come educare il potenziale umano, Milano, Garzanti, 1970).
+
+22\. Steiner, R. (1908, December). Märchendeutung. Paper presented at meeting of the Theosophical Society, Berlin (trad. it. Interpretazioni di fiabe. In Idem, La poesia delle fiabe alla luce della scienza dello spirito, Milano, Editrice Antroposofica srl., 2008, pp. 36-62).
+
+23\. Steiner, R. (1910). Die Geheimwissenschaft im Umriss. Leipzig: Verlag von Max Altmann (trad. it. La scienza occulta nelle sue linee generali, Milano, Editrice Antroposofica srl., 2005).
+
+24\. Steiner, R. (1913, February). Märchendichtungen im Lichte der Geistesforschung. Paper presented at meeting of the Theosophical Society, Berlin (trad. it. La poesia delle fiabe alla luce della ricerca spirituale. In Idem, La poesia delle fiabe alla luce della scienza dello spirito, Milano, Editrice Antroposofica srl., 2008, pp. 7-35)
+
+25\. Steiner, R. (1924, August). Die Kunste des Erziehens aus dem Erfassen der Menschenwesenheit. Paper presented at meeting of the Anthroposophical Society, Torquay-UK (trad. it. L’educazione come arte dal complesso dell’entità umana, Milano, Editrice Antroposofica srl., 2012).
+
+26\. Tassi, R. (1987). Itinerari pedagogici del Novecento. Bologna: Zanichelli. 27. Tucker N. (1981). The Child and the Book. A psychological and literary Exploration. Cambridge, UK: Cambridge University Press (trad. it. Il bambino e il libro, Rome, Armando, 1996).
+
+28\. Zipes, J. (2001). Sticks and Stones. The Troublesome Success of Children’s Literature from Slovenly Peter to Harry Potter. New York and London: Routledge, part of Taylor & Francis Books, Inc. (trad. it. Oltre il giardino. L’inquietante successo della letteratura per l’infanzia da Pinocchio a Harry Potter, Milano, Mondadori, 2002).

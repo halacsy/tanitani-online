@@ -1,0 +1,67 @@
+---
+title: Otthonról haza
+migratedId: 1060
+overrideMigrated: true
+authorSlugs:
+  - nemeth-tibor
+date: '2020-12-05'
+tags:
+  - alsó tagozat
+excerpt: >-
+  Németh Tibor interjúja Perge Évával Az biztos: akivel sokat kínlódtunk, az
+  messziről köszön. Ezek azok a gyerekek, akiknek mi is adtunk a neveléséhez.
+  Aki biztos háttérből jön, annak nem mi adjuk a világát.
+coverImage: /sites/default/files/perge.jpg
+coverAlt: Perge Éva
+coverTitle: Perge Éva
+reads: 4242
+---
+<strong>Németh Tibor interjúja Perge Évával</strong>
+
+> Az biztos: akivel sokat kínlódtunk, az messziről köszön. Ezek azok a gyerekek, akiknek mi is adtunk a neveléséhez. Aki biztos háttérből jön, annak nem mi adjuk a világát.
+
+<em><img alt="Németh Tibor" src="/sites/default/files/nemeth_tibor.jpg" style="width: 250px; height: 188px; float: left; margin-right: 15px;">Ki vagy te, Perge Éva?</em>
+
+Tanítónő, drámapedagógus és intézményvezető vagyok. Sok minden szerettem volna lenni gyerekkoromban, de mivel az általános iskolában négy olyan pedagógussal is találkoztam, akik emberségből és tantárgyuk iránti szeretetből példát mutattak, máig igyekszem az ő nyomdokaikban járni. 1990-ben végeztem a Budapesti Tanítóképző Főiskolán. A főiskola utolsó évében a Budapest XXII. kerületi Kerekes Árpád Általános Iskolába kerültem gyakorlatra. Azóta harminc év telt el, a Kerekes Árpád ma Gádor Általános Iskola. Igyekeztem minden osztályomhoz megújulni, olyan élményeket adni a gyerekeknek, amelyektől alsós korukra emlékezni fognak. Azért, hogy meg tudjak felelni az elvárásaiknak, újra meg újra tanulni kezdtem.
+
+<em>Szeretsz újítani?</em>
+
+Mindig szívesen vettem részt új dolgok bevezetésében. Az előző igazgatónő vezetése alatt indult be néhány újítás a tantestület közös munkájával, melyben én is részt vettem. Amikor a suliban egy közeli művészeti iskolával szorosabbra fűztük a szakmai kapcsolatainkat, én is vittem tanítványaimat drámajátékra, ahol kedvet kaptam, majd elvégeztem a drámapedagógia szakot. Mikor meg akartuk nyitni az iskola kapuit, bemutatkozó programokat és jótékonysági esteket szerveztünk; azért, hogy a gyerekek jobban megszeressék az iskolát, olvasóéjszakát, télűző felvonulást tartottunk. Több mint húsz éve egy oktatási központ vers- és prózaíró pályázatának bírálója vagyok, kerületi munkaközösséget vezettem, szaktanácsadó, közoktatásvezető, igazgatóhelyettes majd igazgató lettem.
+
+<em>Mi a legfontosabb számodra a katedrán?</em>
+
+Hitelesnek kell lenni, ez a legfontosabb. És tudni kell felejteni – nekem könnyű, én gyorsan felejtek, ami jó a gyerekeknek is, hiszen így mindig tiszta lappal indulhatnak, ha hibáztak. A főiskolai vezető tanárom azt mondta egyszer, hogy minden gyereket szeretni kell – ha nem találunk benne szeretni valót, akkor addig kell, hogy nézzük, amíg nem találunk benne valamit, amiért szerethetjük. Ezt a tanácsát a mai napig igyekszem megfogadni. Ha a gyerekek azt érzik, hogy szeretik őket, mindenre képesek. Ha én a problémás diákot elfogadom, akkor a társai is el fogják fogadni. Valahol azt olvastam, hogy a pedagógus feladata az, hogy „gerincet húzzon” tanítványaiba. Mai fejemmel azt gondolom, ez mindennél fontosabb.
+
+<em>Mennyire kell megnyitni az iskola kapuit?</em>
+
+Iskolánkban fontosnak tartjuk a szülőkkel való kommunikációt a gyerekek érdekében. A tantestület szakmai együttműködése jó, képesek vagyunk elfogadni egymás véleményét, megegyezni a cél érdekében és ehhez tartjuk is magunkat. Érdemes az iskola kapuit kinyitni, de vigyázni kell, mert a tanítás is olyan, mint a foci: mindenki ért hozzá – pedig a szakemberek mi vagyunk.
+
+<em>Mit ad neked, hogy iskolát vezetsz?</em>
+
+A helyemen érzem magam: a problémamegoldás az erősségem, minden nap gyakorolhatom, és a sok gond ellenére is sikerélményt ad. Szeretem a Gádort, a kollegáimat, a gyerekeket. Az iskolám érdekében gátlástalanul tudok lobbizni, míg magamért ez eszembe sem jut. Munkatársaimmal igyekszem minél többet négyszemközt beszélgetni. Ez a legnehezebb, mert a feladatok cunamijában erre nem sok idő marad. Fontos a nyugodt, kiszámítható légkör, ahol mindenki a gyerekekre és a szakmára tud koncentrálni – ennek kialakítását tartom a legfontosabbnak. Vezetőként fontos, hogy megtaláljam a feladatokra a legalkalmasabb embert, illetve, hogy a munkamegosztás egyenletes legyen. Egy jó iskola ma biztonságos hely a gyerekeknek, jó hangulatú tantestülettel, felkészült pedagógusokkal, kiszámítható vezetőséggel. Szerencsére kollegáim színes egyéniségek, akik annak ellenére, hogy a tantestülettel együtt idősödnek, még képesek új dolgokba belefogni. Még mindig ég bennük a tűz. Van, aki iskolai programokat szervez szívesen, mások kirándulásokat, színházlátogatásokat, van, aki a könyveket tudja megszerettetni, más a zenét, a filmet, többen bicikliznek vagy futnak szabadidejükben. Közösen színesítjük a gyerekek életét, mindenki hozza magával a múltját és a jövőjét.
+
+<em>Mit hoztál haza a nagyvilágból?</em>
+
+Lehetőségem volt több országban is járni, mindenütt figyelemmel kísértem az oktatás színtereit is. Japánban rácsodálkoztam, hogy ott a legkisebbeket tanítókat becsülik meg legjobban anyagilag, az amerikai utam során azt élveztem leginkább, hogy hatalmas bevásárlóközpontokban (akkoriban itthon még híre-hamva sem volt ilyesmiknek) iskolai munkámat segítő eszközöket vásárolhattam fillérekért – éveken át segítették munkámat ezek a kellékek. Mindenhonnan hozok a gyerekeknek is valamit. Nemrég találkoztam egy huszonhat éves volt tanítványommal, akinek még mindig megvan a szemcseppentős üvegcsében a Szahara-homok. Én is óvom azt a MacGyver-készletet, amit egyik utamra kaptam tanítványaimtól.
+
+<em>Mennyiben változott meg az iskola az elmúlt harminc évben?</em>
+
+Az írógép-indigó kombótól a 3D-s nyomtatás lehetőségéig; a krétától a nagyon okos tábláig; az oktatási koncepciók kiszámíthatóságától a rapid változásokig; a tankönyvek sokszínűségétől az egyenkönyvekig (én például szinte minden könyvcsaládból tanítottam, nekem ez jelentette a megújulást, az élvezetet, hogy szívesebben készüljek óráról órára). Én is megváltoztam, ma már nem engedném erdei iskolában fenéken lecsúszni a hegyoldal őszi avarában a gyerekeket. Ehhez kellenek a fiatalok, akik még meg merik tenni, és ez így van jól. Egy dolog nem változik, a gyerekek. Az biztos: akivel sokat kínlódtunk, az messziről köszön. Ezek azok a gyerekek, akiknek mi is adtunk a neveléséhez. Aki biztos háttérből jön, annak nem mi adjuk a világát.
+
+<em>Mennyiben sajátos a Gádor?</em>
+
+Minden iskola igyekszik megtalálni az arculatát, azt, amivel az intézmények közül képes kitűnni. Az elmúlt évtizedekben mi is, mint a többi iskola, önmagunkat kerestük, és kipróbáltunk többféle lehetőséget. Megmaradt ezekből a nyelvi napközi, ahol az első három évfolyamon napi fél órában ismerkedhetnek a gyerekek az angol, illetve a német nyelvvel. Ezt az ötletet annak idején az igazgatóhelyettesünk hozta saját tapasztalatból, mikor Tunéziában járt, mi gádorosítottuk. Több mint tizenöt éve oktatunk így, a kicsiket csak a szóbeliségen keresztül, dalokkal, mondókákkal. Azért, hogy a gyerekek meg tudjanak-merjenek-akarjanak szólalni idegen nyelven.
+
+Az elmúlt években egyre nagyobb szükségét látjuk a nevelésnek. Néhány évvel ezelőtt felfedeztünk egy személyiségfejlesztő programot, és a szülők segítségével közösségi finanszírozással bele is vágtunk. A személyiségfejlesztés nem könnyű és nem gyors munkamenet, de élvezzük minden percét. A program [hét szokás](http://www.eletrevalo7szokas.hu/assets/images/kepkompetencia-1400x951.png) kialakításával segíti a személyiség fejlődését: három szokás az önfejlesztést, három a közösségfejlesztést, egy pedig a megújulásra, feltöltődésre való képességet erősíti. Hiszünk abban, hogy ha segítjük a gyerekeket abban, hogy emberként ki tudjanak teljesedni, akkor könnyebben megtalálhatják a boldogulásukat.
+
+Azt látom, hogy azok a pedagógusok értékelik igazán a Gádor szabadságát, akik másik iskolából jöttek hozzánk. Itt megvalósíthatja magát mindenki, van kutatótanárunk, mestertanárunk, három kollegám készül most is a szakvizsgára, van, aki profilt vált. Igyekszünk segíteni őket mindenben. Ha jó ötlettel áll elő valaki, megtalálhatja a terepet, ahol kibontakozhat. Igyekszünk segíteni megújulásukat, hogy nap, mint nap szívesen jöjjenek közénk.
+
+<em>Mit szeretnél még megvalósítani?</em>
+
+Minél több fiatal kollegát csábítani az iskolánkba – ez a legfontosabb jelenleg, a tantestület fiatalítása. A tervek közt van, hogy a termeket légkondicionáló berendezésekkel felszereltetjük, és jó lenne néhány kisebb terem is a csoportbontásokhoz. Nagy szükségünk lenne egy fedett közösségi térre is.
+
+<em>Mit üzensz a pedagógushallgatóknak?</em>
+
+A saját családjainkon kívül senki nem ragaszkodik annyira hozzánk, mint a tanítványaink. Amikor felcsillan a megértés a gyerek szemében, vagy látom, hogy segítettem rajta a tanácsaimmal, az szép pillanat. Persze nem megy minden simán. Van, akit minden segíteni akarásunk ellenére is el kell engednünk – ilyenkor csak reménykedhetünk, hogy egy másik iskolában sikeresebb lesz. Eleinte ezeket a helyzeteket kudarcként éltem meg, de idővel rájöttem, mindenkinek nem lehetünk jók. Persze nem csak oktatási intézmény vagyunk – sok diákunk szülei itt találkoztak először. Nagy megbecsülés, hogy visszahozzák a gyerekeiket.
+
+A pedagógus-hallgatóknak erőt és kitartást kívánok ehhez a pályához. Azt gondolom, sok öröm forrása az iskola, és ha jól csináljuk, együtt lehet boldog itt gyerek és felnőtt.

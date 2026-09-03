@@ -1,0 +1,50 @@
+---
+title: Otthonoktatás – másutt
+migratedId: 983
+overrideMigrated: true
+authorSlugs:
+  - csatlos-marton
+date: '2020-01-16'
+tags:
+  - otthonoktatás
+excerpt: >-
+  Csatlós Márton írása Romániában nyári önkéntes munkát végezvén érdekes
+  tapasztalatokat szerezhettem az „otthonoktatás” (home schooling) sajátos
+  megvalósulásáról egészen különböző társadalmi környezetben, a „társadalomból
+  kivonult” közösségekben. Alábbiakban „útinaplómból” adok közre részleteket.
+coverImage: /sites/default/files/rousseau.jpg
+coverAlt: Henri Rousseau festménye
+coverTitle: Henri Rousseau festménye
+reads: 2553
+---
+<strong>Csatlós Márton írása</strong>
+
+> Romániában nyári önkéntes munkát végezvén érdekes tapasztalatokat szerezhettem az „otthonoktatás” (home schooling) sajátos megvalósulásáról egészen különböző társadalmi környezetben, a „társadalomból kivonult” közösségekben. Alábbiakban „útinaplómból” adok közre részleteket.
+
+## Vaela Babii közösség Romániában (Vaela Babii völgyében – Hunedoratól (Vajdahunyad) nem messze)
+
+Egy 5 éve ott élő németajkú család (helyesebb talán a közösség kifejezést használnom) keresett önkénteseket sokféle ház körüli munkára, segítségképp, cserében szállást és ételt biztosítanak. Az állandó lakók a vendéglátó családnál az alapító K és C, két gyermekükkel – M (4) és L (6) –, illetve a nemrég csatlakozott A, aki immár C párja, vele élnek e közösségi háztól kicsit távolabb egy házban.
+
+A szülők szándéka egyértelmű, az otthonoktatást választják a bármiféle állami oktatás helyett. Mint megtudtam, C terhessége volt az egyik indok, hogy végül a szülők elhatározták magukat, hogy megfelelő helyet keresnek és letelepednek, nem szerették volna a túlszabályozott német keretek között felnevelni a gyermekeiket, szándékuk volt szabadabb életkörülményeket biztosítani. Végül Romániára (még pontosabban Dél-Erdélyre) esett a választás a lazább törvényi keretek és végrehajtás, illetve az olcsó telekárak és a gyönyörű, viszonylag érintetlen természet okán. Kisebb-nagyobb kalandok után megtalálták a helyüket a völgyben, ekkor már az idősebbik fiú, L megszületett. M itt látta meg a napvilágot, ő volt az első, aki a törvényi szabályozások után bejegyezhettek Luca Cerni szülöttjének (ez precedens értékű volt, legalábbis hivatalosan itt született gyermekként).
+
+Külső szemlélőként érdekes volt látni, ahogy a gyerekek a szabadság szinte teljes spektrumát átélik. Egész nap kint vAk vagy az udvaron, szabadban, vagy a ház körül játszanak. Időnként mesélnek nekik – főként A-t, C új párját láttam a gyerekkel foglalkozni, illetve az édesanyjuk, K tölt velük több időt –, bár az ő lakrésze máshol van, mint a gyerekeké (egy lakókocsi szerű objektumban 100 méterre), illetve C részéről leginkább a veszélyre való felhívás, ha túl közel mentek a traktorhoz vagy hasonlók, illetve néha közös játék képezte az együttlétet.
+
+Esetenként már zavarba ejtően határtalan volt a gyerekek viselkedése, kicsit a kölyökállatokéhoz hasonlíthatnám, időnként haraptak, az ablakon közlekedtek egy szál hálóingben vagy éppen egy trikóban voltak egész nap – volt önkéntes, aki "a vadak"-ként emlegette őket. Érdekes volt azt tapasztalni, hogy a teljes szabadon engedés – illetve a szülők szabados attitűdje – és a szinte keretnélküliség, ebben az esetben milyen következményekhez vezet. Ez persze nem fekete vagy fehér. A gyerekek alapvetően nagyon érdeklődőek. Önkifejezésük (főleg a non-verbális, de németül a szóbeli is), őszinte reakcióik meglepően intenzívek és zavarba ejtőek voltak. Valószínűleg az önismeretük is bőven meghaladta a városi és strukturált körülmények közt felnövő kortársaikét – bár ezt nehéz így összehasonlítani, hiszen ők pedig azokkal a komplex kihívásokkal nem találkoztak –, viszont itt is bőven látnak eltérő mintákat az időről-időre a világ minden tájáról érkező önkéntesektől.
+
+Közülük a legtöbben nem nagyon mertek vagy akartak rájuk szólni, inkább csak ha túlmentek egy határon. Például a gyerekek szokásává vált a nemtetszést kifejező köpködés a másik ember felé. Azonban volt olyan is, hogy a holland önkéntes, aki kiválóan beszélt németül, elkezdte látványosan „nevelni” a kisfiút, elmondta véleményét, rászólt, megpróbálta kideríteni miért okozott valamilyen bonyodalmat a kislánynak. A gyerekek nyilván nem szeretnének túlságosan bevonódni egy kapcsolatba olyan személyekkel, akik szinte csak átutaznak. Korukhoz képest sokat tapasztaltak az ilyenfajta búcsúzásokból, nem szeretnének olyan szoros kötelékeket kialakítani, amelyek hamarosan már csak emlékek lesznek. Tapasztalatom szerint a szorosabb kapcsolódást ki is kell érdemelni – legalább pár nap együttléttel, ami természetes.
+
+## Balsa közelségében (Dévától északkeletre) élő közösség
+
+Főleg fiatal párok, illetve az egyik alapító apukája – és az ő néhány éves gyermekeik – alkotják. Az egyik családnál töltött egy hetes tapasztalat során 2 gyerekükre láttunk rá. Illetve vendégségbe meghívták egy barátjukat, egy négygyermekes anyukát, aki fontolgatja a kiköltözést. Ők is velünk voltak öt napig, három gyerekkel, így ekkor öt gyerekkel voltunk négyen felnőttek. A gyerekek nagy része még abban a korban volt, hogy igényelte a fokozott jelenlétet. Így a mi feladatunk főleg az ő foglalkoztatásuk-lefoglalásuk, illetve az étel elkészítésében való segítség volt.
+
+Itt markánsan megjelent az online videókból, tutorialokból való tanulás, illetve a világgal való ismerkedés. Az idősebbik kisfiú (5), JP egy igen érdeklődő, energikus, kissé hiperaktív adottságokkal megáldott gyermek, aki ha valami leköti, akkor abba teljesen bele tud mélyedni, kartonpapírból ragasztópisztollyal egérlabirintust és mindenféle szerkezetet állít elő. Máskor nagyon türelmetlenül ráakaszkodik az anyukájára, és kíméletlenül érvényesíti akaratát. A kisebbik leánygyermekkel, D-vel nagyon sok problémája adódott szüleinek. Még csak másfél éves, de túl van néhány kórházi traumán. Ennek ellenére nagyon nyitott a világra, minket hamar a bizalmába fogadott. Neki egy sztrókot követően a fél oldala le volt bénulva, sokat javult, ám a jobb kezét nem tudja rendesen használni. Próbálják a szülők olyan helyzetekbe hozni, hogy ezt gyakorolja.
+
+A gyermekek a szülőkkel egy lakókocsiban alszanak, amíg fel nem újítják az egyik romos házat – illetve egy nagy pajtát használnak „nappaliként” és konyhaként addig is (ez nem ázik be és áram van). A tulajdonos a rendelkezésükre bocsájtotta a területet, hogy használják, így nincs különösebb kötelezettségük – egy közeli faluban van az állandó lakhelyük, de a közeljövőben szeretnének teljesen kiköltözni onnan.
+
+Saját elmondásuk szerint kicsit közösségszkeptikusak, nem szeretnének túl szorosan együtt élni más családokkal és alkalmazkodni, hanem a saját igényeik szerint alakítanák ki a környezetüket, amilyen szabadon csak tudják – náluk nem az önellátás a legfontosabb tényező (bár szép nagy kertjük van, amiben sok gyógynövény és zöldség terem), hanem az életmód.
+
+## Erdélyi Zöld Kuckó
+
+Székelyföldön, Marosvásárhelytől nem messze (Makkfalva és Szolokma között) elhelyezkedő család. A férfi workshopokat tart természetes építkezés témában, már felépítettek egy földházat, amiben mi is szállást kaptunk. 3 gyermekük közül kettő már nagyobb, iskolás korú, 12 és 9 évesek, a közeli faluba járnak összevont iskolába. 
+
+A "workaway profilukban" megjelent a homeschooling – kétségtelen, hogy a gyerekek sokat tudnak itt tanulni. Itt sem egy megtervezett folyamatról van szó – illetve érvényesül egy afféle summerhillszerű oktatás. Mint kiderült, ezt szeretnék hosszútávon megvalósítani, főleg a legkisebb gyermekük számára felépíteni egy ilyen környezet, aki már a „szabadban” született, nem ismeri a városi élet viszontagságait – a közeli falut is városnak mondja. Van ebben persze egyfajta misztifikáció.

@@ -1,12 +1,21 @@
 ---
-title: "A tanulói értékelés széles körű értelmezése a gyakorlat számára"
-author: "Cseh Ágnes Gabriella"
-authorSlug: cseh-agnes-gabriella
-date: "2008-01-01"
-tags: ["kompetencia", "nevelés", "tantárgy-pedagógia"]
-excerpt: "A szummatív, diagnosztikus és formatív értékelés háromszöge. A formatív értékelés hat kritériuma – és miért tekintik a diákok a hibát természetes tanulási elemként, ha jól alkalmazzák."
-image: /images/cikkek/tanuloi-ertekeles.jpg
+title: A tanulói értékelés széles körű értelmezése a gyakorlat számára
+migratedId: 174
+overrideMigrated: true
+author: Cseh Ágnes Gabriella
+date: '2008-01-01'
+tags:
+  - kompetencia
+  - nevelés
+  - tantárgy-pedagógia
+excerpt: >-
+  A szummatív, diagnosztikus és formatív értékelés háromszöge. A formatív
+  értékelés hat kritériuma – és miért tekintik a diákok a hibát természetes
+  tanulási elemként, ha jól alkalmazzák.
 reads: 4102
+authorSlugs:
+  - cseh-agnes-gabriella
+coverImage: /images/cikkek/tanuloi-ertekeles.jpg
 ---
 
 Tanítások

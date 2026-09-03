@@ -1,0 +1,50 @@
+---
+title: Jelentés az óvodából
+migratedId: 1230
+overrideMigrated: true
+authorSlugs:
+  - bakonyi-anna
+date: '2024-01-15'
+tags:
+  - óvoda
+excerpt: >-
+  Bakonyi Anna segélykiáltása Rendeletben szüntették meg a hazai óvodapedagógia
+  jelentős vívmányát: a felsőfokú óvodapedagógus-képzés kizárólagosságát.
+coverImage: /sites/default/files/ovoda.jpg
+coverAlt: 'Forrás: https://www.freepik.com/'
+coverTitle: 'Forrás: https://www.freepik.com/'
+reads: 3724
+---
+<strong>Bakonyi Anna segélykiáltása</strong>
+
+> Rendeletben szüntették meg a hazai óvodapedagógia jelentős vívmányát: a felsőfokú óvodapedagógus-képzés kizárólagosságát.
+
+Jól látható, hogy jelentős változások előtt áll a pedagógia, a pedagógus szerepétől kezdve, a gyermeki gondolkodás megváltozott képességéig, amely a digitális generációk jelenlétéből fakad. Kezdetben még csak X, majd Y generációról beszéltünk, ma már a Z generációnál tartunk, és ezek a változások a kisgyermeknevelést is érintik, hiszen már az „új generációval” kell foglalkozniuk az óvodapedagógusoknak. A téma beható elemzése nélkül is tapasztalhatjuk mindannyian, hogy már az óvodáskor előtt is használják a kicsik a számítógépet vagy az egyéb informatikai eszközöket, amelyeket a család is használ. A számítógépes mesefilmek megtekintésének kérdése egyszerű, itt csak ellenőriznie kell a felnőttnek, hogy mit nézzen meg a gyerek. De ennél sokkal összetettebb, bonyolultabb folyamatnak vagyunk immár részesei: változnak a gyermeki képességek, általánosan és globálisan. Másképp perceptuál, másképp lát és másképp gondolkodik ez a nemzedék, mint ahogy az előző. Tudásuk „veleszületett” az előző generációkkal szemben.
+
+A digitális nemzedék tagjai más szokásokkal és főként más irányokkal, hálózatosodással kommunikálnak. Ennek ellenére, vagy éppen ezért számukra is fontos a művészetek művelése, a komplex művészetek (dráma, báb, zene, tánc, mozgás, képzőművészet, mese) terapikus, személyiségbeli és kapcsolatfejlesztő hatásmechanizmusa.
+
+Mint már említettük: a differenciált fejlesztés záloga a gyermek megismerése. A nyomon követéses, megfigyelésen és/vagy mérésen alapuló megismerés módszereinek kidolgozása részben már megtörtént, részben folyamatos fejlesztések zajlanak e területen. A minőségi munka ellenőrzését a közeljövőben új megoldások szolgálják, az egyik ilyen például a pedagógus portfóliójának elkészítése. (Ez ma ismét változóban van.) A portfólió mint módszer, várhatóan és elképzelhetően szerepet fog kapni a gyerekek fejlődésének nyomon követése során is. A családokkal és az iskolával történő együttműködés igazi tartalma éppen a gyerekről való tudás megosztása, a tapasztalatok kicserélése és a gyerekhez igazított megoldások megtalálása.
+
+Nemzetközi kitekintés alapján követhető, hogy a minőségi kisgyermeknevelés megoldásai, a pedagógusok képzettsége, a nevelés szervezeti keretei, azok variációi tág megoldásokat, lehetőségeket rejtenek magukban. Hogy mely gyereknek mi a jó: biztos kezdet ház, bölcsőde, családi napközi, játszóház, otthoni gyerekfelügyelet, óvoda, az valójában család- és gyermekfüggő. Akárhogy is alakul a jövő, egységes vagy széttagolt rendszerben nevelkednek a kisgyermekek az iskola előtt, mindenképpen alapcél, hogy a rendszerek egymáshoz igazodva, részben azonos protokollal működjenek.
+
+Tudjuk, hogy a kora gyermekkori „befektetés” a szó szoros értemében biztosan megtérülő befektetés. Az óvoda nem egyszerűen „csak” az iskolát alapozza meg, hanem a jövőt is.
+
+A társadalmi és pedagógiai változások befolyásolják a köz- és a szakmai gondolkodást. Bár az értékek változnak, mégis jelentősnek mondható az a tény, hogy az óvodák megőrizték gyerekcentrikus szellemiségüket, a gyermeki aktivitásra épülő gyakorlatukat. További változások várhatók, hatnak ránk a környező országok más típusú gyakorlatai és a saját változtatási igényeink.
+
+Nem könnyű számba venni, hogy mit is jelent a XXI. század óvodapedagógusának lenni. Első megközelítésre minden bizonnyal a technika rejtelmeiben való tájékozottságra gondolhatunk, arra, hogy a digitális kultúra adta lehetőségeket hogyan lehet, és hogyan kell – ebben az életkorban sajátosan – kiaknázni.
+
+Ez nagy vonalakban így is van. Ugyanakkor nem elsősorban a „kütyük” adta technikai tudás és annak kisgyermekkori adaptációja a lényeg, hanem mindaz a „más” gondolkodási és viselkedési struktúra, amely a digitális világból fakad.
+
+Ennek egyik fő eleme a rugalmasság (és nem elvtelenség), ami azért fontos, mert mindig minden változik. Nincs állandóság, nincs fix tudás. A folyamatos fejlődés maga az élethosszig tartó tanulás, ami nem egyszerűen csak azt foglalja magába, hogy mindig iskolába kell járni, még felnőttkorban is, hanem reziliens emberképet feltételez. A reziliencia egy képesség, amely azt jelenti, hogy az ember állandóan és rugalmasan gyakorolja a meglévő ellenőrző, javító mechanizmusait, s ezzel egyidejűleg mintegy újjáépíti önmagát. Tehát a hagyományok, a hagyományos ismeretek ezáltal nem szűnnek meg. Az „új” nem divat lesz, és nem kampány, hanem beépül a meglévőbe, pontosabban: az új a régit felhasználva építkezik.
+
+Az egyes ember azonban nem mindig képes az ilyen típusú innovációra, nem is feladata mindenkinek az, hogy „innovátor” legyen. Ezért is elengedhetetlen az, hogy a gondolkodásunk közösen fejlődjön, és teamben, hálózatban gondolkozzunk, dolgozzunk. A kisgyermekek már egyfajta szoros együttműködési kultúrába születnek bele, nekünk, „régebbieknek”, ezt (is) meg kell tanulnunk, felnőttént. Az egyéni törekvések és az együttműködés képessége egyszerre jelennek meg (vagy éppen elsikkadnak) a kisgyermek játékában, abban a tevékenységformában, ami ennek a korosztálynak a legfontosabb tevékenysége.
+
+A hagyományok őrzése, ápolása és a modernitás beépülése, a régi és az új összhangja, a gyökerek „friss vízzel locsolása”, az egyensúly megteremtése adja az átmenet, majd a megerősödés biztonságát.
+
+Láthatjuk, hogy melyek azok az óvodapedagógiai vonatkozások, amelyeket a képzésben is tanítanak, amelyek a gyakorlatban még mindig – bár változó módon – érvényesülnek. Szükség van a változásra, a merev ragaszkodás nem egyszerűen korszerűtlen lenne, hanem eredménytelen is. Ugyanakkor jelentős, hogy egyfajta ív, szemléleti szinten különösen, megmaradjon. 2013 után az ONAP szemlélete alapvetően megmaradt, de sok tekintetben átalakult. Más preferenciák fogalmazódtak meg a dokumentumban, új elemek kerültek bele, kicsit még szerkezetileg is változott. A törvényekben nagyobb változások következtek be. Az óvodák összevonásával kevesebb a saját pedagógiai program, így az egyes óvodák arculata – darabszámot tekintve – kevesebb lett. Bár vannak olyan települések, ahol megengedett, hogy a tagóvodák önálló programmal rendelkezzenek, mégis, az azonos vezetés egyfajta egységesítés felé mutat.
+
+Megváltozott a felügyeleti, ellenőrzési és tanácsadási rendszer. Ez szoros összefüggésben van az életpályamodellel, amelyben eddig az egyén portfóliójának volt kiemelt szerepe. Mindez kapcsolatban lehet, de nem feltétlenül következesen, vagy koherens módon az intézmény terveivel, modelljével.
+
+A gyermekek iskolába engedésének szabályai is változtak, kisebb az óvodapedagógus véleményének jelentősége, ugyanakkor, továbbra is lehet szerepe.
+
+Az óvodapedagógus-hiány eredményezte azt, hogy bizonyos intervallumokban nem csak szakképzett óvodapedagógus lehet már a gyerekekkel. A legutolsó változás éppen folyamatban van, ennek mondhatni drámai következményeit egyrészt előre vetíthetjük, másrészt a bekövetkező – szakmai szintű – változásokat még nem látjuk. Miről van szó? Rendeletben szüntették meg a hazai óvodapedagógia jelentős vívmányát: a felsőfokú óvodapedagógus-képzés kizárólagosságát. E mellett az egyik fő kérdés az, hogy az új teljesítményértékelési rendszer átalakítja-e, és ha igen, akkor milyen módon és milyen mértékben a magyar óvodapedagógia gyakorlatát. A Magyar Pedagógiai Társaság s más szakmai szervezetek, műhelyek a jogszabálytervezet megjelenésekor élénken tiltakoztak. Az állásfoglalás az MPT honlapján olvasható.

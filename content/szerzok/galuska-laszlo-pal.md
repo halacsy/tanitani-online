@@ -1,0 +1,3 @@
+---
+name: Galuska László Pál
+---

@@ -1,12 +1,19 @@
 ---
-title: "A közoktatás felforgatása?"
-author: "Knausz Imre"
-authorSlug: knausz-imre
-date: "2026-03-31"
-tags: ["oktatáspolitika"]
-excerpt: "A Felforgatókönyv oktatási fejezete ígéretes, de hiányos. A 6+6-os iskolaszerkezet, a minimális alaptanterv és az egyenlőtlenségek kérdése alaposabb elemzést érdemel."
-image: /images/cikkek/a-kozoktatas-felforgatasa.jpg
+title: A közoktatás felforgatása?
+author: Knausz Imre
+date: '2026-03-31'
+tags:
+  - oktatáspolitika
+excerpt: >-
+  A Felforgatókönyv oktatási fejezete ígéretes, de hiányos. A 6+6-os
+  iskolaszerkezet, a minimális alaptanterv és az egyenlőtlenségek kérdése
+  alaposabb elemzést érdemel.
 reads: 3987
+authorSlugs:
+  - knausz-imre
+coverImage: /images/cikkek/a-kozoktatas-felforgatasa.jpg
+migratedId: 1399
+overrideMigrated: true
 ---
 
 **Knausz Imre a Felforgatókönyv közoktatási fejezetéről**

@@ -1,0 +1,51 @@
+---
+title: 'Bodóczky István: Kortárs művészet vagy populáris kultúra?'
+migratedId: 310
+overrideMigrated: true
+authorSlugs:
+  - bodoczky-istvan
+date: '2011-10-08'
+tags:
+  - művészetpedagógia
+  - ifjúsági kultúra
+excerpt: >-
+  A kortárs képzőművészeti alkotások kvalitását a jelenünk problémáihoz való
+  kapcsolódás, a problémafelvetés, a megfogalmazás árnyaltsága, mélysége
+  határozza meg. A felkavaró, gondolkodást igénylő kortárs művek viszont nálunk
+  többnyire nem népszerűek, különösen, ha a már elfogadott esztétikai
+  sztenderdekhez sem…
+reads: 11113
+---
+> A kortárs képzőművészeti alkotások kvalitását a jelenünk problémáihoz való kapcsolódás, a problémafelvetés, a megfogalmazás árnyaltsága, mélysége határozza meg. A felkavaró, gondolkodást igénylő kortárs művek viszont nálunk többnyire nem népszerűek, különösen, ha a már elfogadott esztétikai sztenderdekhez sem igazodnak. A pedagógia ezen a téren sokat segíthetne. Az elmúlt évben tanúja voltam annak, hogy másodéves gimnazisták milyen lelkesen fogadtak olyan kortárs alkotásokat, amelyek a Műcsarnok rendszerváltáshoz kapcsolódó kiállításán szerepeltek.
+
+<img alt="Bodóczky István" src="/sites/default/files/b.bodoczkytempus_-w250.jpg" style="margin-left: 10px; margin-right: 10px; float: left; width: 250px; height: 333px; ">Amikor a Nemzeti alaptantervben megjelentek a kulcskompetenciák (többnyire angol szövegek adaptációiként), az Esztétikai-művészeti tudatosság és kifejezőképesség definíciójának megalkotása nem volt zökkenőmentes – az első szövegváltozat átírására magam is javaslatot tettem, és ahogy az lenni szokott, a sok bába között elveszett a gyermek. Az említett címszó alatt most egy igen ügyetlen szöveg olvasható, ami a művészeti tudatosság fontosságáról a legkevésbé sem képes meggyőzni az olvasót. Nem is tulajdonítottam nagy jelentőséget neki, talán éppen azért, mert akkor is azt gondoltam, hogy nem ettől lesz jobb vagy fontosabb a művészeti nevelés.
+
+A szöveg egy részletéről azonban érdemes szólni, mert abból kiderül, hogy vannak, akik számára tisztázatlan, hogy mi is a kortárs művészet.
+
+A “népszerű kortárs kultúra” kifejezésről van szó, ami az általam javasolt “kortárs művészet és a népszerű kultúra” kifejezés helyett került a mondatba. A szöveget végső formába öntő szerkesztő vagy lektor bizonyára úgy gondolta, tautologikus a dolog, mert a kortárs művészet és a népszerű (populáris) kultúra ugyanazt jelenti. Pedig ha tudná az illető, hogy ez a kettő mennyire nem ugynaz, és hogy a kortárs művészet mennyire nem „népszerű”, akkor nem követte volna el ezt a hibát.
+
+Korábban megfigyelhető volt, hogy bár az egyes társadalmi rétegeknek, etnikumoknak, régióknak is kialakulhatott sajátos kulturális arculata, a felsőbb rétegek kultúrája, a „magas kultúra” azért erősen hatott rájuk. Csak ritkán lehetett beszélni kölcsönhatásról: az alacsonyabb rendűnek tekintett népi kultúra pédául inspirálta ugyan időnként az irodalmat vagy a zenét, de az alapvető irányt – azt, hogy a “magasabb” hat az alacsonyabbra – ez nem változtatta meg. A minta a leggazdagabbaktól, az egyháztól, az arisztokráciától, a nagypolgárságtól eredt, akik meg tudták fizetni a kor legkiválóbb művészeit, így a kor esztétikai normái, szépségideálja is az úgynevezett „magas kultúra” körében született meg. Az iskolák még ma is ezt az elképzelést igyekeznek közvetíteni, a közoktatást egy elképzelt „magas kultúra” jegyében gondolják folytatni.
+
+A gazdaságot és a kultúrát azonban ma már nem egy szűk réteg, néhány nagy megrendelő, „beruházó” tartja mozgásban, hanem a tömegek fogyasztása. Tagadhatatlan, hogy az utóbbi kétszáz évben óriási mértékű demokratizálódási tendencia volt érzékelhető világszerte, ha nem is egyenletesen és nem is mindenütt (ma is vannak egyenlők és még egyenlőbbek). Minél demokratikusabb berendezkedésű egy társadalom, annál demokratikusabbá válik a „tudáselosztás” is, ahogyan az esztétikai normák, a szépség eszmény sem egy „magas kultúra” diktátuma ma már.
+
+Annál is inkább, mert az a bizonyos magas kultúra mára levált korábbi bázisáról, nincs minden esetben mögötte a gazdasági és politikai hatalom.
+
+Kialakult egy értelmiségi elit (ami kétségbeesve harcol legitimitásáért); az ő működésük és a művészet bonyolult önmozgása révén alakul ki az, amit a mai kor magas művészetének nevezhetünk. Ennek legelevenebb része a kortárs művészet. A kortárs művészet (képzőművészet) nem azonos a mai művészettel, vagyis nem tartozik körébe minden napjainkban létrehozott alkotás. (Akkor sem, ha a kereskedelem szívesen nevez minden ma készülő alkotást „kortárs”-nak). Szakértői szóhasználat szerint körébe csak azok a művek sorolhatók, amelyek reflektálnak a mára, a ma aktuális társadalmi, művészeti, filozófiai vagy éppen személyes problémáira. Az ilyen művek felismerését sokak számára nehezíti, hogy itt nem valami stílusról, „modernségről” vagy korszerű technikáról van szó. A kortárs művek esetében egyértelmű a tartalmi prioritás, a technika csak a közvetítő médium, ami önmagában nem teszi korszerűvé az alkotást.
+
+A kortárs művészet – mint általában az avantgárd törekvések – erősen rombolja a korábbi merev katgóriarendszert, így a korábbi hierarchikus kultúrafelfogást is. Sokan azt gondolják, hogy ez az attitűd önazonosságának megszüntetéséhez vezethet. Mivel a korábbi modernista szemlélettel ellentétben „korérzékeny”, természetesen a tömegek életében fontos szerepet játszó populáris kultúrára is reflektál. Esetenként még szubkulturális megnyilvánulások is a látókörébe kerülnek. Olyannyira, hogy időnként már a határok is feloldódni látszanak. A kortárs művészet olykor-olykor felhasználja populáris műfajok formanyelvét, inspirációs forrásként kezeli azokat, vagy éppen kritikailag reflektál rájuk. Ez azonban mégsem jelenti azt, hogy a kortárs művészet azonossá válna a populáris kultúrával, és ettől még nem válik „népszerű kortárs kultúrává”. Előfordult, hogy egy képzőművészeti kiállítást rappelve nyitottak meg, és az utcaművészet némely eszközét (például a stencilt) is sokszor használják képzőművészek. Kísérletek is történnek arra, hogy a populáris kultúra legfőbb terjesztője, a média lehetőségeit felhasználva csökkentsék a szakadékot a magas és a populáris kultúra között, ezek azonban eddig teljesen sikertelenek voltak. Hiába próbál a televízió a nagyközönség számára érdekfeszítőnek feltüntetni egy-egy komoly kortárs művészeti eseményt – a kor problémáival szembesítő, gyakran enigmatikus, csendet és gondolkodást igénylő vagy éppen felkavaró alkotás helyett a többség inkább marad kedvenc sorozatainál.
+
+Mert a kortárs művészet összességében inkább diagnózis, sem mint terápia. Kérdések felvetése és nem feltétlenül válaszok adása.
+
+A kortárs képzőművészeti alkotások kvalitását a jelenünk problémáihoz való kapcsolódás, a problémafelvetés, a megfogalmazás árnyaltsága, mélysége határozza meg. A felkavaró, gondolkodást igénylő kortárs művek viszont nálunk többnyire nem népszerűek, különösen, ha a már elfogadott esztétikai sztenderdekhez sem igazodnak. A pedagógia ezen a téren sokat segíthetne. Az elmúlt évben tanúja voltam annak, hogy másodéves gimnazisták milyen lelkesen fogadtak olyan kortárs alkotásokat, amelyek a Műcsarnok rendszerváltáshoz kapcsolódó kiállításán szerepeltek. Igaz, ehhez egy szakértő múzeumpedagógus és egy szociológus (integráció!) közreműködésére volt szükség. Az iskola feladata lenne az ilyen kortárs műveknek (és nem csupán a régmúlt műalkotásainak) az aktív befogadását elősegíteni, ahogyan az is, hogy kritikus, a médiát értelmesen használó „médiafogyasztókat” neveljen. A populáris műsorok (valóságshow-k és hasonlók) vagy a fiatalokat érdeklő zenei együttesek, tetoválások, piercingek, illetve az öltözködésük és más új szokásaik elítélésével nem lehet eredményt elérni – szakértőkké kell válnunk ahhoz, hogy műfajukon belül meg tudjuk ítélni és nevelési célokra felhasználhassuk ezeket.
+
+Rajztanáraink többsége a mai művészetnek sem szakértője. Csak kevesen képesek megállapítani, hogy például egy absztrakt festmény esetében „történeti beágyazottságú” absztrakt képről, kortárs absztrakt festményről, vagy egy olcsó, hiteltelen utánérzésről (absztrakt giccsről) van szó. De hasonló a helyzet a populáris műfajok esetében is, tanáraink többsége ezekben sem „szakértő”, ezért ezeket is nagy ívben elkerülik.
+
+Így lehet az, hogy a populáris kultúra és a legfrissebb kortárs művészet összemosódik a szemükben. Nehezen tudnám eldönteni, hogy melyiknek van kevesebb esélye bekerülni a mai magyar közoktatásba. Nem növeli esélyüket az sem, ha „népszerű kortárs kultúra” néven viccesen összevonjuk őket.
+
+## Galéria
+
+Az internetnek köszönhetően ma már a kortárs művek is könnyen hozzáférhetők, ám előzetes tájékozottság, az adott mű kontextusának ismerete nélkül csak kevéssé érthetők, befogadhatók.
+
+Kattints a képekre a nagyobb változatért!
+
+[<img alt="1" src="/sites/default/files/bodoczky1-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px;">](/sites/default/files/bodoczky1.jpg) [<img alt="2" src="/sites/default/files/bodoczky2-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky2.jpg) [<img alt="3" src="/sites/default/files/bodoczky3-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky3.jpg) [<img alt="4" src="/sites/default/files/bodoczky4-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky4.jpg) [<img alt="5" src="/sites/default/files/bodoczky5-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky5.jpg) [<img alt="6" src="/sites/default/files/bodoczky6-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky6.jpg) [<img alt="7" src="/sites/default/files/bodoczky7-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky7.jpg) [<img alt="8" src="/sites/default/files/bodoczky8-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky8.jpg) [<img alt="9" src="/sites/default/files/bodoczky9-W100.jpg" style="margin-left: 10px; margin-right: 10px; width: 100px; ">](/sites/default/files/bodoczky9.jpg)

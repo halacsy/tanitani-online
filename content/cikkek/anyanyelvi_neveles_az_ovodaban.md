@@ -1,0 +1,98 @@
+---
+title: Anyanyelvi nevelés az óvodában
+migratedId: 1401
+overrideMigrated: true
+authorSlugs:
+  - czipczerne-bartok-erika
+date: '2026-04-06'
+tags:
+  - óvoda
+excerpt: >-
+  Az anyanyelvi nevelés fontossága az Óvodai nevelés országos alapprogramjában
+  1. Czipczerné Bartók Erika írása A természetes kíváncsiságból fakadó kérdések
+  feltevése olyan interakciókat eredményez, amelyek fejlesztő hatásúak a beszéd
+  kialakítására. A különböző problémafelvetések, majd -felismerések a logikai…
+coverImage: /sites/default/files/ovodasok.jpg
+coverAlt: 'Forrás: Freepik'
+coverTitle: 'Forrás: Freepik'
+reads: 811
+---
+<strong><span style="font-size: 12px;">Az anyanyelvi nevelés fontossága az Óvodai nevelés országos alapprogramjában 1. Czipczerné Bartók Erika írása</span></strong>
+
+> A természetes kíváncsiságból fakadó kérdések feltevése olyan interakciókat eredményez, amelyek fejlesztő hatásúak a beszéd kialakítására. A különböző problémafelvetések, majd -felismerések a logikai gondolkodást serkentik, az azokat követő dicséret a pszichés fejlődésre is produktívan hat.
+
+<img alt="Czipczerné Bartók Erika" src="/sites/default/files/czipczerne_bartok_erika.jpg" style="width: 200px; height: 261px; float: left; margin-right: 15px;">Az Óvodai nevelés országos alapprogramja az óvodai nevelés általános feladatai közé sorolja az anyanyelvi, értelmi fejlesztés és nevelés megvalósítását. Fontos a gyermekek fejlődése szempontjából, hogy az anyanyelv ékes elsajátítása a gyermekek mikrokörnyezetében, elsődleges szocializációs terében, a családban kezdődjön. A kutatási eredmények arra világítanak rá, hogy a nem megfelelően funkcionáló, kevésbé ingergazdag környezetben nevelkedő gyermekek anyanyelvi képességei lassabban érik el az életkori sajátosságoknak megfelelő szintet. Napjainkban gyakran figyelhető meg az óvodáskorú gyermekeknél a kidolgozatlan nyelvi kód, a megkésett beszédfejlődés. Az óvodának mint köznevelési intézménynek tehát nagy a felelőssége a gyermekek helyes anyanyelvi képességeinek a kibontakoztatásában, fejlődésében. Az Óvodai nevelés országos alapprogramja részletesen taglalja, hogy az anyanyelvi nevelésnek minden komplex tevékenységben jelen kell lennie. A kommunikáció akkor fejlődik optimálisan, ha a gyermekek beszélő környezete helyes mintákat ad. A kommunikációs kedv fenntartása, illetve motiválása érdekében az óvodapedagógusok felveszik a versenyt a digitális kommunikáció eszközeivel. A különböző anyanyelvi játékok esélyt adnak a gyermekek kifejező képességének a fejlesztésére, a gyermekek meghallgatására és a gyermeki kérdések kibontakoztatására. A gyermeki kíváncsiság, a válaszok igénye a környezettől olyan természetes folyamat, amely az utóbbi időkben anomáliákat, eltéréseket mutat. Az ismeretek átadásának, az újszerű tanulási környezetnek a konstruálásával esélyünk van felvenni a kesztyűt a technika vívmányaival, a beszéden túl a kreativitás, a képzelőerő és sok más terület fejlesztésére is. 
+
+A mai modern óvoda mint köznevelési intézmény szerepe az anyanyelv tanulásban napjainkban talán még nagyobb szerepet kap, mint korábban. 2,5 évesen indul meg a legintenzívebben a beszédfejlődés, ami egybeesik a lelki és mentális fejlődéssel, és ha inkluzív szemlélettel vesszük górcső alá az óvodáskort mint fejlődéslélektani szakaszt, kiválóan kompenzálhatóak a hátrányos szocioökonómiai helyzetű gyermekek esetleges elmaradásai is. 
+
+A családnak az anyanyelv elsajátításában is nagy szerepe van. Az óvodába érkezve a kortársakkal és az óvodai dolgozókkal való kapcsolatteremtés egyik legfontosabb eszköze a verbális kommunikáció. Az óvodai napirend során a kommunikáció kezdeményezésének és interaktív meglétének a fontosságát áthatják a mindennapok. A gyermekek élménybeszámolói a család felé, a tapasztalatok megosztása, a kifejezőképesség választékosságának a megléte olyan kritériumok, melyek folyamatosan fejleszthetőek.
+
+Az óvodapedagógusnak kiemelkedő szerepe van a példamutatásban, a tanulási környezet megteremtésében, melyben aktívan részt vehet a gyermek. A legtöbb hiba abban rejlik, hogy az óvodapedagógus túl sok információt közöl verbálisan és nonverbálisan, és közben elfelejti meghallgatni a gyermeket. A jó pedagógus ismérve, hogy olyan helyzeteket alakít ki, amelyekben a legfontosabb, hogy értő figyelemmel hallgatjuk meg a gyermekeket. 
+
+Az anyanyelvi nevelés során a logopédus tud a leginkább szinergiában dolgozni az óvodai dolgozókkal, de fontos szerepet töltenek be a fejlesztőpedagógusok és a gyógypedagógusok is. Különös gondot kell fordítani a hangok, hangzók tiszta ejtésére, az összefüggő beszédre, a passzív és az aktív szókincs folyamatos fejlesztésére, a beszédértés meglétére. Nem titkolt nevelési cél, hogy gondolnunk kell az óvodáskorú gyermekek jövőjére is, és az olvasás, írás elsajátításának egyik fontos feltétele az anyanyelvi nevelés.  
+
+## Az óvodai nevelés felelőssége az anyanyelv-pedagógia területén
+
+Az óvodapedagógus a komplex tevékenységeken belül nagy gondot fordít az egyéni vagy mikrocsoportban történő beszélgetésekre felmérve ezzel a gyermekek beszédállapotát. A tapasztalatokat napjainkban már az Ovikréta felületén rögzítjük. Az egyéni fejlődést nyomon követő dokumentumok tartalmáról a szülők számára fogadóórák keretein belül nyújtunk tájékoztatást. A produktív pedagógiai kommunikáció alapja a derűs óvodai légkör és a bizalmi kapcsolatok kiépítése. A szülőket arra ösztönözzük, hogy ügyeljenek a helyes és érthető kommunikációra, teremtsenek ösztönző élethelyzeteket a beszédkedv motiválására. A kommunikáció egy olyan kapcsolódás a család és a gyermekek között, amely az egész életünket végig kíséri. 
+
+Az óvodai dolgozók az anyanyelvi nevelés során figyelik az ép hallást, a beszédképző szervek működését és a kognitív képességek meglétét. Az emlékezet a hallás utáni tanulás során kiválóan fejleszthető, ezért lényeges a gyermekirodalom változatos, gazdag jelenléte. A beszéd az óvodába lépéskor a köszönéssel, bemutatkozással, az élmények elbeszélésével, a különböző szándékok kifejezésével válik napról-napra helyessé. 
+
+Az életkori sajátosságoknak megfelelően differenciálunk, és olyan kommunikációs helyzeteket teremtünk, amelyek során sikerélményt könyvelhetnek el a gyermekek. Az anyanyelvi játékokat nagyon szeretik a gyermekek, figyelmük megtartásának titka abban rejlik, hogy vidám légkört eredményez a játékba ágyazott tanulás. A saját készítésű játékokkal könnyűszerrel lehet légzéstechnikai gyakorlatokat alkalmazni, a fúvás gyakorlása mindig derűs helyzeteket eredményez az óvodai élet során. A kiscsoportosok a hangutánzást szeretik a legjobban. Az idősebb gyermekek már zörejeket, hangokat is megkülönböztetnek, a különböző mondókák ritmusa segíti a beszéd kialakulását. A szógyűjtő játékok, képek, újságok nézegetése során az aktív szókincs megismerésén túl felszínre bukkannak a passzív szókincs szavai is. A nagycsoportos gyermekek már történeteket mesélnek, szótagokban is tudnak beszélni, szótagszámokat számolnak, amit le is tudnak tapsolni.
+
+A természetes kíváncsiságból fakadó kérdések feltevése olyan interakciókat eredményez, amelyek fejlesztő hatásúak a beszéd kialakítására. A különböző problémafelvetések, majd -felismerések a logikai gondolkodást serkentik, az azokat követő dicséret a pszichés fejlődésre is produktívan hat.
+
+## Az Óvodai nevelés országos alapprogramja
+
+Az óvodai nevelőmunka legfontosabb tanügyigazgatási dokumentuma az Óvodai nevelés országos alapprogramja. Történetileg nézve a különböző történelmi korszakok pedagógiai paradigmái folyamatosan formálták az kisgyermekek neveléséről vallott szemléletet. Az állami irányítás arra törekedett, hogy a szabályzókat a magyar családok igényeinek megfelelően alakítsa. Formálisan a szakemberek a Kisdednevelés című folyóiratból tájékozódtak az óvodáskorú gyermekek nevelésének célkitűzéseiről először. 1953-ban megjelent az Óvodai foglalkozások című dokumentum. Ezt követte 1957-ben a Nevelőmunka az óvodában című kézikönyv. 1971-ben végre megszületett az az alapdokumentum, amit már nagyon vártak az óvodapedagógusok, Az óvodai nevelés programja, amely húsz évig volt irányadó. A program alapvetően adott egy olyan ellenőrizhető stabilitást, amely megfelelt a hazánkban uralkodó szemléletnek és erkölcsi vonzatának. 1982-től reformok frissítik fel az óvodapedagógiáról gondolkodókat, és többéves szellemi átgondolás után megjelenik az 1989-es nevelési program. Ez a program már erősen megjeleníti, hogy a gyermekeknek jogaik vannak, és hangsúlyozza, hogy az erkölcsi nevelés a családi nevelés fontos feladata, és nem az államé. Fontos, hogy ez a dokumentum már tartalmazza az óvodában zajló alapelveket, funkciókat, nevelési célokat, feladatokat, különböző fejlesztésre szolgáló tevékenységeket, szervezési feladatokat, és nem utolsó sorban az óvodáskorú gyermekekről megjelennek olyan fejlődési jellemzők, amelyek fontos részét képezik az óvoda-iskola átmenetnek. A dokumentum fejlődéslélektanilag és az óvodáskorú gyermekek kognitív képességeire vonatkozóan is irányt ad az óvodai és családi nevelésnek egyaránt. A helyi óvodai programok megjelenítik azt a pedagógiai és módszertani szabadságot, amelyre mindig is vágytak a pedagógusok, és egy sokszínű, a családok szükségletét is kielégítő óvodai nevelés kezdődik el.
+
+Az 1990-es években még nagyon jellemző a foglalkozás-központú szemlélet, és gyakran feladatszerűen zajlik az óvodai nevelés. 1999. szeptember 1-jétől minden óvoda a saját nevelési programja alapján tervezheti a pedagógiai munkáját. Az önállóság sok szempontból pozitívan hatott az óvodák életére, de akadtak nehézségek is. Összehasonlító, illetve elemző munkát végezve a következő konklúziókat vonhatjuk le.
+
+<ol><li class="rtejustify">Az Alapprogram alapvető társadalmilag elfogadott értékekre épít.</li><li class="rtejustify">A gyermeki jogok lényegesek, mindenek felett állnak.</li><li class="rtejustify">Az óvodai nevelés nem helyettesíti a családi nevelést, hanem kiegészíti azt.</li><li class="rtejustify">Az óvodai nevelés figyelembe veszi a családok egyéni igényeit a nevelés terén.</li></ol>
+
+Az óvodai nevelés programja (1971, 1989) egy nevelési elvet érvényesített, és inkább óvodaközpontú volt. Nagyon erősek a módszertani szabályozók, és a szervezeti keretek is kötöttek, erős nevelésközpontúság jellemzi. Az 1996-os Óvodai nevelés országos alapprogramja már színes nevelési elveket vall, erősen gyermekközpontú, és nagy öröm az óvodapedagógusok számára az a módszertani szabadság és szervezeti kultúrát jellemző változatosság, amely elindítja a változás és az innováció folyamatát. Ez egy olyan váltás, amely magával hordozta az élethosszig tartó tanulás fontosságát a versenyképes tudás érdekében. Nőtt az esélyegyenlőség lehetősége, felerősödött a gyermekvédelem, az óvodák objektív feltételei mellett a pedagógusok kompetenciái és reflektív gondolkodásmódja is ugrásszerű szemléletváltáson esik át. A fenntartó is jobban górcső alá veszi az óvodai nevelést, ezzel is elismerve az óvodák fontosságát. Megjelennek a szaklapok, mint például az Óvodai Nevelés vagy Óvodai Élet, így elindulhatott egy szakmai párbeszéd, hogy ki hogyan teljesíti a minősített programok elméleti kereteit a gyakorlati munkájában. Kiegészítik ezt a nevelőtestületi értekezletek, a munkaközösségi értekezletek, a megyei pedagógiai intézetek, az óvodai szaktanácsadók segítő-támogató munkája. A továbbképzéseken való részvétel abban az időben nem egy lehetőség volt, hanem feltétele annak, hogy egy helyi óvodai program megvalósulhasson. 
+
+## Összegzés
+
+Összegezve tehát nagy a felelősség az óvodapedagógus tiszta, helyes kommunikációját tekintve, amely áthatja az egész óvodai létet. A gyermekek nagyon sok új, divatos kifejezést használnak, ez folyamatosan alakítja a beszédet. A modern gyermekirodalmi művek inger- és érzelemgazdagsága sokszor nehezen feldolgozható egy óvodáskorú gyermek számára, az óvodapedagógus szerepe megnő abból az szempontból is, hogy fontosnak tartja az általa választott mesék nyugodt hangvételét is. A gyermek sokszor azonosul a mesehősökkel, ami egy nagyon komoly szellemi tevékenység eredménye. Ennek az azonosulásnak köszönhető a az olyan személyiségjegyek alakulása, mint az empátia, türelem stb. (Dankó, 2004) Nagyon fontos, hogy a gyermekirodalmi művek olvasásának tervezésekor figyelembe vegye az óvodapedagógus, hogy a mű milyen értékeket képvisel, hiszen az érzelmi intelligencia gondozásának egyik eszköze a mese. (Kádár, 2018) Ahhoz azonban, hogy valóban produktív legyen az érzelmi intelligencia fejlesztése az óvodai nevelés során, az óvodapedagógusnak figyelembe kell vennie az óvodáskorú gyermekek lélektani sajátosságait. A mese előadása is nagyon fontos eszköze az anyanyelvi nevelésnek, az interaktivitás során előhívhatjuk a szöveges emlékezetet, hozzákapcsolhatunk különböző memóriajátékokat. Az emocionális kifejezések, a gondolatok megosztása az anyanyelvfejlesztés, a hallás utáni tanulás, a kontextusban való nyelvi gondolkodás fejlődése mind a kommunikációs kompetenciák felfedezését eredményezi.
+
+## Irodalom
+
+<em>Az óvodai nevelés programja</em>. 1989.
+
+Dankó Ervinné 2004. <em>Irodalmi nevelés az óvodában</em>. Okker Kiadó. Budapest.
+
+Dankó Ervinné 2016. <em>Nyelvi-kommunikációs nevelés az óvodában</em>. Okker Kiadó. Budapest.
+
+Fazekasné Fenyvesi Margit 2021. <em>A beszédhanghallás fejlesztése óvodában, iskolában. Játék- és feladatgyűjtemény. </em> Mozaik Kiadó. Szeged.
+
+Goleman, Daniel 2008. <em>Érzelmi intelligencia</em>. Háttér Kiadó. Budapest.
+
+Gordon, Thomas 2008. <em>P.E.T. – A gyereknevelés aranykönyve</em>. Studium Effektive Kiadó. Balatonfenyves.
+
+Gordon, Thomas 2010. <em>Teacher Effectiveness Training: The Program Proven to Help Teachers Bring Out the Best in Students of All Ages</em>. Crown Publishing Group. New York.
+
+Horváth György 2004. <em>Pedagógiai pszichológia.</em> Nemzeti Tankönyvkiadó, Budapest
+
+Kádár Annamária 2018. Mese az érzelmi intelligencia fejlesztésében, szerepe a nevelésben-oktatásban. In: Fehér Ágota – Megyeriné Runyó Anna (szerk.) <em>A mese szerepe a nevelésben, oktatásban. A Brunszvik Teréz Szakmai Napok keretében szervezett II. Nemzetközi Kisgyermek-nevelési Konferencia kötete</em>. Apor Vilmos Katolikus Főiskola. Vác. 138–147.
+
+Katona Krisztina 2018. <em>Mindenben anyanyelv. Fejlesztési lehetőségek játékokkal, gyakorlatokkal az óvodában</em>. Raabe Oktatási és Tanácsadó és Kiadó. Budapest.
+
+Kuhn Gabriella – Gyarmathy Éva 2004. <em>A beszédészlelés fejlesztése óvodásoknál és kisiskolásoknál. Játékkatalógus</em>. Argumentum Kiadó. Budapest.
+
+Lukács Ágnes – Pléh Csaba 2015. <em>Pszicholingvisztika 1–2. Magyar pszicholingvisztikai kézikönyv</em>. Akadémiai Kiadó. Budapest.
+
+Neuberger Tilda 2017. A szókincs alakulása a beszédfejlődésben. In: Bóna Judit (szerk.) <em>Új utak a gyermeknyelvi kutatásokban.</em> ELTE Eötvös Kiadó. Budapest. 121–140.
+
+[<em>Teaching Emotions Preschool. </em> North Coast Community Services.](https://northccs.com/misc/teaching-emotions-preschool.html) 
+
+<em>Óvodai nevelés országos alapprogramja</em>. 1996.
+
+Pásztor Csörgei Andrea 2020. A képtől az előadásig. A papírszínház alkalmazása a drámapedagógiai munkában. <em>Könyv és Nevelés</em> 1: 63–88.
+
+Pethő Ágnes: Az óvodai nevelőmunka szabályozása. <em> Óvodai Nevelés</em>, 1996. október 8. szám 288–289. p.
+
+Pethő Ágnes: Ismét az új típusú tartalmi szabályozásról. <em>Óvodai Nevelés</em>,  1997. november, 9. szám 270–273. p.
+
+Solymosi Katalin (2004): Fejlődés és szocializáció. In: N. Kollár Katalin, Szabó Éva (szerk.) <em>Pszichológia pedagógusoknak,</em> Osiris Kiadó, Budapest
+
+ [363/2012. (XII. 17.) kormányrendelet az Óvodai nevelés országos alapprogramjáról.](https://net.jogtar.hu/jogszabaly?docid=a1200363.kor)

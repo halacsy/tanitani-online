@@ -1,12 +1,22 @@
 ---
-title: "Játszva együtt alkotni"
-author: "Dósa Judit"
-authorSlug: dosa-judit
-date: "2020-03-23"
-tags: ["drámapedagógia", "művészetpedagógia", "alternatív iskolák", "nevelés"]
-excerpt: "A drámapedagógia fejleszti a kreativitást és a személyiséget a vizuális nevelésben. A hagyományos rajzoktatástól a projektalapú, drámával átitatott tanításig vezető út tapasztalatai."
-image: /images/cikkek/jatszva-egyutt-alkotni.jpg
+title: Játszva együtt alkotni
+author: Dósa Judit
+date: '2020-03-23'
+tags:
+  - drámapedagógia
+  - művészetpedagógia
+  - alternatív iskolák
+  - nevelés
+excerpt: >-
+  A drámapedagógia fejleszti a kreativitást és a személyiséget a vizuális
+  nevelésben. A hagyományos rajzoktatástól a projektalapú, drámával átitatott
+  tanításig vezető út tapasztalatai.
 reads: 2567
+authorSlugs:
+  - dosa-judit
+coverImage: /images/cikkek/jatszva-egyutt-alkotni.jpg
+migratedId: 997
+overrideMigrated: true
 ---
 
 **Drámapedagógiai módszerek alkalmazása az alapfokú művészetoktatás képző- és iparművészeti ágán. Dósa Judit írása**

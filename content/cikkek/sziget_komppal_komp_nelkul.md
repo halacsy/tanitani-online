@@ -1,0 +1,58 @@
+---
+title: 'Sziget komppal, komp nélkül'
+migratedId: 944
+overrideMigrated: true
+authorSlugs:
+  - ugrai-janos
+date: '2019-05-21'
+tags:
+  - örökség
+excerpt: >-
+  Ugrai János írása Május 22-én lesz 80 éves Mihály Ottó. A Taní-tani Online
+  több írással is köszönti a magyar pedagógiai és oktatáspolitikai gondolkodás
+  meghatározó egyéniségét. Ezúttal az egykori tanítvány és kolléga a miskolci
+  éveket idézi fel.
+coverImage: /sites/default/files/mihaly1_0.jpg
+coverAlt: Mihály Ottó
+coverTitle: Mihály Ottó
+reads: 3022
+---
+<strong>Ugrai János írása</strong>
+
+> Május 22-én lesz 80 éves Mihály Ottó. A Taní-tani Online több írással is köszönti a magyar pedagógiai és oktatáspolitikai gondolkodás meghatározó egyéniségét. Ezúttal az egykori tanítvány és kolléga a miskolci éveket idézi fel.
+
+Amikor utoljára beszélgettem Mihály Ottóval, azt tervezgette, hogy visszavonul egy szigetre. Pontosabban eljátszott a gondolattal, hogy vesz egy szigetet csakis magának az Adrián. De nincs rá elég pénze – mondta. Mire én: akkor vegyél egy félszigetet. Nevettünk persze.
+
+S persze nem vett komolyan. Ő egészekben gondolkodott, kompromisszumok nélkül. Szigetre törekedett, s úgy képzelem, híd, pláne hidak nélkül.
+
+Csak most tulajdonítok ennek a beszélgetésnek meg metaforának komolyabb jelentőséget. Ami nem igazolja különösebben az éleslátásomat, hisz ha jobban belegondolok, amit én tapasztaltam belőle, az mindig minden körülmények között erősíti ezt a képet. Jól berendezett, a rendelkezésre álló tér egészét gondolatokkal és (élet)célokkal betöltő, egészen egyedi világot alakított ki magának, amelynek védelmében rá is játszott a mezőfüggetlenségre. El tudom képzelni, ahogy egy sziget egyedüli tulajdonosaként minduntalan megakadályozza a szárazföldi lakosok hídépítő terveit, sőt önkezével huzigálja ki a kompközlekedés általa feleslegesen sűrűnek tartott menetrendjéből a legtöbb indulást.
+
+Ilyen stílusban vezetett például. Nemcsak autót (na, azt is), hanem tanszéket is. Ha épp vezetéselméletből, a vezetői stílusokból vizsgázik nálam valaki, különösen könnyedén meg tudom állapítani, hogy tankönyvből tanult-e vagy esetleg hallotta, megjegyezte-e azt, amit az előadáson mondtam. Amint elérünk ugyanis a „laissez faire” stílushoz, a hallgatók többsége gyorsan felvázolja – többnyire szigorúan Kurt Lewin nevének említése nélkül – a hanyag, trehány vezető jellemzőit. Azok viszont, akik esetleg helyt adnak annak, amit az előadáson mondtam, megemlítik, hogy létezhet ennek a szabadelvű vezetési módnak legitim, építő, alapvetően hasznos verziója is.
+
+Az úgy volt, hogy egyszer a laissez faire-ről beszélve, a Lewin-kísérletet ismertetve és annak tanulságait boncolgatva kaptam magam azon, hogy előadás közben óhatatlanul Mihály Ottóra terelődött a gondolatom. És rájöttem, hogy tulajdonképpen nekem volt egy ilyen stílusú főnököm, akit az első tíz jelző egyikeként biztosan nem a hanyaggal írnék körül. Eszembe jutott, hogy nem is érezték rosszul magukat a tagok azon a tanszéken, s talán el is végeztük a feladatunkat. Mi több, valahogy olyan érzés volt belülről, mintha egy kívülről is jól látható, markáns szellemi műhely tagjai lennénk. Egy olyan műhelyé, amely amikor Ottó távozott onnan, megszenvedte a hiányát – és amikor már ezen túlvolt, egyfelől képesnek bizonyult újraszervezni magát, másfelől egyetlen pillanatig sem merült fel, hogy valami gyökeresen újra kellene törekednünk. Szóval ahogy ismertettem a tankönyvi anyagot, minden mondatomat azonnal cáfolni tudtam volna.
+
+A pillanatnyi, elég súlyos fokú kognitív disszonanciát később oldottam fel. Összeszedegettem, s azóta rendre tanítom is, hogy mikor működhet a laissez faire vezetési stílus, sőt: mikor van az, amikor csak ez működhet. A vezető pozíciója, szaktekintélye legyen megkérdőjelezhetetlen. A vezető elképzelései legyenek markánsak. A vezető markáns elképzelései kellően elnagyoltak legyenek ahhoz, hogy a napi üzemmenetet ne kösse gúzsba – hát hisz nincs, akihez fordulni lehet megakadás esetén –, viszont mégis világosan körvonalazódjanak a középtávú célok. Még jobb, ha a közép- vagy hosszabb távú célok fontosságát felülírják a közösséget, szervezetet összekötő értékek. A vezető kezelje munkatársait partnerként. A munkatársak pedig viselkedjenek értelmiségiként. Legyen a vezetőnek egy ágense, akivel a bizalmi kapcsolata töretlen, s aki akár formális megbízatás nélkül és akár erőn felül is hajlandó a napi ügyeken rajta tartani a szemét. És ha a konstrukció mégsem működik, tudjon a vezető (domináns) stílust váltani.
+
+Ilyen esetben sziget lesz maga a szervezet, s azon belül még egy sziget a vezető. Hogy az elszigetelődés ne legyen végletes és végzetes, kellenek a hidak – esetleg csak a kompok. Tanszékünk ekkori szakaszában mindenképpen volt egy ilyen komp: Laci, a Trencsényi. Ő nagyjából úgy működött, hogy öt gondolatából egy mindig a miskolci pedagógiai tanszék körül forgott, kettőt meg kellett osztania a művészet- és az ifjúságpedagógia, a közművelődés és közoktatás, továbbá megannyi épp aktuálisan fontos(nak gondolt) ügy, érdek, érték között. S akkor így maradhatott még két egység Ottóra, az ő elképzeléseire, tanításainak, sokszor csak egy-egy cinikusnak érzett, valójában a maró gúny mögött mély világféltésről tanúskodó megjegyzéseinek értelmezésére, operacionalizálására. Röviden: a komp szerepének betöltésére.
+
+A konstrukció működött.
+
+De sérülékeny volt.
+
+Hogy mennyire sérülékeny, azt egy előadáson tapasztaltam meg. Ottónak szokása volt, hogy a ritka tanszéki értekezleteken az apró-cseprő üzemeltetési problémák helyett a szakpolitikai irányítás általános tendenciáról, a felsőoktatás vagy épp az érettségi rendszer aktuális, utolsónak és mindent megoldónak remélt nagy átalakításáról vázolt fel egy komplett referátumot. (Az üzemeltetési problémákról jellemzően tudomást sem vett, ezt magunk intéztük, s jó is volt, ha így volt, ehhez a szervezet-szigetünk hozzászokott.) Ezek nemcsak remek előadások voltak, hanem élénk diskurzust is kiváltottak komoly vitákkal, továbbgondolásokkal. Távolról sem értett mindenki mindenben egyet, s ezt nemcsak hagyta, hanem igényelte is Laci is, Ottó is. Nyüzsgött a sziget népe, és ez jó nyüzsgés volt. Bár nem tudom, mennyit vett ebből a nyüzsgésből valóban komolyan a szigetünk szigete, Ottó.
+
+Aztán egyszer Ottó, ki tudja, milyen felkérésre, egy ugyanilyen 60-70 perces előadást tartott a bölcsészkar – meglepően nagy számban jelenlévő (még tán az egytucatot is elérte a közönség nagysága) – oktatói számára a Bologna-reform terveiről, okairól. Ottó tökéletesen felépítette az előadást: közérthető volt és vicces, kristálytiszta logikával vezette le a maga igazát, mint az egyedül lehetséges igazat. Felvázolta egész iskolarendszerünk közelmúltját, az elmúlt 20-30 év nagy vitatémáit, s mindezeknek a problémáit kifuttatta oda, hogy az akkor már az expanzió következményeitől fuldokló felsőoktatás átfogó vertikális és horizontális szerkezetváltoztatására van szükség. Tényleg úgy éltem meg a végén, hogy nem is lehet más utunk, csak az, amit felvázolt. Engem meggyőzött. Nem úgy a dékánunkat, aki nem hivatali fontoskodásból, hanem valódi érdeklődéstől vezérelve elsőként szólalt fel és fogalmazott meg kérdést. Nagyjából azt a teljesen köznapi érvelést hallhattuk tőle, miszerint elismeri a válságpontok mindegyikének a létét és súlyát, „csak” épp nem gondolja, hogy a felsőoktatással kellene kezdeni a változtatást, hanem… – és itt aztán előadta a közvetlenül érdekelt, s potenciális jövőbeni érdeksérült szereplőtől ilyen esetekben megszokott, meghökkentően kreatív, ugyanakkor teljesen laikus érvelést és ötletelést – az iskolarendszer alsóbb szintjeinek reformjával. „És majd ha azok sikerültek, akkor jöhet a felsőoktatás” – idézhetném a végét, ha nem is pontosan. A legutolsó fél mondatot viszont pontosan idézem, ezzel zárta dékánunk a sebtében összerakott korreferátumát: „Hisz csak Mekk mester kezd házat építeni felülről.”
+
+Ottó mindezt látszólag sem nyugodtan hallgatta végig, majd a hosszú perceken át hetet-havat összehordó felszólalás egyetlen elemére, az utolsóra reagált: igaz, hogy házat építeni felülről kezdve nem lehet, de egy már létező s korhadó házat megújítani csak úgy lehet, ha felülről kezdünk hozzá. A frappáns választ a dékánunk nem fogadta el, mondván, játszhatunk itt a rosszul sikerült hasonlatokkal (nem hiszem, hogy ez önkritika volt a részéről), de ez így nem fog menni.
+
+Mintha végső soron az ő igazsága bizonyosodott volna be később. Mindenesetre ez a szakmai találkozó – hála annak, hogy a dékán elsőként szólalt fel és került vitába az előadóval – további hozzászólás nélkül véget ért. Utána kicsit beszélgettem Ottóval, kíváncsi voltam a véleményére, de ő röviden, egy ironikus mosoly mögé bújva annyival zárta le, hogy „ezek” se értettek meg semmit abból, amit mondott. Vállat vont, és látszólag gyorsan lerázta elegáns öltönyéről az est porát.
+
+A jelenetben, azt hiszem, minden benne van, ami ezt a sajátos sziget-jelenséget leírja. Ottó felkészült volt, mindent beletett az előadásba, amit tudott és kellett, a poénok ültek, a rész- és végkövetkeztetések harmonizáltak egymással, az előadó nem csapongott. A zárt konstrukció minden eleme a helyére került, mint ahogyan egy jól berendezett szigeten minden van, amire az ott lévőknek szüksége támad. Csak épp kimaradt néhány kompjárat: a külső megfigyelő nem értette, nem akarta érteni, a szigetlakó pedig akkor és ott nem tartotta lehetségesnek vagy szükségesnek a kapcsolat kiépítését. A sziget és a partmente két világgá különült el, a kettejük közötti kapcsolatépítés elmaradt.
+
+Az előadás kárt nem okozott, de tökéletesen felesleges energiapazarlásnak bizonyult. Ottó hazament, az is lehet, mondott egy-két cifrát, s a dolgok mentek tovább a maguk „rendes” kerékvágásában. Külön-külön, sokszor híd vagy komp nélkül.
+
+Ezután egy-két évvel hozzászokhattunk, hogy még kevesebbet látjuk Ottót, majd aztán teljesen el is maradozott. Nemcsak a személyes megjelenése, hanem a hozzászólása, véleménye is. Visszavonult, senkinek nem válaszol, életjelet adott magáról, de a többtől elzárkózik – ilyesféléket hallhattunk róla. Még Lacitól is, aki született kompként, hídként igencsak hiányolta az egyik legfontosabb kikötő eltűnését.
+
+Ha az Adria nem is jött össze, amennyire tudom, a sziget igen. Úgy képzelem, van valahol Zalában egy kisebb birtok vagy kúria, ami tán lépésnyire van a külvilágtól, de mégiscsak egy a középátlagnál némileg gyorsabban száguldó Honda tud oda eljutni.
+
+Egy sziget, ahol él a Sziget. Éljen soká – és néha vegye igénybe egy-egy komp szolgáltatását a mi javunkra is!

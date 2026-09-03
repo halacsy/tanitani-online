@@ -1,0 +1,3 @@
+---
+name: Gyökös Eleonóra
+---

@@ -1,0 +1,108 @@
+---
+title: Mentortársas és Rendszerhiba
+migratedId: 784
+overrideMigrated: true
+authorSlugs:
+  - csempesz-peter
+date: '2016-12-14'
+tags:
+  - hátrányos helyzet
+excerpt: >-
+  Társasjátékok felnőtteknek egy jobb oktatási rendszerért. Csempesz Péter írása
+  Egyik mentoráltadnak egy délutánon keresztül segíted a dolgozatra való
+  felkészülését. Legközelebbi találkozásotokkor örömmel újságolja, hogy a közös
+  tanulás után négyest kapott matematikából. Ez a hír büszkeséggel tölt el.
+coverImage: /sites/default/files/kozeli.jpg
+reads: 8561
+---
+<strong>Társasjátékok felnőtteknek egy jobb oktatási rendszerért. Csempesz Péter írása</strong>
+
+> Egyik mentoráltadnak egy délutánon keresztül segíted a dolgozatra való felkészülését. Legközelebbi találkozásotokkor örömmel újságolja, hogy a közös tanulás után négyest kapott matematikából. Ez a hír büszkeséggel tölt el.
+
+<img alt="" src="/sites/default/files/csempesz.jpg" style="width: 175px; height: 216px; float: left; margin-right: 15px;">„Játszva tanul a gyermek” – szól a mondás. Pedig a felnőttek is gyakran tanulnak játszva. Pontosabban a felnőttek tanulási motivációja is növelhető játékkal. A Motiváció Műhely társasjátékai a hátrányos helyzetű tanulók és az oktatási integráció problémakörét helyezik a középpontba. Ezek olyan „nehéz témák”, amelyek megértéséhez nélkülözhetetlen például az iskolarendszer működési mechanizmusainak ismerete. E „nehéz témák” unalmasnak tűnhetnek, ha például egy előadás keretében kell velük megismerkednünk. Játszani, társasjátékozni ugyanakkor a többség szeret. Nagyon leegyszerűsítve ez a felismerés volt az egyik első mérföldkő a Motiváció Műhely csapata számára, mielőtt társadalmi érzékenyítést célzó [társasjátékok](https://motivaciomuhely.hu/hu/termekeink/) fejlesztésébe kezdtek. Ebben az írásban a Mentortársas és a Rendszerhiba című társasjátékokat mutatom be, melyek fejlesztésében magam is részt vettem. A cikkben elsősorban a játékok céljainak és főbb szabályainak bemutatására fókuszálok, emellett merítek saját játékvezetéssel kapcsolatos tapasztalataimból is.
+
+### Mentortársas 2.0
+
+A Mentortársas 2.0 elnevezésű társasjáték hátrányos helyzetű gyermekek, fiatalok tipikus életútját követi végig az óvodáskortól a felsőoktatásig. A játék első verziója – a Mentortársas – 2013-ban készült el, majd 2015-ben megjelent a továbbfejlesztett változata, a Mentortársas 2.0. (Fejlesztők: Balázs Ákos, Csempesz Péter, Erdődi Noémi, Fejes József Balázs, Kelemen Valéria, Makádi Balázs, Márton Gábor, Németh Gábor, Steigler Anett, Szűcs Norbert, Táibl Ágnes. A dobozon látható képet Csébi Tamás, az Igazgyöngy Alapítvány diákja, a játéktáblát Kovács Lajos, az intézmény pedagógusa készítette.)
+
+A játék célja, hogy a szereplők minél magasabb iskolai végzettséget szerezzenek, miközben saját bőrükön tapasztalhatják meg azokat a helyzeteket, amelyek a valóságban is részét képezik a hátrányos helyzetű gyermekek, fiatalok életének. A játék során a résztvevők indirekt módon bővítik tudásukat a hátrányos helyzetű gyermekek és fiatalok nevelése-oktatása, valamint a magyar oktatási rendszer működése kapcsán.
+
+<img alt="" src="/sites/default/files/mentortarsas_borito.jpg" style="width: 470px; height: 312px;">
+
+2007-ben a Motiváció Műhely alapítói hívták életre azt a [Hallgatói Mentorprogramot](https://motivaciomuhely.hu/wp-content/uploads/2014/12/Fejes-Szucs_Hallgatoi_Mentorprogram.pdf), amelynek keretében felsőoktatási hallgatók kezdték mentorálni az ekkor Szegeden megszüntetésre került szegregált iskolából kikerülő hátrányos helyzetű tanulókat (Kelemen, Szűcs, Fejes, Németh és Csempesz 2013). A Mentortársas 2.0-ban megjelenő szituációkat elsősorban a mentorált tanulók által megélt élethelyzetek jelentik, amelyek a Motiváció Műhely tagjai által mentoráltak tapasztalatira, valamint a szegregációval kapcsolatos szakirodalomra épülnek (pl. Csempesz és Fejes 2013; Fejes 2013, Kertesi és Kézdi, 2005, 2009, 2010; Papp Z. 2011; Varga 2009).
+
+A Mentortársas 2.0 társasjáték 16 év feletti fiataloknak, felnőtteknek ajánlható, kiemelt célcsoportként is megjelölve a felsőoktatásban tanuló, segítő hivatásra készülő (pl. pedagógus, pszichológus, andragógus, szociális munkás, kulturális mediátor) hallgatókat. A fejlesztők tehát széles közönségnek szánták a játékot, nem csak pedagógusoknak. Azóta kiderült, kifejezetten érdekes lehet olyanok számára is, akik nem iskolában dolgoznak, sőt, semmilyen módon nem kapcsolódnak az oktatás világához. A Mentortársassal az évek során játszottam fiatalokkal és idősebbekkel, középiskolásokkal, egyetemistákkal, színészekkel, orvosokkal, de ült már az asztalomnál autószerelő, katona és újságíró is. Közülük többen döntöttek úgy, hogy mentorként önkénteskedni kezdenek, mások az oktatási integráció népszerűsítését vállalták szintén önkéntesként.
+
+<img alt="" src="/sites/default/files/mentortarsas_2.0_jatektabla.jpg" style="width: 470px; height: 336px;">
+
+A Mentortársas 2.0-t mentor-mentorált párok játszhatják. A játéktábla egy külső és egy belső körből áll. A külső körön a hátrányos helyzetű (mentorált) tanulók haladnak előre. A külső kör különböző színekkel jelölt szakaszai a magyar oktatási rendszer szakaszait jelenítik meg: az óvodától a felsőoktatás végéig vezető életutat. A mezők arányos, valósághű elosztására törekedtünk, így a sárga színű óvodai szakaszt, egy jóval hosszabb piros színnel jelölt általános iskolai periódus követi, majd ha a játékosnak sikerült elvégezni a középiskolát (zöld szakasz) és megszerzi az érettségit is, megnyílik az út a felsőoktatásba (lila szakasz).
+
+A felsőoktatási szakaszba való eljutás a játékban nem könnyű a hátrányos helyzetű tanulók számára – ahogy a való életben sem. A játék közben felhúzott sorskártyák olyan „sorompókat” jelentenek, amelyek megnehezítik az előrejutást. A sorskártyák rövid, néhány mondatos történetek egy-egy hátrányos helyzetű tanuló óvodai-iskolai mindennapjaiból.
+
+> Szegregált iskolába jársz, az osztálytársaid többsége hátrányos helyzetű. Érdekel a történelem, figyelsz, és sokat jelentkezel órán. A többiek a szünetben strébernek csúfolnak, ezért legközelebb már nem jelentkezel. LÉPJ VISSZA EGY MEZŐT!
+
+> Mentorod elvisz az egyetemi könyvtárba, ami egy modern üvegépület. Másnap a barátaidnak elmeséled, hogy a könyvtárban több száz ember olvasott egyszerre. A mentorod szerint sokan egész nap ott tanulnak, és még ösztöndíjat is kapnak. A fejedben az egyetem „menő” hellyé válik. LÉPJ ELŐRE KÉT MEZŐT!
+
+A sorskártyák okozta nehézségek leküzdésében sokat segíthet egy mentor támogatása. A mentorszerepet vállaló játékosok a játéktábla belső körének mezőin haladnak előre. A mentor és a mentorált a játékban egy csapatot alkot, a játékban a mentor célja nem is elsősorban saját előrehaladása, hanem a mentorált tanuló támogatása, ami ugyancsak a való életre reflektál. A mentorokkal a játékban két dolog történhet: bizonyos mezőkre lépve mentorkártyát, máskor kérdéskártyát húzhatnak. A kártyákon olvasható feladatok megoldásával, kérdések megválaszolásával a mentor pluszlépésekkel segítheti mentoráltja haladását. A mentorkártyák célja nem szigorúan szakmai, inkább a játékélmény növelése, ezeken a kártyákon ugyanis iskolával, tanulással kapcsolatos kifejezések találhatóak, amelyeket a játékban el kell mutogatni, vagy le kell rajzolni, a mentoráltaknak pedig ki kell találniuk a feladványt (pl. szülői értekezlet, tollbamondás).
+
+A mentorkaraktert választó játékosok a Mentortársas 2.0-ban felhúzhatnak mentori tapasztalatkártyákat is. A tapasztalatkártyákon olyan minitörténetek szerepelnek, amelyek a mentorok által megélt nehézségekről és sikerekről szólnak. A tapasztalatkártyák érdekessége, hogy a kártyán leírt szituáció kimenetelét kockadobás dönti el, vagyis pontosan ugyanaz a helyzet elsülhet úgy, hogy az egy pozitív, de úgy is, hogy negatív tartalmú minitörténetté, mentori emlékké váljon.
+
+> Egyik mentoráltadnak egy délutánon keresztül segíted a dolgozatra való felkészülését. Legközelebbi találkozásotokkor örömmel újságolja, hogy a közös tanulás után négyest kapott matematikából. Ez a hír büszkeséggel tölt el.
+
+A hátrányos helyzetű tanulók a való életben gyakran szembesülnek a szegénység, illetve a rosszul működő iskolarendszer okozta nehézségekkel, ezért a játékban sem könnyű győzni: nem lehetetlen egyetemi diplomát szerezni, de ehhez óriási szerencse és jó mentor kell. Ez persze kihat a játékélményre is: sokszor tapasztaltuk, hogy a játékosok is lehangoltan, sőt, csalódottan állnak fel az asztaltól: „pedig én mindent megpróbáltam” – szokták mondani. Talán meglepő, de a játék fejlesztőiként mi ilyenkor tudjuk, hogy elértük a célunkat. A Mentortársast tudatosan terveztük úgy, hogy a játékosok szembesüljenek azzal, nem rajtuk és a „szorgalmukon” múlik, meddig jutnak el. A játék saját élményű tapasztalatként segít megélni, hogy ha valaki szegény családba születik ma Magyarországon, és szülei alacsonyan iskolázottak, akkor nagy eséllyel olyan általános iskolába fogják felvenni, ahol az oktatás minősége alacsony, innen pedig általában nem vezet út érettségit adó középiskolába, így a felnőtté váló fiatal munkaerő-piaci esélyei is tragikusak.
+
+A Mentortársas 2.0-ban a mentorok és a hátrányos helyzetű (mentorált) tanulók mellett szerepel egy olyan tanuló is, aki nem hátrányos helyzetű. A célunk e karakterrel az volt, hogy a játékban megjelenjen egy olyan diák iskolai életútja is, aki nem küzd a szegénységből fakadó nehézségekkel, átlagos iskolába jár, többnyire tanul és iskolai karrierje végén leérettségizik, majd bejut egy felsőoktatási intézménybe. E tanuló nem gazdag, nem kirívóan szerencsés, nem stréber, csak egy diák, aki olyan életet él, ami hátrányos helyzetű társai számára csak álom, ugyanakkor nincs benne semmi különleges. Ez a tanuló jár ugyan suli után nyelvtanárhoz, de néha azért neki is vannak hullámvölgyei. A játék végére mégis óriási a kontraszt: a játékban szereplő hátrányos helyzetű tanulók ugyanis végig csak a hátát látják ennek a karakternek, esélyük sincs utolérni. Végül a hátrányos helyzetű tanulók karakterét választó játékosok legtöbbször azzal szembesülnek, hogy minden erőfeszítésük ellenére egy szakiskolában fejezik be iskolai pályafutásukat, esetleg még szakmát sem szereznek, miközben nem hátrányos helyzetű társuk egyetemista lesz.
+
+A Mentortársas 2.0 rávilágít arra a tényre, hogy ma Magyarországon vannak tanulók, akik önhibájukon kívül minden törekvésük ellenére kudarcokat élnek meg, alacsony minőségű oktatási színvonalat biztosító iskolába járnak, legtöbbször idejekorán lemorzsolódnak, vagy piacképes iskolai végzettség nélkül lépnek ki az iskolarendszerből.
+
+### Rendszerhiba
+
+A Mentortársas 2.0 képet ad az iskolarendszer diszfunkcióiról, ugyanakkor kevésbé villantja fel a lehetséges megoldásokat. Ez nem is lehet a célja, hiszen a játék kifejezetten személyes, megmutatja, mi mindent kell átélned szerencsétlen sorsú gyerekként, azonban a probléma megoldása – a szegénység csökkentése és egy jobban működő iskolarendszer kialakítása – nyilvánvalóan nem egy gyermek feladata. Hanem kié? Nehéz kérdés. A magyar államé, a mindenkori kormányé, a társadalomé, az embereké. Mindannyiunk közös feladata.
+
+A [Rendszerhiba](https://www.youtube.com/watch?v=QPG-PFRmW0g) elnevezésű társasjátékon azzal a céllal kezdtünk el dolgozni a Motiváció Műhely csapatával, hogy fejlesszünk egy olyan társasjátékot, ami megmutatja azt is, amit a Mentortársas 2.0 nem tudott: a megoldást, vagyis egy jobban működő oktatási rendszer kialakításának lépéseit. A játék kooperatív, vagyis a játékosok nem egymással versengenek, nem egymást akarják legyőzni, hanem közösen, együttműködve, egymást erősítve fejlesztik az oktatási rendszert. A játékot 3-6 fő játszhatja, 16 éves életkor felett (mindenkinek) ajánljuk. (Fejlesztők: Balázs Ákos, Csempesz Péter, Erdődi Noémi, Fejes József Balázs, Steigler Anett, Szűcs Norbert és Táibl Ágnes.)
+
+<img alt="" src="/sites/default/files/rendszerhiba_doboz.jpg" style="width: 470px; height: 353px;">
+
+A játék azért kapta a Rendszerhiba címet, mert a közvélekedés sokszor egyéni felelősöket keres: ha valaki szegény lesz felnőttként, vagy közmunkás, az az ő hibája, ő tehet róla, „Miért nem tanult?” – halljuk sokszor. Ezzel szemben a játék rávilágít arra, hogy a képlet közel sem ilyen egyszerű: aki szegény, az sokkal nagyobb eséllyel jár szegregált iskolába, ahol az oktatás minősége alacsony (Csapó, Fejes, Kinyó és Tóth 2014; Havas, 2008; Kertesi és Kézdi, 2009). Vagyis az oktatási rendszer rosszul működik: ez egy [rendszerhiba](https://www.mixcloud.com/EuropaRadioSzeged/fogj-%C3%B6ssze-a-polg%C3%A1rmesterrel-az-igazgat%C3%B3val-%C3%A9s-a-tan%C3%A1rral-%C3%A9s-jav%C3%ADts-az-oktat%C3%A1si-rendszeren/).
+
+A játékosok különböző karakterek közül választhatnak, mindenkinek lehetősége van kipróbálni magát Igazgatóként, Pedagógusként, Polgármesterként, Civilként, Példaképként, Pedagógusképzőként és Mentorként. A cél az, hogy a játékosok egy elképzelt település iskoláit fejlesszék. Ezen a településen 10 iskola van, és minden iskolának ismerjük két jellemzőjét. Ez a két jellemző: az eredményesség és a méltányosság.
+
+<img alt="" src="/sites/default/files/rendszerhiba_jatektabla.jpg">
+
+Az eredményesség azt jelenti, hogy az adott iskolában a tanulók mennyire eredményesek, megfelelő ütemben fejlődnek-e a képességeik. A méltányosság pedig azt jelenti, hogy az adott iskola mennyire méltányos, vagyis, hogy mennyire támogatja a hátrányos helyzetű tanulók fejlődését. E két mutató szorosan összefügg: az az iskola, amelyik méltányos, vagyis különböző eszközökkel (pl. innovatív pedagógiai módszerekkel) támogatja a lemaradó tanulókat, egy idő után eredményes is lesz, hiszen az iskolában csökkenni fog a rosszul teljesítő tanulók aránya. Ezt az összefüggést a játékban is meg akartuk mutatni, ezért azokban az iskolákban, ahol a játékosok növelik a méltányosságot, ott az eredményesség is növekszik.
+
+<img alt="" src="/sites/default/files/felveteli_esemenykartya.jpg" style="width: 320px; height: 470px;">
+
+A játék során a játékosok eseménykártyákat húznak fel, amelyek a Mentortársas 2.0 sorskártyáihoz hasonlóan az iskolák világának működési rendellenességeire mutatnak rá, csak immár nem egyéni, hanem rendszerszinten. A játékban minden karakter rendelkezik valamilyen képességgel, például növelni tudja az eredményességet vagy a méltányosságot, és minden karakternek van hatóköre. A karakterek képességei azonban nem elegendőek ahhoz, hogy nyerni tudjanak. Győzelemre, vagyis egy jól működő (eredményes és méltányos) iskolarendszer kialakítására csak akkor van esélyük, ha együttműködnek. Az együttműködés a játékban nem csak szóvirág: a játékosoknak minden lépést egyeztetniük kell, közösen kell tervezniük. Ha nem teszik, veszítenek. Fejlesztőként ezzel is üzenünk: az oktatási rendszer fejlesztése nem lehet hatékony, amíg nem működnek együtt a szereplők, például a Polgármester a Civillel, a Pedagógus a Mentorral.
+
+<img alt="" src="/sites/default/files/pedagogus-page-001.jpg" style="width: 470px; height: 346px;">
+
+Ha a játékosok együttműködnek, közösen megállapodhatnak abban, hogy minden iskola fogad hátrányos helyzetű tanulókat, ezzel arányuk sehol sem lesz kiugróan magas, vagyis esélyt kaphatnak, hogy valóban csak rajtuk és a szorgalmukon múljon a jövőjük. E mellett a karakterek alapíthatnak tanodát, működtethetnek hátrányos helyzetű tanulókat támogató mentorprogramot, és újjászervezhetik a pedagógusok képzését is. A játék szabálykönyve ezeket a lépéseket együttműködéseknek nevezi, nem véletlenül: minden együttműködés megvalósításához több karakterre van szükség, akiknek fizikailag is találkozniuk kell a játéktáblán (vagyis egy mezőn kell tartózkodniuk), mintha csak épp megbeszélést tartanának, elhatározva, hogy tesznek valamit az iskolarendszer jobb működéséért. A legszemléletesebb példa a játékból talán az, hogy a hátrányos helyzetű tanulók iskolák közötti arányos elosztásához a Polgármesteri Hivatalban kell találkoznia a Polgármesternek, az Igazgatónak és a Civilnek.
+
+A Rendszerhiba megoldási utat kínál a Mentortársas 2.0 által felvetett problémakörre. A megoldás pedig a játék szerint nem más, mint egy jobban működő, méltányos iskolarendszer. A játék megmutatja, hogy milyen jellemzőkkel írható le egy méltányosan és eredményesen működő oktatási rendszer: az egyik legalapvetőbb ilyen sajátosság, hogy arányos a hátrányos helyzetű tanulók eloszlása az egyes iskolák között, így arányuk minden intézményben alacsony. Ennek előfeltétele a többségében hátrányos helyzetű tanulók által látogatott, alacsony oktatási minőséget nyújtó szegregált iskolák felszámolása. Emellett egy jobban működő oktatási rendszerben civilek és magasan képzett pedagógusok támogató programokkal, például mentorprogrammal, tanodákkal segítik az iskolai nehézségekkel küzdő tanulókat. A Rendszerhiba társasjátékhoz készült egy [kisfilm](https://www.youtube.com/watch?v=NPT4UUR_OL0) is, ami segíthet eligazodni a játék szabályai között.
+
+### Irodalom
+
+Csapó Benő, Fejes József Balázs, Kinyó László és Tóth Edit (2014): [Az iskolai teljesítmények alakulása Magyarországon nemzetközi összehasonlításban](http://www.tarki.hu/adatbank-h/kutjel/pdf/b327.pdf). In: Kolosi Tamás és Tóth István György (szerk.): Társadalmi Riport. TÁRKI, Budapest. 110-136.
+
+Csempesz Péter és Fejes József Balázs (2013): A szegedi deszegregáció első éve az új intézményekbe áthelyezett tanulók nézőpontjából. In: Fejes József Balázs és Szűcs Norbert (szerk.): A szegedi és hódmezővásárhelyi deszegregációt támogató Hallgatói Mentorprogram. Öt év tapasztalatai. Belvedere Meridionale, Szeged. 191–203.
+
+Fejes József Balázs (2013): [Miért van szükség deszegregációra?](http://www.staff.u-szeged.hu/~fejesj/pdf/Fejes_2013_Deszegregacio.pdf) In: Fejes József Balázs és Szűcs Norbert (szerk.): A szegedi és hódmezővásárhelyi deszegregációt támogató Hallgatói Mentorprogram. Öt év tapasztalatai. Belvedere Meridionale, Szeged. 15-35.
+
+Havas Gábor (2008): Esélyegyenlőség, deszegregáció. In: Fazekas Károly, Köllő János, Varga Júlia (szerk.): Zöld könyv A magyar közoktatás megújításáért. ECOSTAT, Budapest, 121-138.
+
+Kelemen Valéria, Szűcs Norbert, Fejes József Balázs, Németh Katalin és Csempesz Péter (2013): [A Hallgatói Mentorprogram](https://motivaciomuhely.hu/wp-content/uploads/2014/12/Fejes-Szucs_Hallgatoi_Mentorprogram.pdf). In: Fejes József Balázs és Szűcs Norbert (szerk.): A szegedi és hódmezővásárhelyi deszegregációt támogató Hallgatói Mentorprogram. Öt év tapasztalatai. Belvedere Meridionale, Szeged. 107-127.
+
+Kertesi Gábor és Kézdi Gábor (2005): Általános iskolai szegregáció. Okok és következmények. In: Kertesi Gábor (szerk.): A társadalom peremén. Osiris Kiadó, Budapest.
+
+Kertesi Gábor és Kézdi Gábor (2009): [Általános iskolai szegregáció Magyarországon az ezredforduló után](http://epa.oszk.hu/00000/00017/00164/pdf/1_kertesi-kezdi.pdf). Közgazdasági Szemle, LVI. évf. 11. sz., 959–1000. 
+
+Kertesi Gábor és Kézdi Gábor (2010): [Iskolázatlan szülők gyermekei és roma fiatalok a középiskolában](http://www.econ.core.hu/file/download/bwp/bwp1003.pdf). Beszámoló az Educatio Életpálya-felmérésének 2006 és 2009 közötti hullámaiból.
+
+Papp Z. Attila (2011): A roma tanulók aránya Magyarországon és a tanulói teljesítmények az általános iskolai oktatásban. In: Bárdi Nándor és Tóth Ágnes (szerk.): Asszimiláció, integráció, szegregáció: párhuzamos értelmezések és modellek a kisebbségkutatásban. Argumentum, Budapest. 224−267.
+
+Varga Júlia (2009): A tanárok elosztása a különböző szociokulturális hátterű tanulókat tanító iskolák között. In: Fazekas Károly (szerk.): Oktatás és foglalkoztatás. MTA KTI, Budapest. 65−83.
+
+<hr>
+
+A Mentortársas és a Rendszerhiba elnevezésű társasjátékok fejlesztését az EGT/Norvég Civil Támogatási Alap finanszírozta.

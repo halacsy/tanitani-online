@@ -1,0 +1,170 @@
+---
+title: Mese tabbal
+migratedId: 1168
+overrideMigrated: true
+authorSlugs:
+  - csatari-tamara
+  - lencse-mate
+date: '2022-12-26'
+tags:
+  - hátrányos helyzet
+  - tanoda
+excerpt: >-
+  Mesés jó gyakorlat a Toldi Tanoda módszertanából . Csatári Tamara és Lencse
+  Máté írása "Azt még a felnőttek is nevettük, mert olyan jól elmeséli az
+  önkéntes, hogy Potty!, amikor ráesik a fejére. Mi is szeretjük, hogy mesélnek
+  a gyerekeknek, meg szeretik ők is."
+coverImage: /sites/default/files/mese.jpg
+reads: 3034
+---
+<strong>Mesés jó gyakorlat a Toldi Tanoda módszertanából<em>.</em> Csatári Tamara és Lencse Máté írása</strong>
+
+> "Azt még a felnőttek is nevettük, mert olyan jól elmeséli az önkéntes, hogy Potty!, amikor ráesik a fejére. Mi is szeretjük, hogy mesélnek a gyerekeknek, meg szeretik ők is."
+
+## <img alt="Csatári Tamara" src="/sites/default/files/csatari_tamara.jpg" style="width: 200px; height: 200px; float: left; margin-right: 15px;">Az ötlet
+
+2020 októberében írhattuk meg, hogy pályázati forrásból[fn]Open Society Foundations – Civil szervezetek oktatással kapcsolatos kezdeményezései és a szülői aktivizmus támogatása[/fn] elindul egy rendszeres, online meseolvasós projektünk, anyanyelvi fejlesztés céljával. Többször is írtunk már a tapasztalatainkról[fn]Elsősorban szakmai blogunkon, ahol a meseolvasás címkénél megtalálhatóak az írások: https://igazgyongyalapitvany.hu/tanoda-blog/cimke/meseolvasas/[/fn], de két év után egy kicsit hosszabb beszámolóval szeretnénk jelentkezni. A pályázati támogatás ugyan kifut 2022 végén, a program sikeressége miatt végig egyértelmű volt, hogy folytatjuk. Jelen írás éppen ennek igazolása kíván lenni.
+
+<img alt="Lencse Máté" src="/sites/default/files/lencse_mate.jpeg" style="width: 250px; height: 167px; margin-left: 15px; float: right;">Az ötlet ihletői a családokhoz került, interneteléréssel rendelkező digitális eszközök, tabletek voltak. 2020-ban a pandémia miatti első lezárások során kiemelt feladatunk volt, hogy segítsük a családokat az online oktatásba bekapcsolódni, valamint a tanodai foglalkozásokat is így tudtuk csak megoldani. Támogatóktól, pályázatokból tabletekhez, laptopokhoz, mobilinternethez jutottunk. Mivel az eszközök megmaradtak, az internet-előfizetések hosszabb időre szóltak, logikus volt annak végiggondolása, hogy a jelenléti oktatás és tanodázás visszatérése után is hasznukat vegyük.
+
+Egyrészt maradtak eszközök a középiskolásainknál, akikkel az online kapcsolódást kihasználva többet tudunk tanulni, másrészt a kisgyerekes családoknál is, mert arra gondoltunk, hogy így becsempészhetnénk az otthonaikba a rendszeres meseolvasást.
+
+## A program működése
+
+2020 november 16-án [ezt írtuk az indulás kapcsán](https://igazgyongyalapitvany.hu/tanoda-blog/2020/11/tavmese/):
+
+> Az alkalmak egyszerűen épülnek fel, arra törekszünk, hogy 10-15 percbe beleférjenek, ne éljék meg teherként sem a szülők, sem a gyerekek. Beköszönünk, gyújtunk egy mesegyertyát, elmondunk egy mesekezdő mondókat, ezután elolvasunk egy rövid mesét – a könyvet, illusztrációkat mutatva –, majd „közösen” elfújjuk a gyertyát és elköszönünk. 2-3 hétig két könyv közül választhatnak a gyerekek, utána ismerkedhetnek meg újabb két könyvvel. És így tovább.
+
+Az alapötlet, a mesélések hossza és menete az indulás óta állandó, de beemeltünk néhány új ötletet a szülők és az önkéntesek visszajelzései alapján. Egy ilyen elem lett a mesekendő, amivel a családok otthon kialakítják a mesélés terét. Erre kerülnek rá közvetlenül az alkalom előtt a gyertya és a mondókás kártyák, ezután indítja el a videóhívást a szülő vagy az önkéntes. Az új eszközöket a bevezetés előtt 2022 nyarán két táborban is kipróbáltuk, ekkor a tanodapedagógusok és önkéntesek házhoz menve, személyesen meséltek a családoknak.
+
+Míg a projekt első szakaszában a 0-5 éves korosztályt jelöltük meg célcsoportként, később ezt 0-8 évre, az iskolába készülő, illetve a már iskolás, de még egy egész mesét végigolvasni nem tudó tanodások körére is kiterjesztettük. Ők a közvetlenül érintettek, egy családból 1-4 gyermek, az önkéntes nekik választ három mesekönyvet, velük mondókázik, nekik mesél. Egyre hangsúlyosabb ugyanakkor a szülők és a nagyobb testvérek bevonása a szervezés, önkéntessel való egyeztetés mellett a mesélés otthoni terének kialakításába, a ráhangolódásba, a közös mondókázásba is.
+
+A projekt indulása előtt kitalált 2-3 heti váltás idővel sok bonyodalmat okozott az önkéntesek szervezése és az új gyerekek bekapcsolódása szempontjából is. 2021 szeptemberétől ezért egyszerűsítettük a rendszert, azóta egy teljes hónapra hozzuk össze a mesélőket és a családokat, a cél ennyi idő alatt tíz otthoni mesélés megvalósítása. Ezt a számot lemondások, elfelejtett időpontok, betegség és az időpontok szűkössége mindkét fél részéről módosíthatják, reálisan jelenleg havonta 6-8 alkalom valósul meg a legtöbb helyen.
+
+## Mellékszálak
+
+Természetesen nem azzal a céllal hívtuk életre ezt a programot, hogy életünk végéig tabletről meséljünk a toldi családoknak. Azt szeretnénk, ha szépen lassan beszivárogna a családok mindennapjaiba a mesélés. Ehhez persze sok minden hiányzik, de ezek a közös mesélések remek motivációs alapok. És ahhoz, hogy ezt megtámogassuk, több párhuzamos programot is működtetünk.
+
+### Szülői klub
+
+A [szülői klubok](https://igazgyongyalapitvany.hu/tanoda-blog/2019/11/szuloi-klub-a-tanodaban/) már 2019 őszén elindultak a tanodában, a 2020-21-es tanévben azonban szerettünk volna előrelépni tartalom és intenzitás tekintetében is. A cél a tanodai alkalmak és az otthoni fejlesztés szorosabb összekapcsolása lett, fókuszban az anyanyelvi és a matematikai kompetenciával. Ehhez kapcsolódtak a mesés foglalkozások, melyeket összesen tíz aktív mesekönyvíró és -illusztrátor bevonásával valósítottunk meg: Agócs Írisz, Bán Zsófia, Bendl Vera, Berg Judit, Dániel András, Harcos Bálint, Jeli Viktória, Kiss Judit Ágnes, Vadadi Adrienn és Wéber Anikó is tartott felolvasást a projekt keretében. Az alkalmakat félig online, félig személyes formában tartottuk meg, az írók videóhíváson keresztül vették fel a kapcsolatot a tanodában összegyűlt szülőkkel és gyerekekkel. A felolvasáshoz beszélgetés és ráhangoló feladatok is társultak, a mesekönyvből pedig minden résztvevő család egy-egy dedikált példányt kapott.
+
+Ezekre a tapasztalatokra építve, a szülő-gyerek kapcsolat erősítése, közös élmények gyűjtése és a szülői bevonódás támogatása céljából 2021 decemberétől mesedélelőttöket és mesedélutánokat szervezünk, amik ezúttal egy szűkebb csoportot céloznak, kifejezetten az otthoni mesélésben érintett szülőket és gyerekeket. Ezeken az alkalmakon személyesen is átéljük a tabletes meséléseknél megszokott rituálét, a fókuszban pedig a mesehallgatás és a szülők és a tanodapedagógusok közös meseolvasása van. Állandó elem emellett egy tombolahúzás, amire a szelvényeket az otthon megvalósuló alkalmak arányában osztjuk szét. A nyeremény minden esetben egy-egy mesekönyv, ami egy eszköz a személyes, önkéntes nélküli szülő-gyerek meseolvasásokhoz. A mesélések számát összesítve és családonként lebontva is gyűjtjük a tanodában, előbbit egy plakáton, utóbbit pedig saját készítésű kis könyvekben.
+
+Különleges a kapcsolat a tanoda, a népmesék és Bajzáth Mária között. Bár olvasunk a gyerekekkel és a gyerekeknek a kezdetektől fogva, a mondókázás és a mesélés a tanoda hétköznapjaiban is kiemelt szerepet kap, mióta több tanodapedagógus is elvégezte a [<em>Nevelés és tudásátadás népmesékkel és népköltészeti alkotásokkal </em>](https://mese.mesepedagogia.hu/) című képzést. Azóta ráadásul a toldi szülők és gyerekek is több alkalommal, online és személyesen találkoztak saját élményben a népmesékkel, Bajzáth Mária legutóbb az idei adventi időszakban mesélt nekik.
+
+### Könyvesbolti látogatás
+
+2022 májusában közösségi gyűjtést szerveztünk. Első körben 17 alsós gyereknek szerettünk volna összegyűjteni 170 ezer forintot, hogy elmenjünk a Debreceni Pagonyba, ahol mindenki választhat magának két könyvet. Aztán úgy alakult, hogy az eredetileg tervezett összeg több mint háromszorosa gyűlt össze, így kisebbeket és szülőket is bevonhattunk, ráadásul további kirándulásokat is meg fogunk tudni szervezni.
+
+Az volt a célunk, hogy a gyerekek és a kisgyerekes szülők megéljék egy könyvesbolti látogatás élményét. Egy határmenti zsákfaluban, de a szomszédos kisvárosban sem elvárható, hogy legyen könyvesbolt, pláne nem gyerekekre specializálódott könyvesbolt. Bár Debrecen nincs messze, tömegközlekedéssel két óra oda, két óra vissza az út. Fontosnak tartottuk, hogy ne bérelt busszal menjünk, hanem használjuk ki az utazás edukatív helyzetét és tapasztaljuk meg a valóságát egy ilyen kirándulásnak.
+
+A boltban kedves fogadtatás, profi ajánlások és beszélgetések, valamint csodás légkör várt minket, és mi pont ezekkel szerettünk volna hatni. Jó volt látni, hogy hazafelé a legtöbb táskából előkerültek a könyvek nézegetésre, olvasgatásra. Azt gondoljuk, hogy két akármilyen könyvet megkapni ajándékként vagy elutazni egy könyvesboltba, ott körbenézni, ajánlások alapján kiválasztani és megvenni két számunkra kedves könyvet, egészen más hatást érhet el.
+
+Mivel maradt pénz, még legalább két ilyen kört szeretnénk megvalósítani. Jól látszik, hogy az élmények mellett a könyvek is gyűlnek a családoknál. Az egyik anyuka például már meg is jegyezte nekünk, hogy lassan könyvespolcra lenne szüksége. Szóval így: gyűlnek az élmények, az eszközök, a programok pedig folyamatos támogatást és kiegészítést nyújtanak. Mindezek együtt talán képesek itt-ott egy-két apróbb, de annál értékesebb változást beindítani.
+
+### Kölcsönzés
+
+2021 decemberében a mesedélutánokkal párhuzamosan indítottuk el a [mesekönyvkölcsönzést](https://igazgyongyalapitvany.hu/tanoda-blog/2022/03/kolcsonzos/). Eleinte úgy képzeltük, hogy kifejezetten a mesés szülői klubokhoz kapcsoljuk ezt az elemet, de hamar rá kellett jönnünk, hogy ez nem elég. Míg a mesedélutánokat 2-3 havonta rendezzük meg, addig a kölcsönzéshez egy sűrűbb, állandóbb rendszert kellene felépíteni. Ennek a fix helyét azóta sem találtuk meg, részben egy, a 0-3 éves korosztályt és anyukáikat célzó programelemhez, részben pedig a tanodai, egyéni foglalkozásokhoz kapcsolva működtettük, ezzel azonban az otthoni meséléseket egyelőre csak időszakosan és néhány családnál tudtuk támogatni. Ez az elem tehát mindenképpen újragondolást igényel.
+
+## Eredmények
+
+Valószínűleg a legfontosabb eredmény, hogy több mint két éve működik a program és folyamatosan vannak lelkes, motivált résztvevők, mind a szülők és gyerekek, mind az önkéntesek oldaláról. Ez azt mutatja, hogy mindkét fél rengeteget kap ezektől a mesés alkalmaktól. Az alábbiakban ebből a rengetegből szeretnénk néhány dolgot megmutatni.
+
+### Számok
+
+2020 október végétől 2022 december elejéig összesen 18 családnál meséltünk, 43 gyereknek. Nyolc helyen 50-nél is több alkalommal. Összesen 1116 mesélés valósult meg, a leginkább bevonódott családnál 260. Vannak két éve állandó, de időszakos mesélőink is, jellemzően önkéntesek, de néha a munkatársak beállnak. Ha azokat is számoljuk, akik csak 1-2 alkalommal vettek részt a programban, akkor összesen 35 mesélőnk volt eddig.
+
+Ezek a számok szépnek mondhatók egy 300 fős településen, egy olyan tanoda életében, ami átlagosan 60-65 gyerekkel foglalkozik 0-18 éves korig. A számok mögött persze történetek és eredmények is vannak, alább ezekből szemezgetünk.
+
+### Napló
+
+Az otthoni mesélésekről naplót vezetünk[fn]A nem hivatkozott idézeteket a naplókból emeltük ki.[/fn], amit a projektben résztvevő önkéntesek töltenek ki minden alkalom után. Ebben néhány adat megadásán túl (dátum, mesekönyvek, résztvevő gyerekek) a mesélések minőségét is értékelik egy négyfokú Likert-skálán.
+
+<em>4 – A gyerekek látszódnak, figyelik és követik a mesét, a mesére, köszönésre reagálnak, a mondókába, gyertyafújásba beszállnak.</em>
+
+<em>3 – A gyerekek látszódnak, csak ritkán terelődik el a figyelmük, a mesére, köszönésre többnyire reagálnak, a mondókába, gyertyafújásba többnyire beszállnak.</em>
+
+<em>2 – A gyerekek többnyire ott vannak, néha figyelnek a mesére, de hamar megunják, könnyen elterelődik a figyelmük, a mondókába, gyertyafújásba elvétve szállnak be.</em>
+
+<em>1 – A gyerekek nincsenek ott, elmászkálnak vagy mást csinálnak közben.</em>
+
+Ha összehasonlítjuk az erre adott értékeket az első és az utolsó tíz alkalomra vonatkozóan annál a hat családnál, ahol ebben a félévben is ment a mesélés, a legtöbb helyen nem tapasztalunk érdemi eltérést. Két esetben látható nagy ugrás, ahol a kezdeti átlagok 3,3-ról 3,9-re illetve 3,0-tól 4,0-ra nőttek. A többieknél az induláskor is nagy bevonódást és érdeklődést tapasztaltak az önkénteseink, ahogy az utóbbi alkalmakon is.
+
+Izgalmas ugyanakkor ezzel összevetni az értékelések időbeli alakulását. Annál a két családnál, ahol lassabban érkeztek meg a gyerekek a projektbe, a minőségre adott értékek néhány hét illetve hónap elteltével 4-esre változnak, és ettől azóta is csak egy-egy alkalommal térnek el. A másik négy családnál azonban körülbelül a 20. és a 40. mesélés környékén tapasztalható egy erős romlás a minőségben, több helyen 2-es értékek is megjelennek ebben az időszakban. Ezekben az esetekben a számok és az önkéntesek beszámolói is azt mutatják, hogy miután az újdonság izgalma eltűnt, több helyen is ráuntak a gyerekek a mesélésre, ami a bevonódásuk, aktivitásuk és figyelmük mértékében is megmutatkozott. Ez az egyébként teljesen érthető folyamat, azonban itt nem állt meg és nem is romlott tovább, 5-20 alkalom után a mesélés minősége újra elérte vagy meghaladta az induláskor tapasztalt átlagot. A két legtöbb (163 és 260) mesealkalommal rendelkező családnál két hasonló visszaesés és emelkedés is kivehető, ami szintén az érdeklődés természetes hullámzását mutatja.
+
+### Mesélők beszámolói
+
+A számok mellett egy-egy időszak végén szöveges visszajelzést is kérünk az önkéntesektől, [ezek közül a legelső](https://igazgyongyalapitvany.hu/tanoda-blog/2020/11/tavmese/):
+
+> Már túl vagyunk 6 meseolvasós alkalmon, amik szerintem többnyire jól sikerültek. A gyerekeknek bejön ez a forma, és ebben a nehéz időszakban így szuperül bevonható sok önkéntes is.
+
+Azóta valóban sokan bevonódtak, új, a gyerekek számára addig ismeretlen mesélők is, ami – ahogy a szülői beszámolókban is megjelent – kihívást jelent mindkét oldalon. Természetesen vannak személyes kedvencek, rengeteg beszélgetésben előkerül, hogy kinek ki mesél, és hogyan. Az általános tapasztalat ugyanakkor az, hogy nemcsak egy-egy régebbi, ismert mesélő visszatérésekor, de egy hónapon belül is sikerül feloldódnia a gyerekeknek ezekben a helyzetekben, például így:
+
+> ...az első pár alkalommal kifejezetten utálta a mondókát, nem is csinálta, aztán volt olyan, hogy csak nézte, ahogy én mondókázom, és a végére megszerette és részt vett benne, ezt nagyon pozitívnak éltem meg.
+
+A beszámolókban a legtöbb önkéntes kiemeli a szülővel – általában az édesanyával – való együttműködést is. A nehézségek ezen a területen többnyire az időpontegyeztetések és az alkalmak lemondása körül adódnak. Ahogy a gyerekekkel, úgy itt is elengedhetetlen megtalálni a megfelelő utat a családhoz, ehhez ugyanakkor egyre ritkábban van szükség közvetítőként ránk. Egyre több szülő veszi át a kezdeményezést a kommunikációban:
+
+> ...az időpontokat betartják, ha el akartak halasztani egy mesét, azt időben jelezték...
+>
+> ...
+>
+> ...nagyon proaktívan csinálta, többször volt olyan, h már 7 előtt 5 perccel jött az üzi, h mi itt vagyunk...
+
+Ez jelenik meg az önkéntesek és a szülők összekötésekor írt [üzenetváltásokban](https://igazgyongyalapitvany.hu/tanoda-blog/2022/07/esti-mesek/) is, ahol a tanodapedagógus összekötése után gyakran a szülő kérdez, reagál először az új mesélőre.
+
+> Szép látni, hogy a családok mennyire komolyan veszik az olvasást akkor is, ha csak egy kis tízperces alkalomról van szó.
+
+Ezt megerősítő visszajelzések érkeztek a nyári táborokban tartott személyes mesélések után is. Ezekben az önkéntesek a rutin és a rituálé fontosságát emelték ki. Az alkalmaknak élőben és online is ugyanaz a ritmusa, amit a szülők és a gyerekek is tudnak, ez állandóságot ad akkor is, ha a mesélők cserélődnek. A mesélések ráadásul remek közösségi élményt nyújtanak, néha nemcsak a családok, de a szomszédok bevonásával is.
+
+> Mindenki izgatott, a nagymama kívülről figyel és mosolyog, az anyukák beszállnak, a nagytesók most sokat és szívesen olvasnak, nem úgy, mint amikor olvasást kell gyakorolni. Jönnek a potyautasok is a szomszédból, akik már túl vannak a meseszeánszon a saját családjukban, de miért ne jönnének ide is. Kicsit ilyennek képzelem azt, amikor az egyetlen tévé előtt ültek le régen a társasház lakói, hogy az esti tévéadást megnézzék.
+
+### Szülők beszámolói
+
+Kicsit több, mint egy évvel az indulás után összegyűjtöttük, hogy a szülők milyen tapasztalatokat fogalmaztak meg a mesélések kapcsán.[fn]A fejezetben ebből a blogbejegyzésből idézünk: https://igazgyongyalapitvany.hu/tanoda-blog/2022/01/oriasok-majmok-sihuhu/[/fn] Az anyanyelvi fejlesztéssel kapcsolatban több területet is megjelöltek:
+
+> Fogalmazás szempontjából is jó, hogy a tartalmát el tudják mondani az iskolában is majd. Fontos, hogy formákat, színeket, állatokat, tárgyakat meg tudnak nevezni benne, meg az agyuknak is jó szerintem, mert gondolkodni kell, ha visszakérdeznek tőlük a meséről, az az agysejtjeiket is megmozgatja.
+
+Beszámolóikban megjelentek emellett olyan más, a mesehallgatás és mondókázás közben spontán is fejlődő területek, mint a figyelemkoncentráció, memória, kerettartás, utánzás. A legpozitívabb visszajelzések számunkra mégsem ezekben, hanem az olyan mondatokban rejlenek, amik a gyerekek motivációira vonatkoznak:
+
+> A mondókát a mese után is mondják, meg kell hallgatni százszor.
+>
+> ...
+>
+> Nekünk mikor a kislány kiválaszt egy mesét, akkor mindig azt kell mesélni. Boribon, Annipanni, Boribon, Annipanni – ezt meséltette folyamatosan. Nem szerette a kislány eddig a mesét, de most már lefoglalja.
+
+Az, hogy a gyerekek élvezzék a mesélést, elengedhetetlen a projekt sikeréhez, ahogy az is, hogy a szülők se teherként éljék meg.
+
+> Azt még a felnőttek is nevettük, mert olyan jól elmeséli az önkéntes, hogy ‘Potty!’, amikor ráesik a fejére. Mi is szeretjük, hogy mesélnek a gyerekeknek, meg szeretik ők is.
+
+Természetesen a szülői részben is megjelennek kihívások, legtöbben a tablet elé ültetést, a gyerekek lefoglalását és az új önkéntessel való kapcsolat indítását jelölték meg, de megjelennek konfliktusok is az eszközök kapcsán, és olyan is előfordul, hogy egy gyerek egy kis időre megunja a mesélést.
+
+### Egy konkrét példa
+
+Az anyanyelvi fejlesztés a meséléseken keresztül az egyik család esetében kiemelten hangsúlyos. A két legidősebb gyereknél a megkésett beszédfejlődés számos területen nehézséget okoz nekik, többek közt az óvodai feladatokban és az iskolára való készülésben is. Az intenzív mesélés nyomán – náluk a legmagasabb a mesélések száma – különösen látványos fejlődést tapasztaltunk. (Ettől még óriási, rendszerszintű gond, hogy nem kapják meg a megfelelő fejlesztést.) Ezt erősítik meg az önkéntesek által írt naplók is:
+
+> ...sokmindent utánoz, inkább csak rövid szavakat, pl. bumm, hamm, meg hangutánzókat, de ez is szuper!
+>
+> ...
+>
+> A mese elindulása után 1-2 perc alatt fokozatosan megszűnik a mozgásuk, s bevonódnak, követik, hangokat adnak ki, vagyis nyilván kommentálják.
+>
+> ...
+>
+> ...kiemelkedő esemény az volt, hogy az egyik gyerkőc a pereces mondókát végig mondta, nem csak a sorok végét...
+>
+> ...
+>
+> Azokat a szavakat, amiket már ki tudnak mondani, nem volt nehéz ebbe a történetbe beleszőni, ismételték is lelkesen.
+
+A folyamatban többször kiemelik az édesanya határozott odafigyelését is<em>, </em> de ő is [megfogalmazza](https://igazgyongyalapitvany.hu/tanoda-blog/2022/01/oriasok-majmok-sihuhu/) a fejlődést és a mese szükségességét:
+
+> Nálunk azért fontos a mese, mert amikor mondókázik a mesélő, akkor próbálkoznak a gyerekek elmutogatni vagy elmondani, utánozni. Amikor olyan mese van, hogy ők is tudják, miről van szó, akkor mondják. Most van például vonatos mese és egyből mondják, hogy ‘Sihuhú!’, ha a macskást olvassák, akkor ‘Nyáú’, a kutyásnál azt, hogy ‘Vauvau’.
+
+Mi is ezt tapasztaltuk a tanodában, a második, izgő-mozgó fiút az ovis klubokon eleinte semmivel nem tudtuk lefoglalni úgy, mint a mesével. Ráadásul mindkét fiúnál folyamatosan követhetjük – tulajdonképpen hétről-hétre –, ahogy egy-két hangutánzó szótól mára egész szép szókinccsel, több tucat szóval kommunikálnak velünk.
+
+## Legközelebb?
+
+De a fentiekből nemcsak a gyerekek fejlődése látszik. Fontos tanulság, hogy a szülőknek is kevés meseélményük van, és az elsősorban nem is mesekönyvekhez kapcsolódik. Innen nem nehéz eljutni oda, hogy őket nemcsak abban kell támogatnunk, hogy a gyerekekkel rendszeresen megjelenjen a mesélés, hanem saját meseélményekre is szükségük van. Amit ez a projekt több ponton is céloz, a rendszeres mesélés nemcsak a gyerekeknél, de a szülők érintésével is megvalósul. A legutóbbi mesedélelőtt végét az egyik szülő így zárta le: <em>„Ez jó volt! Legközelebb mikor meséltek nekünk?”</em>
+
+Mondjuk holnap.

@@ -101,8 +101,10 @@ nélkül eltávolított, két galérialinket pedig a megőrzött bélyegképre i
 2. A kezelt fájlok letöltése: `python3 scripts/download_media.py`.
 3. A dump utáni cikkek és a közvetlen inline média szinkronja:
    `python3 scripts/supplement_live_articles.py`.
-4. A teljes integritás-, adatvédelmi és médiaellenőrzés:
-   `python3 scripts/validate_migration.py`.
+4. A hiányzó szerkeszthető Markdown-cikkek és szerzők létrehozása:
+   `npm run migrate:markdown`.
+5. A teljes integritás-, adatvédelmi, média- és Markdown-ellenőrzés:
+   `npm run migrate:validate`.
 
 Az utolsó ellenőrzés hibával leáll, ha eltérnek a darabszámok, sérült az SQLite,
 árva kapcsolat, veszélyes HTML, privát Drupal-adat vagy hiányzó tartalombeli
@@ -111,9 +113,14 @@ média marad az exportban.
 ## További szerkesztés
 
 A történeti export változatlan, generált archívumként marad a
-`content/migrated/tanitani` könyvtárban. Az adminfelületen létrehozott új cikkek
-továbbra is a `content/cikkek` mappába kerülnek, és a build automatikusan a
-migrált archívum elé fűzi őket. A már migrált cikkekkel azonos régi Markdown-
-fájlokat cím vagy normalizált slug alapján kihagyja, ezért nem jelennek meg
-duplán. Az új szerzői profilok a `content/szerzok` mappából ugyanígy azonnal
-bekapcsolódnak a szerzői oldalakba.
+`content/migrated/tanitani` könyvtárban. Minden migrált cikk szerkeszthető
+Markdown-példánya a `content/cikkek`, minden szerzőé a `content/szerzok`
+mappában található, így az adminfelület a teljes publikus cikkarchívumot kezeli.
+
+A Markdown front matterében lévő `migratedId` kapcsolja a szerkeszthető cikket
+az eredeti archív rekordhoz. A build a címet, szerzőt, dátumot, témaköröket,
+összefoglalót, borítóképet, olvasásszámot és törzsszöveget Markdownból olvassa,
+miközben a hozzászólásokat, csatolmányokat, rovat- és lapszámadatokat, valamint a
+régi slugot az archív JSON-ból őrzi meg. A `migrate:markdown` ismételt futtatása
+nem írja felül a már létező Markdown-fájlokat, csak az újonnan importált
+cikkekhez és szerzőkhöz készít újakat.

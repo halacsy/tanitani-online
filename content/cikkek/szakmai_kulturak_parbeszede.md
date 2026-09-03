@@ -1,0 +1,49 @@
+---
+title: Szakmai kultúrák párbeszéde
+migratedId: 1250
+overrideMigrated: true
+authorSlugs:
+  - trencsenyi-laszlo
+date: '2024-05-27'
+tags:
+  - gyermekvédelem
+excerpt: >-
+  Trencsényi László írása Vulkánkitörésnek nevezte az „esetek” várt-váratlan
+  felrobbanását. A pedagógiai konfliktusok feltáróit, a megoldásukra törekvőket
+  pedig szeizmológusoknak (a földrengések körültekintő előrejelzőinek). Az
+  erősödő-gyengülő-újraerősödő (oktatás)politikai csatazaj közepette izgalmas
+  tanácskozás…
+coverImage: /sites/default/files/volcano.jpg
+coverAlt: 'Paul Zizka fotójának felhasználásával. Forrás: CBC.'
+coverTitle: 'Paul Zizka fotójának felhasználásával. Forrás: CBC.'
+reads: 1463
+---
+<strong>Trencsényi László írása</strong>
+
+> Vulkánkitörésnek nevezte az „esetek” várt-váratlan felrobbanását. A pedagógiai konfliktusok feltáróit, a megoldásukra törekvőket pedig szeizmológusoknak (a földrengések körültekintő előrejelzőinek).
+
+Az erősödő-gyengülő-újraerősödő (oktatás)politikai csatazaj közepette izgalmas tanácskozás zajlott a minap az online térben. Talán nem is figyelt fel rá annyira a szakma, mint a zajosabbakra. A <em>Szülőnek Lenni</em> program vezetője, Cserey Miklós társult másokkal, s a mindennapi pedagógia „perceire” irányította a beszélgetések fókuszát. Négy eset „kitárgyalása” zajlott a konferencia egy-egy órájában – ezeket az aktívabb résztvevők „küldték be” – jobbára saját megoldott, még inkább meg nem oldott történeteikként. <em>Beszéljük meg!</em> – ez volt a konferencia jeligéje. S ha a beszélgetések olykor elkerülhetetlenül érintették is a „makrofolyamatokat” (jogszabályi gátak és anomáliák, hiányok, deficitek, az ellátó rendszer súlyos hézagai stb.), a fókusz az esetek „intimitására”, személyek lehetőségeire, felelősségeire, tehetetlenségeire, bátorságára, kudarcaira, örömeire esett.
+
+<img alt="Trencsényi László" src="/sites/default/files/trencsenyi_laszlo.jpg" style="margin-right: 15px; font-size: 12px; background-color: rgb(232, 232, 232); float: left;">A „felhozatal” négy eset. Óvodás kislányt kínozza brutálisan csóró alkoholista apja; fejlődésében megzavart kamaszfiú zaklatja a tornaterem-öltözőben a lányokat; hetedikes leányok töltik eltévedéssel is tetézett csavargással – a tehetős szülők elnézése mellett – iskolai napjukat; s végül az elhíresült történet: a javítóintézetbe került késelő iskoláslányé.
+
+Most a történetek elemzését elhagyom. Drámai tükör, mi tagadás. Tán még reprezentatív is – teszem hozzá más esetek és adatok ismeretében (ugyanezen a napon adta közre a Hintalovon Alapítvány széleskörű társadalmi összefogással készült éves jelentését – alighanem igazolja a komor képet).
+
+A beszélgetésekről írom le benyomásaimat. A negyven résztvevő közt óvodapedagógus, tanító, tanár, szociális munkás, segítő szakember, kutató is volt, idős, fiatal. Szembeszökő volt az elemzések során a különböző szakmák hozzáállása. Első hallásra úgy tűnt, hogy az óvodában, iskolában dolgozók a helyzet „megoldásán” gondolkodtak elsősorban, miképp lehet – olykor jogszabályok tekervényei közt – megakadályozni, hogy az intézményekben zajló munkát ilyen incidensek ne zavarják meg, többnyire az intézmény(vezető) tekintélyét igénybe vevő beavatkozással (jóval ritkábban a gyerekintézmény belső demokráciájának – önkormányzatának – energiatermelő érvényesítésével). Az ún. segítő szakmák képviselői más nyelvet használtak: nem csupán a prevenció fontosságát hangsúlyozták, de az egyes esetek „mögöttesét” tekintették fontosabbnak (nem jellemhibát, akaratosságot, devianciát látva-láttatva a történetekben).
+
+Megnyugtató végkövetkeztetés volt: akárhogy is, akármilyen külső – makrotársadalmi vagy mikrokörnyezeti – feltételek mellett a felnövekvő nemzedékért – bármilyen poszton – hivatásos felelősséget vállaló szakemberek együttműködésében rejlik a megoldás kulcsa.
+
+De ha különbözőek a „nyelvek”? – tettem fel a kérdést. Ha „büntetést” emleget az iskola pedagógusa (többnyire a magárahagyottság nyomasztó önképével tetézve eszköztelensége érzését), és „resztoratív” megoldásokat a családsegítő? Hol lehet az együttműködés közös nevezőjét kijelölni? Ha az „alkalmatlannak minősített” szülők kizárását a megoldásból emlegeti az egyik fél, míg a másik még a „szomszédságot” is behívná a megoldásba. Míg a „többiek” tanórai nyugalmát félti az egyik fél, a másik hosszú, türelmes, a törvény előírta hat (!) segítő találkozásnál akár több időt igénybe vevő terápiát… Más egyetemeken, más főiskolán, más tankönyvekből tanultak volna? Vagy a helyzetük determinálja kultúraválasztásukat?
+
+A konferencia aktív moderátora érdekes metaforát használt. Vulkánkitörésnek nevezte az „esetek” várt-váratlan felrobbanását. A pedagógiai konfliktusok feltáróit, a megoldásukra törekvőket pedig szeizmológusoknak (a földrengések körültekintő előrejelzőinek).
+
+Így gondolom magam is. A konferencia szociális segítő szakemberei vállalták ezt a metaforát, illett rájuk – tűnt ki higgadt elemzéseikben.
+
+S milyen metaforák lehetnek még a „kitörő vulkán” vidékén? Hiszen vannak közöttünk lelkiismeretes tűzoltók, akik a fogyó vízkészlet maradékát öntik csöveiken át a füstölgő kráterbe. Sőt olyan kolléga is akad, akiknek munkája, feladat- és felelősségvállalása egyenesen odáig terjed, hogy a hegy lejtőin gátakat emel a kiömlő lávának, olykor akár saját testéből.
+
+Megfutamodó, menekülő nem volt a konferencia résztvevői között.
+
+Miképp lehetne e kompetenciákat integrálni?
+
+Miért tagadjam: ebben a párbeszédben a „frontvonalon vérző” óvodai, iskolai szakemberek jobbára egy érzékelhetően konzervatív megközelítés képviselői voltak. Nem olvastak ők Orbán Balázst, sem Setényi Jánost! Jött ez magától.
+
+Ugyan mely művek lehettek a konferencia „szociális segítőket” képviselő szakembereinek meghatározó olvasmányai? Miképp lehetne e művek olvasásával katarzisra bírni az óvodapedagógusukat, tanítókat, tanárokat?

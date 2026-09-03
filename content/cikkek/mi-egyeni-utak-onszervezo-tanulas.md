@@ -1,12 +1,22 @@
 ---
-title: "MI, egyéni utak, önszervező tanulás"
-author: "Bessenyei István"
-authorSlug: bessenyei-istvan
-date: "2023-09-19"
-tags: ["IKT", "oktatáspolitika", "pedagógusok", "szabad nevelés"]
-excerpt: "A nyilvános chatbotok – ChatGPT, Bard – általános adatbázisokra épülnek, valódi személyre szabás rajtuk keresztül nem lehetséges. Az önszervező tanulás fogalma és az AI kapcsolatának első vizsgálata."
-image: /images/cikkek/mi-egyeni-utak-onszervezo-tanulas.jpg
+title: 'MI, egyéni utak, önszervező tanulás'
+migratedId: 1209
+overrideMigrated: true
+author: Bessenyei István
+date: '2023-09-19'
+tags:
+  - IKT
+  - oktatáspolitika
+  - pedagógusok
+  - szabad nevelés
+excerpt: >-
+  A nyilvános chatbotok – ChatGPT, Bard – általános adatbázisokra épülnek,
+  valódi személyre szabás rajtuk keresztül nem lehetséges. Az önszervező tanulás
+  fogalma és az AI kapcsolatának első vizsgálata.
 reads: 6723
+authorSlugs:
+  - bessenyei-istvan
+coverImage: /images/cikkek/mi-egyeni-utak-onszervezo-tanulas.jpg
 ---
 
 **I. rész. Bessenyei István írása**

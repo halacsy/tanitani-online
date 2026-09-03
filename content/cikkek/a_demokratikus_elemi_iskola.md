@@ -1,0 +1,75 @@
+---
+title: A demokratikus elemi iskola
+migratedId: 962
+overrideMigrated: true
+authorSlugs:
+  - erika-brinkmann
+date: '2019-09-07'
+tags:
+  - szabad nevelés
+excerpt: >-
+  Egy módszertani szakember megjegyzései . Erika Brinkmann írása Hozzászólás a
+  németországi Siegeni Egyetemen 2007-ben tartott Demokratikus elemi iskola – A
+  gyerekek hozzájárulása iskolai életükhöz és tanulásukhoz című
+  konferencián.[fn]A konferencia 45 hozzászólásából választottuk ki Erika
+  Brinkmannét, de választhattunk…
+coverImage: /sites/default/files/osztalyterem.jpg
+coverAlt: 'Forrás: http://journey2finland.blogspot.com'
+coverTitle: 'Forrás: http://journey2finland.blogspot.com'
+reads: 5758
+---
+<strong>Egy módszertani szakember megjegyzései</strong>. <strong>Erika Brinkmann írása</strong>
+
+> Hozzászólás a németországi Siegeni Egyetemen 2007-ben tartott <em>Demokratikus elemi iskola – A gyerekek hozzájárulása iskolai életükhöz és tanulásukhoz</em> című konferencián.[fn]A konferencia 45 hozzászólásából választottuk ki Erika Brinkmannét, de választhattunk volna más izgalmas hozzászólásokat is. Aki tud németül, annak ajánljuk a konferenciáról megjelent kötetet, amely [online ingyenesen elérhető](https://www.pedocs.de/frontdoor.php?source_opus=13014).[/fn]
+
+A konferencia meghívójában[fn]A konferencia előadóinak küldött felkérésben a szervezők két kiinduló kérdést tettek fel, ami arra szolgált, hogy egy közös beszélgetési alapot adjon a „demokratikus alapiskola” témájához.[/fn] két alapkérdést fogalmaztak meg, amelyek a körbejárásához néhány kulcsszót írtam fel magamnak:
+
+<ul><li class="rtejustify">Milyen feltételek között nőjenek fel a fiatalok a társadalom nyilvános (nem privát) terében? Miként alakítsuk a felnőttek és a gyerekek közötti kapcsolatokat, miként szabályozzuk azt, hogy abban a kölcsönös tisztelet legyen meghatározó?</li></ul>
+
+<strong>→&nbsp;</strong> <em style="font-size: 1em;">Az iskola mint demokratikus élet-tér</em>
+
+<ul><li class="rtejustify">Milyen körülmények között képesek a gyerekek jövőbeli lehetőségeiket a legjobban fejleszteni? Hogyan kell olyan tanulási környezetet kialakítani, melyben&nbsp; elég tanulási lehetőségük van ahhoz, hogy mind személyiségük, mind pedig tárgyi tudásuk fejlődjön?</li></ul>
+
+<strong>→&nbsp;</strong> <em style="font-size: 1em;">Az iskola mint demokratikus tanuló-tér</em>
+
+Első problémám: az alapiskola demokratizálódásáról szóló vita nagyobb része egyértelműen a jövővel kapcsolatos, másodiknak említett kérdéskör körül forog: a gyerekek, akik az iskolában megtapasztalják a demokratikus hangnemet, csak később válnak majd kompetens állampolgárrá, azaz őket mint kompetens állampolgárokat a jelenben nem veszik komolyan. „Jogaik a mában”, mint azt Janusz Korczak szépen megfogalmazta[fn]Korczak, J. (1967): Wie man ein Kind lieben soll. Vandenhoeck & Ruprecht: Göttingen.[/fn], nem játszanak jelentős szerepet. Ezért érdemes visszanyúlnunk a Gyermeki Jogok Nyilatkozatához, mint azt Eichholz ugyanebben a konferencia-kötetben megteszi.[fn]Reinhard Eichholz: Demokratische Grundschule? 115-121.o.[/fn] Nekem most tűnt fel, hogy – mindazok ellenére, amelyeket ott a gyermek jólétéről, ön- és köz-meghatározásukról írnak – a felnőtteknek még mindig lehetőségük van kívülről beleszólni a gyermekek dolgaiba éppen azáltal, hogy a gyermek jólétére hivatkoznak, előtérbe tolva saját „tudásukat” (ezzel döntéseiket) azzal kapcsolatban, hogy mi jó a gyermeknek egy-egy adott helyzetben.  Az én kérésem az, hogy a Gyermeki Jogok Nyilatkozata ne csupán másoknak adjon döntési lehetőségeket a gyerekek nevében, hanem maguknak a gyerekeknek is. Ehhez szükség lenne mind a nyilatkozat, mind az alkotmány modern értelmezésére, mely valóban erősítené az iskolában a gyermekek önrendelkezési lehetőségeit.
+
+A második probléma, amiről írni szeretnék, szakmódszertani tapasztalataimból keletkezik (amilyen szerepben engem erre a konferenciára meghívtak).
+
+A. S. Neill írja <em>Summerhill</em> című befolyásos könyvében:[fn]A. S. Neill: Summerhill – A pedagógia csendes forradalma. Kétezeregy Kiadó, 2004.[/fn]
+
+> Nincsenek újfajta tanítási módszereink; véleményünk az, hogy a tanítás önmagában nem játszik nagy szerepet.[fn]I. m., 22. old.[/fn]
+
+Majd a későbbiekben azt írja, hogy nem játszik szerepet az, ahogy az iskola bizonyos tartalmakat közvetít, mert:
+
+> Márpedig az a gyerek, aki meg akar tanulni írásban osztani, az meg is fog, függetlenül attól, hogy milyen módszerrel tanítják.[fn]Uo.[/fn]
+
+Ennek megfelelően Summerhillben a tanítás legnagyobb része hagyományos módon zajlik. A gyerekek önmeghatározása kimerül abban, hogy döntenek, bemennek-e az órákra, vagy sem. Kisarkítva: alávetik-e magukat egyáltalán a felnőttek kioktatásának, és ha igen, miben. Nem osztom Neill nézetét. Még akkor is, ha valaki meg <em>akar</em> valamit tanulni, különbséget jelent, hogy kap-e ehhez értelmes támogatást, ajánlanak-e neki segítséget (önállóan alkalmazható „eszközök” formájában, amelyek lehetőséget adnak a megértésre), vagy falatonként felszolgálva valamit kap, ami valamikor később egy komplex képességgé kell összeérjen benne.
+
+„Számomra az alapiskolák didaktikájában az elmúlt húsz évben elért előrehaladás elsősorban az anyanyelv kapcsán, valamivel kevésbé a matematika tanításban és – különös módon a gyakorlattól eltérően –  a legkevésbé az ún. „komplex tárgy” oktatásában jelentkezik. A haladás abban áll, hogy a gyerekeknek nem az a feladata, hogy részismereteket tanuljanak meg, amelyeket majd később értelmes cselekvésekben alkalmazni tudnak. Az írásbeliség elsajátításának új koncepciójában például jelentős, hogy a gyerekek kezdettől fogva csupa olyan dolgot olvasnak és írnak, ami számukra fontos, persze azon a színvonalon, ami számukra lehetséges. Úgy tanulnak olvasni, hogy olvasnak, és úgy tanulnak írni, hogy írnak, hangzó táblával mint eszközzel, amely lehetőséget ad nekik, hogy önállóan,  a hang és az írott betű között összefüggést találjanak, és így papírra vessék azt, ami számukra fontos, amit velünk közölni akarnak. Úgy gondolom, hogy ez az, amit John Dewey valójában projektmódszer alatt értett. Ez a  tapasztalati tanulás (learning by doing), azaz amikor az ember személyes vagy társadalmilag fontos problémát dolgoz fel. Ehhez azonban hozzátartozik a hibák tűrése és a kölcsönös tisztelet is, mellyel elfogadjuk, hogy a „fejben lévő világ”[fn]Fischer, E. P. (1985): Die Welt im Kopf. Mit einem Vorwort von Dieter E. Zimmer. Faude: Konstanz (jetzt: Libelle: CH-Lengwil).[/fn] különféle emberekben különféle lehet. Mindez remélhetőleg könnyebben fog menni, ha a konstruktivizmusból már megtanultuk, hogy ez elkerülhetetlen.
+
+Mindebben segít, ha látjuk, hogy a tudományban mennyi egymásnak ellentmondó elméletről vitatkoznak. Milyen gyorsan kérdőjeleződik meg új kísérletekkel, modellekkel mindaz, ami tegnap még „igaz” volt, és még az ún. objektív természettudományokban is léteznek egymásnak ellentmondó elméletek, mert egyikük sem tudja az összes tényt kielégítően magyarázni.
+
+Ehhez hozzájön mindaz, amit Piaget tanulmányaiból az erkölcsi ítéletek fejlődéséről és a gyermek világképéről tudunk, azaz hogy a gondolkodás fejlődésében köztes formák léteznek, amelyek a tapasztalatoknak és a nekik megfelelő kognitív struktúrák mindenkori szintjének felelnek meg.
+
+Mind a tudás viszonylagossága, mind a gyermeki gondolkodás önálló értéke korlátozza azt, amit a kanonizált iskolai tudás önmaga fontosságáról és igazságáról állít. De vajon nem válik-e mindez azzá a gondolattá, hogy  „jó minden”, és nem vezet-e oda, hogy ha elhagyunk dolgokat, éppen a műveltséghez nehezebben jutó családok gyermekeitől vesszük el a munkaerőpiaci és életlehetőségeiket?
+
+Úgy vélem, hogy Hans Brügelmann megállapítása jól enyhíti a fenti helyzettől való félelmet:
+
+> Amikor ugyanazt közvetítjük különféle embereknek, akkor ők ebből különböző dolgokat tanulnak, miközben ugyanarra a belátásra juthatnak emberek egészen különböző tapasztalatok alapján.
+
+Mindebből következik, hogy nem szükséges az ismeretek kánonját rögzíteni, illetve ez a rögzítés nem is jelent garanciát arra, hogy mindenkinek ugyanolyan esélyei lesznek. De akkor miben különbözik az iskola a piactól, ahol mindenféle lehetőség megtalálható? Erre Brügelmann második modellje segíthet válaszolni:
+
+> Az iskola nem a térítés helye, még kevésbé az, ahol fentről térítenek, hanem a kultúrák és generációk találkozásának színtere.
+
+Az emberek nem tudják lehetőségeiket egyedül, légüres térben kifejleszteni úgy, mint Maria Montessori félreérthetően gondolta, miszerint bennük egy „belső terv” lenne. Amire szükségük van, az a bátorítás, az összeütközés, a modellezés, hogy a gondolkodás nőhessen, kiegészülhessen. Továbbá szükséges, hogy a cselekvési lehetőségek kihívásokkal találkozzanak, támogatásra találjanak. Minderre azonban úgy kerüljön sor, hogy közben ne egy biztos tudás kerüljön rögzítésre. Az erkölcsi felszólítás, amely Heinz von Foersterstől származik, így hangzik: <em>„Úgy cselekedj, hogy a lehetőségek tárháza bővüljön!”[fn]Simon, F. B. (Hrsg.) (1988): Lebende Systeme. Wirklichkeitskonstruktionen in der systemischen Therapie. Springer: Berlin. (Dritte Auflage 1997 Suhrkamp: Frankfurt a. M.) 33. old.[/fn]</em> Ez az egyetlen kritérium, ami egy pedagógiai tevékenységet, intézkedést a másiknál értékesebbnek ítélhet.
+
+Ezért gondolom, hogy a demokratikus iskola önmagával szemben támasztott igénye nem merülhet ki abban, hogy felkészíti a gyerekeket, hogy a jövő polgárai legyenek, sem abban, hogy szabadságot ad nekik, elfogadják-e vagy elutasítják az iskolai oktatást. Az iskolának olyan tárgyi tapasztalatot kellene nyújtani, amely tiszteli a gyermeki gondolkodást, az egyes gyerekek gondolkodásbeli  különlegességeit, és ennek megfelelő támogatást biztosít arra, hogy ezeket a tapasztalatokat a gyerekek saját maguk birtokba vehessék.
+
+Ez egyben a válaszom Hartinger önkritikus kérdésére is, hogy vajon elégedettek lehetünk-e azzal, amikor a gyerekek már annak is örülnek, ha a pedagógus biztosítja az általa kínált lehetőségek közötti választást. Bár ezt a gyerekek mint „önmeghatározást” érzékelik, számomra ez a szubjektív megítélés nem jelenti azt, hogy ezzel a demokratikus iskola a gyermeki önrendelkezést biztosította volna .
+
+Egyetlen probléma marad: az írás-olvasás előfeltétele annak, hogy részt vehessünk mind a magán, mind a nyilvános életben. Ezért ha egyrészt az írásbeliség ilyen fontos, másrészt a gyerekeket nem lehet íróvá és olvasóvá <em>tenni</em>, akkor az iskolának minden eréjével azon kell lennie, hogy ezeket a képességeket vonzóvá tegye mindazok számára, akik eddig nem tudtak az írott világhoz csatlakozni. Ezért jelent nagy különbséget, ha a pedagógus olyan dolgozatot ad, amelyben a gyerekeknek adott témáról kell írni, vagy ha lehetőségük van arra, hogy a saját történetüket írják. Vagy ha ugyanazt a könyvet kell olvasniuk, szemben azzal, ha maguk választhatják meg az olvasmányaikat. Az a követelés, hogy az alapiskola legyen demokratikus, következményekkel kell járjon egészen a szakmódszertanig lehatolóan, hogy amit szeretnénk, ne csak szép keret legyen egy mások által meghatározott világismerethez.
+
+Fordította: Fóti Péter, a szöveget gondozta: Vikukel Zsuzsa. A fordítás a szerző engedélyével készült.
+
+Forrás: [Demokratische Grundschule - Mitbestimmung von Kindern über ihr Leben und Lernen](https://www.pedocs.de/frontdoor.php?source_opus=13014). Kiadó: <em style="font-size: 1em;">Siegen : Eigenverlag, UniPrint: Druckerei der Universität Siegen 2008, 464 S. (</em>222-226.o)

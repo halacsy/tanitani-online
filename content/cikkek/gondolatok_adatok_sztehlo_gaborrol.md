@@ -1,0 +1,130 @@
+---
+title: 'Gondolatok, adatok Sztehlo Gáborról'
+migratedId: 1270
+overrideMigrated: true
+authorSlugs:
+  - fuzeki-balint
+date: '2024-09-06'
+tags:
+  - örökség
+  - neveléstörténet
+excerpt: >-
+  Halálának ötvenedik évfordulóján. Füzéki Bálint írása „Mi pedig vétkeztünk a
+  zsidó nép ellen. A felebarát ellen. Nem csak 1944-ben, hanem már sokkal
+  korábban.” (Sztehlo Gábor)
+coverImage: /sites/default/files/p1100091.jpg
+coverAlt: 'Budakeszi út 48. A kép forrása: https://szerelmembudapest.blog.hu/'
+coverTitle: 'Budakeszi út 48. A kép forrása: https://szerelmembudapest.blog.hu/'
+reads: 1606
+---
+<strong>Halálának ötvenedik évfordulóján. Füzéki Bálint írása</strong>
+
+> „Mi pedig vétkeztünk a zsidó nép ellen. A felebarát ellen. Nem csak 1944-ben, hanem már sokkal korábban.” (Sztehlo Gábor)
+
+ <em>&nbsp;„…belőle nőttem én, mint fatörzsből gyönge ága…”</em>
+
+Sztehlo Gábor a XX. század egyik legjelesebb alakja. Tevékenysége igen sokrétű, személyisége megkapó, gondolkodása, szellemvilága igen gazdag. A XXI. században sokan sokat írtak róla – leginkább méltató hangnemben, bár ellenkezőjére is van példa. A méltató írások leginkább a sokrétűségből csupán egy elemet emelnek ki – érzésem szerint azonban az összkép hiányzik.
+
+## Sztehlo Gábor gyökerei
+
+Sztehlo Gábor 1909-ben született Budapesten, de a család gyökerei meglehetősen kevertek: a magyar-szlovák-német lakosságú Felvidékre (Dobsina, Losonc) nyúlnak vissza. A kevertség a szláv hangzású név és az erős magyar identitás ellentététből is kitetszik – ez a továbbiakban is szerephez jut majd. (A név körüli tudakozódásom többszörösen zátonyra futott.) Jóllehet Sztehlo Gábor maga ezt a soknyelvű és természetű világot nem élte meg, mert családja már 1864-ben Budára költözött, de a családban lappangva mégis ott volt. A magyarság fontosságát mutatja, hogy a dédszülők a gyermekek magyar nyelvű oktatása végett telepedtek át Dobsináról Losoncra (Kunt, 2022). Arra, hogy a Budára költözésnek mi volt az oka, nem találtam adatot, de az előbbiekből kiindulva feltételezhetjük, hogy még magyarabb környeztet kívántak. Ez még akkor is fontos volt számukra, ha a többnyelvű világ magyar hegemóniája egyértelmű volt az élet minden területén. A hegemón csoporthoz tartozás jó dolog, mert „én vagyok felül” – ugyanakkor rossz dolog is (lehet), mert felmerül a kérdés, „miért vagyok én felül?”. Erről a búvópatakszerűen jelenlévő, meg-megmutatkozó, olykor kikerülhetetlenül szembenálló világról sokat tudhatunk meg Mikszáth Kálmán írásaiból.
+
+Sztehlo Gábor 5 éves volt, amikor kitört az első világháború „megállj kutya Szerbia!” felkiáltással, 9 éves volt mire vége lett, ez azonban nem a békét hozta meg, hanem éppen ellenkezőleg, a távol folyó öldöklések és a gyűlölség hazatelepítését.
+
+<em>„A háborút mindig a gyerekek sínylik meg leginkább… a gyermeket teszik tönkre: testét, lelkét egyaránt”</em>– írja Sztehlo Gábor (Sztehlo, 1994: 170. o.), nem kisgyerekként, hanem élete derekán, második világháborús tapasztalatai alapján, mégis jelezvén hogy az ő gyerekkorán is nyilván nyomot hagyott az első világháború.
+
+A Sztehlo család – amint azt Sztehlo Kornél családtörténeti munkájából tudhatjuk – több generációra visszatekintve mélyen beágyazódott az evangélikus egyházba – több lelkészgenerációt adott, míg mások jogi pályára mentek. Gábor is természetesen evangélikus nevelést kapott – a Biblia szelleme mélyen beivódott személyiségébe.
+
+Az anyai ágról. A református Haggenmacher család Svájcból jött Magyarországra. Itt az élelmiszeriparban tevékenykedtek, később a sörgyártás lett fő tevékenységük, jelentős anyagi sikerrel.
+
+Mint írtam, a távol zajló háború befejeztével a gyűlölködés és az öldöklés mindennapi veszedelemmé, esetenként tapasztalattá vált. A vörös-, majd a fehérterror riasztó eseményei idején Sztehlo Gábor 9-10 éves kiskamasz volt. A napi atrocitások múltával itt maradt a harag és a bosszúvágy. Fülsiketítő erővel zúgott a „Nem, nem, soha!” – mire gondolhatott egy kisfiú, aki otthon losonci családi történeteket hallott? A „Hiszek egy Istenben, hiszek egy hazában, hiszek Magyarország feltámadásában!” milyen érzéseket kelthetett benne reggeli ima után?
+
+Rendteremtés fedőnév alatt jött a mindenre kiterjedő szigor. A mindennapokban kasztrendszerre emlékeztető megosztottság alakult ki, megannyi egymásba kapaszkodó, egymást átfedő szempont szerint: anyagi helyzet, iskolázottság, beosztás, vallás, családi állás, feudális ranglétra. A mindent átitató, mindenhová beszivárgó antiszemitizmusról most nem szólok, mert az túlfeszítené írásom keretét.
+
+Az anyagi/vagyoni helyzet említésekor meg kell jegyezni, hogy a Haggenmacher család jelentős vagyonnal rendelkezett. A Sztehlo család mögött nem állt vagyon – a jó polgári család színvonalán éltek. A fentieknek megfelelően Sztehlo Gábor közelmúltban megjelölt szülőháza – Budapest, Orlay utca 10. – nem dúsgazdag palota, hanem jómódú környezetben álló bérvilla, benne Sztehlóék lakásával.
+
+Az eddig leírt különállások sokszor a csoportok által (is) erősen szabályozottak voltak – nem ritkán írásos szabályrendszerekbe foglalva, de ami ennél fontosabb: a csoporttagok belső rendszerét építve. Ezek a csoportok általános elfogadottságot élvezve hierarchiába rendeződtek, vagy egymással konkuráltak – vagy éppen ellenségeskedtek: pl. abban, hogy egy kereskedő különb.e, vagy egy iparos.
+
+Sztehlo Gábor ebbe a világba nőtt bele meglehetősen kedvezményezett körülmények között. Nincs adatunk arról, hogy ezt a nagy megosztottságot, ellenségeskedést ő 10-15 évesen hogyan ítélte meg, mégis ellenkezését mutatja a Koren Emil (1994) által felidézett történet: <em>„bőséges zsebpénzének jelentős részét a szegényebbek megsegítésére fordította.”</em>
+
+A vallási elkülönülésről családi példa is szólt: a református Haggenmacher Márta és az evangélikus Sztehlo Aladár házassága is nehézségekbe ütközött. Az alábbi idézet a felnőtt Sztehlo Gábor érzését mondja ki – jóllehet egy kicsit más összefüggésben –, de gyökerei minden bizonnyal idáig nyúlnak vissza. <em>„Furcsa világ volt az egyházé. Lélek nélküli, csupán emberi vezetésű…”</em>
+
+Amikor ismételten idézem Radnótit – „belőle nőttem én” –, arra gondolok, hogy egy fát alulról gyökerei növesztik, táplálják – ez az őscsalád –, míg felülről az őt körülvevő környezet a nevelő család. Mindkettő igen fontos: mennyivel másabb egy sűrű erdő tölgye, mint egy magányos tölgy! A Sztehlo-fának különlegesen szép és gazdag ága Sztehlo Gábor.
+
+Felnőtt életére esik egy igen furcsa, máig tisztázatlan kanyar: 1938-ban apjával együtt nevüket Szenczyre magyarosítják, de hamar, 1940-ben ő maga visszaveszi születési nevét. Ebből kiolvashatjuk hagyománytiszteletét és a családi ragaszkodás értékét.
+
+## A felnőtt Sztehlo Gábor vallási útja
+
+Élete meghatározó eleme volt mély istenhite: minden cselekedetét ez vezérelte, önmagát az isteni akaratnak alávetve. Élettörténetét, pontosabban annak különböző részeit, elemeit – mint bevezetőmben írtam – feldolgozták már, ezúttal csak címszavakban idézem föl: papi hivatása meglehetősen korán, 15-16 éves korában már beérett. Teológiai tanulmányai során meghatározó fordulat volt egy finn társával kialakult kapcsolat, s rajta keresztül az ébredési áramlatba való bekapcsolódása. Ezek tovább erősítették a hit és a szolgálat iránti elköteleződését. Finn ösztöndíjából hazatérve egyházi szolgálatba: segédlelkészi, majd lelkészi szolgálatba áll. Mind Hatvanban, mind Nagytarcsán a mindennapi lelkészi teendőkön túl közösség- és templomépítő munkát végzett. Nagytarcsai korszakának fontos eleme a népfőiskolai mozgalom megalapozása. Innen hívja be püspöke a gyermekmentési munkára. A háború után a rászoruló gyermekeknek méltán híres Pax gyermekotthonában „otthont, hitet és méltóságot adott” (szobrának feliratából). A gyermekotthon gyermekállamának (Gaudiopolis) létrehozásával egyedülállót alkotott. Ennek államosítása után ismét segédlelkészi szolgálatok következtek, majd idősek és fogyatékosok számára alapított-működtetett szeretetotthonokat – egyiküket vezette is. 1956-ban családja külföldre távozott. 1961-ben családjának meglátogatásakor elszenvedett szívinfarktusa megakadályozta hazatérésében – halála napjáig ismét lelkészi szolgálatot végzett.
+
+Ha meg akarjuk ismerni s érteni Sztehlo Gábort, menjünk végig élete állomásain.
+
+Mint írtam, a papi/lelkészi hivatással serdülő korában jegyezte el magát. Azt is láttuk, e választásnak megvolt a családi hagyománya. Indíttatásához igen értékes útmutatót kapunk tőle magától, a teológiai felvételhez megkívánt önéletrajzából – közli Koren Emil fent idézett könyvében. Itt írja, hogy korai elhatározása eleinte „felelősségérzet és cél nélküli” volt, később, kapott mélyebb tartalmat. Ez a mélyebb tartalom pedig a hazaszeretet és az az elhatározás, hogy a „magyar népet, az egyszerű köznépet” jó létre vezesse. A hazaszeretet igen előkelő helyet foglalt el kora szellemi rangsorában, de a „köznép” nem képviselt nagy értéket, nem volt gyakori téma. Ezt azért tartom fontosnak kiemelni, mert napjainkban egyre több Sztehlóról szóló írásban – olykor kiemelten – olvashatjuk, hogy gazdag – igen gazdag – családba született. A Haggenmacher család csakugyan a magyar gazdaság jelentős szereplőinek egyike volt, de a Sztehlo család a jómódúságon túl nem volt ennek részese. A köznép szolgálata pedig nem tartozott a gazdag réteg mindennapi témái közé a jómódúak között sem.
+
+Meghatározó jelentőségű volt Sztehlo Gábor életében egy finn ösztöndíjas társával való találkozása, aki bevezette őt a finn ébredési mozgalom világába. Erről részleteiben keveset tudunk, annyit mégis, hogy igyekeztek minél erősebben Krisztus-követőkké válni az olykor nagyon formális-hideg egyházi előírásokkal szemben. A már idézett mondatát hívom segítségül: <em>„Furcsa világ volt az egyházé. Lélek nélküli, csupán emberi vezetésű.”</em> Az ébredők ezt a léleknélküliséget akarták lelki gazdagsággal megtölteni. Ez a törekvés végigkísérte egész életén.
+
+Finnországból hazatérvén kezdte meg a fentebb már említett lelkészi tevékenységét. A nagytarcsaiak szívükbe fogadták, emléktáblával, utcaelnevezéssel emlékeznek rá, s még a 80-as, 90-es években is küldöttséggel tisztelegtek ünnepségeinken.
+
+## A népfőiskola ügye
+
+A népfőiskoláról kissé bővebben. Mi is az a népfőiskola? A népfőiskola a parasztifjúság felnőtt (tovább)képző intézménye. Ahhoz, hogy jelentőségét megértsük, egy pillantást kell vetnünk a 30-as évek iskolarendszerére: <em>„A harmincas évek parasztifjúsága zömmel 4 osztályt végzett az elemi népiskolában. Éppenhogy megtanultak írni-olvasni, valamelyest a számtani alapműveleteket, a hittan alapvetését s az egyházi rendet. (Füzéki, 2018)”</em> Sztehlo Gábor ennél messzebb tekintett: „Az volt a célunk, hogy mély lelki éltet élő, a műveltség útján elindított, szakmailag képzett parasztifjúságot neveljünk…” (Sztehlo, 1994: 11. o.) NeveljÜNK: céljának sikerült megnyernie jelentős szellemi és anyagi erőket, ez minden más tevékenységének is jellemzője volt, segítségükkel a Népfőiskola országos mozgalommá terebélyesedett.
+
+Nagytarcsáról hívja be az Evangélikus Egyház elnök-püspöke Raffay Sándor, hogy átadja neki budapesti kórházlelkésszé történő kinevezését. Aztán, csak úgy mellékesen: <em>„Van itt még egy dolog – </em> mondja<em>– Valamit tenni kellene a keresztyén vallású, zsidó származású gyermekekért…Tanácsot adni nem tudok… eredj oda (a református Jó Pásztor Bizottsághoz), nézz körül…”</em> (Sztehlo, 1994: 16. o.) Ezzel indul Sztehlo Gábor életének legnagyobb próbatétele – és legnagyobb teljesítménye.
+
+Ezzel az idézettel kapcsolatban egyik gondolat űzi a másikat: A szóbeli megbízása – írásbeliségét mai napig nem lelik – a megszállás napját (1944. március 19.) követően nem sokkal hangzott el – az utókor kérdése: miért ilyen későn? A válasz: „de legalább elhangzott!” További kérdések: és a többi egyház? és más szervezetek? tettek-e valamit? És még tovább: csak a keresztyén vallásúakért kell(ene) tenni valamit? és a zsidó zsidók? Megannyi kérdés – ezekkel még fogunk találkozni Sztehlo gondolatait felidézve. A legutolsó kérdésre (a zsidó zsidókról) a kézenfekvő válasz: az egyház főnöke nem adhat a törvényekkel szembemenő utasítást – márpedig a zsidóüldözés törvények szerint zajlott. Sztehlo Gábor ezúttal nem kérdez: búcsúzik – Értettem, püspök úr – és távozik. Ezután még hosszú időre van szükség, mire az első menhely megnyílhat (október 5.), de biztos vagyok benne, hogy Sztehlo Gábor már akkor is ezt gondolta a legfőbb törvénynek: <em>„Nálunk egyedül az volt a kérdés: rászorul-e a segítségre a gyermek.”</em> Ezzel a tételével nem egyszerűen a püspöki utasításon, s így egyházának reguláján lépett túl, hanem rengeteg állami szabályon-rendeleten. Túllépett továbbá azokon a társadalmi megkötöttségeken, megosztottságon is, melyek még a halálos veszedelem szorításában sem tűntek el. Önmagának és az általa vezetett csoportnak kiadott szigorú vezényszava mélységes istenhitéből ered, pontosabban annak a mindennapi életben való megvalósítása volt: Isten előtt mindannyian egyenlőek vagyunk. Ennek a tételnek a megvalósulásáért igen sokat küzdött, de bárhonnan támadták is, nem engedett. Támadták az egyházak – valamennyi, amelyikkel kapcsolatba került – és világiak: hatóságok, szervezetek is, de ezt a falat nem tudták áttörni.
+
+A mentési munka történetéről ő maga és igen sokan mások sokat írtak, ehelyütt csak rövid summázatát adom. A mentőakciók sorából nem csak a fenti alapelv szigorú betartásával, valamint számosságával tűnik ki: városszerte 42 intézményben mintegy 2000 életet mentett meg, hanem még azzal is, hogy ezeken a menhelyeken mindent megtett azért, hogy szeretetteljes otthonpótlót tudjon adni, ahol még valami oktatás-gondozás-nevelés is zajlott. Ennek a gondolati-szellemi építménynek a koronája a Gaudiopolis volt. A Gaudiopolisról, születési körülményeiről gondolkodva a varsói felkelések (!) jutnak eszembe: a meggyötört halálra szántak felemelték fejüket, és életigenlésüket nyilvánították. Varsó elbukott – a Gaudiopolis győzedelmeskedett.
+
+A kezdetekről Sztehlo Gábor így ír: A pinceélet rettenete-nyomora az <em>„egymásért való áldozatkészség kialakulása mind olyan mély nyomot hagytak… hogy már ekkor felmerült a gondolat: ha egyszer ebből a pincéből kikerülünk, akkor is együtt kell maradnunk… A GAUDIOPOLIS GONDOLATA ITT SZÜLETETT A PINCÉBEN</em> (Sztehlo, 1994: 141. o.).”
+
+Fentebb azt írtam, hogy a társadalmi megkötöttségek-megosztottságok a halálos veszedelem árnyékában is megmaradtak. Sztehlo Gábor személyes hatása is kellett ahhoz, hogy ezek a tüskék-fullánkok eltűnjek – mi több: összetartó erővé szublimálódjanak. Ennek a hatásnak a részvevői is sokat írtak erről a varázsról – megfejteni egyiknek sem sikerült. Magam csak ennyit éreztem: jó volt vele lenni. Ezt a jelenséget ő maga is észlelte, Isten kegyelmének tulajdonította.
+
+A Gaudioplisról sokat írtak már – még többet emlegetik –, a sorból kétségkívül Merényi Zsuzsa (2014) két kiadást megélt könyve emelkedik ki: <em>Sztehlo Gábor, a gyermeknevelő</em><em>.</em> Merényi részletesen leírja a gyermekállam születését és működését, méltatja jelentőségét: mindmáig ez az egyetlen sikeres-hatékony gyermek-önkormányzat.
+
+### A GAUDIOPOLIS
+
+Ezúttal a Gaudiopolis-jelenséget – hadd nevezzem így – szeretném körül járni.
+
+A gondolat megszületéséről fentebb olvashattunk, a történetet pedig Merényi könyvéből ismerhetjük meg. Az viszont valahogy rejtve marad, hogy a „egymásért való áldozatkészség” mellett a megvalósuláshoz még az is kellett, hogy Sztehlo a gyerekekben nem a nevelés elszenvedőit, hanem társat látott. Erős a kisértés, hogy azt mondjam, egyenjogú társat – de nem mondom. Abban az időben az élethez való jog is erősen megkérdőjeleződött, nemhogy tovább finomították volna ilyen meg olyan jogokká. Hogy ezt a buktatót elkerüljük, inkább azt a szót használom: partner. De menjünk vissza a pincébe: „Úgy beszéltem nekik Jézusról…” Ki az a „nekik”? Zsidó kamasz fiúk! Egy keresztény pap komolyan szóba áll zsidó sihederekkel?! Ez abban az időben elképzelhetetlen félrelépés vagy fantazmagória lehetett csak – vagy éppen egy elzárt pince hermetikusan elszigetelt külön világa. Ám ez a külön világ Sztehlo igazi belső világa: ezekben a zsidó fiatalokban embert látott, olyan embert, akiknek belső világa más, mint az övé. És így folytatja: <em>„Nem akartamén őket meggyőzni vagy érvek segítségével vitában felülmaradni: csak tényeket akartam közölni, olyan dolgokat, amelyeket én tényként fogadok el.”</em>
+
+Magyarázatra szorul-e, hogy az a (fiatal)ember, akihez megmentője így viszonyul, szívébe fogadja ezt az embert, és azt mondja, érdemes odafigyelni, mit mond – talán még megfogadni is. És mit is mondott? Hadd idézzem teljes egészében az előbb megszakított mondatot: <em>„Úgy beszéltem nekik Jézusról, mint egyetlenről, aki az egyéniség teljes megbecsülésével formál közösséget, aki az egyént alakítja olyanná, hogy közösségalkotóvá váljék.”</em> A Gaudiopolis feladatot, felelősséget, kollektív és egyéni önbecsülést adott – a közösség érétkét adta tagjainak, a saját magukért és egymásért viselt felelősségért cserébe.
+
+Magyarázatra szorul-e, hogy ezen fiúk egyike, aki nem sokkal a háború után kiszökött Palesztinába, a később alakuló Jad Vasemnél Sztehlo Gábor kitüntetéséért folyamodott?
+
+Az idézett mondatban meghúzódik –  kvázi elrejtve – Sztehlo Gábornak az a már említett áldott képessége, hogy ezekből a közösségalkotó emberekből valódi közösséget tudott formálni. Nem tudom Sztehlo a Bibliának mely történetéből olvasta ki azt, amit mondott – de tény, hogy a Szentírás számára ezt is mondta.
+
+És mit mondott még? Azt is, hogy <em>„Isten mint egyént hívott el…”</em> (Sztehlo, 1994: 212. o.), továbbá azt, hogy „minden lélek magáért számol el Teremtője előtt (Sztehlo, 1994: 108. o.).” De a legfőbb kérdés, ami a rettenet napjaiban őt magát is megacélozta, az volt: <em>„hogyan mutatod meg a magad életével, hogy igenis van Isten, él és uralkodik?”</em> (Sztehlo, 1994: 31. o.)? Mind, akiket megmentett, s akiket nevelt, tanúi voltunk mindennapos bizonyításának. Tanúi voltunk szeretetteljes viselkedésének, áradt belőle a nyugalom, a biztonság és a szeretet. Erre mondtam korábban, hogy jó volt vele lenni. Hogy a különböző szervezetekben hogy mozgott, arra nézve nincs adatunk, de ott is megnyerő kellett, hogy legyen, mert sok hivatalos embert tudott a ügy segítőjévé tenni.
+
+Furcsa módon az egyházakkal kellett a legtöbbet csatáznia. <em>„A Jó Pásztor Bizottság azt szerette volna, ha a gyermektelep teljes egészében a zsidó-misszió szolgálatába áll.”</em> (Sztehlo, 1994: 217. o.) Az evangélikusok részéről is a kizárólagosságra való törekvés állt amögött, hogy az egyház egyik napról a másikra visszarendelte diakonisszáit, akik a gyermekotthon mindennapjait vállukon hordozták. <em>„Nem tehettem meg, hogy (az otthont) felekezeti cél vagy éppen egy felekezeti misszió szolgálatába állítsam.”</em> (Sztehlo, 1994: 216-218. o.). Ekkor vált le az intézet a Jó Pásztorról, és alapította meg Sztehlo a Pax Magyar Szociális Alapítványt a gyermekotthon gazdájául.
+
+A gyermekotthon s benne a Gaudiopolis működésére visszatekintve mondhatta ki Sztehlo Gábor, hogy <em>„álmaim megvalósultak, és életem tartalmat nyert”</em>. (Sztehlo, 1994: 209. o.) Ez annak tükrében lesz igazán jelentőssé, hogy korábban is szeretett volna gyermekekkel foglalkozni – erre alkalom is nyílt volna az egyház árvaházának keretében, de akkor „ez nem neked való” jelzéssel elzavarták erről a területeről.
+
+Mint fentebb írtam, s néhányat idéztem is, Sztehlo Gábor tele volt kérdésekkel. A nem idézettek ebben a témakörben forogtak: jól tettem-e? mit kellett volna tennem? miben hibáztam? és így tovább. Kérdései után nagyon komoly – mindmáig figyelmeztető – megállapításra is jut: <em>„Mi pedig vétkeztünk a zsidó nép ellen. A felebarát ellen. Nem csak 1944-ben, hanem már sokkal korábban.”</em>
+
+Legátfogóbb, ugyancsak mindmáig élő kérdése pedig: <em>„Mit mulasztottunk? Az egyén? A pap? Az egyház szolgája? Maga az egyház? A társadalom? Egy-egy osztály? A kisember, aki úgy véli « én úgy sem számítok</em><em>»? Vagy a felelős vezető, aki azzal takarózik, hogy « úgysem tehettem mást </em> <em>»?” </em> (Sztehlo, 1994: 212. o.)
+
+A szöveg az 1960-as évek elejéről való – mintegy 20 évvel a borzalmak után –, hogy a gondolat mikor született meg arról semmi adatunk nincs, de minden esetre hátborzongató abba belegondolni, hogy attól az embertől származik, aki biztosan azok közé tartozik, akik megtették, amit megtehettek – igen sokat. Ez a kérdéssor igen nagy erővel követeli a 600 000 ember elpusztításával való széleskörű szembenézést – mint tudjuk: mindhiába. Sztehlo Gábor e rettenetes számnál mélyebbre hatol, amikor azt mondja, <em>„vétkeztünk a zsidó nép ellen, nemcsak 1944-ben, már sokkal korábban”</em>. (Sztehlo, 1994: 212. o.) Nem tudni, hogy itt évekre, évtizedekre, vagy évszázadok lealázó kitaszítottságára gondol-e, vagy a pogromokra. Gondolhatott az emberségükben megtiport öngyilkosokra is kórházlelkészi napjaiból, melyekről azt írta: <em>„ez időben kapott sebeim áldott sebek voltak”</em>. (Sztehlo, 1994: 31.o) A számonkérést rögtön saját magán kezdi, s megy végig Sztehlo Kornél (1908) <em>Kétszáznegyven esztendő az egyház szolgálatában</em> c. művelődéstörténeti munkájában.
+
+## Sztehlo Gábor fogadtatása, munkásságának utóélete
+
+Csodálható, hogy Sztehlót egyik csoport sem ölelte keblére? Senki sem akart a feleletbe belebonyolódni, és senki sem akart emlékezni rá. A háború után még kapott némi nyilvánosságot – ezek is inkább „csodaintézetével” foglalkoztak, semmint mentési tevékenységével no meg előbb idézett gondolataival. Az meg valóban nem szorul magyarázatra, hogy az önkényuralom a teljes elhallgatásba burkolózott. Mentettjei-neveltjei közül jónéhányan tartották vele a kapcsolatot, de ez nem pótolta a nyilvános elismerést-köszönetet. A 80-as évek végének lazuló hangulata kellett ahhoz, hogy olvadjon a köréje fagyasztott jég.
+
+Az egyházakkal kapcsolatban a zsidóságról és az evangélikus egyházról kell szólni. A zsidóságra a némaság ugyanúgy vonatkozik, mint bárki másra, a Jad Vasem kitüntetésre is 1972-ig kellett várni. A rendszerváltás után fékezett habzású köszönetnek és tiszteletnek lehetünk tanúi.
+
+Saját vallásának egyházával való viszonya alapos tanulmányt érdemel. Sztehlo részéről a tiszteletet és féltő-óvó korholást vélem a legmegfelelőbbnek – példaképpen hadd idézzem püspökéhez való viszonyát: <em>„Minden hibája ellenére szerettem és becsültem… kezében tartotta életemet… lelkipásztorom azonban sohasem volt.”</em> (Sztehlo, 1994: 14. o.) Az egyházról alkotott véleményét már korábban idéztem: „furcsa világ volt az egyházé”, ezúttal csak utalok rá, mint ahogy legélesebb ütközésükre is a „keresztyén vallású” üldözöttekkel kapcsolatban. A „nálunk egyedül az számított, rászorul-e a gyermek” ütközőponttá vált az egyházakkal, sajnálatosan az evangélikussal is. Ez a szakítás azonban csak az intézettel kapcsolatban állt be – ő maga élete végéig a lutheránus egyház papja maradt. Az emlékezők nem ritkán dicsérik Sztehlo erős vallásosságát, pedig Sztehlo Gábor nem volt vallásos. Sztehlo Gábor istenhívő volt – teljes mivoltában és teljes életében, de a vallások sokszor érthetetlen formaságait-megkötöttségeit nem tudta magáévá tenni.
+
+S az Evangélikus Egyház? Mondhatjuk lépésenként „visszafogadta”, később már zászlajára tűzte Sztehlót. Előbb csak egy-egy cikket közöltek róla, majd 1984-ben Bozóky Éva feldolgozásában megjelentették naplóját (Sztehlo, 1984). Később születésnapját tették meg a diakónia napjának, és különböző intézményeket neveztek el róla, például egy újonnan birtokba vett iskolát, s abban egy ösztöndíjat. Utóbbit kis hibával: az ösztöndíjat evangélikus diákok számára írták ki. Alapítványunk hosszas győzködésére sikerült csak ezt a megkülönböztetést töröltetni, hogy minden diákjuk pályázhasson. 2015-ben a menekültáradat kellős közepén a Deák téri istentisztelet végén hirdették a kedves híveknek, hogy <em>„a mai offertoriumot a menekülteknek adjuk…”</em> – szívem kinyílt, kezem a bukszámat kereste – <em>„mert a menekültek között keresztények is vannak.”</em> Lefagytam… <em>„éhes voltam, és adtatok ennem, szomjas voltam, és adtatok innom”</em>. (Máté evangéliuma) Az offertorium csak a keresztény szomjazónak ad inni? Mit szólna ehhez a diakóniai szolgálat névadója, és hogyan tekintene a Sarepta szeretetotthon kápolnájába kitűzött Árpád-sávos zászlóra?
+
+## Felhasznált források
+
+Füzéki Bálint (2018): [Kései ünneplő](/kesei_unneplo). In: Trencsényi László (szerk.): <em>Tanúhegyek</em>. Magyar Pedagógiai Társaság, Budapest.
+
+Koren Emil (1994): <em>Sztehlo ​Gábor élete és szolgálata.</em> Országos Evangélikus Múzeum, Budapest.
+
+Kunt Gergely (2022): Utószó. In: Sztehlo Gábor: <em>Háromszázhatvanöt nap – Emlékek a magyarországi zsidómentésről 1944-ben</em>. Magvető, Budapest.
+
+Merényi Zsuzsanna (2014): <em>Sztehlo Gábor a gyermeknevelő</em>. Oriold és Társai Kft, Budapest.
+
+Sztehlo Gábor (1984): <em>Isten kezében</em>. Sztehlo Gábor Gyermek- és Ifjúságsegítő Alapítvány, Budapest.
+
+Sztehlo Kornél (1908): Kétszáznegyven esztendő az egyház szolgálatában. <em>Művelődéstörténeti rajzok.</em> Hornyánszky Viktor, Budapest.

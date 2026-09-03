@@ -1,0 +1,69 @@
+---
+title: Kurt Lewin nevelési stílusainak…
+migratedId: 1243
+overrideMigrated: true
+authorSlugs:
+  - gal-tamas
+date: '2024-04-11'
+tags:
+  - pszichológia
+excerpt: >-
+  …(félre)értelmezése. Gál Tamás írása A nevelési stílus személyiségünk szerves
+  része, nem tudjuk „csak úgy” félretenni egy bizonyos helyzetben, egy másikban
+  pedig elővenni.
+coverImage: /sites/default/files/gal_cimlap.jpg
+coverAlt: 'Fotó: Juhász Orchidea'
+coverTitle: 'Fotó: Juhász Orchidea'
+reads: 9118
+---
+<strong>…(félre)értelmezése. Gál Tamás írása</strong>
+
+> A nevelési stílus személyiségünk szerves része, nem tudjuk „csak úgy” félretenni egy bizonyos helyzetben, egy másikban pedig elővenni.
+
+## Nevelési stílusok
+
+<img alt="Gál Tamás" src="/sites/default/files/gal_tamas.jpg" style="width: 200px; height: 294px; float: right; margin-left: 15px;">Az idők folyamán sok pszichológus foglalkozott a gyereknevelés kérdéseivel, sok gondolat és írás született azzal kapcsolatban, hogyan nevelhetjük jobban gyermekünket. Ezek különböző irányokból figyelték meg a szülő-gyerek kapcsolatot, volt, ami az érzelmekre fókuszált, volt, ami a nevelési eljárásokra, és volt, ami a szülő nevelési elveire, nézeteire. Bár az imént szülő-gyermek kapcsolatot említettem, ezek a nevelési elvek/eljárások ugyanúgy érvényesek a pedagógus–tanítvány kettősre, mert az ott lévő dinamika gyereknevelés szempontjából hasonló. Ilyen kutatásokkal foglalkozott Schaefer, Becker (Kósa és Vajda, 2005) és Baumrind (Cole és Cole, 2003) is, azonban az egyik legelső ilyen kutatás Kurt Lewin nevéhez fűződik (Mérei és Binét, 2006) aki a nevelési (vezetői) stílust egy dimenzió mentén értékelte, ami a vezetői kontroll. Ezt egy skálán helyezte el annak mértékétől függően:
+
+<img alt="1. kép" src="/sites/default/files/gal1.png" style="width: 470px; height: 129px;">
+
+Jobb és bal oldalt a két véglet található, ahol a teljes kontrollnélküliségtől (laissez-faire) a totális kontrollig (autokratikus) terjed a skála. A két véglet között van félúton a demokratikus nevelési stílus, ahol vannak szabályok, így van kontroll a laissez-faire-rel szemben, de az nem olyan nagy mértékű, mint az autokratikusnál. Ez a dimenzió megjelent Schaefer, Becker és Baumrind munkáiban is, a legtöbb későbbi neveléskutató munkáira nagy hatással volt Lewin felosztása.
+
+Kicsit részletesebben a három nevelési stílusról:
+
+<ul><li class="rtejustify">Autokratikus (tekintélyelvűnek is szokták mondani) vezető:<br>Egyedül vezet, döntéseit egyedül, önkényesen hozza, ezért a gyermeke igényei és szükségletei alig vagy egyáltalán nem jelennek meg a döntésekben. Utasít, parancsol.</li><li class="rtejustify">Demokratikus vezető:<br>Bevonja a gyermekét a döntésekbe, annak igényeit, szükségleteit figyelembe veszi. A gyermeke elmondhatja a véleményét, így nyitottabb lesz a problémák és azok megoldása iránt.</li><li class="rtejustify">Laissez–faire (Ráhagyó) vezető:<br>Itt tulajdonképpen nincs is vezetés, végletes esetben minden kérdésben a gyermek dönt.</li></ul>
+
+Gyermekünk ideális fejlődéséhez fontos lenne, hogy megfelelően alkossunk szabályokat, húzzuk meg a határokat, azonban ezen ideális határokhoz képest az autokratikus nevelési stílusú szülő túl szűkre húzza (10 éves gyermeke kezéből még kiveszi a kést, amikor az fel akarja szeletelni az almáját), a laissez-faire pedig túl tágra hagyja (2 éves gyermeke nyúl az éles kenyérvágó késért és ő hagyja). Ebből a szempontból a demokratikus az, aki bár figyelembe veszi a gyermeke igényeit, de ha a helyzetet úgy értékeli, akkor ő dönt: bár nyúl a kétéves gyermeke az éles késért, mert meg szeretné azt nézni, de megállítja, mert az még túl veszélyes lenne neki. Ellenben, ha a 10 éves gyermeke szeretné éles késsel felszeletelni az almáját, hagyja és nem szól bele. Az előző két példában, bár az életkorokra hivatkozom, ezek nagyon leegyszerűsítőek, hiszen bármilyen nevelési helyzetben nem csak az életkort fontos figyelembe venni (érettség, fáradtság, kézügyesség stb.). Ebből a szempontból a demokratikus bizonyos helyzetekben dönt, bizonyos helyzetekben pedig nem, hanem ráhagyja a gyermekére a döntést.
+
+## Életkor-érettség
+
+Figyelembe véve azt, hogy az életkor előrehaladtával remélhetőleg egyre érettebb gondolkodásúvá válnak a gyermekek, fizikailag is egyre több mindenre lesznek képesek, egyre jobban ismerik és értik az őket körülvevő világot, ez a határ egyre jobban kitolódik, egyre több tevékenységet engedhetnek meg a szülők a gyermeküknek, ami a következő ábra is mutat.
+
+<img alt="2. kép" src="/sites/default/files/gal02.png" style="width: 470px; height: 322px;">
+
+A három nevelési stílust egy ábrán szerepeltetve jól látszik a különbség, ha az idő előrehaladtát is szemléltetjük az egyik skálán:
+
+<img alt="3. kép" src="/sites/default/files/gal3.png" style="width: 470px; height: 225px;">
+
+Természetesen az autokratikus nevelési stílusnál is lehet, hogy a gyermek növekedésével változnak a határok és minimálisan nagyobb szabadságot kap, úgyhogy ebből a szempontból az ábra lehet, szélsőséges képet mutat, viszont így jobban érzékelhető a stílusok közötti különbség. Az autokratikus szűk határokat tart, a laissez-faire nem is tart határokat, míg a demokratikus nevelési stílusúnál egyre szélesedő, a gyermek érettségét, fejlettségét, szükségleteit is figyelembe vevő határok vannak felállítva. Ez fontos, mert itt lehet tetten érni a demokratikusságot: a szülő (pedagógus) a gyermeke (tanítványa) érettségét, szükségleteit stb. figyelembe véve húzza meg a határokat, azaz már itt bevonja a gyermeket (implicit módon) a későbbi döntések meghozatalába.
+
+## Értelmezés – félreértelmezés?
+
+A fenti felosztás alapul szolgál nemcsak szülőknek, hanem bármilyen segítő szakmában dolgozóknak (főleg pedagógusnak) is. Olyannyira elterjedt ez a tipizálás, hogy egyetemen is tananyag bármely pedagógusképzésen, ami nem csoda, hiszen a nevelés egy nagyon fontos szegmentumában nyújt eligazítást. Bár fontos tananyag, az értelmezése mégsem egységes. Nem is olyan régen futottam bele már sokadjára abba a mondatba, hogy <em>„A nevelési stílusokat helyzetfüggően alkalmazzuk!”</em>, amivel az illető Kurt Lewin nevelési stílusaira gondolt. Nem ez az első ilyen eset, korábban hallottam már ezt más szituációkban is pedagógusoktól, pedagógiatanároktól, azonban ez szerintem rossz értelmezése, félreértelmezése Lewin nevelési stílusainak.
+
+A nevelési stílus definíciója, hogy a
+
+> „nevelési stílus egy szülő (pedagógus) és gyermeke (tanítványa) kapcsolatának hosszabb időn át érvényesülő alaptónusa”(Bankó, 1988).
+
+Nevelési stílusa mindenkinek van, még annak is, akinek nincs gyereke vagy éppen nem foglalkozik gyerekekkel: ezeket a szociális tanulás folyamatai (utánzás, modellkövetés, azonosulás, belsővé tétel) által tesszük magunkévá, építjük be a látott/átélt mintákat. Ezeket a mintákat adhatja a családunk (elsődleges szocializációs tér) és minden más közösség (másodlagos szocializációs tér), például az iskola, baráti társaság, edzőtársak stb. Ezek bármilyenek is (ha jók, ha rosszak) beépülnek, hatásaik érződnek rajtunk. A látott, átélt, internalizált értékeket, viselkedési módokat (nem is tudva róluk) mi is elkezdjük alkalmazni, azok formálják a mi viselkedésünket is, így később, mikor gyerekünk lesz, vagy pedagógusként gyerekekkel kezdünk el foglalkozni, elsősorban ezek fogják irányítani a cselekedeteinket. Ezek megváltoztatása rendkívül nehéz, mivel nagyon mély nyomot hagynak, mélyen beépülnek a személyiségünkbe. Ebből következik, hogy nem lehet egyik pillanatról a másikra változtatni rajta, így nem lehet helyzettől függően alkalmazni. A nevelési stílus személyiségünk szerves része, nem tudjuk „csak úgy” félretenni egy bizonyos helyzetben, egy másikban pedig elővenni. Szerintem a félreértelmezés egyik alapja az, hogy sokan azt gondolják, hogy ha nem engedünk valamit, akkor autokratikusak vagyunk, ha engedünk, akkor laissez-faire-ek, ha megbeszéljük a gyerekünkkel, akkor demokratikusak. Azonban az, hogy egy cselekedetet engedünk vagy sem, minden egyes nevelési stílusban ott van, csak különböző mértékben, ráadásul a demokratikus nevelési stílus magában foglalja mind a három említett esetet: engedni valamit, nem engedni valamit, megbeszélni azt a gyermekünkkel. Ha a gyermekem olyan dolgot szeretne csinálni, ami szerintem veszélyes vagy nem helyes, akkor én döntök, és megállítom (például 5 éves éles késsel szeretne kardozósat játszani), ekkor a cselekedete a fenti fordított piramis alakú ábrán a piramison kívül van. Ha olyat szeretne csinálni, amit szerintem lehet és engedek neki, akkor meghagyom azt az ő döntésének (például 5 éves, és szeretne a homokvár építéshez egy nagyobb lapátot használni), ekkor a cselekedete a fentebbi fordított piramis ábrán a piramison belül van. Mindkét esetben megbeszélem vele, meghallgatom az igényeit/érveit, azaz bevonom őt a döntési helyzetbe. Ez lehet a másik alapja a félreértelmezésnek: a demokratikus nevelési stílus nem azt jelenti, hogy mindent úgy beszélek meg a gyermekemmel/tanítványommal, hogy abban a helyzetben neki is, és nekem is 1-1 szavazatunk van, hanem, hogy van beleszólása a döntésbe, ami nagy különbség. Minden esetben van beleszólása, elmondhatja az igényeit, gondolatait, viszont ez nem jelenti azt, hogy az is fog történni, amit ő szeretne, de ettől még ez egy demokratikusan vezetett folyamat.
+
+Röviden összegezve, ha a gyermekem átlépi a határt és én rászólok, hogy azt nem szabad, akkor nem hirtelen összehúztam a határokat, hanem a gyermekem egyszerűen csak átlépte a demokratikus nevelési stílusban lefektetett határt, ezért ettől még nem leszek autokratikus nevelési stílusú vezető. Egy másik esetben, ha a gyermekemet szabadjára engedem a zárt játszótéren, mert tudom, hogy ott biztonságban van, ezért ott a tevékenységeiben (pl. melyik játszótéri játékkal szeretne játszani) hagyom, hogy ő döntsön, akkor ettől még nem leszek laissez-faire nevelési stílusú, csak nem lépte át azt a bizonyos határt a viselkedésével. Ezekben a helyzetekben nem történt „stílusváltás”, hiszen mindkét esetben a demokratikus nevelési stílus jegyében (és határaival) jártunk el. Fontos szerintem ezeket összefüggéseiben jól érteni, mert csak akkor tudunk a gyermekekkel egy jól működő, biztonságos, építő jellegű közösségben együtt élni és tanulni.
+
+## Felhasznált irodalom
+
+Bankó Béla: Az osztályfőnökök nevelési stílusai. In: Dr. Dobcsányi Ferenc (szerk): <em>Módszertani közlemények</em>, 1988, 28. évf. 211-220.
+
+Kósa Éva – Vajda Zsuzsanna: <em>Neveléslélektan</em>, Osiris Kiadó Kft., Budapest, 2005.
+
+Michael Cole – Sheila R. Cole: <em>Fejlődéslélektan</em>, Osiris Kiadó Kft., Budapest, 2003.
+
+Mérei Ferenc – V. Binét Ágnes: <em>Gyermeklélektan</em>, Medicina Könyvkiadó Zrt., Budapest, 2006.

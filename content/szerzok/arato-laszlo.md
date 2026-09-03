@@ -1,0 +1,3 @@
+---
+name: Arató László
+---

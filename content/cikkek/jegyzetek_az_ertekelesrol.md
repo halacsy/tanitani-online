@@ -1,0 +1,58 @@
+---
+title: Jegyzetek az értékelésről
+migratedId: 1434
+overrideMigrated: true
+authorSlugs:
+  - trencsenyi-laszlo
+date: '2026-07-23'
+tags:
+  - értékelés
+  - szöveges értékelés
+  - mese
+excerpt: >-
+  Trencsényi László írása Ostoba tökfilkó, neveletlen kölyke anyádnak, mondd meg
+  apádnak, hogy kössön a jászol elé!
+coverImage: /sites/default/files/pszeudo.hu_.kass_janos.jpg
+coverAlt: >-
+  Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez.
+  Forrás: pszeudo.hu
+coverTitle: >-
+  Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez.
+  Forrás: pszeudo.hu
+reads: 1862
+---
+<strong>Trencsényi László írása</strong>
+
+> Ostoba tökfilkó, neveletlen kölyke anyádnak,<br>mondd meg apádnak, hogy kössön a jászol elé!  
+
+<em><img alt="Trencsényi László" src="/sites/default/files/trencsenyi-laszlo8-w250.jpg" style="width: 250px; height: 166px; float: right; margin-left: 15px;">„Csillagosegykettedalá” </em> – parodizáltuk történelemtanárunkat a hatvanas években, aki a feleleteinkre, dolgozatainkra adott „érdemjegyeket” rendre valamilyen „mellékjellel” látta el. Nem volt neki elég az ötfokozatú „hagyományos” skála? (Amiről aztán később tudtam meg, hogy az iskolázás hagyományaiban eredetileg fordítva, sorszámnévként fejezte ki az értékelő ítéletét. Az „egyes” hajdanán nem ‘elégtelent’ jelentett, hanem igazándiból ‘elsőt’ (<em>prima classis </em> volt a címkéje az eminens teljesítménynek). Alighanem az imperialisták megtévesztésére lett a háború utáni szocialista világban megfordított a számok jelentése. De tanárunknak nem az öt fokozattal volt gondja, pontosabban nem egészen azzal – ha hetes vagy tízes skála lett volna, ő akkor is fűzött volna értékeléséhez különös jeleket, mely gyengítette vagy erősítette a tőszámnév mennyiségi értékét. Mára azt is tudom: a “szummatív” értékelést elegyítette a “fejlesztő” értékeléssel. Később magam is szívesen alkalmaztam. A csillag ugye azt jelentette, hogy a jelesnél is jelesebb volt az értékelendő teljesítmény az értékelő személy szerint. A “féljegyeket” amúgy minden rendtartás tiltotta, huncutkodni kellett az osztályozó naplóban, hogy megörökíthessük őket. Mit jelent egy ötösalá, vagy egy négyötöd? Attól függ: kinek szól. Ha a máskülönben eminens tanuló hajszállal halványabban teljesített, vagy lanyhulás, akár elbizakodottság mutatkozik munkájában, akkor a jelzés figyelmezteti: vigyázz, szedd össze magad! Ha a “feltörekvő” (“gyengébb”) kap ilyen jegyet, akkor a biztatást lehet kihallani belőle: ez már majdnem jeles, már csak egy kicsi hiányzik, hajrá!
+
+Ezzel a példával máris benne vagyunk az iskolai értékelés sűrűjében!
+
+Fogadjuk el, hogy az iskolai teljesítmények (akár egy „felelet”, akár „vizsga”, de akár egy jól kifundált teszt is) érdemjeggyel/osztályzattal kifejezett értékelése: becslés. Báthory Zoltán tanította jeles didaktikakönyvében, hogy mindig – akármilyen huncut technológiát is alkalmazunk (százalékolunk, pontozunk stb.) – a tanári szubjektív ítéletet öltöztetjük/ rejtjük a validitás komoly és komor talárjába. Arról nem beszélve, hogy egy teljesítmény megannyi háttérkörülményét (lelkiállapot, fizikai állapot, stressz, időjárási front stb.) sosem vagy alig tudjuk diagnosztizálni. Akkor se – ha Nagy József nyomán – a kritériumorientált vagy a normaorientált értékelési stratégiát választjuk. Vagyis a tanulócsoport alkalmi tudásátlagához rendezzük az értéket, vagy lelünk (kitalálunk, jogszabályokból kiolvasunk) valami abszolút értéket.
+
+Nincs mese, ezek az értékek jó vagy alantas szándékkal a szelekciót szolgálták, szolgálják. A „kiváló” szó eredeti jelentésére kéretik gondolni. A „kiválasztás” technológiájának igazságos, igazságosnak tűnő, igazságosnak gondolt vagy éppenséggel igazságtalan (ezért vagy azért elfogult) eszközrendszerének hangsúlyos eleme.
+
+Vannak a kritikus, lefegyverző értékelésnek durvább formái is.
+
+– <em>Ostoba tökfilkó, neveletlen kölyke anyádnak, / mondd meg apádnak, hogy kössön a jászol elé!</em> – így szól a legendás, időmértékes versbe szedett diákbántalmazó tanári versike a korai magyar nyelvű iskolázás hagyományaiból.
+
+– <em>Fiam, én tudom hármasra, te örülj, ha kettest kapsz</em> – így az „énelbizonytalanító” tanári szólásmondás.
+
+A humánus pedagógiák – olykor osztályharcos indulattal, olykor csak sima jó szándékból – kerülik a demotiváló értékelési technológiákat, elvetik azt az alig-alig igazolt ideológiát, hogy a lesújtó ítélet, érdemjegy valójában mozgósító erejű (s mindenesetre a pofonnál, sarokba állításnál, „tintalevespapirgaluskánál” – ti. bezárásnál – emberségesebb ösztönző).
+
+A dicséret fejleszt – így az „ellenideológia”. Ennek az eljárásnak is megvannak a maga anomáliái, akkor is, ha „énerősítő” energiákat kölcsönözhet. Ez az attitűd megannyi „Pistike-vicc” forrása. (<em>„Pistike, nincs is nagy fejed, eredj a boltba, hozz a sapkádban 5 kiló krumplit!”</em> stb.)
+
+Aztán a hovatovább semmitmondó, mindenesetre hamar inflálódó egyszavas elismerés minden (akármilyen) tanulói megnyilatkozásra: „szuper”. Megengedem: a kollégában olyan filozófiai megfontolás dolgozhatik ilyenkor, mely szerint minden megszólalásban találhatni valami értékeset, vagy hogy „a hibás megoldás is előre visz”. De ebből a tömör visszajelzésből hamar lesz a diákok kételkedő paródiájának toposza, motiváló erejét elvesztheti. (Személyes gyerekkori élményem: a család idősebb vendégei mondták gyakran egy-egy munkámra, hogy az „pazar”. Nem értettem, nem ismertem a szót, nem tudtam, hogy most örüljek-e vagy röstelkedjek. A különleges szót kísérő nonverbális jelekből próbáltam következtetni: irónia rejtezik-e az értékelés mögött vagy tényleges elismerés.)
+
+Egy árnyaltabb megoldás: addig-addig keresni a tanulói teljesítményben az elismerhetőt, míg ezt a mozzanatot lehet az értékelés kiindulópontjává tenni: például rajzórán a portré elég értelmezhetetlenné sikerült, ám a tanár megdicséri a gyereket: nézd, nézzétek, a füle milyen jó lett!
+
+Aztán a kellemetlenség akkor éri a gyereket, amikor megannyi, pozitívumokat kiemelő értékelő mozzanat „szummatív” konvertálásban mégiscsak a „közepes” kategóriában marad.
+
+Jóformán örök ellentmondás – s a „féljegyezés” ezt a konfliktuslehetőséget cselezi ki –, hogy a fejlődés elismerése vagy az egy-egy kimagasló teljesítmény után járó dicséret jelentésű értékelés viszonylagos, gyakran maga a tanuló is érzi, hogy ez bátorítására szólt csak, a többiek – a sikeres jobbak – mögött mégiscsak messze el van maradva.
+
+A „szöveges értékelés” reformpedagógiai hagyományai jelentős kísérletet jelentenek a fenti ellentmondások feloldására. Alkalmat ad árnyalt véleményformálásra, kritikára, elismerésre is – hiszen voltaképpen minden emberi teljesítmény ilyesmi (ezért szerettük meg a minőségbiztosítási akciókban az ún SWOT-elemzést: ebben „filozófiai értelemben” fejeződött ki, hogy érdemes keresni a „gyengeségeket” és „erősségeket” akár egymásra hatásukban, figyelve-figyelmeztetve a „veszélyekre” s ”lehetőségekre” is).
+
+Még árnyaltabb megoldás: több nyugat-európai pedagógiai kultúrában alkalmazzák. Először a tanuló készít szövegesen (!) önértékelést, majd tanárai ehhez a szöveghez fűznek megerősítő, figyelmeztető, buzdító, a konkrétumokra alapozott véleményt. Hiszen a legfontosabb pedagógiai célunk mégiscsak a hiteles (egyben komplex) önismeret és önértékelés kompetenciáinak optimális kialakítása, megerősítése.
+
+Szóval úgy gondolom: nem az értékeket bizonyos mértékig relativizáló feltétel nélküli dicséretezésre van szükség, hanem az okos, értő értékelésre. Ebbe az értékelő stratégiába persze a tapintat bőségesen belefér.

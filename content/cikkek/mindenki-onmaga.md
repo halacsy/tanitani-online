@@ -1,12 +1,22 @@
 ---
-title: "Mindenki önmaga"
-author: "Földes Petra"
-authorSlug: foldes-petra
-date: "2026-03-08"
-tags: ["SNI", "oktatáspolitika", "nevelés", "pedagógusok"]
-excerpt: "A valódi inklúzió minimum feltételei a mainstream iskolákban. A formális integráció sokszor kudarcot vall, mert az iskola normatív keretből tekint a sajátos nevelési igényű tanulókra."
-image: /images/cikkek/mindenki-onmaga.jpg
+title: Mindenki önmaga
+author: Földes Petra
+date: '2026-03-08'
+tags:
+  - SNI
+  - oktatáspolitika
+  - nevelés
+  - pedagógusok
+excerpt: >-
+  A valódi inklúzió minimum feltételei a mainstream iskolákban. A formális
+  integráció sokszor kudarcot vall, mert az iskola normatív keretből tekint a
+  sajátos nevelési igényű tanulókra.
 reads: 2789
+authorSlugs:
+  - foldes-petra
+coverImage: /images/cikkek/mindenki-onmaga.jpg
+migratedId: 1396
+overrideMigrated: true
 ---
 
 **Inklúziós minimumok a többségi oktatásban. Földes Petra írása**

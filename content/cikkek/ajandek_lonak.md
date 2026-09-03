@@ -1,0 +1,34 @@
+---
+title: Ajándék lónak?
+migratedId: 951
+overrideMigrated: true
+authorSlugs:
+  - bodoczky-istvan
+date: '2019-07-01'
+tags:
+  - művészetpedagógia
+excerpt: >-
+  Bodóczky István írása Ha valaki egy üres kapuba be tud rúgni egy labdát, az
+  már tud focizni?
+coverImage: /sites/default/files/brain-2062057_640.jpg
+reads: 6543
+---
+<strong>Bodóczky István írása</strong>
+
+> Ha valaki egy üres kapuba be tud rúgni egy labdát, az már tud focizni?
+
+Nemrégiben minden iskola megkapta az értesítőt arról, hogy a Nemzeti Bűnmegelőzési Tanács ingyenes jobb agyféltekés rajztanfolyamokra invitálja a pedagógusokat. Zavarbaejtő felhívás, nagyon sok kérdést vet fel. Például azt, hogy miért a Bűnmegelőzési Tanács? Nekünk azonban fontosabb megvizsgálni (mielőtt bevennénk az ingyenesen ajánlott „csodaszert”), hogy mi is a jobb agyféltekés rajzolás?<img alt="" src="/sites/default/files/b.bodoczkytempus_-w250.jpg" style="width: 250px; height: 333px; float: right; margin-left: 15px;">
+
+A jobb agyféltekés rajzolás Magyarországon a művészetipar egyik jövedelmező üzletága. A kaliforniai művésztanár Betty Edwards 1979-es <em>Jobb agyféltekés rajzolás</em> című könyve nyomán egyre szaporodó, azonos elnevezésű felnőtt és gyermek kurzusok, nyári táborok gyűjtőneve. Pedig a szerzőt eredetileg egyáltalán nem a lehetséges üzlet motiválta. Azt igyekezett bebizonyítani, hogy a rajzkészség nem csak a „született tehetségek” számára sajátítható el. Sőt! Még a kézügyesség sem elengedhetetlen hozzá. Ezzel szemben ott náluk a hetvenes években az emberek többsége és a közoktatás irányítói is úgy gondolták, hogy a rajz csak az „ügyeskezűeknek” való, és a művészet egyébként is csak valami extra, ami gazdagítja ugyan az életet, de nem tartozik az elsőrangú fontosságú tanulnivalók körébe. 
+
+Ennek megfelelően a vizuális művészetek a közoktatásban csak csekély támogatást kaptak. Ez a felfogás félelmetesen hasonló a nálunk tapasztalthoz, ezért is fontos megvizsgálni, hogyan próbált Betty Edwards ezen változtatni. Edwards helyesen érzékelte, hogy az embereket a művészetek, a rajzoktatatás fontosságáról leginkább racionális érvekkel lehet meggyőzni. Kapóra jött, hogy akkortájt, a hetvenes években váltak ismertté az agykutatás új eredményei a két agyfélteke eltérő működéséről. Edwards a tudományos felfedezések nyomán indította el kurzusait. Abból indult ki, hogy a rajzolás során elsősorban a holisztikusabb, a kreativitásért felelős jobb agyféltekét kell helyzetbe hozni, és háttérbe kell szorítani a beszédért, a racionális gondolkodásért felelős bal féltekét. Ötnapos kurzusait gátlásokat oldó rajzi gyakorlatokkal kezdte, majd egy „elfogadható” portré rajzolásához segítette hozzá a tanulókat. Mint kiderült, ennek nem az volt a legfőbb eredménye, hogy az illetők megtanultak rajzolni (mert persze attól még nagyon távol álltak), hanem az, hogy megnőtt az önbizalmuk. Sikerült valami, amihez maguktól hozzá se mertek kezdeni. Azonkívül a rajztanulásnak több más járulékos hasznára is fény derült, amit Edwards vállalati továbbképzéseken kamatoztatott.
+
+Sajnos könyve nálunk már eleve az üzlet reményében jelent meg, és a módszer azóta szektaként terjed, nem is annyira apró pénzre váltva Betty Edwards eredeti elképzeléseit. A szakma figyelmét elkerülte, ami annak is köszönhető, hogy a könyvkiadó nem vette a fáradtságot, hogy a fordítást szaklektorral is átnézesse, és így a szövegbe olyan szakszerűtlenségek kerültek, amik erősen rontják a könyv hitelességét. Például „érték”-nek nevezi, aminek a szakszerű neve valőr, vagy színérték, a „tónust” viszont a rajzok tulajdonságaként fogalmazza meg a szószedet, ami szerint: „az erős tónusú rajz világos vagy magas értékű, míg a tompa tónusú rajz sötét, értéke alacsony.” Ugyanott a „rövidülés” magyarázata: <em>„...mintha a sík felületre rajzolt forma kinyúlna vagy besüppedne a térbe”</em>. 
+
+Ma már se szeri, se száma nálunk a jobb agyféltekés rajztanfolyamoknak. Betty Edwards eredeti öt napos kurzusa már további üzleti újításoknak lett áldozata, fokozatosan rövidült, és ma már kétnapos is van: <em>„2 nap alatt eljutsz a pálcikaembertől az élethű portréig. Extra előny: ha nálunk tanulsz, nem szükséges szabadságot kivenned!” </em> Minek akkor annyit erőlködni? Aki megnézi a hirdetett tanfolyamok oldalait a neten, láthatja, hogy a rajztudás itt már csupán egy fotó másolására szorítkozik, és a vizuális nevelésnek nyoma sincs. A népszerűség fokozása érdekében ki-ki maga választja ki kedvenc arcképét, amit segítenek neki lemásolni. Mindenki megkapja, amit szeretne.
+
+De úgy látszik, némi visszaesést észleltek a bal agyfélteke által dominált jobb agyféltekések, mert új piacok után néztek, és valószínűleg sikerült némi hátszelet kapni és egyenesen bevitorlázni a Belügyminisztériumba. A minisztérium hirdetése legitimálja működésüket, így bejuthatnak az iskolákba, és biztos az üzlet. Hiszen a tanároknak fizetni sem kell a tanfolyamért, mert azt „ a Nemzeti Bűnmegelőzési Tanács hirdeti meg, és finanszírozza”.
+
+De mi is a baj ezzel? Nem túl megnyugtató, hogy a vizuális művészeti nevelésért felelős szakma véleményét nem kérte ki a Bűnmegelőzési Tanács, de még az illetékes szaktárcáét sem. Vagy mi a magyarázata, hogy nincsenek nevek? Nincs hitelt érdemlő szakmai ajánló feltüntetve, és a tanfolyamok vezetői is ismeretlenek. Pedig a jelentkezőktől még motivációs levelet is kérnek. Ennél persze sokkal nagyobb baj az, ami a kurzusokat reklámozó képekből kiderül: a jobb agyféltekés rajzolás Magyarországon dilettáns (vagy cinikus) vállalkozók kezébe került, akik számára a rajzolás egyenlő egy kép, egy fotó lemásolásával. Vitathatatlan, hogy a fotó pontos lemásolásának is lehet pozitív hatása a személyiség fejlődésére, viszont ugyanakkor ez mégis óriási átverés. Elhiteti a résztvevőkkel, hogy tudnak rajzolni. (Ha valaki egy üres kapuba be tud rúgni egy labdát, az már tud focizni?) És bár az élményfestő vállalkozásokkal szemben a jobb agyféltekések nem állítják, hogy ez a művészet, látens módon mégis azt sugallják, hogy a művészet lényege a látvány lemásolása. Ez a kurzus értelmetlenné teszi a jó rajztanárok munkáját, akik a művészetet nem célnak, hanem a nevelés eszközének tekintik. Az a követelésünk pedig, hogy emeljék a rajzórák számát már végképp okafogyottá válik: hiszen a jobb agyféltekés rajzolással ripsz-ropsz megtanulhat bárki rajzolni. Ja, az kit érdekel, hogy nem ez az igazi lényege a vizuális művészeti nevelésnek? 
+
+Itt az ideje annak, hogy megfogalmazzuk, mi is pontosan a cél, és racionális érvekkel álljunk elő. Például a tanulási képességeket támogató vizuális kompetenciák pontos mérésével, hogy végre meggyőzően kimutassuk sokoldalú fejlesztő hatásukat. Amíg ezt nem sikerül bizonyítani, marad a lila köd a művészeti nevelés körül, és szabad a vásár a szakszerűtlen üzleti vállalkozásoknak, folytatódhat a művészeti nevelés leépülése a közoktatásban.

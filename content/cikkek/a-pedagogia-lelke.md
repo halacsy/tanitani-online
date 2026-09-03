@@ -1,12 +1,21 @@
 ---
-title: "A pedagógia lelke"
-author: "Perjés István"
-authorSlug: perjes-istvan
-date: "2026-03-23"
-tags: ["nevelés", "pedagógusok", "alternatív iskolák"]
-excerpt: "Recenzió Vass Vilmos könyvéről, amely 40 évnyi tapasztalatot sűrít egybe. Egyszerre kézikönyv, tudományosan megalapozott oktatási áttekintés és felemelő elbeszélés."
-image: /images/cikkek/a-pedagogia-lelke.jpg
+title: A pedagógia lelke
+author: Perjés István
+date: '2026-03-23'
+tags:
+  - nevelés
+  - pedagógusok
+  - alternatív iskolák
+excerpt: >-
+  Recenzió Vass Vilmos könyvéről, amely 40 évnyi tapasztalatot sűrít egybe.
+  Egyszerre kézikönyv, tudományosan megalapozott oktatási áttekintés és felemelő
+  elbeszélés.
 reads: 1456
+authorSlugs:
+  - perjes-istvan
+coverImage: /images/cikkek/a-pedagogia-lelke.jpg
+migratedId: 1398
+overrideMigrated: true
 ---
 
 **„Kérem, hogy ne sétáljanak ezen az ösvényen. Ez a lelkeké” Perjés István recenziója**

@@ -39,7 +39,8 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
   2. `npm run migrate:export`;
   3. `npm run migrate:media`;
   4. `npm run migrate:sync`;
-  5. `npm run migrate:validate`.
+  5. `npm run migrate:markdown`;
+  6. `npm run migrate:validate`.
 
 - Az exportáló szkript atomikusan cseréli a generált JSON-könyvtárat.
 - A `migrate:sync` a dump utáni publikus Drupal-cikkeket és a fájltáblában nem
@@ -51,11 +52,16 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
 
 ## Szerkesztői tartalom
 
-- A történeti export read-only archívumként kezelendő.
-- Az adminfelületen létrehozott új cikkek a `content/cikkek/*.md`, az új vagy
-  kézzel kiegészített szerzők a `content/szerzok/*.md` fájlokba kerülnek.
-- A `lib/content.ts` a Markdown-cikkeket a migrált archívum elé fűzi, de a már
-  migrált cím/slug egyezéseket kihagyja, hogy ne legyen duplikáció.
+- A `content/migrated/tanitani/` alatti történeti JSON-export továbbra is
+  read-only archívumként kezelendő.
+- Minden migrált cikk szerkeszthető Markdown-példánya a
+  `content/cikkek/*.md`, minden migrált szerzőé a `content/szerzok/*.md`
+  mappában van. Az új cikkek és szerzők is ezekbe a mappákba kerülnek.
+- A `migrate:markdown` csak hiányzó fájlokat hoz létre, meglévő szerkesztői
+  tartalmat nem ír felül. A `migratedId` köti a Markdown-cikket az archív
+  rekordhoz, így a hozzászólások, csatolmányok és régi URL-ek megmaradnak.
+- A `lib/content.ts` migrált cikk esetén a Markdown szerkesztői mezőit használja,
+  a nem szerkesztett történeti metaadatokat pedig az archív JSON-ból egészíti ki.
 - Új cikkhez legalább cím, dátum, szerző, összefoglaló és törzsszöveg tartozzon.
   A borítókép ajánlott mérete 1200×630 px.
 

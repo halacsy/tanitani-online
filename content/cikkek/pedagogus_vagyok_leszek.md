@@ -1,0 +1,77 @@
+---
+title: Pedagógus vagyok – leszek!
+migratedId: 1061
+overrideMigrated: true
+authorSlugs:
+  - martin-janosne
+date: '2020-12-11'
+tags:
+  - pedagógusok
+excerpt: >-
+  Martin Jánosné interjúja Pálné Tótszegi Erzsébet dunaújvárosi általános
+  iskolai tanárral A szókincsbővítés legjobb módja az olvasás, s a legnagyobb
+  siker egy magyartanár számára, ha tanítványai szeretnek olvasni.
+coverImage: /sites/default/files/palne_totszegi_erzsebet.jpg
+coverAlt: Pálné Tótszegi Erzsébet
+coverTitle: Pálné Tótszegi Erzsébet
+reads: 2832
+---
+<strong>Martin Jánosné interjúja Pálné Tótszegi Erzsébet dunaújvárosi általános iskolai tanárral</strong>
+
+> A szókincsbővítés legjobb módja az olvasás, s a legnagyobb siker egy magyartanár számára, ha tanítványai szeretnek olvasni. 
+
+Szeretnénk, ha a pedagógus pálya az egyik legvonzóbb életcél lenne! Szeretnénk, ha a gyerekek örömmel mennének az iskolába! Szeretnénk, ha a pedagógusok szeretettel, lelkesen foglalkoznának a diákjaikkal! Szeretnénk, ha az iskola használható tudást nyújtana, aminek birtokában elégedett, szakmájukban, hivatásukban sikeres emberként állnák meg helyüket a bizonyítvánnyal rendelkezők. Szeretnénk, ha a személyiség fejlesztése olyan szinten folyna, hogy a becsület, a kötelességtudat, a felelősség, a tudásvágy nagyobb érték lenne, mint a pénz!
+
+Sokan vagyunk így, s sokan vannak, akik tesznek is érte. Meg kell mutatni, meg kell ismerni azoknak a pedagógusoknak a gondolatait, érzéseit, szemléletét, akik a sokéves s elismerten nehéz, fárasztó munkájukra tekintve s azt elemezve elmondhatják, mi adja nekik naponta az örömérzést, miért nem érzik hosszúnak a tanórát, s hogyan viszonyulnak a nehézségekhez, amikkel mindenkinek meg kell küzdenie.
+
+<em>Jó ma pedagógusnak lenni? </em> Ezzel a felvetéssel kerestem meg egy beszélgetésre egy volt kollégámat, tudva azt, hogy 36 évi oktató-nevelő munkája során annyi hitet és bölcsességet halmozott fel, hogy másoknak is érdemes lesz megismerni azt, ami az ő lelkesedését mozgatja. Képzeljünk el egy ezer volttal működő személyiséget, aki körül szinte izzik a levegő, s akit még nem láttam fáradtnak.
+
+<em>Pálné Tótszegi Erzsébet</em>magyartanár és nyelvtanár, a dunaújvárosi Móricz Zsigmond Általános Iskola pedagógusa. Szívesen találkozott velem, hisz jól együttműködő kollégák voltunk, de szerényen utalt arra, hogy sokan vannak az ő iskolájában is, akik úgy dolgoznak, mint ő. Természetesen szívesen beszélt a munkájáról, a gyerekekről, a folyamatos változás szükségességéről.
+
+<em>Van pedagógusi hitvallásod? Nevezhetjük ars poeticának?</em>
+
+Röviden leszögezem, hogy én ma is ezt választanám. Nem volt kétségem, hogy az érettségi után a tanárképzésre jelentkezem. Mindig a jobbítani akarás, a kultúraközvetítés volt a célom. Úgy éreztem, tanárként erre lehetőségem lesz. Pályaválasztásomat befolyásolta saját iskolai tapasztalásom. Volt tanáraim nagyszerű példát nyújtottak szakmaiságból és emberségből.
+
+<em>Több oktatási területen szereztél tapasztalatokat, s a többszintű feladatok során gazdagítottad a tanítási módszertanodat. Miben jelentett más jellegű munkát a nyelviskolai képzés?</em>
+
+Felnőttoktatásnak tekinthető az a munkám, rengeteg tapasztalatot hozott, s más tanári és emberi magatartást kívánt. Nyelvvizsgára való felkészítés folyt, ami erős motivációt jelentett a készülők körében. Különböző munkaterületről vállalkoztak a nyelvtanulásra, s hozták a saját társadalmi körük információit, vagyis a nyelvi csoportok nemcsak nyelvileg hatottak egymásra. A munka sajátossága volt, hogy a tanulási eredményesség visszajelzése viszonylag hamar jött, s objektíven mérhető módon. Ez ösztönözte a tanítványokat és a nyelvtanárt is. A cél adott volt, s behatárolt.
+
+<em>Visszatértél a közoktatásba. Miért hoztad meg ezt a döntést?</em>
+
+A lelki tartalom miatt. Nekem hiányoztak a csillogó gyerekszemek! Úgy éreztem, hogy több lehetőségem van a közoktatásban a személyiség formálásában részt venni. Véleményem szerint a nevelési feladatoknak első helyen kellene szerepelni az iskolai feladatok hosszú listáján. A gyerekek nagyon érzékenyek a hatásokra, és nagy kihívás úgy közel kerülni hozzájuk, hogy befogadják azt, amit jónak tartunk, s mindez a jellemük részévé váljon. Számomra létkérdés a visszajelzés, s a gyerekek ezt nagyon tudják. Számos jelét adják a szeretetnek, ha megnyerted őket azzal, hogy érzik a valódi érdeklődést irántuk, ha érzik, hogy igazán adni akarsz nekik olyat, ami számukra jó lesz. Látják ők is, hogy a munkádat mennyire tartod fontosnak.
+
+<em>Érzékelted a változásokat. Nehezebb most tanárnak lenni?</em>
+
+Úgy érzem, a társadalmi megbecsülés sokat változott. Nem az anyagi megbecsülés hiánya a legfájdalmasabb, hanem attól szenvednek az oktatásban dolgozók jobban, hogy az erkölcsi megbecsülés nem arányos a feladat fontosságával. A pedagógusok egyetértenek abban, hogy a média, amelynek nagy szerepe van a közvélemény formálásában, nem olyan színben tünteti fel a történéseket, az oktatás terén jelentkező problémákat, ami használna az ügynek. Természetesen tudjuk, hogy az iskolában a pedagógus a kulcsszereplő, s vannak a pályán olyanok is, akik nem teszik ki a lelküket az eredményekért. A sok kiégett tanár munkája rossz iskolai tapasztalásokat közvetít, s a média mindenkire kivetíti ezt ahelyett, hogy a nagyon sok sikeres kezdeményezésről, projektről, az eredményekről adnának hírt, s megfelelő hangsúlyt kapnának a pozitívumok. Most úgy érezhető, hogy a média nem becsüli a pedagógusokat.
+
+<em>Az előzőkkel összefügg, hogy kevés fiatal jelentkezik erre az életpályára. Mit gondolsz erről, mi lehet az oka?</em>
+
+A legfőbb ok, hogy a fiatalok előtt sok olyan lehetőség nyílt, ami jóval nagyobb anyagi megbecsüléssel jár. Nehéz felvállalni a megváltozott társadalmi környezetben élő fiatalok nevelését, oktatását. Tudják, hogy más módszerek kellenek, mint az ő iskolai éveik alatt. Több energia kell, hisz a digitális eszközök révén rengeteg információ éri a gyerekeket, s a tanárnak ebben partnernek kell lenni, alkalmazkodnia kell a gyerekekhez és persze a szülőkhöz is. A pedagógusképzésnek erre fel kell készítenie a jelölteket, különben néhány hónap után elhagyják a pályát azok is, akikben volt szándék az iskolai léthez.
+
+<em>Milyen nehézségekkel kellett megküzdened?</em>
+
+Örülök annak, hogy én soha nem inogtam meg. Sem a személyemet, sem a munkámat nem érte olyan támadás, ami ezzel járt volna. Az életpályám váltásai, amik egyrészt gazdagítottak szemléletben, módszertanban, egyúttal hoztak nehézségeket is. Nem könnyű az új helyen beilleszkedni, integrálódni. A saját magammal szembeni magas elvárások mellett az új közeghez is viszonyulni kellett. Szerencsére a munkámmal kapcsolatos visszajelzések mindig megerősítettek, s a vezetőim jó vezetőként tudták, hogy a teljesítményre figyelni kell, és milyen hatása lehet az értékelésnek.
+
+Nem tartottam nehézségnek, de itt mondom el, hogy ezen a pályán nem teheted meg, hogy ne fejlődj. Én mindig igyekeztem tanulni mindenkitől. A módszertani megújulás most különösen fontos. A gyerekek a digitális eszközökkel együtt élnek, a tanár tekintélyvesztés nélkül nem állhat félre, hogy nem vesz róla tudomást. Nem is tud hatással lenni a tanulóira másként. Ők már más világban élnek, s nekünk erre a más világra kell felkészíteni őket. Nem az a dolgunk, hogy az összes információt a fejekbe nyomjuk, hanem arra kell megtanítani őket, hogy el tudjanak igazodni, s tudjanak választani, különbséget tenni. Ebből számunkra az a tanulság, hogy folyamatosan kell magunkon is dolgoznunk, fejlődnünk, nyitottnak kell lennünk. Mindenre reflektálnunk kell. A módszereken is úgy változtatunk, ahogy a tapasztalás hozza. Ma ez sikerült, de vajon holnap is jó lesz-e?
+
+Nehezebb eredményt elérnünk, ha a családi háttérre nem lehet támaszkodni. Én azt feltételezem a szülőkről, hogy nagy többségük szeretne többet foglalkozni a gyermekével, de nem tud több időt fordítani az otthoni nevelésre. Ezért nem igazán eredményes a szülőkre mutogatás a kudarcok miatt. A legjobb, ha belátjuk, nekünk kell tennünk valamit. A helyzet adott, el kell fogadni. Mondhatnám népiesen, abból kell főzni, ami van. Akkor viszont nagyon nem érzem jól magam, ha olyan kihívások, helyzetek jelentkeznek, amiken nem tudok javítani.
+
+<em>Mi segített abban, hogy elégedettséget érezhessél a munkád során?</em>
+
+Jól érzem magam attól, ha azt látom, hogy változott valami. Ha látom azt, hogy sikerült felkelteni a tanulóim érdeklődését. Vallom, hogy az a legjobb motiváció, ha figyelünk arra, ami a tanítványainkat foglalkoztatja, s az irányban mozdulunk. Anyagot váltok, ha azt látom, hogy az adott problémához jó adalék. Magyartanárként kortárs írók műveit is beviszem, mert ott találjuk meg mai világunk eseteit, konfliktusait. A gyerekek látnak, hallanak, s a világban tapasztaltakra választ keresnek. Az ő kis világukban is van nélkülözés, betegség, hirtelen baleset, családi viszályok, válás stb. Az érzékenyítés nincs a tananyagban, de beviszem, mert szükségesnek látom, s a gyerekek lelkileg erősödnek.
+
+A magam fejlődése is hoz elégedettséget. Nemcsak a digitális oktatás világában való eligazodást, a sikeres eszközhasználatot, hanem a személyiségem fejlődését is sikerként élem meg. Dolgozom azon, hogy ne én beszéljek sokat az órán, hanem a tanulók. Persze mintát is kell adni arra, hogyan lehet egy témáról összefüggően beszélni. Vagyis lelkesen beszélek és beszéltetek!
+
+Elégedetten jöttem ki a Toldi témát befejező óra után. Sok magyartanár panaszolja, hogy nehéz a Toldit tanítani, mert a szókincse sok elavult, ma már nem használatos szót tartalmaz, s sok idő elmegy a szómagyarázattal. Én feltettem tanulóimnak azt a kérdést, hogy szerintük érdemes-e elolvasni manapság a Toldit. Örült a lelkem, amikor pozitív válaszokat adtak, nem utasították el, mert az érzések, a jellembeli tulajdonságok hatással voltak rájuk. Bíztam az őszinteségükben, s nem alaptalanul, mert azt is megfogalmazták, hogy nehéznek tartják a szövegét a sok ismeretlen szó miatt. A szókincsbővítés legjobb módja az olvasás, s a legnagyobb siker egy magyartanár számára, ha tanítványai szeretnek olvasni. Eredmény, ha kérdeznek arról, ami érdekli őket, vagy tudni szeretnék azt, amit nem értenek. Én igyekszem is erre inspirálni őket. Eszembe jut az eset, amikor az elválasztás szabályaival ismerkedtünk, s az egyetlen háromjegyű betűnk természete került elő. Vagyis, hogy a dzs az egy betű, s együtt mozog. A findzsa szó szolgálta a példát, s rákérdeztem a jelentésére. Nem tudta senki. Persze levonhatjuk ebből a tanulságokat, de a szókincsfejlesztést nagyon fontosnak tarthatjuk. Jó lenne azt elérni, hogy jó könyvekkel olvasóvá tegyük diákjainkat !
+
+<em>A jobbítás, a személyiségformálás, a folyamatos fejlődés, a módszerek felülvizsgálata, a tanulókra figyelés, igényeikhez alkalmazkodás. Ezek a tanári irányelveid az eddig elmondottak alapján. Van-e a olyan meglátásod a tanári tevékenységeddel kapcsolatban, amiről még nem esett szó?</em>
+
+Eddig nem volt a nyelvtanulásról, a nyelvtanári eredményességről szó. Evidens, hogy csak az tanulja meg a kiválasztott idegen nyelvet, aki igazán meg akarja tanulni. Erős motiváció kell hozzá, akarat és erőfeszítés. Nekem az a meggyőződésem, hogy a nyelvtanulást az adott nép kultúrájába be kell ágyazni. Sokkal motiváltabban tanulja a nyelvet a gyermek, ha tud valamit az országról, kultúrájáról, benne az irodalmáról. Én ezt alkalmazom, s a tapasztaltak alátámasztják ezt.
+
+Tudom, hogy sok kollégának gondot okoz az idő, az egy tanórai idő rövidsége. Én is gondnak érzem, hogy nincs módszer arra, hogy a kevés időből hogyan lehet többet csinálni. A tananyaggal haladni kell, miközben a diákok haladási tempója nem egyforma. Van, akinek több gyakorlással sikerülne jó szintre jutni, de kevés az idő a differenciálásra, képességfejlesztésre. A gyerekekre általában kevés figyelem jut otthon a szülők elfoglaltsága miatt, s szükségletként jelentkezik, hogy kibeszéljék azt, ami őket foglalkoztatja, választ kapjanak bizonyos kérdésekre. A nevelésre valóban több idő kellene, s a gyerekek jobban éreznék magukat az iskolában.
+
+<em>A mostani munkahelyeden, a Móriczban hogyan érzed magad? Szemléleted, gyakorlatod mennyire jellemző a tantestületedben?</em>
+
+Szerencsésnek érzem magam, mert egy rendkívül aktív, innovatív nevelőtestületben dolgozhatom. Úgy érzem, hogy itt az a kolléga sem tudna lazítani, aki hajlana esetleg rá, mert a többiek példája ösztönzi. Az eredmények pedig tovább lendítenek. Az iskola hírneve is kötelez mindenkit, hisz azok a családok kérik ide gyermekük felvételét, akik tudják, milyen légkörben milyen oktató-nevelő munka folyik itt, s a gyermeküknek jó iskolát akarnak. A szülői elvárásoknak való megfelelés is motiváló nekem és tanártársaimnak. A családi háttér pedig segíti a munkánkat, mindenben számíthatunk rájuk. Ha úgy értékelem az iskolámat, hogy itt sokat kell dolgozni, az a legjobb minősítés, hiszen a munka nívóját jelenti.
+
+Remélem, nem dagályosnak, hanem őszintének érezhető, ha azzal zárom a napjaim jellemzését, hogy a tisztelet és szeretet az, amit az emberekkel kapcsolatban, akár gyermek legyen, akár felnőtt, igyekszem nyújtani, s a saját lelkesedésem visz előre.
