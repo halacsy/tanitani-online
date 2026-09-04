@@ -4,7 +4,6 @@ backend:
   branch: main
   base_url: https://api.netlify.com
   auth_endpoint: auth
-  site_domain: cms.netlify.com
 
 media_folder: public/images/cikkek
 public_folder: /images/cikkek
