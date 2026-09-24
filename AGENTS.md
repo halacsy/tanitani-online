@@ -68,6 +68,10 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
   karakterekkel. A szabály egyetlen forrása a `lib/slug.mjs`; a Decap oldalán a
   `public/admin/config.yml` `slug:` blokkja állítja elő ugyanezt. A migrált
   archívum aláhúzásos és ékezetes fájlneveit nem nevezzük át.
+- Az adminban be van kapcsolva a szerkesztői folyamat
+  (`publish_mode: editorial_workflow`): a mentés a `cms/<gyűjtemény>/<slug>`
+  ágra és egy pull requestre megy, a production csak publikáláskor változik.
+  A folyamat leírása: `docs/szerkesztoi-folyamat.md`.
 
 ## Média
 
