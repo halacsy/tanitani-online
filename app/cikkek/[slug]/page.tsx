@@ -1,4 +1,4 @@
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import { getAllArticles, getArticleBySlug, readingTime, getArticlesByAuthorSlug } from '@/lib/content'
 import { getAuthorBySlug } from '@/lib/authors'
 import Link from 'next/link'
@@ -48,10 +48,22 @@ function formatDate(dateStr: string): string {
   return new Date(dateStr).toLocaleDateString('hu-HU', { year: 'numeric', month: 'long', day: 'numeric' })
 }
 
+function decodeSlug(slug: string): string {
+  try {
+    return decodeURIComponent(slug)
+  } catch {
+    return slug
+  }
+}
+
 export default async function ArticlePage({ params }: Props) {
   const { slug } = await params
   const article = getArticleBySlug(slug)
   if (!article) notFound()
+  // Régi, ékezetes vagy aláhúzásos webcímről a kanonikus slugra irányítunk (#12).
+  if (decodeSlug(slug) !== article.slug) {
+    permanentRedirect(`/cikkek/${encodeURIComponent(article.slug)}`)
+  }
 
   const authors = article.authors
     .map(author => getAuthorBySlug(author.slug))
