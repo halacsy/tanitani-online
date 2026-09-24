@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { marked } from 'marked'
+import { comparableSlug, slugify } from './slug.mjs'
 
 export interface AuthorRef {
   id: number
@@ -116,6 +117,7 @@ const curatedAuthorsDir = path.join(process.cwd(), 'content', 'szerzok')
 
 let articleRecords: ArticleRecord[] | null = null
 let articleBySlug: Map<string, ArticleRecord> | null = null
+let articleByComparableSlug: Map<string, ArticleRecord> | null = null
 
 function stableNegativeId(value: string): number {
   let hash = 2166136261
@@ -124,19 +126,6 @@ function stableNegativeId(value: string): number {
     hash = Math.imul(hash, 16777619)
   }
   return -(Math.abs(hash) || 1)
-}
-
-function slugify(value: string): string {
-  return value
-    .normalize('NFKD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-}
-
-function comparableSlug(value: string): string {
-  return slugify(value).replaceAll('-', '')
 }
 
 function comparableTitle(value: string): string {
@@ -323,7 +312,30 @@ function loadArticleRecords(): ArticleRecord[] {
   articleRecords = [...migrated.filter(article => !overriddenIds.has(article.id)), ...editorial]
     .sort((a, b) => b.publishedAt - a.publishedAt || b.id - a.id)
   articleBySlug = new Map(articleRecords.map(article => [article.slug, article]))
+  articleByComparableSlug = buildComparableSlugIndex(articleRecords)
   return articleRecords
+}
+
+/**
+ * Ékezet- és elválasztófüggetlen mutató a régi URL-ekhez: az archívumban
+ * aláhúzásos és ékezetes slugok is vannak, és a #12 óta az új slugok tisztán
+ * ASCII alakúak. Kétértelmű kulcsot (ugyanarra az alakra két cikk) kihagyunk,
+ * hogy soha ne mutasson rossz cikkre a találat.
+ */
+function buildComparableSlugIndex(records: ArticleRecord[]): Map<string, ArticleRecord> {
+  const index = new Map<string, ArticleRecord>()
+  const ambiguous = new Set<string>()
+  for (const article of records) {
+    const key = comparableSlug(article.slug)
+    if (!key) continue
+    if (index.has(key)) {
+      ambiguous.add(key)
+      continue
+    }
+    index.set(key, article)
+  }
+  for (const key of ambiguous) index.delete(key)
+  return index
 }
 
 function toArticle(record: ArticleRecord): Article {
@@ -369,7 +381,9 @@ function decodeSlug(slug: string): string {
 function findArticleRecord(slug: string): ArticleRecord | undefined {
   loadArticleRecords()
   const decoded = decodeSlug(slug)
-  return articleBySlug?.get(decoded) ?? articleBySlug?.get(decoded.replaceAll('-', '_'))
+  return articleBySlug?.get(decoded)
+    ?? articleBySlug?.get(decoded.replaceAll('-', '_'))
+    ?? articleByComparableSlug?.get(comparableSlug(decoded))
 }
 
 export function readingTime(content: string): number {

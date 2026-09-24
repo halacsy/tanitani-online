@@ -64,6 +64,10 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
   a nem szerkesztett történeti metaadatokat pedig az archív JSON-ból egészíti ki.
 - Új cikkhez legalább cím, dátum, szerző, összefoglaló és törzsszöveg tartozzon.
   A borítókép ajánlott mérete 1200×630 px.
+- Az új bejegyzések webcíme ékezetmentes ASCII slug, csak `[a-z0-9-]`
+  karakterekkel. A szabály egyetlen forrása a `lib/slug.mjs`; a Decap oldalán a
+  `public/admin/config.yml` `slug:` blokkja állítja elő ugyanezt. A migrált
+  archívum aláhúzásos és ékezetes fájlneveit nem nevezzük át.
 
 ## Média
 
@@ -83,6 +87,7 @@ Minden tartalmi, migrációs vagy kiadási változás után futtasd:
 
 ```bash
 npm run migrate:validate
+npm test
 npx tsc --noEmit
 npm run lint
 npm run build
@@ -110,6 +115,8 @@ eredeti oldal még fogad új cikkeket.
 - Az RSS: `/rss.xml`; a régi `/posztfeed/rss.xml` erre irányít.
 - A sitemap és robots fájl Next.js metadata route-ként készül.
 - Új route vagy slug-logika esetén ellenőrizd a régi és új URL-t is.
+- A `/cikkek/<slug>` útvonal az ékezet- és elválasztófüggetlen alak alapján is
+  megtalálja a cikket, és állandó átirányítással a kanonikus slugra küld.
 
 ## Munkamódszer
 

@@ -10,6 +10,13 @@ public_folder: /images/cikkek
 
 locale: hu
 
+# Ékezetmentes ASCII webcím minden új bejegyzéshez (#12).
+# "Árvíztűrő tükörfúrógép" → "arvizturo-tukorfurogep".
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
 collections:
   - name: cikkek
     label: Cikkek
@@ -23,6 +30,9 @@ collections:
         name: title
         widget: string
         required: true
+        hint: >-
+          A webcím ebből készül, ékezetek nélkül: "Árvíztűrő tükörfúrógép" →
+          /cikkek/arvizturo-tukorfurogep. Mentés után a webcím már nem változik.
 
       - label: Történeti cikk felülírása
         name: overrideMigrated
@@ -106,6 +116,9 @@ collections:
         name: name
         widget: string
         required: true
+        hint: >-
+          A szerzői oldal webcíme ebből készül, ékezetek nélkül:
+          "Knausz Imre" → /szerzok/knausz-imre.
 
       - label: Portréfotó
         name: photo
