@@ -625,3 +625,14 @@ body {
     flex-direction: column;
   }
 }
+
+/* Match the public navigation breakpoint and utility links. */
+.site-nav-inner { gap: 0.75rem; }
+.site-logo { flex-shrink: 0; }
+.site-nav-utilities { display: flex; align-items: center; gap: 0.5rem; }
+.site-newsletter { background: var(--brand); color: white; border-radius: 9999px; padding: 0.75rem 1rem; font-size: 0.875rem; }
+.site-menu-label { display: none; border: 1px solid var(--line); border-radius: 9999px; padding: 0.75rem; font-size: 0.875rem; }
+@media (max-width: 1279px) {
+  .site-nav-links, .site-newsletter { display: none; }
+  .site-menu-label { display: block; }
+}

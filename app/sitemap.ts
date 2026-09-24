@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import { getAllAuthors } from '@/lib/authors'
-import { getAllArchivePages } from '@/lib/pages'
+import { getAllArchivePages, getCurrentPageHref } from '@/lib/pages'
 import { SITE_URL } from '@/lib/site'
 
 const ARTICLES_PER_PAGE = 24
@@ -24,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: absolute('/temakorok'), lastModified: latest, changeFrequency: 'monthly', priority: 0.7 },
     { url: absolute('/szerzokrol'), lastModified: latest, changeFrequency: 'monthly', priority: 0.7 },
     { url: absolute('/rolunk'), lastModified: latest, changeFrequency: 'yearly', priority: 0.5 },
+    ...['/folyoirat', '/folyoirat/rovatok', '/fomunkatarsaink'].map(path => ({ url: absolute(path), changeFrequency: 'yearly' as const, priority: 0.5 })),
   ]
 
   const archivePagination: MetadataRoute.Sitemap = Array.from(
@@ -57,7 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       priority: 0.5,
     })),
-    ...getAllArchivePages().map(page => ({
+    ...getAllArchivePages().filter(page => !getCurrentPageHref(page.slug)).map(page => ({
       url: absolute(`/archivum/${page.slug.split('/').map(encodeURIComponent).join('/')}`),
       lastModified: new Date(page.updatedAt * 1000),
       changeFrequency: 'yearly' as const,

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import navigation from '@/public/navigation.json'
 
 const tagLinks = [
   'alternatív iskolák', 'drámapedagógia', 'hátrányos helyzet', 'IKT',
@@ -25,15 +26,10 @@ export default function Footer() {
           {/* Nav links */}
           <div>
             <h4 className="font-sans text-xs font-medium tracking-widest uppercase text-white/50 mb-4">
-              Tartalom
+              A folyóiratról
             </h4>
-            <div className="flex flex-col gap-2">
-              {[
-                { href: '/cikkek', label: 'Összes cikk' },
-                { href: '/temakorok', label: 'Témakörök' },
-                { href: '/szerzokrol', label: 'Szerzők' },
-                { href: '/rolunk', label: 'Rólunk' },
-              ].map(({ href, label }) => (
+            <nav aria-label="Alsó navigáció" className="flex flex-col gap-2">
+              {navigation.footer.map(({ href, label }) => (
                 <Link
                   key={href}
                   href={href}
@@ -42,7 +38,7 @@ export default function Footer() {
                   {label}
                 </Link>
               ))}
-            </div>
+            </nav>
           </div>
 
           {/* Tags */}
@@ -66,7 +62,6 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
           <p className="font-sans text-xs">© Taní-tani Online · Creative Commons licenc alatt</p>
-          <p className="font-sans text-xs">Partnereink: Történelemtanárok Egylete · Magyar Pedagógiai Társaság</p>
         </div>
       </div>
     </footer>

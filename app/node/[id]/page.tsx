@@ -1,6 +1,6 @@
 import { notFound, redirect } from 'next/navigation'
 import { getArticleById } from '@/lib/content'
-import { getArchivePageById } from '@/lib/pages'
+import { getCurrentPageHref, getArchivePageById } from '@/lib/pages'
 
 interface Props {
   params: Promise<{ id: string }>
@@ -14,7 +14,7 @@ export default async function DrupalNodeRoute({ params }: Props) {
   if (article) redirect(`/cikkek/${article.slug}`)
 
   const page = getArchivePageById(id)
-  if (page) redirect(`/archivum/${page.slug}`)
+  if (page) redirect(getCurrentPageHref(page.slug) ?? `/archivum/${page.slug}`)
 
   notFound()
 }

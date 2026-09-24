@@ -1,3 +1,4 @@
+import navigation from '@/public/navigation.json'
 import fs from 'fs'
 import path from 'path'
 
@@ -44,4 +45,15 @@ export function getArchivePageBySlug(slug: string): ArchivePage | null {
 
 export function getArchivePageById(id: number): ArchivePage | null {
   return loadPages().find(page => page.id === id) ?? null
+}
+
+// Current navigation destinations for historical entry points.
+export function getCurrentPageHref(slug: string): string | null {
+  const destinations: Record<string, string> = {
+    mi_ez: '/folyoirat',
+    rovatok: '/folyoirat/rovatok',
+    fomunkatarsaink: '/fomunkatarsaink',
+    hirlevel: navigation.newsletter.href,
+  }
+  return destinations[slug] ?? null
 }

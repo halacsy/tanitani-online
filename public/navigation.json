@@ -1,0 +1,20 @@
+{
+  "main": [
+    { "href": "/cikkek", "label": "Cikkek" },
+    { "href": "/temakorok", "label": "Témakörök" },
+    { "href": "/szerzokrol", "label": "Szerzők" },
+    { "href": "/archivum/konyvek/1", "label": "Könyvek" },
+    { "href": "/archivum/szerzoinknek", "label": "Szerzői útmutató" }
+  ],
+  "newsletter": { "href": "https://tani-tani.us11.list-manage.com/subscribe?u=545631adae2bb3a3844dd4f11&id=ac6071c71b", "label": "Hírlevél-feliratkozás" },
+  "search": { "href": "/kereses", "label": "Keresés" },
+  "footer": [
+    { "href": "/rolunk", "label": "Rólunk" },
+    { "href": "/fomunkatarsaink", "label": "Főmunkatársaink" },
+    { "href": "/archivum/kapcsolat_", "label": "Kapcsolat" },
+    { "href": "/archivum/impresszum", "label": "Impresszum" },
+    { "href": "/folyoirat", "label": "Régi lapszámok" },
+    { "href": "/archivum/jogi_nyilatkozat", "label": "Jogi nyilatkozat" },
+    { "href": "/archivum/szemelyes_adatok", "label": "Adatkezelés" }
+  ]
+}

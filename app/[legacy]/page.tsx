@@ -1,6 +1,6 @@
 import { notFound, redirect } from 'next/navigation'
 import { getArticleBySlug } from '@/lib/content'
-import { getArchivePageBySlug } from '@/lib/pages'
+import { getCurrentPageHref, getArchivePageBySlug } from '@/lib/pages'
 
 interface Props {
   params: Promise<{ legacy: string }>
@@ -12,7 +12,7 @@ export default async function LegacyRoute({ params }: Props) {
   if (article) redirect(`/cikkek/${article.slug}`)
 
   const page = getArchivePageBySlug(legacy)
-  if (page) redirect(`/archivum/${page.slug}`)
+  if (page) redirect(getCurrentPageHref(page.slug) ?? `/archivum/${page.slug}`)
 
   notFound()
 }

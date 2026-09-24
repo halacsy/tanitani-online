@@ -1,5 +1,9 @@
-(function () {
+(async function () {
   'use strict'
+
+  var response = await fetch('/navigation.json')
+  if (!response.ok) throw new Error('A navigáció nem tölthető be')
+  var navigation = await response.json()
 
   function field(entry, name, fallback) {
     var value = entry.getIn(['data', name])
@@ -62,7 +66,7 @@
   }
 
   function nav() {
-    var items = ['Cikkek', 'Témakörök', 'Szerzőkről', 'Keresés', 'Rólunk']
+    var items = navigation.main
     return h(
       'header',
       { className: 'site-nav' },
@@ -81,17 +85,17 @@
           items.map(function (item, index) {
             return h(
               'span',
-              { key: item, className: 'site-nav-link' + (index === 0 ? ' is-active' : '') },
-              item,
+              { key: item.href, className: 'site-nav-link' + (index === 0 ? ' is-active' : '') },
+              item.label,
             )
           }),
         ),
         h(
           'span',
-          { className: 'site-menu-icon', 'aria-hidden': 'true' },
-          h('i', {}),
-          h('i', {}),
-          h('i', {}),
+          { className: 'site-nav-utilities' },
+          h('span', { className: 'site-newsletter' }, navigation.newsletter.label),
+          h('span', { className: 'site-nav-link' }, navigation.search.label),
+          h('span', { className: 'site-menu-label' }, 'Menü'),
         ),
       ),
     )
@@ -130,12 +134,12 @@
           h(
             'div',
             {},
-            h('h4', {}, 'Tartalom'),
+            h('h4', {}, 'A folyóiratról'),
             h(
               'div',
               { className: 'site-footer-links' },
-              ['Összes cikk', 'Témakörök', 'Szerzők', 'Rólunk'].map(function (item) {
-                return h('span', { key: item }, item)
+              navigation.footer.map(function (item) {
+                return h('span', { key: item.href }, item.label)
               }),
             ),
           ),
@@ -156,7 +160,6 @@
           'div',
           { className: 'site-footer-bottom' },
           h('p', {}, '© Taní-tani Online · Creative Commons licenc alatt'),
-          h('p', {}, 'Partnereink: Történelemtanárok Egylete · Magyar Pedagógiai Társaság'),
         ),
       ),
     )
