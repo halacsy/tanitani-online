@@ -4,3 +4,11 @@ package = "@netlify/plugin-nextjs"
 [build]
 command = "npm run build"
 publish = ".next"
+
+# A szerkesztői folyamat (#13) piszkozatai a "cms/<gyűjtemény>/<slug>" ágakon
+# nyitott pull requestekben élnek, és a Deploy Preview adja a publikálás előtti
+# előnézetet – erre mutat a Decap "Előnézet megtekintése" gombja. Az előnézeti
+# build a saját címét használja kanonikus URL-ként, és a `robots.txt` letiltja
+# az indexelését (lásd `lib/site.ts` és `app/robots.ts`).
+[context.deploy-preview.environment]
+NEXT_PUBLIC_SITE_URL = ""
