@@ -112,6 +112,27 @@ collections:
         name: body
         widget: markdown
         required: true
+        hint: >-
+          Az eszköztár szándékosan csak jelentés szerinti (szemantikus)
+          elemeket ad: félkövér, dőlt, link, két címsorszint, felsorolás,
+          számozott lista, idézet és kódblokk. Elválasztóvonalat a "+" gombbal,
+          az "Elválasztóvonal" elem beszúrásával adhatsz hozzá. Szándékosan
+          nincs igazítás-, betűméret- vagy behúzásváltoztató gomb – lásd
+          docs/cikk-szoveg-formazasa.md.
+        editor_components:
+          - image
+          - horizontal-rule
+        buttons:
+          - bold
+          - italic
+          - code
+          - link
+          - heading-two
+          - heading-three
+          - quote
+          - code-block
+          - bulleted-list
+          - numbered-list
 
   - name: szerzok
     label: Szerzők
