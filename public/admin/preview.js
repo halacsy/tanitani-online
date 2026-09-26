@@ -311,6 +311,25 @@
     },
   })
 
+  // Elválasztóvonal (#10): a Decap markdown eszköztár nincs igazítás-,
+  // betűméret- vagy behúzásgombbal bővítve, de a szemantikus elválasztóvonal
+  // (Markdown "---") a "+" beszúrás menüből elérhető.
+  CMS.registerEditorComponent({
+    id: 'horizontal-rule',
+    label: 'Elválasztóvonal',
+    fields: [],
+    pattern: /^-{3,}$/,
+    fromBlock: function () {
+      return {}
+    },
+    toBlock: function () {
+      return '---'
+    },
+    toPreview: function () {
+      return h('hr', {})
+    },
+  })
+
   CMS.registerPreviewStyle('/admin/preview.css')
   CMS.registerPreviewTemplate('cikkek', ArticlePreview)
 })()
