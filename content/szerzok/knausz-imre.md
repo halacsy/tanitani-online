@@ -1,5 +1,5 @@
 ---
 name: "Knausz Imre"
 photo: /images/szerzok/knausz-imre.jpg
-bio: "Nevelésfilozófus, a Taní-tani Online főszerkesztője. Oktatáspolitikával, pedagógiai igazságkonstrukcióval és a demokratikus iskola elméletével foglalkozom. Úgy gondolom, az iskola vagy az igazságkeresés műhelye, vagy a manipuláció cinkosa."
+bio: "Pedagógiáról gondolkodó ember vagyok. Amúgy nyugdíjas. 2007–2010 között a Taní-tani alternatív iskolai folyóirat, 2011 óta a Taní-tani Online főszerkesztője."
 ---
