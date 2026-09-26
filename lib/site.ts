@@ -21,3 +21,10 @@ export const SITE_URL = (
 ).replace(/\/$/, '')
 
 export const SITE_DESCRIPTION = 'A szabad pedagógiai gondolkodás fóruma. Hosszú formátumú cikkek, esszék és elemzések pedagógusoknak.'
+
+/**
+ * Google Analytics mérési azonosító (#5). Csak akkor van mérés, ha be van
+ * állítva, és csak a valódi production kiadáson (nem deploy preview / helyi
+ * fejlesztés) töltődik be, hogy a piszkozatok ne torzítsák a statisztikát.
+ */
+export const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? ''
