@@ -14,7 +14,8 @@
     "migrate:media": "python3 scripts/download_media.py",
     "migrate:sync": "python3 scripts/supplement_live_articles.py",
     "migrate:markdown": "node scripts/materialize_markdown.mjs",
-    "migrate:validate": "python3 scripts/validate_migration.py && node scripts/materialize_markdown.mjs --check && node scripts/validate_slugs.mjs"
+    "migrate:validate": "python3 scripts/validate_migration.py && node scripts/materialize_markdown.mjs --check && node scripts/validate_slugs.mjs",
+    "check:links": "node scripts/check_links.mjs"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -32,6 +33,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.3",
+    "linkinator": "^8.1.0",
     "postcss": "^8.5.9",
     "tailwindcss": "^4.2.2",
     "turndown": "^7.2.4",

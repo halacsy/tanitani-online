@@ -101,7 +101,14 @@ npm test
 npx tsc --noEmit
 npm run lint
 npm run build
+npm run check:links
 ```
+
+A `check:links` (#4) a teljes épített oldalt bejárja (production build + helyi
+szerver) és minden belső hivatkozást leellenőriz – a migrált archívumot, a
+szerkesztői cikkeket/oldalakat és a médiát is. Külső (más domainre mutató)
+linkeket szándékosan kihagy. Hibás hivatkozás esetén nem nulla kilépési
+kóddal áll le, listázva a hibás URL-t és a hivatkozó oldalt.
 
 A production build jelenlegi referenciaeredménye:
 
