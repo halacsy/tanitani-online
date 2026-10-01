@@ -12,6 +12,12 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
 - A production buildet a `netlify.toml` szerinti Netlify Next.js plugin készíti.
 - A production domain alapértelmezetten `https://www.tani-tani.info`; más hostnál
   állítsd be a `NEXT_PUBLIC_SITE_URL` környezeti változót.
+- Google Analytics (#5): a `NEXT_PUBLIC_GA_MEASUREMENT_ID` környezeti változó
+  állítja be a GA4 mérési azonosítót. Csak akkor töltődik be, ha ez be van
+  állítva, és csak a valódi production kiadáson (nem deploy preview vagy helyi
+  fejlesztés). A mérés Consent Mode-dal alapértelmezetten le van tiltva; a
+  látogató a lábjegyzet feletti sávban adhat vagy tagadhat hozzájárulást
+  (`app/components/Analytics.tsx`).
 - A `main` ágra kerülő változás csak az alábbi teljes ellenőrzési sor után
   tekinthető kiadhatónak.
 
