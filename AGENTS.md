@@ -50,7 +50,9 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
 ## Generált történeti tartalom
 
 - `content/migrated/tanitani/` a build által használt, generált publikus archívum.
-- A fájlokat ne szerkeszd kézzel. A helyes újraépítési sorrend:
+- A fájlokat ne szerkeszd kézzel. A teljes pipeline egyben: `npm run migrate`
+  (a dump visszaállítása MariaDB 10.11-be az egyetlen kézi előfeltétel, ami
+  nincs scriptelve). Lépésenként:
 
   1. állítsd vissza a dumpot MariaDB 10.11-be;
   2. `npm run migrate:export`;
@@ -64,6 +66,15 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
   szereplő inline médiát is beemeli. A publikus oldalon nem látható új címkéket
   a meglévő címkekészletből, tartalmi előfordulás alapján rendeli hozzá; ezt a
   migrációs metaadatokban mindig jelölni kell.
+- A `migrate:markdown` determinisztikusan, kizárólag a migrált JSON-forrásból
+  állítja elő a `content/cikkek/*.md` / `content/szerzok/*.md` fájlokat: ha egy
+  fájl már egyezik azzal, amit a forrásból generálna, nem nyúl hozzá; ha eltér
+  (hiányzik, vagy a forrás időközben változott), létrehozza/felülírja. Mivel a
+  migráció aktív szakaszában a Next oldalon senki nem szerkeszt kézzel
+  (a szerkesztői munka csak a végleges átállás után, a Decap CMS-en keresztül
+  kezdődik), ez biztonságosan, akárhányszor újrafuttatható. Lásd még a
+  legfelül lévő, kiemelt szabályt: ha egy mezőhöz nincs hiteles forrás, üresen
+  marad, sosem fabrikálunk helyette szöveget.
 - A részletes rekonstrukciós jegyzőkönyv:
   `docs/database-reconstruction.md`.
 
@@ -74,9 +85,12 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
 - Minden migrált cikk szerkeszthető Markdown-példánya a
   `content/cikkek/*.md`, minden migrált szerzőé a `content/szerzok/*.md`
   mappában van. Az új cikkek és szerzők is ezekbe a mappákba kerülnek.
-- A `migrate:markdown` csak hiányzó fájlokat hoz létre, meglévő szerkesztői
-  tartalmat nem ír felül. A `migratedId` köti a Markdown-cikket az archív
-  rekordhoz, így a hozzászólások, csatolmányok és régi URL-ek megmaradnak.
+- A `migrate:markdown` a migrált JSON-forrásból determinisztikusan létrehozza
+  vagy frissíti a Markdown-fájlokat (lásd fent). A `migratedId` köti a
+  Markdown-cikket az archív rekordhoz, így a hozzászólások, csatolmányok és
+  régi URL-ek megmaradnak. A fájlnév mindig a migrált rekord valódi slugja –
+  ha egy fájl ettől eltérő néven jött létre (pl. korábbi, hibás eszközből),
+  nevezd át a slugra, különben a kanonikus URL nem fogja megtalálni.
 - A `lib/content.ts` migrált cikk esetén a Markdown szerkesztői mezőit használja,
   a nem szerkesztett történeti metaadatokat pedig az archív JSON-ból egészíti ki.
 - Új cikkhez legalább cím, dátum, szerző, összefoglaló és törzsszöveg tartozzon.
@@ -121,15 +135,16 @@ szerkesztői cikkeket/oldalakat és a médiát is. Külső (más domainre mutat�
 linkeket szándékosan kihagy. Hibás hivatkozás esetén nem nulla kilépési
 kóddal áll le, listázva a hibás URL-t és a hivatkozó oldalt.
 
-A production build jelenlegi referenciaeredménye:
+A production build jelenlegi referenciaeredménye (az `npm run migrate`
+legutóbbi, 2026 október eleji teljes lefuttatása után):
 
-- 1 216 cikk;
-- 617 szerzői rekord;
-- 236 címke, közülük 157 használatban;
+- 1 240 cikk;
+- 626 szerzői rekord;
+- 236 címke, közülük 162 használatban;
 - 77 archív oldal;
 - 1 039 publikus hozzászólás;
-- 1 324 csatolmány;
-- 2 134 generált Next.js oldal.
+- 1 327 csatolmány;
+- 2 177 generált Next.js oldal.
 
 Eltérő darabszám csak dokumentált új import vagy új szerkesztői tartalom miatt
 fogadható el. Build előtt érdemes újra lefuttatni a publikus élő szinkront, ha az

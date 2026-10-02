@@ -37,9 +37,14 @@ CONTENT_DIR = ROOT / "content" / "migrated" / "tanitani"
 SQLITE_PATH = ROOT / "data" / "tanitani-public.sqlite"
 PUBLIC_DIR = ROOT / "public"
 USER_AGENT = "TaniTani migration/1.0 (+public archival sync)"
-MONTHS = {
-    "jan": 1, "feb": 2, "marc": 3, "apr": 4, "maj": 5, "jun": 6,
-    "jul": 7, "aug": 8, "szept": 9, "okt": 10, "nov": 11, "dec": 12,
+# A magyar hónap-rövidítések hossza nem egységes a Drupal oldalain (pl.
+# "szept." és "szep." is előfordul ugyanarra a hónapra) — ezért nem pontos
+# kulcsegyezéssel, hanem a hónapnevek egyedi 3 betűs előtagjával azonosítjuk
+# a hónapot. A teljes, ékezet nélküli hónapnevek 3 betűs előtagja minden
+# magyar hónapra egyedi, ellenőrizve.
+MONTH_PREFIXES = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "maj": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sze": 9, "okt": 10, "nov": 11, "dec": 12,
 }
 
 
@@ -85,7 +90,10 @@ def parse_drupal_date(text: str) -> int:
     if not match:
         raise ValueError(f"Ismeretlen Drupal-dátum: {text!r}")
     year, month_name, day, hour, minute = match.groups()
-    month = MONTHS[normalize(month_name).rstrip(".")]
+    month_key = normalize(month_name).rstrip(".")[:3]
+    if month_key not in MONTH_PREFIXES:
+        raise ValueError(f"Ismeretlen hónapnév: {month_name!r} ({text!r})")
+    month = MONTH_PREFIXES[month_key]
     local_time = datetime(
         int(year), month, int(day), int(hour), int(minute),
         tzinfo=ZoneInfo("Europe/Budapest"),

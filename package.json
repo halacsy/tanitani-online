@@ -15,6 +15,7 @@
     "migrate:sync": "python3 scripts/supplement_live_articles.py",
     "migrate:markdown": "node scripts/materialize_markdown.mjs",
     "migrate:validate": "python3 scripts/validate_migration.py && node scripts/materialize_markdown.mjs --check && node scripts/validate_slugs.mjs",
+    "migrate": "npm run migrate:export && npm run migrate:media && npm run migrate:sync && npm run migrate:markdown && npm run migrate:validate",
     "check:links": "node scripts/check_links.mjs"
   },
   "dependencies": {
