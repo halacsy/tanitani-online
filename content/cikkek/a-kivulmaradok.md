@@ -15,7 +15,7 @@ tags:
   - SNI
 reads: 3513
 authorSlugs:
-  - ritok-nora
+  - l-ritok-nora
 coverImage: /images/cikkek/a-kivulmaradok.jpg
 migratedId: 1409
 ---
@@ -24,16 +24,6 @@ migratedId: 1409
 > Pályázni lehet erdei iskolákra is… de itt bejön egy másik vonal: egy szegregált iskolából ottalvós programra utaztatni gyerekeket, még akkor is, ha fedezik az utazást, étkezést, számos akadályba ütközik. Mert kell sok minden, váltóruha, váltócipő, törölköző, utazótáska, tisztasági felszerelés stb. Ahol a „nincs” határozza meg a napokat, ott ez a családoknak nem vállalható.
 
 ![kép](https://www.tani-tani.info/sites/default/files/ritok_nora_2.jpg)
-
-## Lorem Ipsum 
-
-**Kiemelet** szöveg
-
-Néhány hónappal a választások előtt imponáló oktatáspolitikai javaslatcsomaggal állt elő a Tanítanék Mozgalom. A dokumentum címe szerint a pedagógusok és szülők elvárásait foglalja össze – nyilván a majdani győztes párt, a megalakuló új kormány számára. [A Tanítanék honlapján azt olvassuk](https://www.tanitanek.info/2026/01/15/mit-varnak-el-a-szulok-es-a-pedagogusok-az-oktataspolitikatol-a-tanitanek-mozgalom-reszveteli-alapon-keszult-szakpolitikai-javaslatcsomagja/), hogy a mozgalom immár 10 éve foglalkozik “oktatással, oktatáspolitikákával”, 10 éve van elképzelésük a jó oktatásról. Valójában azonban a NER destruktív oktatáspolitikájával szembeni konstruktív pedagógusellenállás nagyobb múltra tekinthet vissza. Az Agóra Oktatási Kerekasztal – nem előzmények nélkül – már 2012-ben megalakult, és 2014-ben hozta nyilvánosságra [Oktatáspolitikai Alapvetések](https://ckpinfo.hu/wp-content/uploads/2022/12/Agora_oktataspolitikai_alapvetesek_131120-1.pdf) c. dokumentumát. Jómagam csak kívülről csodáltam a pedagógusok mozgalmát, ezért nincs közvetlen információm a mozgalom intézményi kereteinek alakulásáról, de nehéz lenne tagadni a folytonosságot a tízes évek első felének forrongása és a Tanítanék Mozgalom (valamint a Civil Közoktatási Platform) között. Nem véletlen a csodálat emlegetése. Egyetlen szakmai csoport sem mutatott olyan bátor és intenzív ellenállást a kormányzat autoriter törekvéseivel szemben, mint a pedagógusok, és ez az első pillanattól kezdve több volt,
-
-
-
-
 
 Nemrég egy Füvészkertben láttam egy táblát, amit egy nemzetközi természeti neveléssel kapcsolatos konferencia emlékére állítottak. Eszembe juttatott ez egy másik eseményt is, amin én is ott voltam, a Bükki Nemzeti Parkban, egy Környezeti Nevelési Szakmai Napon…
 
