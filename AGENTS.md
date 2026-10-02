@@ -1,5 +1,16 @@
 # Taní-tani Online – agent útmutató
 
+> **TILOS OLVASHATÓ TARTALMAT AI AGENSNEK FABRIKÁLNIA: CSAK KÓDOT SZABAD ÍRNI.**
+> Szerzői életrajz, cikkszöveg, idézet vagy bármilyen más, embereknek szóló
+> tartalom soha nem származhat az AI saját kitalálásából. Minden ilyen
+> tartalomnak valódi forrásból kell jönnie (a migrált DB-export, a
+> `tanitani.sql`/`tanitani_tanmest.sql` dump, vagy a szerkesztő saját, általa
+> megadott szövege). Ha egy mezőhöz (pl. `bio`) nincs hiteles forrásszöveg,
+> azt üresen kell hagyni – nem szabad plauzibilisnek tűnő helyettesítő
+> szöveget generálni. Ez a szabály pontosan azért került be, mert korábban
+> egy agent kitalált, hiteles adatnak látszó szerzői életrajzokat írt be
+> több `content/szerzok/*.md` fájlba (lásd a #6 issue-t és annak javítását).
+
 ## A projekt célja
 
 Ez a repository a régi Drupal 7 alapú `tani-tani.info` teljes publikus

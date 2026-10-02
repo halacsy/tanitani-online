@@ -1,5 +1,11 @@
 ---
-name: "Földes Petra"
-photo: /images/szerzok/foldes-petra.jpg
-bio: "Inkluzív pedagógiai szakértő és fejlesztő pedagógus. Az SNI-tanulók integrációjával, a valódi befogadó iskola feltételeivel foglalkozom. Meggyőződésem, hogy az inklúzió nem egyéni pedagógus-erőfeszítés kérdése, hanem intézményi elköteleződésé."
+name: Földes Petra
+bio: >-
+  Tanár vagyok és mentálhigiénikus. Tanítottam az AKG-ban szerencsésebb és a
+  Zöld Kakas Líceumban kevésbé szerencsés sorsú gyerekeket, voltam tanárok és
+  szülők segítője, s nagy lelkesedéssel vettem részt a Pannon Egyetem, majd az
+  Eszterházy Károly Főiskola gyakorlatorientált tanárképzési programjában. Az
+  igazi helyemet azonban a szakképzésben találtam meg, ahol olyan felnőttekkel
+  foglalkozhatok, akik komoly élettapasztalattal és elköteleződéssel
+  választották a pedagógiai, gyógypedagógiai asszisztensi hivatást.
 ---

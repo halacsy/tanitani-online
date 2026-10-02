@@ -1,5 +1,8 @@
 ---
-name: "Bessenyei István"
-photo: /images/szerzok/bessenyei-istvan.jpg
-bio: "Oktatáskutató és technológiai pedagógiai szakértő. Elsősorban a mesterséges intelligencia oktatási alkalmazásaival foglalkozom, különös tekintettel az önszervező tanulásra és az adaptív rendszerekre."
+name: Bessenyei István
+bio: >-
+  Nyugalmazott egyetemi docens, oktatásszociológus vagyok. Fő érdeklődési
+  körömbe tartozik a tanulási rendszerek sorsa a kései modern információs
+  társadalomban, ezen belül is a tudás átalakulása, a digitális átállás és a
+  mesterséges intelligenciának az oktatásban betöltött szerepe.
 ---
