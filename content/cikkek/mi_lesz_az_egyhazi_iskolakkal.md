@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/little-white-church.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 2388
+reads: 2690
 ---
 <strong><span style="font-size: 12px;">Asztalos György írása</span></strong>
 

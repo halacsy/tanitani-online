@@ -1,5 +1,1132 @@
 [
   {
+    "id": 1460,
+    "slug": "rendszerszemlelet_a_nemet_passziv_szerkezetek_oktatasaban",
+    "contentType": "poszt",
+    "title": "Rendszerszemlélet…",
+    "authors": [
+      {
+        "id": 526,
+        "slug": "guoth-suzana",
+        "name": "Guoth Suzana"
+      }
+    ],
+    "publishedAt": 1790685180,
+    "date": "2026-09-29",
+    "updatedAt": 1790685180,
+    "tags": [
+      {
+        "id": 217,
+        "slug": "neveles",
+        "name": "nevelés"
+      }
+    ],
+    "sections": [],
+    "excerpt": "…a német passzív szerkezetek oktatásában. Suzana Guoth írása Gyakorlati módszertani párbeszéd az elméleti túlbonyolítás ellen – egy mesterséges intelligenciával támogatott reflexió tükrében",
+    "coverImage": "/sites/default/files/passive.jpg",
+    "coverAlt": "Passzív cica. Forrás: https://ekobuilt.com/",
+    "coverTitle": "Passzív cica. Forrás: https://ekobuilt.com/",
+    "reads": 438,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1459,
+    "slug": "az_innovativ_kiserletekert",
+    "contentType": "poszt",
+    "title": "Az innovatív kísérletekért",
+    "authors": [
+      {
+        "id": 230,
+        "slug": "braun-jozsef",
+        "name": "Braun József"
+      }
+    ],
+    "publishedAt": 1790605320,
+    "date": "2026-09-28",
+    "updatedAt": 1790605320,
+    "tags": [
+      {
+        "id": 45,
+        "slug": "felveteli",
+        "name": "felvételi"
+      },
+      {
+        "id": 46,
+        "slug": "szakkepzes",
+        "name": "szakképzés"
+      },
+      {
+        "id": 76,
+        "slug": "erettsegi",
+        "name": "érettségi"
+      },
+      {
+        "id": 294,
+        "slug": "oktataspolitika",
+        "name": "oktatáspolitika"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Braun József írása Válaszok az Oktatási és Gyermekügyi Minisztérium körkérdésére",
+    "coverImage": "/sites/default/files/national_curriculum_3.png",
+    "coverAlt": "Az innovatív kísérletekért",
+    "coverTitle": "",
+    "reads": 407,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1458,
+    "slug": "felforgato_valaszok",
+    "contentType": "poszt",
+    "title": "Felforgató válaszok",
+    "authors": [
+      {
+        "id": 924,
+        "slug": "a-felforgatokonyv-pedagogiai-muhelye",
+        "name": "A Felforgatókönyv pedagógiai műhelye"
+      }
+    ],
+    "publishedAt": 1790512800,
+    "date": "2026-09-27",
+    "updatedAt": 1790512800,
+    "tags": [
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 46,
+        "slug": "szakkepzes",
+        "name": "szakképzés"
+      },
+      {
+        "id": 45,
+        "slug": "felveteli",
+        "name": "felvételi"
+      }
+    ],
+    "sections": [],
+    "excerpt": "A Felforgatókönyv pedagógiai műhelyének javaslatai az Oktatási és Gyermekügyi Minisztérium kérdéseire 2026 februárjában közel egyéves műhelymunka eredményeként jelent meg a Lányi András szerkesztette Felforgatókönyv. A kötet félszáz szerzője a főbb nehézségek azonosítására és megoldásukra tesz javaslatot abban a…",
+    "coverImage": "/sites/default/files/national_curriculum_2.png",
+    "coverAlt": "Felforgató válaszok",
+    "coverTitle": "",
+    "reads": 457,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1457,
+    "slug": "gyogypedagogusok_az_ovodaban",
+    "contentType": "poszt",
+    "title": "Gyógypedagógusok az óvodában",
+    "authors": [
+      {
+        "id": 53,
+        "slug": "foldes-petra",
+        "name": "Földes Petra"
+      },
+      {
+        "id": 923,
+        "slug": "deak-reka",
+        "name": "Deák Réka"
+      }
+    ],
+    "publishedAt": 1790242080,
+    "date": "2026-09-24",
+    "updatedAt": 1790242080,
+    "tags": [
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Egy mentorprogram története. Deák Réka és Földes Petra írása Ha a cél a pedagógusok szakmai megerősítése, akkor a megoldáskeresés során meg kell hallani az ő nehézségeiket. Vagyis azt a – különben nagyon logikus – felvetést, hogy a pedagógusok a még ellátatlan, szakember által nem támogatott gyerekekkel való…",
+    "coverImage": "/sites/default/files/gyogypedagogus_az_ovodaban.jpg",
+    "coverAlt": "A kép illusztáció. Forrás: http://childcareed.com",
+    "coverTitle": "A kép illusztáció. Forrás: http://childcareed.com",
+    "reads": 819,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1456,
+    "slug": "barlangbol_barlangba",
+    "contentType": "poszt",
+    "title": "Barlangból barlangba",
+    "authors": [
+      {
+        "id": 888,
+        "slug": "nemeth-gabor",
+        "name": "Németh Gábor"
+      }
+    ],
+    "publishedAt": 1789913760,
+    "date": "2026-09-20",
+    "updatedAt": 1789913760,
+    "tags": [
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 217,
+        "slug": "neveles",
+        "name": "nevelés"
+      },
+      {
+        "id": 665,
+        "slug": "tanulasi-kornyezet",
+        "name": "tanulási környezet"
+      },
+      {
+        "id": 252,
+        "slug": "konferencia",
+        "name": "konferencia"
+      }
+    ],
+    "sections": [],
+    "excerpt": "A 21. századi gyermek, az iskola és a szabadság új kérdése. Németh Gábor írása „Bűnösök közt cinkos, aki néma.” De cinkossá válhat az is, aki már mindent elmondott – és mégsem tesz semmit.",
+    "coverImage": "/sites/default/files/allegory_of_the_cave.jpg",
+    "coverAlt": "Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/",
+    "coverTitle": "Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/",
+    "reads": 863,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1455,
+    "slug": "az_en_natom",
+    "contentType": "poszt",
+    "title": "Az én NAT-om",
+    "authors": [
+      {
+        "id": 119,
+        "slug": "trencsenyi-laszlo",
+        "name": "Trencsényi László"
+      }
+    ],
+    "publishedAt": 1789811100,
+    "date": "2026-09-19",
+    "updatedAt": 1789811100,
+    "tags": [
+      {
+        "id": 820,
+        "slug": "tanulas",
+        "name": "tanulás"
+      },
+      {
+        "id": 46,
+        "slug": "szakkepzes",
+        "name": "szakképzés"
+      },
+      {
+        "id": 281,
+        "slug": "muveltseg",
+        "name": "műveltség"
+      },
+      {
+        "id": 76,
+        "slug": "erettsegi",
+        "name": "érettségi"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Trencsényi László írása Csapodi Csabának, az OGYM miniszteri biztosának csoportos felhívására, a Magyar Pedagógiai Társaság egyik munkacsoportjának háttéranyagaként, de saját „szerzői munkásságom” részeként is. Ezért is örülök, hogy a Tani-tani Online vitára közreadja.",
+    "coverImage": "/sites/default/files/national_curriculum_1.png",
+    "coverAlt": "Az én NAT-om",
+    "coverTitle": "",
+    "reads": 631,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1454,
+    "slug": "szentek_vagy_tanitok",
+    "contentType": "poszt",
+    "title": "Szentek vagy tanítók?",
+    "authors": [
+      {
+        "id": 755,
+        "slug": "csizmarne-gede-erika-judit",
+        "name": "Csizmárné Gede Erika Judit"
+      }
+    ],
+    "publishedAt": 1789725600,
+    "date": "2026-09-18",
+    "updatedAt": 1789725600,
+    "tags": [
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 280,
+        "slug": "tanterv",
+        "name": "tanterv"
+      },
+      {
+        "id": 54,
+        "slug": "kutatasok",
+        "name": "kutatások"
+      },
+      {
+        "id": 207,
+        "slug": "pedagogia",
+        "name": "pedagógia"
+      }
+    ],
+    "sections": [],
+    "excerpt": "A másság példázatszerepe a vallás- és óvodapedagógia határterületén. Csizmárné Gede Erika Judit írása A szentek és tanítók olyan figurák, amelyeken át a másság igazán láthatóvá válik. A valláspedagógiában régóta központi szerepet kapnak a példaképek. A szentek és a tanítók alakjai olyan sűrített történetek, amelyekhez…",
+    "coverImage": "/sites/default/files/massag.jpg",
+    "coverAlt": "Forrás: IStock",
+    "coverTitle": "Forrás: IStock",
+    "reads": 747,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1453,
+    "slug": "pisa_2025_az_orokseg",
+    "contentType": "poszt",
+    "title": "PISA 2025: az örökség",
+    "authors": [
+      {
+        "id": 500,
+        "slug": "rado-peter",
+        "name": "Radó Péter"
+      }
+    ],
+    "publishedAt": 1789482660,
+    "date": "2026-09-15",
+    "updatedAt": 1789482660,
+    "tags": [
+      {
+        "id": 283,
+        "slug": "pisa",
+        "name": "PISA"
+      },
+      {
+        "id": 709,
+        "slug": "szelekcio",
+        "name": "szelekció"
+      },
+      {
+        "id": 29,
+        "slug": "orokseg",
+        "name": "örökség"
+      },
+      {
+        "id": 294,
+        "slug": "oktataspolitika",
+        "name": "oktatáspolitika"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Radó Péter írása Ha a családi háttér hatásának első pillantásra teljesen valószínűtlen mértékű javulásának okát keressük, azt kell megnéznünk, hogy hogyan változott a különböző hátterű tanulói csoportok szövegértési teljesítménye.",
+    "coverImage": "/sites/default/files/pisa_0.jpg",
+    "coverAlt": "Forrás: https://northabroad.com/",
+    "coverTitle": "Forrás: https://northabroad.com/",
+    "reads": 4529,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1452,
+    "slug": "kotelezo_keret_vagy_ajanlas",
+    "contentType": "poszt",
+    "title": "Kötelező keret vagy ajánlás?",
+    "authors": [
+      {
+        "id": 66,
+        "slug": "foti-peter",
+        "name": "Fóti Péter"
+      }
+    ],
+    "publishedAt": 1789386120,
+    "date": "2026-09-14",
+    "updatedAt": 1789386120,
+    "tags": [
+      {
+        "id": 280,
+        "slug": "tanterv",
+        "name": "tanterv"
+      },
+      {
+        "id": 820,
+        "slug": "tanulas",
+        "name": "tanulás"
+      },
+      {
+        "id": 132,
+        "slug": "tananyag",
+        "name": "tananyag"
+      },
+      {
+        "id": 190,
+        "slug": "joga",
+        "name": "jóga"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Fóti Péter hozzászólása Knausz Imre Megkérdeztek a NAT-ról című írásához Ha azt mondjuk és valóban szeretnénk, hogy tanítványaink önálló tanulókká váljanak, akkor ezt nem tehetjük meg anélkül, hogy tanáraink önálló emberek lehessenek. Máshogy egyszerűen nem megy. Ha azt szeretném, hogy a gyerekek önállóan tanuljanak…",
+    "coverImage": "/sites/default/files/national_curriculum_0.png",
+    "coverAlt": "Kötelező keret vagy ajánlás?",
+    "coverTitle": "",
+    "reads": 645,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1451,
+    "slug": "ahogy_a_csillag_megy",
+    "contentType": "poszt",
+    "title": "Ahogy a csillag megy",
+    "authors": [
+      {
+        "id": 172,
+        "slug": "nemeth-tibor",
+        "name": "Németh Tibor"
+      }
+    ],
+    "publishedAt": 1789311240,
+    "date": "2026-09-13",
+    "updatedAt": 1789311240,
+    "tags": [
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 264,
+        "slug": "szulok",
+        "name": "szülők"
+      },
+      {
+        "id": 24,
+        "slug": "pszichologia",
+        "name": "pszichológia"
+      },
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Németh Tibor interjúja Flaskárné Hajdu Rita általános iskolai tanárnővel A jó pedagógus feladata, hogy ébren tartsa a gyerekek kíváncsiságát és fel tudja ébreszteni a tudásvágyukat. A diákok csak attól tanulnak szívesen, akit tisztelnek és szeretnek.",
+    "coverImage": "/sites/default/files/flaskarne_hajdu_rita.jpg",
+    "coverAlt": "Németh Tibor és Flaskárné Hajdu Rita",
+    "coverTitle": "Németh Tibor és Flaskárné Hajdu Rita",
+    "reads": 1859,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1450,
+    "slug": "megkerdeztek_a_natrol",
+    "contentType": "poszt",
+    "title": "Megkérdeztek a NAT-ról",
+    "authors": [
+      {
+        "id": 17,
+        "slug": "knausz-imre",
+        "name": "Knausz Imre"
+      }
+    ],
+    "publishedAt": 1789218480,
+    "date": "2026-09-12",
+    "updatedAt": 1789218480,
+    "tags": [
+      {
+        "id": 45,
+        "slug": "felveteli",
+        "name": "felvételi"
+      },
+      {
+        "id": 76,
+        "slug": "erettsegi",
+        "name": "érettségi"
+      },
+      {
+        "id": 280,
+        "slug": "tanterv",
+        "name": "tanterv"
+      },
+      {
+        "id": 46,
+        "slug": "szakkepzes",
+        "name": "szakképzés"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Knausz Imre írása Megtisztelő levelet kaptam az Oktatási és Gyermekügyi Minisztériumtól: mondanám el a véleményem egy kérdőív kitöltésével arról, hogy milyen legyen az új NAT. Az alábbiakban nyilvánosan is közzéteszem a válaszaim. A Taní-tani Online nyitott arra, hogy mások válaszainak is nyilvánosságot adjon.",
+    "coverImage": "/sites/default/files/national_curriculum.png",
+    "coverAlt": "Megkérdeztek a NAT-ról",
+    "coverTitle": "",
+    "reads": 810,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1449,
+    "slug": "csendes_pedagogiai_forradalom",
+    "contentType": "poszt",
+    "title": "Csendes pedagógiai forradalom",
+    "authors": [
+      {
+        "id": 66,
+        "slug": "foti-peter",
+        "name": "Fóti Péter"
+      }
+    ],
+    "publishedAt": 1789153200,
+    "date": "2026-09-11",
+    "updatedAt": 1789153200,
+    "tags": [
+      {
+        "id": 820,
+        "slug": "tanulas",
+        "name": "tanulás"
+      },
+      {
+        "id": 299,
+        "slug": "kozosseg",
+        "name": "közösség"
+      },
+      {
+        "id": 132,
+        "slug": "tananyag",
+        "name": "tananyag"
+      },
+      {
+        "id": 129,
+        "slug": "summerhill",
+        "name": "Summerhill"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Fóti Péter képzeletbeli beszélgetése John Dewey-val, A. S. Neill-lel és Hannelore Zehnpfenniggel A szemünk előtt zajlik egy csendes, mégis gyökeres pedagógiai forradalom. Míg a közbeszéd leginkább a tananyag mennyiségén, a méréseken vagy a fegyelem hiányán vitatkozik, a háttérben a lényeg csendben lejátszódik: a…",
+    "coverImage": "/sites/default/files/activeforlife.com_.jpg",
+    "coverAlt": "Forrás: activeforlife.com",
+    "coverTitle": "Forrás: activeforlife.com",
+    "reads": 559,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1448,
+    "slug": "olvasoi_identitas",
+    "contentType": "poszt",
+    "title": "Olvasói identitás",
+    "authors": [
+      {
+        "id": 712,
+        "slug": "geczi-laskai-judit",
+        "name": "Géczi-Laskai Judit"
+      },
+      {
+        "id": 919,
+        "slug": "kapusi-angela",
+        "name": "Kapusi Angéla"
+      },
+      {
+        "id": 920,
+        "slug": "kelemen-judit",
+        "name": "Kelemen Judit"
+      },
+      {
+        "id": 863,
+        "slug": "molnar-balazs",
+        "name": "Molnár Balázs"
+      }
+    ],
+    "publishedAt": 1788883380,
+    "date": "2026-09-08",
+    "updatedAt": 1788883380,
+    "tags": [
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 217,
+        "slug": "neveles",
+        "name": "nevelés"
+      },
+      {
+        "id": 264,
+        "slug": "szulok",
+        "name": "szülők"
+      },
+      {
+        "id": 254,
+        "slug": "pedagoguspalya",
+        "name": "pedagóguspálya"
+      }
+    ],
+    "sections": [],
+    "excerpt": "A leendő tanárok olvasási attitűdjének vizsgálata. Géczi-Laskai Judit, Kapusi Angéla, Kelemen Judit és Molnár Balázs írása A nem megfelelően közvetített irodalmi alkotások – nyelvi, tematikus vagy műfaji sajátosságaikból adódóan – komoly befogadói akadályokat jelentenek a diákoknak. Ezáltal az olvasás aktusa elveszíti…",
+    "coverImage": "/sites/default/files/reader.jpg",
+    "coverAlt": "Harold Knight festménye. Forrás: https://artuk.org/",
+    "coverTitle": "Harold Knight festménye. Forrás: https://artuk.org/",
+    "reads": 554,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1447,
+    "slug": "kozos_tudas_kulon_utak",
+    "contentType": "poszt",
+    "title": "Közös tudás, külön utak",
+    "authors": [
+      {
+        "id": 791,
+        "slug": "bessenyei-istvan",
+        "name": "Bessenyei István"
+      },
+      {
+        "id": 901,
+        "slug": "apati-balazs",
+        "name": "Apáti Balázs"
+      }
+    ],
+    "publishedAt": 1788701520,
+    "date": "2026-09-06",
+    "updatedAt": 1788701520,
+    "tags": [
+      {
+        "id": 820,
+        "slug": "tanulas",
+        "name": "tanulás"
+      },
+      {
+        "id": 280,
+        "slug": "tanterv",
+        "name": "tanterv"
+      },
+      {
+        "id": 75,
+        "slug": "nemzetkozi",
+        "name": "nemzetközi"
+      },
+      {
+        "id": 262,
+        "slug": "lemorzsolodas",
+        "name": "lemorzsolódás"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Ki irányítja az egyénre szabott tanulást az MI korában? Bessenyei István és Apáti Balázs írása Ebben a modellben az MI nem tantervi döntéshozóként, hanem diagnosztikai, variációképző és visszacsatoló eszközként működik.",
+    "coverImage": "/sites/default/files/alpha.jpg",
+    "coverAlt": "Forrás: forbes.com",
+    "coverTitle": "Forrás: forbes.com",
+    "reads": 921,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1446,
+    "slug": "az_autonomia_joga_es_felelossege",
+    "contentType": "poszt",
+    "title": "Az autonómia joga és felelőssége",
+    "authors": [
+      {
+        "id": 119,
+        "slug": "trencsenyi-laszlo",
+        "name": "Trencsényi László"
+      }
+    ],
+    "publishedAt": 1788436440,
+    "date": "2026-09-03",
+    "updatedAt": 1788436440,
+    "tags": [
+      {
+        "id": 190,
+        "slug": "joga",
+        "name": "jóga"
+      },
+      {
+        "id": 228,
+        "slug": "minosegbiztositas",
+        "name": "minőségbiztosítás"
+      },
+      {
+        "id": 280,
+        "slug": "tanterv",
+        "name": "tanterv"
+      },
+      {
+        "id": 264,
+        "slug": "szulok",
+        "name": "szülők"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Trencsényi László írása A rendszerváltás utáni intézményműködtetési innovációknak – túl a fenntartás körüli megoldáskereséseken – fontos alapkövei voltak a „pedagógiai program” (benne a helyi tanterv), az iskolai SZMSZ, nemkülönben a (különböző néven megjelenő) „minőségbiztosítás”. S egyértelművé vált, hogy az (ugyan…",
+    "coverImage": "/sites/default/files/marie-gabrielle_capet_-_studio_scene.jpg",
+    "coverAlt": "A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye",
+    "coverTitle": "A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye",
+    "reads": 628,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1445,
+    "slug": "elso_nyar_a_kormanyvaltas_utan",
+    "contentType": "poszt",
+    "title": "Első nyár a kormányváltás után",
+    "authors": [
+      {
+        "id": 599,
+        "slug": "dobos-orsolya",
+        "name": "Dobos Orsolya"
+      }
+    ],
+    "publishedAt": 1788362160,
+    "date": "2026-09-02",
+    "updatedAt": 1788362160,
+    "tags": [
+      {
+        "id": 264,
+        "slug": "szulok",
+        "name": "szülők"
+      },
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 727,
+        "slug": "egyhazi-iskolak",
+        "name": "egyházi iskolák"
+      },
+      {
+        "id": 48,
+        "slug": "maganiskolak",
+        "name": "magániskolák"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Az újraépülő oktatásirányítás és a nem állami, nem egyházi iskolák valósága. Dobos Orsolya írása Van azonban egy dolog, amely nem tudja megvárni, amíg az új rendszer felépül: és ez a tanév kezdete.",
+    "coverImage": "/sites/default/files/iskola_0.jpg",
+    "coverAlt": "Forrás: https://www.magnific.com/",
+    "coverTitle": "Forrás: https://www.magnific.com/",
+    "reads": 1453,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1444,
+    "slug": "kinek_jut_ma_komoly_matektanitas",
+    "contentType": "poszt",
+    "title": "Kinek jut ma komoly matektanítás?",
+    "authors": [
+      {
+        "id": 918,
+        "slug": "weisz-agoston",
+        "name": "Weisz Ágoston"
+      }
+    ],
+    "publishedAt": 1788089340,
+    "date": "2026-08-30",
+    "updatedAt": 1788089340,
+    "tags": [
+      {
+        "id": 285,
+        "slug": "tehetseg",
+        "name": "tehetség"
+      },
+      {
+        "id": 75,
+        "slug": "nemzetkozi",
+        "name": "nemzetközi"
+      },
+      {
+        "id": 45,
+        "slug": "felveteli",
+        "name": "felvételi"
+      },
+      {
+        "id": 207,
+        "slug": "pedagogia",
+        "name": "pedagógia"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Weisz Ágoston írása Egy ember, aki két-három héten át néhányszor odaül a gyerek mellé, megnézi, pontosan hol csúszott el, és nem elmagyarázza még egyszer ugyanazt, hanem visszamegy odáig, ahol még biztos volt.",
+    "coverImage": "/sites/default/files/3-math.jpg",
+    "coverAlt": "Kinek jut ma komoly matektanítás?",
+    "coverTitle": "",
+    "reads": 757,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1443,
+    "slug": "gondolataim_a_kozoktatasrol",
+    "contentType": "poszt",
+    "title": "Gondolataim a közoktatásról",
+    "authors": [
+      {
+        "id": 917,
+        "slug": "kabdebo-ferenc",
+        "name": "Kabdebó Ferenc"
+      }
+    ],
+    "publishedAt": 1787755200,
+    "date": "2026-08-26",
+    "updatedAt": 1787755200,
+    "tags": [
+      {
+        "id": 228,
+        "slug": "minosegbiztositas",
+        "name": "minőségbiztosítás"
+      },
+      {
+        "id": 22,
+        "slug": "pedagoguskepzes",
+        "name": "pedagógusképzés"
+      },
+      {
+        "id": 132,
+        "slug": "tananyag",
+        "name": "tananyag"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Kabdebó Ferenc írása A teljes koncepció mellékletben olvasható .",
+    "coverImage": "/sites/default/files/gondolataim.jpg",
+    "coverAlt": "Gondolataim a közoktatásról",
+    "coverTitle": "",
+    "reads": 1446,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1442,
+    "slug": "a_napirend_vagy_a_gyerek",
+    "contentType": "poszt",
+    "title": "A napirend vagy a gyerek?",
+    "authors": [
+      {
+        "id": 916,
+        "slug": "jankovics-adrienn",
+        "name": "Jankovics Adrienn"
+      }
+    ],
+    "publishedAt": 1787495400,
+    "date": "2026-08-23",
+    "updatedAt": 1787495400,
+    "tags": [
+      {
+        "id": 301,
+        "slug": "jatek",
+        "name": "játék"
+      },
+      {
+        "id": 318,
+        "slug": "ovoda",
+        "name": "óvoda"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Gondolatok a gyermekközpontú óvodáról és a pedagógusszerep változásáról. Jankovics Adrienn írása Az előre megtervezett foglalkozás biztonságot ad a pedagógusnak. Tudom, mi következik, mit fogok mondani, mit kell előkészítenem, és mit szeretnék elérni. Ha azonban a gyerekek érdeklődéséből indulok ki, nekem is el kell…",
+    "coverImage": "/sites/default/files/gombvalogatos.png",
+    "coverAlt": "A napirend vagy a gyerek?",
+    "coverTitle": "",
+    "reads": 898,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1441,
+    "slug": "dokumentumkozles",
+    "contentType": "poszt",
+    "title": "Dokumentumközlés",
+    "authors": [
+      {
+        "id": 668,
+        "slug": "szudi-janos",
+        "name": "Szüdi János"
+      },
+      {
+        "id": 119,
+        "slug": "trencsenyi-laszlo",
+        "name": "Trencsényi László"
+      }
+    ],
+    "publishedAt": 1787325660,
+    "date": "2026-08-21",
+    "updatedAt": 1787325660,
+    "tags": [
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      }
+    ],
+    "sections": [],
+    "excerpt": "A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének megújításához (Szüdi János, 2014) Szüdi János jogászként indult. Minisztériumi feladatai során értette meg az iskola, az iskolarendszer megváltoztatásának, a \"kultúraváltásnak\" szükségét. Megannyi progresszív jogszabály kodifikálása fűződött a…",
+    "coverImage": "/sites/default/files/mm_szudijanos_0925_3.jpg",
+    "coverAlt": "Forrás: https://www.hodpress.hu/",
+    "coverTitle": "Forrás: https://www.hodpress.hu/",
+    "reads": 976,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1440,
+    "slug": "az_elso_100_nap",
+    "contentType": "poszt",
+    "title": "Az első 100 nap",
+    "authors": [
+      {
+        "id": 500,
+        "slug": "rado-peter",
+        "name": "Radó Péter"
+      }
+    ],
+    "publishedAt": 1786887540,
+    "date": "2026-08-16",
+    "updatedAt": 1786887540,
+    "tags": [
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 76,
+        "slug": "erettsegi",
+        "name": "érettségi"
+      },
+      {
+        "id": 727,
+        "slug": "egyhazi-iskolak",
+        "name": "egyházi iskolák"
+      },
+      {
+        "id": 294,
+        "slug": "oktataspolitika",
+        "name": "oktatáspolitika"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Radó Péter írása A minisztérium vezetőitől senki sem várja, hogy kinevezésük után néhány héttel kiérlelt decentralizációs stratégiával álljanak elő. Azt azonban világossá kell tenniük, hogy a jövőt a jelenlegi rendszerben, vagy egy decentralizált és a laikus szereplők bevonásán alapuló (társadalmasított) rendszerben…",
+    "coverImage": "/sites/default/files/ogym.jpeg.jpg",
+    "coverAlt": "Az első 100 nap",
+    "coverTitle": "",
+    "reads": 7172,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1439,
+    "slug": "a_szabadsag_nem_eleg",
+    "contentType": "poszt",
+    "title": "A szabadság nem elég",
+    "authors": [
+      {
+        "id": 148,
+        "slug": "l-ritok-nora",
+        "name": "L. Ritók Nóra"
+      }
+    ],
+    "publishedAt": 1786795620,
+    "date": "2026-08-15",
+    "updatedAt": 1786795620,
+    "tags": [
+      {
+        "id": 128,
+        "slug": "pedagogusok",
+        "name": "pedagógusok"
+      },
+      {
+        "id": 23,
+        "slug": "kompetencia",
+        "name": "kompetencia"
+      },
+      {
+        "id": 401,
+        "slug": "szupervizio",
+        "name": "szupervízió"
+      },
+      {
+        "id": 196,
+        "slug": "szorongas",
+        "name": "szorongás"
+      }
+    ],
+    "sections": [],
+    "excerpt": "L. Ritók Nóra írása Mert a szabadság önmagában nem tanít meg szabadnak lenni. Ahhoz tudás, készségek, önbizalom, önreflexió, együttműködés, szakmai kíváncsiság és bátorság is kell.",
+    "coverImage": "/sites/default/files/szabadsag.jpg",
+    "coverAlt": "Készült az Igazgyöngy műhelyében",
+    "coverTitle": "Készült az Igazgyöngy műhelyében",
+    "reads": 1653,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1438,
+    "slug": "azylum_volt_az_a_kozeg",
+    "contentType": "poszt",
+    "title": "Azylum volt az a közeg",
+    "authors": [
+      {
+        "id": 915,
+        "slug": "lorinc-laszlo",
+        "name": "Lőrinc László"
+      }
+    ],
+    "publishedAt": 1786701060,
+    "date": "2026-08-14",
+    "updatedAt": 1786701060,
+    "tags": [
+      {
+        "id": 161,
+        "slug": "szinhaz",
+        "name": "színház"
+      },
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 102,
+        "slug": "eloadas",
+        "name": "előadás"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Lőrinc László beszéde Misley Judit temetésén 2026. augusztus 13-án No, a vállvonogatás és közöny, ez volt az, amit te nem ismertél soha. És ha jogos haragodban a telefonhoz folyamodtál, már tárcsázás közben szinte szétesett a készülék.",
+    "coverImage": "/sites/default/files/740152964_1028703996209718_3789922429348467337_n.jpg",
+    "coverAlt": "Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete",
+    "coverTitle": "Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete",
+    "reads": 1096,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
+    "id": 1437,
+    "slug": "a_pedagogiai_muvesz_feladatai",
+    "contentType": "poszt",
+    "title": "A pedagógiai művész feladatai",
+    "authors": [
+      {
+        "id": 914,
+        "slug": "kertai-csenger",
+        "name": "Kertai Csenger"
+      }
+    ],
+    "publishedAt": 1786529160,
+    "date": "2026-08-12",
+    "updatedAt": 1786529160,
+    "tags": [
+      {
+        "id": 820,
+        "slug": "tanulas",
+        "name": "tanulás"
+      },
+      {
+        "id": 763,
+        "slug": "pedagogus",
+        "name": "pedagógus"
+      },
+      {
+        "id": 113,
+        "slug": "kreativitas",
+        "name": "kreativitás"
+      },
+      {
+        "id": 299,
+        "slug": "kozosseg",
+        "name": "közösség"
+      }
+    ],
+    "sections": [],
+    "excerpt": "Vázlat. Kertai Csenger írása Így a tanulás a politikai hatalomszerzés nyelvéről áthelyeződik a másik megértésének kísérletező nyelvére. A pedagógiai művész mer sebezhető lenni, mer hibázni, mer őszinte lenni, meri szeretni a diákjait, mert meg akarja érteni őket.",
+    "coverImage": "/sites/default/files/tlet2.jpeg",
+    "coverAlt": "A pedagógiai művész feladatai",
+    "coverTitle": "",
+    "reads": 886,
+    "commentCount": 0,
+    "issueYear": "",
+    "issueNumber": null,
+    "issuePage": ""
+  },
+  {
     "id": 1436,
     "slug": "inkabb_ne_mint_rosszul",
     "contentType": "poszt",
@@ -26,7 +1153,7 @@
     "coverImage": "/sites/default/files/inkabb-ne.jpg",
     "coverAlt": "Forrás: 24.hu",
     "coverTitle": "Forrás: 24.hu",
-    "reads": 430,
+    "reads": 2002,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -74,7 +1201,7 @@
     "coverImage": "/sites/default/files/dennison.jpg",
     "coverAlt": "Igazságosság és empátia",
     "coverTitle": "",
-    "reads": 1602,
+    "reads": 1815,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -117,7 +1244,7 @@
     "coverImage": "/sites/default/files/pszeudo.hu_.kass_janos.jpg",
     "coverAlt": "Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez. Forrás: pszeudo.hu",
     "coverTitle": "Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez. Forrás: pszeudo.hu",
-    "reads": 1862,
+    "reads": 2024,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -165,7 +1292,7 @@
     "coverImage": "/sites/default/files/homer_lane_nagy.jpeg",
     "coverAlt": "Homer Lane",
     "coverTitle": "Homer Lane",
-    "reads": 778,
+    "reads": 930,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -213,7 +1340,7 @@
     "coverImage": "/sites/default/files/personalized.jpg",
     "coverAlt": "Forrás: https://standtogether.org/",
     "coverTitle": "Forrás: https://standtogether.org/",
-    "reads": 873,
+    "reads": 1094,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -251,7 +1378,7 @@
     "coverImage": "/sites/default/files/mann_veraszto.jpg",
     "coverAlt": "Verasztó Lajos (jobbra) és a szerző",
     "coverTitle": "Verasztó Lajos (jobbra) és a szerző",
-    "reads": 1490,
+    "reads": 1732,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -299,7 +1426,7 @@
     "coverImage": "/sites/default/files/jula_mama.jpg",
     "coverAlt": "Mindenki „Jula mamája”",
     "coverTitle": "",
-    "reads": 1586,
+    "reads": 1790,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -357,7 +1484,7 @@
     "coverImage": "/sites/default/files/ai.png",
     "coverAlt": "Forrás: https://www.ntnu.edu/",
     "coverTitle": "Forrás: https://www.ntnu.edu/",
-    "reads": 1315,
+    "reads": 1518,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -410,7 +1537,7 @@
     "coverImage": "/sites/default/files/judit_nover.jpg",
     "coverAlt": "Judit nővér",
     "coverTitle": "Judit nővér",
-    "reads": 1225,
+    "reads": 1360,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -448,7 +1575,7 @@
     "coverImage": "/sites/default/files/balazs_gyorgy.jpg",
     "coverAlt": "Gyurka pajtás",
     "coverTitle": "",
-    "reads": 820,
+    "reads": 927,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -496,7 +1623,7 @@
     "coverImage": "/sites/default/files/ellenorzo.jpg",
     "coverAlt": "Forrás: https://retronom.hu/",
     "coverTitle": "Forrás: https://retronom.hu/",
-    "reads": 2318,
+    "reads": 2572,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -544,7 +1671,7 @@
     "coverImage": "/sites/default/files/karpati_andrea.png",
     "coverAlt": "Kárpáti Andrea",
     "coverTitle": "Kárpáti Andrea",
-    "reads": 1137,
+    "reads": 1251,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -597,7 +1724,7 @@
     "coverImage": "/sites/default/files/digitalis.png",
     "coverAlt": "A tanárszerep újradefiniálása…",
     "coverTitle": "",
-    "reads": 951,
+    "reads": 1138,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -645,7 +1772,7 @@
     "coverImage": "/sites/default/files/vizualis_cimlap.jpg",
     "coverAlt": "Látni tanulunk",
     "coverTitle": "",
-    "reads": 1970,
+    "reads": 2150,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -688,7 +1815,7 @@
     "coverImage": "/sites/default/files/little-white-church.jpg",
     "coverAlt": "Forrás: Freepik",
     "coverTitle": "Forrás: Freepik",
-    "reads": 2388,
+    "reads": 2690,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -736,7 +1863,7 @@
     "coverImage": "/sites/default/files/help.jpeg",
     "coverAlt": "Új távlatok, régi kérdések",
     "coverTitle": "",
-    "reads": 1819,
+    "reads": 2041,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -784,7 +1911,7 @@
     "coverImage": "/sites/default/files/kalkar.png",
     "coverAlt": "Forrás: The Met",
     "coverTitle": "Forrás: The Met",
-    "reads": 869,
+    "reads": 1031,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -832,7 +1959,7 @@
     "coverImage": "/sites/default/files/tanodasok01.png",
     "coverAlt": "Tanodások. A szerző felvétele",
     "coverTitle": "Tanodások. A szerző felvétele",
-    "reads": 1429,
+    "reads": 1543,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -885,7 +2012,7 @@
     "coverImage": "/sites/default/files/tallian_mariann.jpg",
     "coverAlt": "Tallián Mariann. Mészáros Gábor fotója",
     "coverTitle": "Tallián Mariann. Mészáros Gábor fotója",
-    "reads": 1411,
+    "reads": 1501,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -933,7 +2060,7 @@
     "coverImage": "/sites/default/files/mediaoktatas.jpg",
     "coverAlt": "Képkorszak  –  Médiamánia",
     "coverTitle": "",
-    "reads": 2218,
+    "reads": 2324,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -981,7 +2108,7 @@
     "coverImage": "/sites/default/files/korczak_novendekei.jpg",
     "coverAlt": "Janusz Korczak növendékei. Forrás: Arolsen Archives",
     "coverTitle": "Janusz Korczak növendékei. Forrás: Arolsen Archives",
-    "reads": 2041,
+    "reads": 2148,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -1029,7 +2156,7 @@
     "coverImage": "/sites/default/files/mezitlabas_szille.png",
     "coverAlt": "Opera az iskolában",
     "coverTitle": "",
-    "reads": 952,
+    "reads": 1073,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -1072,7 +2199,7 @@
     "coverImage": "/sites/default/files/aczel_anna.jpg",
     "coverAlt": "Aczél Anna",
     "coverTitle": "Aczél Anna",
-    "reads": 1151,
+    "reads": 1256,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -1120,7 +2247,7 @@
     "coverImage": "/sites/default/files/mayer_nemeth.jpg",
     "coverAlt": "Mayer Szilvia és Németh Tibor",
     "coverTitle": "Mayer Szilvia és Németh Tibor",
-    "reads": 2773,
+    "reads": 2936,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,
@@ -1173,7 +2300,7 @@
     "coverImage": "/sites/default/files/aischool_1.jpg",
     "coverAlt": "Az MI az iskolában 3.",
     "coverTitle": "",
-    "reads": 1428,
+    "reads": 1570,
     "commentCount": 0,
     "issueYear": "",
     "issueNumber": null,

@@ -1,0 +1,51 @@
+{
+  "id": 1441,
+  "slug": "dokumentumkozles",
+  "contentType": "poszt",
+  "title": "Dokumentumközlés",
+  "authors": [
+    {
+      "id": 668,
+      "slug": "szudi-janos",
+      "name": "Szüdi János"
+    },
+    {
+      "id": 119,
+      "slug": "trencsenyi-laszlo",
+      "name": "Trencsényi László"
+    }
+  ],
+  "publishedAt": 1787325660,
+  "date": "2026-08-21",
+  "updatedAt": 1787325660,
+  "tags": [
+    {
+      "id": 128,
+      "slug": "pedagogusok",
+      "name": "pedagógusok"
+    },
+    {
+      "id": 763,
+      "slug": "pedagogus",
+      "name": "pedagógus"
+    }
+  ],
+  "sections": [],
+  "excerpt": "A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének megújításához (Szüdi János, 2014) Szüdi János jogászként indult. Minisztériumi feladatai során értette meg az iskola, az iskolarendszer megváltoztatásának, a \"kultúraváltásnak\" szükségét. Megannyi progresszív jogszabály kodifikálása fűződött a…",
+  "coverImage": "/sites/default/files/mm_szudijanos_0925_3.jpg",
+  "coverAlt": "Forrás: https://www.hodpress.hu/",
+  "coverTitle": "Forrás: https://www.hodpress.hu/",
+  "reads": 976,
+  "commentCount": 0,
+  "issueYear": "",
+  "issueNumber": null,
+  "issuePage": "",
+  "summaryHtml": "",
+  "bodyHtml": "<blockquote><p>A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének megújításához (Szüdi János, 2014)</p>\n</blockquote>\n<p class=\"rtejustify\">Szüdi János jogászként indult. Minisztériumi feladatai során értette meg az iskola, az iskolarendszer megváltoztatásának, a \"kultúraváltásnak\" szükségét. Megannyi progresszív jogszabály kodifikálása fűződött a nevéhez. Ám a NER korszakának oktatáspolitikáját kéményen bírálta. Alternatív törvényjavaslatot készítő műhelyt szervezett, fontos könyveket írt, kapcsolatot keresett a Pedagógus Szakszervezettel is. A PSZ irattárából került elő ez a 2014-ből származó kritikus fejlesztési koncepció, melynek tanulságai (nem csupán a szerzőre való emlékezés okán) megfontolandók. (Trencsényi László)</p>",
+  "attachments": [],
+  "comments": [],
+  "migration": {
+    "source": "live-public-supplement",
+    "tagSource": "content-inference"
+  }
+}

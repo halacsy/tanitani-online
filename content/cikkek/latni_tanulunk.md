@@ -18,7 +18,7 @@ excerpt: >-
   elfogadott…
 coverImage: /sites/default/files/vizualis_cimlap.jpg
 coverAlt: Látni tanulunk
-reads: 1970
+reads: 2150
 ---
 <strong><span style="font-size: 12px;">A vizuális információk áradata a 21. század tengerén. Wilhelm Móni írása</span></strong>
 

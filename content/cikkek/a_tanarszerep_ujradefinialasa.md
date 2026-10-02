@@ -16,7 +16,7 @@ excerpt: >-
   Molnár Balázs írása A digitális bennszülöttek köztünk élnek.
 coverImage: /sites/default/files/digitalis.png
 coverAlt: A tanárszerep újradefiniálása…
-reads: 951
+reads: 1138
 ---
 <strong><span style="font-size: 12px;">…avagy miért kell változnunk, milyenné kell válnunk? Ludnikné Pálfi Dorina és Molnár Balázs írása</span></strong>
 

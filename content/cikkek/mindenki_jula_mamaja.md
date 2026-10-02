@@ -13,7 +13,7 @@ tags:
 excerpt: Mészáros Kinga írása „Virtuális táncosokkal nem lehet dolgozni."
 coverImage: /sites/default/files/jula_mama.jpg
 coverAlt: Mindenki „Jula mamája”
-reads: 1586
+reads: 1790
 ---
 <strong><span style="font-size: 12px;">Mészáros Kinga írása</span></strong>
 

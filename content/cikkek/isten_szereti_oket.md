@@ -20,7 +20,7 @@ excerpt: >-
 coverImage: /sites/default/files/judit_nover.jpg
 coverAlt: Judit nővér
 coverTitle: Judit nővér
-reads: 1225
+reads: 1360
 ---
 <strong><span style="font-size: 12px;">Ezt próbálom megtapasztaltatni velük, hogy akkor is szereti őket Isten, ha rosszat csinálnak. Interjú Judit nővérrel. Lejegyezte Trencsényi László</span></strong>
 

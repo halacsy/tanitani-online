@@ -1,5 +1,13 @@
 [
   {
+    "id": 924,
+    "name": "A Felforgatókönyv pedagógiai műhelye",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "a-felforgatokonyv-pedagogiai-muhelye",
+    "articleCount": 1
+  },
+  {
     "id": 702,
     "name": "Abonyi Gabriella",
     "descriptionHtml": "",
@@ -61,7 +69,7 @@
     "descriptionHtml": "<p>Keramikus, digitális szövegalkotó és promptspecialista vagyok. A generatív mesterséges intelligencia és az emberi gondolkodás együttműködésének lehetőségeivel foglalkozom. Waldorf-tanárként tanítottam, kiképzett pszichodramatista vagyok. Kisorosziban élek és alkotok.</p>\r\n",
     "weight": 0,
     "slug": "apati-balazs",
-    "articleCount": 3
+    "articleCount": 4
   },
   {
     "id": 647,
@@ -301,7 +309,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">Nyugalmazott egyetemi docens, oktatásszociológus vagyok. Fő érdeklődési körömbe tartozik a tanulási rendszerek sorsa a kései modern információs&nbsp; társadalomban, ezen belül is a tudás átalakulása, a digitális átállás és a mesterséges intelligenciának az oktatásban betöltött szerepe.</p>\r\n",
     "weight": 0,
     "slug": "bessenyei-istvan",
-    "articleCount": 19
+    "articleCount": 20
   },
   {
     "id": 226,
@@ -445,7 +453,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "braun-jozsef",
-    "articleCount": 3
+    "articleCount": 4
   },
   {
     "id": 453,
@@ -669,7 +677,7 @@
     "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tÓvodapedagógus, köznevelési és felnőttképzési szakember, a Wesley János Lelkészképző Főiskola Valláspedagógiai Doktori Iskolájának PhD-hallgatója vagyok. Kutatási területem a fogyatékosság teológiai és pedagógiai értelmezése a középkori keresztény Európában, különös tekintettel az emberképre és a nevelési felelősség kérdéseire. Szakmai érdeklődésem kiterjed továbbá az óvodai nevelés etikai dilemmáira és a technológiai innovációk pedagógiai értelmezésére is.</div>\r\n",
     "weight": 0,
     "slug": "csizmarne-gede-erika-judit",
-    "articleCount": 6
+    "articleCount": 7
   },
   {
     "id": 269,
@@ -872,6 +880,14 @@
     "articleCount": 2
   },
   {
+    "id": 923,
+    "name": "Deák Réka",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "deak-reka",
+    "articleCount": 1
+  },
+  {
     "id": 786,
     "name": "Dinyés Soma",
     "descriptionHtml": "",
@@ -885,7 +901,7 @@
     "descriptionHtml": "<p class=\"rtejustify\"><span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">A Rogers &Oacute;voda &eacute;s Iskola munkat&aacute;rsa, az Alap&iacute;tv&aacute;nyi &eacute;s Mag&aacute;niskol&aacute;k Egyes&uuml;lete alternat&iacute;v tagozat&aacute;nak vezetője.</span></p>\r\n",
     "weight": 0,
     "slug": "dobos-orsolya",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 656,
@@ -1277,7 +1293,7 @@
     "descriptionHtml": "<p>Budapesten születtem 1956-ban. 1990 óta élek Bécsben, feleségemmel és fiammal. Fiam születése (1999) után fordultam ismét pedagógiai kérdések felé, folytatva azt, amit 1987 és 1990 között a OPI Iskolakutatási Osztályán csináltam: olvasni, gondolkodni, írni arról, hogy mik a hibái a mai társadalomnak, nevelésnek, iskolának.</p>\r\n<p><a href=\"https://www.foti-peter.hu/publikacioim/\">Publikációim jegyzéke</a></p>\r\n",
     "weight": 0,
     "slug": "foti-peter",
-    "articleCount": 45
+    "articleCount": 47
   },
   {
     "id": 53,
@@ -1285,7 +1301,7 @@
     "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tTanár vagyok és mentálhigiénikus. Tanítottam az AKG-ban szerencsésebb és a Zöld Kakas Líceumban kevésbé szerencsés sorsú gyerekeket, voltam tanárok és szülők segítője, s nagy lelkesedéssel vettem részt a Pannon Egyetem, majd az Eszterházy Károly Főiskola gyakorlatorientált tanárképzési programjában. Az igazi helyemet azonban a szakképzésben találtam meg, ahol olyan felnőttekkel foglalkozhatok, akik komoly élettapasztalattal és elköteleződéssel választották a pedagógiai, gyógypedagógiai asszisztensi hivatást.</div>\r\n",
     "weight": 0,
     "slug": "foldes-petra",
-    "articleCount": 11
+    "articleCount": 12
   },
   {
     "id": 814,
@@ -1477,7 +1493,7 @@
     "descriptionHtml": "<div class=\"rtejustify\">\r\n\tJugoszl&aacute;vi&aacute;b&oacute;l ker&uuml;ltem Magyarorsz&aacute;gra, nyugd&iacute;jas n&eacute;met-orosz szakos nyelvtan&aacute;r vagyok, az ELTE-n szereztem a diplom&aacute;mat. Tan&iacute;tottam gimn&aacute;ziumokban, főiskol&aacute;kon &eacute;s szakk&ouml;z&eacute;piskol&aacute;kban, m&aacute;sod&aacute;ll&aacute;sban 20 &eacute;vig nyelviskol&aacute;n, szlov&eacute;n tolm&aacute;cs &eacute;s ford&iacute;t&oacute; voltam. R&eacute;szt vettem posztgradu&aacute;lis k&eacute;pz&eacute;sen Moszkv&aacute;ban, valamint szlov&eacute;niai &eacute;s n&eacute;metorsz&aacute;gi tanulm&aacute;nyutakon. &Iacute;rtam n&eacute;h&aacute;ny k&ouml;nyvet, t.k. n&eacute;met nyelvvizsga elők&eacute;sz&iacute;tő anyagokat, &iacute;rtam &eacute;s ford&iacute;tottam verseket, novell&aacute;kat, alkalmi &iacute;r&aacute;sokat főleg k&eacute;t nyelven, magyarul &eacute;s szlov&eacute;nul, k&uuml;lső munkat&aacute;rsa voltam a szlov&eacute;n nemzetis&eacute;gi lapnak.&nbsp;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n",
     "weight": 0,
     "slug": "guoth-suzana",
-    "articleCount": 4
+    "articleCount": 5
   },
   {
     "id": 459,
@@ -1549,7 +1565,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "geczi-laskai-judit",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 298,
@@ -1872,6 +1888,14 @@
     "articleCount": 1
   },
   {
+    "id": 916,
+    "name": "Jankovics Adrienn",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "jankovics-adrienn",
+    "articleCount": 1
+  },
+  {
     "id": 819,
     "name": "Janusz Korczak",
     "descriptionHtml": "",
@@ -1992,6 +2016,14 @@
     "articleCount": 7
   },
   {
+    "id": 917,
+    "name": "Kabdebó Ferenc",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kabdebo-ferenc",
+    "articleCount": 1
+  },
+  {
     "id": 624,
     "name": "Kada Krisztina",
     "descriptionHtml": "",
@@ -2013,6 +2045,14 @@
     "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tAlapvetően gyógypedagógusként definiálom önmagam, külön öröm számomra, hogy hivatásom a jövő szakembereinek is taníthatom. Ezzel párhuzamosan pedagógusok és más társszakmák képviselőinek tudásbővítését és szemléletformálását igyekszem támogatni fogyatékosságügyi, gyógypedagógiai, illetve mentálhigiénés témákban.</div>\r\n",
     "weight": 0,
     "slug": "kapitany-ervin-pal",
+    "articleCount": 1
+  },
+  {
+    "id": 919,
+    "name": "Kapusi Angéla",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kapusi-angela",
     "articleCount": 1
   },
   {
@@ -2072,6 +2112,14 @@
     "articleCount": 2
   },
   {
+    "id": 920,
+    "name": "Kelemen Judit",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kelemen-judit",
+    "articleCount": 1
+  },
+  {
     "id": 548,
     "name": "Kelemen Valéria",
     "descriptionHtml": "<p class=\"rtejustify\">A Motiv&aacute;ci&oacute; Oktat&aacute;si Egyes&uuml;let egyik aleln&ouml;ke, az oktat&aacute;s ter&uuml;let&eacute;hez k&ouml;tődő programok vezetője. A Szegedi Tudom&aacute;nyegyetemen szerzett angol &eacute;s pedag&oacute;gia szakos diplom&aacute;t. Az ut&oacute;bbi szakhoz kapcsol&oacute;d&oacute; szakdolgozat&aacute;ban az Amerikai Egyes&uuml;lt &Aacute;llamok deszegreg&aacute;ci&oacute;s t&ouml;rekv&eacute;seinek tapasztalatait dolgozta fel. A Hallgat&oacute;i Mentorprogram első k&eacute;t tan&eacute;v&eacute;ben mentorhallgat&oacute;k&eacute;nt seg&iacute;tette a bez&aacute;rt iskola tanul&oacute;it, ezt k&ouml;vetően &ouml;t &eacute;ven kereszt&uuml;l a program projektvezetője, majd tanodavezető a szegedi Motiv&aacute;ci&oacute; Tanod&aacute;ban. A Motiv&aacute;ci&oacute; Műhely &eacute;s a TanodaPlatform egyik alap&iacute;t&oacute;ja.</p>\r\n",
@@ -2109,6 +2157,14 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kereszturi-jozsef",
+    "articleCount": 1
+  },
+  {
+    "id": 914,
+    "name": "Kertai Csenger",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "kertai-csenger",
     "articleCount": 1
   },
   {
@@ -2205,7 +2261,7 @@
     "descriptionHtml": "<p>Pedagógiáról gondolkodó ember vagyok. Amúgy nyugdíjas. 2007–2010 között a Taní-tani alternatív iskolai folyóirat, 2011 óta a Taní-tani Online főszerkesztője.</p>\r\n",
     "weight": 0,
     "slug": "knausz-imre",
-    "articleCount": 48
+    "articleCount": 49
   },
   {
     "id": 410,
@@ -2501,7 +2557,7 @@
     "descriptionHtml": "<p>Beretty&oacute;&uacute;jfaluban &eacute;lek, eredetileg f&ouml;ldrajz-rajz szakos tan&aacute;rk&eacute;nt, 10 &eacute;ve a műv&eacute;szeti oktat&aacute;sra, a vizu&aacute;lis nevel&eacute;sre koncentr&aacute;lva, itt dolgozom. Mindig is &eacute;rdekeltek a gyermekk&ouml;zpont&uacute; pedag&oacute;gi&aacute;k, amit lak&oacute;helyem folyt&aacute;n egy m&aacute;sik izgalmas ter&uuml;lettel, a h&aacute;tr&aacute;nyos helyzetű gyerekek oktat&aacute;s&aacute;val &ouml;tv&ouml;zhetek.</p>\r\n",
     "weight": 0,
     "slug": "l-ritok-nora",
-    "articleCount": 76
+    "articleCount": 77
   },
   {
     "id": 447,
@@ -2645,6 +2701,14 @@
     "descriptionHtml": "<p class=\"rtejustify\">Pedagógusként 1995-ben, egy tatabányai alapítványi általános iskolában kezdtem el dolgozni, ahol angolt tanítottam 9 évig. A – ma már nem működő – iskolában eltöltött időszak, az intézmény profiljából adódóan (tehetséggondozó, illetve jellemzően hátrányos helyzetű, tanulási nehézségekkel küszködő gyerekeket koncentráló osztályokkal) ma is hasznosítható tapasztalatokat adott.&nbsp;<span>2005-2010 között újságíró-szerkesztőként dolgoztam a Komárom-Esztergom megyei 24 Óránál, majd a TKTV „Itthon” című hetilapjánál. Emellett az MTI-nek is bedolgoztam megyei másodtudósítóként.&nbsp;</span><span>2010-2012 között Angliában, majd Svájcban vállaltam munkát.&nbsp;</span><span>Jelenleg Tatabányán tanítok angoltanárként szakgimnazistákat és szakközépiskolásokat.&nbsp;</span></p>\r\n",
     "weight": 0,
     "slug": "levai-julianna",
+    "articleCount": 1
+  },
+  {
+    "id": 915,
+    "name": "Lőrinc László",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "lorinc-laszlo",
     "articleCount": 1
   },
   {
@@ -2869,7 +2933,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">Történelem és filozófia–pedagógia szakos tanár vagyok, doktori címemet neveléstudományokból szereztem. 2023-ig a Debreceni Egyetem Gyermeknevelési és Gyógypedagógiai Karán dolgoztam, majd a Miskolci Egyetem Tanárképző Intézetének oktatója lettem. Kutatási területem elsősorban a digitális pedagógia és az e-tanulás, de szívesen foglalkozom a kreatív és reziliens személyiségfejlődés, -fejlesztés kérdéseivel (pl. művészeti nevelés, jóllét, családi háttér) is.</p>\r\n",
     "weight": 0,
     "slug": "molnar-balazs",
-    "articleCount": 3
+    "articleCount": 4
   },
   {
     "id": 314,
@@ -3189,7 +3253,7 @@
     "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tPedagógus vagyok, szakképző intézményben dolgozom, ahol mentorálással, projektalapú tanulással és tanulói támogatással foglalkozom.&nbsp;<span style=\"font-size: 12px;\">Munkám középpontjában a tanulói életutak megértése és az intézményi működés rendszerszintű fejlesztése áll.&nbsp;</span><span style=\"font-size: 12px;\">Írásaimban a mindennapi pedagógiai gyakorlat és az oktatási rendszer feszültségeire reflektálok.</span></div>\r\n",
     "weight": 0,
     "slug": "nemeth-gabor",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 696,
@@ -3205,7 +3269,7 @@
     "descriptionHtml": "<p>Jelenleg az &iacute;r oktat&aacute;si rendszert tanulm&aacute;nyozom.</p>\r\n",
     "weight": 0,
     "slug": "nemeth-tibor",
-    "articleCount": 41
+    "articleCount": 42
   },
   {
     "id": 768,
@@ -3509,7 +3573,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "rado-peter",
-    "articleCount": 12
+    "articleCount": 14
   },
   {
     "id": 720,
@@ -4173,7 +4237,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szudi-janos",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 455,
@@ -4397,7 +4461,7 @@
     "descriptionHtml": "<p>Voltam &aacute;ltal&aacute;nos iskolai tan&aacute;r (ama bizonyos Kert&eacute;sz utc&aacute;ban, majd egy pal&oacute;c faluban), azt&aacute;n voltam az &uacute;tt&ouml;rők kultur&aacute;lis &eacute;let&eacute;nek reformere, innov&aacute;ci&oacute;s mindenes (OPI-ban, OKI-ban) - fők&eacute;nt az iskola hat&aacute;rvid&eacute;kein kerestem a meg&uacute;j&iacute;t&aacute;sra k&eacute;sz gerillacsapatokat (gyerekkult&uacute;ra, &Aacute;MK, iskolasz&eacute;k stb.). Ma fők&eacute;nt pedag&oacute;gusjel&ouml;ltek &uacute;j nemzed&eacute;k&eacute;nek megteremt&eacute;s&eacute;ben b&iacute;zom, kor&aacute;bban Miskolcon tan&iacute;tottam, ma a&nbsp; pesti egyetem pedag&oacute;giai &eacute;s pszichol&oacute;giai kar&aacute;n. 60. &eacute;vemet bet&ouml;ltv&eacute;n &quot;lovagg&aacute;&nbsp;&nbsp; &uuml;t&ouml;tt&quot; a k&ouml;zt&aacute;rsas&aacute;gi eln&ouml;k - rem&eacute;lem, meg&eacute;rdemeltem.<br />\r\n\t&nbsp;</p>\r\n",
     "weight": 0,
     "slug": "trencsenyi-laszlo",
-    "articleCount": 88
+    "articleCount": 91
   },
   {
     "id": 722,
@@ -4813,6 +4877,14 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "warholik-zoltan",
+    "articleCount": 1
+  },
+  {
+    "id": 918,
+    "name": "Weisz Ágoston",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "weisz-agoston",
     "articleCount": 1
   },
   {

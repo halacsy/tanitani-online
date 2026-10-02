@@ -18,7 +18,7 @@ excerpt: >-
   ötletük is…
 coverImage: /sites/default/files/mezitlabas_szille.png
 coverAlt: Opera az iskolában
-reads: 952
+reads: 1073
 ---
 <strong><span style="font-size: 12px;">Hogyan válhat egy elit műfaj közösségi pedagógiai folyamattá? Siposné Varga Edit írása</span></strong>
 

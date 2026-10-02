@@ -189,7 +189,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "egyhazi-iskolak",
-    "articleCount": 4
+    "articleCount": 6
   },
   {
     "id": 157,
@@ -213,7 +213,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "eloadas",
-    "articleCount": 0
+    "articleCount": 1
   },
   {
     "id": 232,
@@ -261,7 +261,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "felveteli",
-    "articleCount": 5
+    "articleCount": 9
   },
   {
     "id": 50,
@@ -549,7 +549,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "jatek",
-    "articleCount": 17
+    "articleCount": 18
   },
   {
     "id": 190,
@@ -557,7 +557,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "joga",
-    "articleCount": 0
+    "articleCount": 2
   },
   {
     "id": 366,
@@ -621,7 +621,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kompetencia",
-    "articleCount": 35
+    "articleCount": 36
   },
   {
     "id": 881,
@@ -637,7 +637,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "konferencia",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 303,
@@ -669,7 +669,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kreativitas",
-    "articleCount": 6
+    "articleCount": 7
   },
   {
     "id": 211,
@@ -685,7 +685,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kutatasok",
-    "articleCount": 0
+    "articleCount": 1
   },
   {
     "id": 485,
@@ -741,7 +741,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kozosseg",
-    "articleCount": 19
+    "articleCount": 21
   },
   {
     "id": 165,
@@ -773,7 +773,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "lemorzsolodas",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 703,
@@ -805,7 +805,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "maganiskolak",
-    "articleCount": 12
+    "articleCount": 13
   },
   {
     "id": 206,
@@ -869,7 +869,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "minosegbiztositas",
-    "articleCount": 3
+    "articleCount": 5
   },
   {
     "id": 596,
@@ -949,7 +949,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "muveltseg",
-    "articleCount": 6
+    "articleCount": 7
   },
   {
     "id": 200,
@@ -997,7 +997,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "nemzetkozi",
-    "articleCount": 6
+    "articleCount": 8
   },
   {
     "id": 217,
@@ -1005,7 +1005,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "neveles",
-    "articleCount": 38
+    "articleCount": 41
   },
   {
     "id": 104,
@@ -1133,7 +1133,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "oktataspolitika",
-    "articleCount": 73
+    "articleCount": 76
   },
   {
     "id": 300,
@@ -1173,7 +1173,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogia",
-    "articleCount": 3
+    "articleCount": 5
   },
   {
     "id": 588,
@@ -1189,7 +1189,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogus",
-    "articleCount": 30
+    "articleCount": 38
   },
   {
     "id": 331,
@@ -1205,7 +1205,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagoguskepzes",
-    "articleCount": 22
+    "articleCount": 23
   },
   {
     "id": 128,
@@ -1213,7 +1213,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogusok",
-    "articleCount": 65
+    "articleCount": 73
   },
   {
     "id": 254,
@@ -1221,7 +1221,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagoguspalya",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 283,
@@ -1229,7 +1229,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pisa",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 33,
@@ -1253,7 +1253,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pszichologia",
-    "articleCount": 23
+    "articleCount": 24
   },
   {
     "id": 242,
@@ -1317,7 +1317,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "summerhill",
-    "articleCount": 0
+    "articleCount": 1
   },
   {
     "id": 116,
@@ -1365,7 +1365,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szakkepzes",
-    "articleCount": 11
+    "articleCount": 15
   },
   {
     "id": 167,
@@ -1413,7 +1413,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szelekcio",
-    "articleCount": 3
+    "articleCount": 4
   },
   {
     "id": 124,
@@ -1437,7 +1437,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szorongas",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 307,
@@ -1453,7 +1453,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szupervizio",
-    "articleCount": 2
+    "articleCount": 3
   },
   {
     "id": 98,
@@ -1469,7 +1469,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szinhaz",
-    "articleCount": 2
+    "articleCount": 3
   },
   {
     "id": 250,
@@ -1501,7 +1501,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szulok",
-    "articleCount": 4
+    "articleCount": 8
   },
   {
     "id": 178,
@@ -1533,7 +1533,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tananyag",
-    "articleCount": 4
+    "articleCount": 7
   },
   {
     "id": 51,
@@ -1557,7 +1557,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanterv",
-    "articleCount": 19
+    "articleCount": 24
   },
   {
     "id": 21,
@@ -1573,7 +1573,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanulas",
-    "articleCount": 6
+    "articleCount": 11
   },
   {
     "id": 597,
@@ -1589,7 +1589,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanulasi-kornyezet",
-    "articleCount": 0
+    "articleCount": 1
   },
   {
     "id": 238,
@@ -1645,7 +1645,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tehetseg",
-    "articleCount": 25
+    "articleCount": 26
   },
   {
     "id": 88,
@@ -1829,7 +1829,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "erettsegi",
-    "articleCount": 10
+    "articleCount": 14
   },
   {
     "id": 224,
@@ -1861,7 +1861,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "ovoda",
-    "articleCount": 10
+    "articleCount": 11
   },
   {
     "id": 34,
@@ -1885,6 +1885,6 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "orokseg",
-    "articleCount": 156
+    "articleCount": 157
   }
 ]

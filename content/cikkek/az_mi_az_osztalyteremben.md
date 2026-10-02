@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/ai.png
 coverAlt: 'Forrás: https://www.ntnu.edu/'
 coverTitle: 'Forrás: https://www.ntnu.edu/'
-reads: 1315
+reads: 1518
 ---
 <strong><span style="font-size: 12px;">Az észt, dán és finn modell tanulságai. Apáti Balázs, Bessenyei István és Nagy Fruzsina írása</span></strong>
 

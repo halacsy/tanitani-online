@@ -1,19 +1,13 @@
 ---
 name: Szabó Balázsné
 bio: >-
-  K&ouml;zgazd&aacute;sz tan&aacute;rk&eacute;nt az I. Istv&aacute;n
-  K&ouml;zgazdas&aacute;gi Szakk&ouml;z&eacute;piskol&aacute;ban kezdtem
-  p&aacute;ly&aacute;mat, ott, ahol &eacute;retts&eacute;giztem. Elősz&ouml;r
-  koll&eacute;giumi nevelő, majd szaktan&aacute;r voltam.1972&ndash;1992-ig
-  igazgattam az iskol&aacute;t. Az 198o-as &eacute;vekben egy
-  modellk&iacute;s&eacute;rletet vezettem, amely a k&ouml;z&eacute;pfok&uacute;
-  p&eacute;nz&uuml;gyi k&eacute;pz&eacute;s
-  meg&uacute;j&iacute;t&aacute;s&aacute;t c&eacute;lozta.
-  Nyugd&iacute;jask&eacute;nt r&eacute;szt vettem a MIOK
-  alap&iacute;tv&aacute;nyi szakk&ouml;z&eacute;piskola
-  megszervez&eacute;s&eacute;ben. 2001-től 2004-ig vezettem is az
-  iskol&aacute;t. K&ouml;zoktat&aacute;si szak&eacute;rtők&eacute;nt,
-  vizsgaeln&ouml;kk&eacute;nt dolgozom jelenleg is. Tanulm&aacute;nyaim
-  sor&aacute;n h&aacute;rom diplom&aacute;t, egyetemi doktori c&iacute;met
-  szereztem. Legmagasabb kit&uuml;ntet&eacute;sem az Ap&aacute;czai-d&iacute;j.
+  Közgazdász tanárként az I. István Közgazdasági Szakközépiskolában kezdtem
+  pályámat, ott, ahol érettségiztem. Először kollégiumi nevelő, majd szaktanár
+  voltam.1972–1992-ig igazgattam az iskolát. Az 198o-as években egy
+  modellkísérletet vezettem, amely a középfokú pénzügyi képzés megújítását
+  célozta. Nyugdíjasként részt vettem a MIOK alapítványi szakközépiskola
+  megszervezésében. 2001-től 2004-ig vezettem is az iskolát. Közoktatási
+  szakértőként, vizsgaelnökként dolgozom jelenleg is. Tanulmányaim során három
+  diplomát, egyetemi doktori címet szereztem. Legmagasabb kitüntetésem az
+  Apáczai-díj.
 ---

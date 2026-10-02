@@ -3,19 +3,19 @@
   "sourceDumpCompletedAt": "2026-05-05T19:27:53Z",
   "privacy": "Public content only; accounts and operational logs excluded.",
   "counts": {
-    "articles": 1216,
-    "authors": 617,
+    "articles": 1240,
+    "authors": 626,
     "tags": 236,
     "sections": 13,
     "comments": 1039,
     "pages": 77,
-    "media": 4709,
+    "media": 4752,
     "attachments": 1324
   },
   "liveSupplement": {
     "origin": "https://www.tani-tani.info",
     "dumpMaxNodeId": 1411,
-    "articleCount": 25,
+    "articleCount": 49,
     "nodeIds": [
       1412,
       1413,
@@ -41,17 +41,41 @@
       1433,
       1434,
       1435,
-      1436
+      1436,
+      1437,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443,
+      1444,
+      1445,
+      1446,
+      1447,
+      1448,
+      1449,
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458,
+      1459,
+      1460
     ],
     "tagSource": "content-inference",
-    "syncedAt": "2026-08-11T22:46:55+02:00"
+    "syncedAt": "2026-10-02T10:16:57+02:00"
   },
   "historicalInlineMedia": {
     "referenced": 3024,
     "downloaded": 0,
     "failed": 0,
     "localizedEncodedPaths": 0,
-    "normalizedAttributes": 1,
+    "normalizedAttributes": 0,
     "repairedReferences": 0
   }
 }

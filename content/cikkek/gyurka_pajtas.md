@@ -15,7 +15,7 @@ excerpt: >-
   Szövetség törzsfőnöke vagyok a Mátra vidékén.
 coverImage: /sites/default/files/balazs_gyorgy.jpg
 coverAlt: Gyurka pajtás
-reads: 820
+reads: 927
 ---
 <strong><span style="font-size: 12px;">Interjú Balázs Györggyel az úttörőmozgalom 80. évfordulóján. Lejegyezte Trencsényi László</span></strong>
 

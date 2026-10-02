@@ -1,13 +1,9 @@
 ---
 name: Szőcs Máté
 bio: >-
-  Az ELTE Radn&oacute;ti Mikl&oacute;s Gyakorl&oacute; &Aacute;ltal&aacute;nos
-  Iskola &eacute;s Gyakorl&oacute; Gimn&aacute;zium
-  t&ouml;rt&eacute;nelemtan&aacute;ra &eacute;s a Z&ouml;ld Kakas L&iacute;ceum
-  tan&aacute;ra vagyok. Ut&oacute;bbi iskol&aacute;ban mentori
-  tev&eacute;kenys&eacute;get is folytatok. K&ouml;r&uuml;lbel&uuml;l 12
-  &eacute;ve foglalkozom k&uuml;l&ouml;nb&ouml;ző &eacute;lethelyzetű
-  kamaszokkal, teljesen v&aacute;ltoz&oacute; munka- &eacute;s
-  &ouml;nk&eacute;ntes k&ouml;r&ouml;kben (pl. filmklub, &aacute;llami gondozott
-  gyerekek t&aacute;boroztat&aacute;sa, &eacute;jf&eacute;li pingpong.)
+  Az ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium
+  történelemtanára és a Zöld Kakas Líceum tanára vagyok. Utóbbi iskolában
+  mentori tevékenységet is folytatok. Körülbelül 12 éve foglalkozom különböző
+  élethelyzetű kamaszokkal, teljesen változó munka- és önkéntes körökben (pl.
+  filmklub, állami gondozott gyerekek táboroztatása, éjféli pingpong.)
 ---
