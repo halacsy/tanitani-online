@@ -18,7 +18,7 @@ excerpt: >-
   előbb megpróbáljuk…
 coverImage: /sites/default/files/dennison.jpg
 coverAlt: Igazságosság és empátia
-reads: 1602
+reads: 1815
 ---
 <strong>George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása</strong>
 

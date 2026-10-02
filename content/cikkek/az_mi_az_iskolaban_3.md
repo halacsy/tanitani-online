@@ -19,7 +19,7 @@ excerpt: >-
   végig ezen az úton.…
 coverImage: /sites/default/files/aischool_1.jpg
 coverAlt: Az MI az iskolában 3.
-reads: 1428
+reads: 1570
 ---
 <strong style="font-size: 1em;">Az MI és a pedagógus autonómia. Tanári döntések egy algoritmikusan strukturált térben. Bessenyei István és Apáti Balázs írása</strong>
 

@@ -18,7 +18,7 @@ excerpt: >-
   amelyek a…
 coverImage: /sites/default/files/help.jpeg
 coverAlt: 'Új távlatok, régi kérdések'
-reads: 1819
+reads: 2041
 ---
 <strong><span style="font-size: 12px;">Gondolatok az új Oktatási és Gyermekügyi Minisztérium előtt álló feladatokról. Nagy Fruzsina írása</span></strong>
 

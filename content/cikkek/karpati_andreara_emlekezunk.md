@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/karpati_andrea.png
 coverAlt: Kárpáti Andrea
 coverTitle: Kárpáti Andrea
-reads: 1137
+reads: 1251
 ---
 <strong><span style="font-size: 12px;">Simon Tünde előadása a 9. Művészetpedagógiai Konferencián 2026. május 28-án</span></strong>
 

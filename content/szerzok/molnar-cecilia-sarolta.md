@@ -1,24 +1,18 @@
 ---
 name: Molnár Cecília Sarolta
 bio: >-
-  Magyartan&aacute;ri &eacute;s elm&eacute;leti nyelv&eacute;szet szakot
-  v&eacute;geztem az ELTE-n. M&aacute;r az egyetemi &eacute;veim alatt
-  bekapcsol&oacute;dhattam egy alternat&iacute;v magyartan&iacute;t&aacute;si
-  program fejleszt&eacute;s&eacute;be. Nagyon szerencs&eacute;s vagyok:
-  kiv&aacute;l&oacute; tan&aacute;rokkal &eacute;s tud&oacute;sokkal
-  dolgozhattam egy&uuml;tt, akiktől rengeteget tanulhattam. Jelenleg az MTA
-  Nyelvtudom&aacute;nyi Int&eacute;zet&eacute;ben dolgozom, &eacute;s mellette a
-  T&aacute;bitha Gyermekhospice H&aacute;zban &ouml;nk&eacute;nteskedem. 2015
-  szeptember&eacute;ig a nyest.hu felelős szerkesztője voltam, előtte
-  magyartan&aacute;rk&eacute;nt a Zsigmond Kir&aacute;ly Főiskol&aacute;n
-  tan&iacute;tottam, &eacute;s nyelvi k&eacute;pess&eacute;gfejlesztő
-  tant&aacute;rgyak tananyagait fejlesztettem alapszakos hallgat&oacute;knak.
-  Jelenleg az ELTE T&aacute;rsadalomtudm&aacute;nyi Kar&aacute;n &eacute;s a
-  Budapesti Gazdas&aacute;gi Egyetemen tartok hasonl&oacute;
-  k&eacute;pess&eacute;gfejlesztő kurzusokat. A tananyagfejleszt&eacute;sben azt
-  szerettem, hogy a kreativit&aacute;s &eacute;s a szigor&uacute;
-  szab&aacute;lyok egyszerre &eacute;rv&eacute;nyes&uuml;lhetnek. A
-  tan&iacute;t&aacute;sban pedig azt szeretem a legjobban, hogy meg lehet
-  ismerni m&aacute;sok gondolkod&aacute;s&aacute;t, illetve, hogy
-  &aacute;lland&oacute; visszajelz&eacute;st kapok a munk&aacute;mr&oacute;l.
+  Magyartanári és elméleti nyelvészet szakot végeztem az ELTE-n. Már az egyetemi
+  éveim alatt bekapcsolódhattam egy alternatív magyartanítási program
+  fejlesztésébe. Nagyon szerencsés vagyok: kiváló tanárokkal és tudósokkal
+  dolgozhattam együtt, akiktől rengeteget tanulhattam. Jelenleg az MTA
+  Nyelvtudományi Intézetében dolgozom, és mellette a Tábitha Gyermekhospice
+  Házban önkénteskedem. 2015 szeptemberéig a nyest.hu felelős szerkesztője
+  voltam, előtte magyartanárként a Zsigmond Király Főiskolán tanítottam, és
+  nyelvi képességfejlesztő tantárgyak tananyagait fejlesztettem alapszakos
+  hallgatóknak. Jelenleg az ELTE Társadalomtudmányi Karán és a Budapesti
+  Gazdasági Egyetemen tartok hasonló képességfejlesztő kurzusokat. A
+  tananyagfejlesztésben azt szerettem, hogy a kreativitás és a szigorú szabályok
+  egyszerre érvényesülhetnek. A tanításban pedig azt szeretem a legjobban, hogy
+  meg lehet ismerni mások gondolkodását, illetve, hogy állandó visszajelzést
+  kapok a munkámról.
 ---

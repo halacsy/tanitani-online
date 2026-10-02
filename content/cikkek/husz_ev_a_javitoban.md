@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/aczel_anna.jpg
 coverAlt: Aczél Anna
 coverTitle: Aczél Anna
-reads: 1151
+reads: 1256
 ---
 <strong>Aczél Annával Kun Zsuzsa beszélgetett a Klubrádió Klubdélelőtt c. műsorában 2026. február 21-én. Szerkesztett szöveg.</strong>
 

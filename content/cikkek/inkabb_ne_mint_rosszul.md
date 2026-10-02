@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/inkabb-ne.jpg
 coverAlt: 'Forrás: 24.hu'
 coverTitle: 'Forrás: 24.hu'
-reads: 430
+reads: 2002
 ---
 <strong>„Gyerekek és diákok hangja” projektnap. Fóti Péter írása</strong>
 

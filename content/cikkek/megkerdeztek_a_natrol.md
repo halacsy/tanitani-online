@@ -1,0 +1,77 @@
+---
+title: Megkérdeztek a NAT-ról
+migratedId: 1450
+overrideMigrated: true
+authorSlugs:
+  - knausz-imre
+date: '2026-09-12'
+tags:
+  - felvételi
+  - érettségi
+  - tanterv
+  - szakképzés
+excerpt: >-
+  Knausz Imre írása Megtisztelő levelet kaptam az Oktatási és Gyermekügyi
+  Minisztériumtól: mondanám el a véleményem egy kérdőív kitöltésével arról, hogy
+  milyen legyen az új NAT. Az alábbiakban nyilvánosan is közzéteszem a
+  válaszaim. A Taní-tani Online nyitott arra, hogy mások válaszainak is
+  nyilvánosságot adjon.
+coverImage: /sites/default/files/national_curriculum.png
+coverAlt: Megkérdeztek a NAT-ról
+reads: 810
+---
+<strong>Knausz Imre írása</strong>
+
+> Megtisztelő levelet kaptam az Oktatási és Gyermekügyi Minisztériumtól: mondanám el a véleményem egy kérdőív kitöltésével arról, hogy milyen legyen az új NAT. Az alábbiakban nyilvánosan is közzéteszem a válaszaim. A Taní-tani Online nyitott arra, hogy mások válaszainak is nyilvánosságot adjon.
+
+<em><img alt="Knausz Imre" src="/sites/default/files/knauszi2026.jpg" style="width: 200px; height: 267px; float: left; margin-right: 15px;">Az elképzelt iskolarendszer</em>
+
+<em>Kérjük, itt mutassa be röviden, hogy milyen iskolarendszerre készítette el javaslatait. Van lehetősége egyszerűen azt írni, hogy alapvetően nem módosítana a jelenlegi iskolarendszeren (melynek jellemzője például a 8+4, illetve 8+5 éves közoktatás és szakképzés mellett létező 6+6, illetve 4+8 éves képzések rendszere vagy a középiskolai felvételi vizsga vagy a kétszintű érettségi rendszere). Ha a jelenlegitől eltérő iskolarendszert látna megfelelőnek, akkor azt itt fejtse ki röviden.</em>
+
+Úgy gondolom, hogy a magyar iskolarendszernek középtávon közelítenie kellene egy radikálisan komprehenzív modellhez. Ez nem a képzési szakaszok megváltoztatásával írható le, hanem a középiskolai felvételi vizsgák (és általában a teljesítményelvű szelekció) megszüntetésével. A lényeg, hogy 18 éves korig együtt (közös tanulócsoportokban) tanuljanak a különböző teljesítményű és motivációjú (valamint nyilvánvalóan különböző társadalmi helyzetű) tanulók. Az emellett szóló érvek négy fő csoportba sorolhatók: (1) igazságosság, az erőforrások egyenlőbb eloszlása, (2) a különbségekből származó pedagógiai előnyök, (3) társadalmi integráció, (4) a szelekciós verseny megszüntetéséből fakadóan a folyamatos minősítés fölszámolása, egészségesebb tanár-diák viszony.
+
+A komprehenzív reform szükségessé teszi a szakképzés átalakítását. Az én víziómban mindenki általánosan képző középiskolába (gimnáziumba) jár 18 éves korig. Azok, akik érettségi előtt szakképzésben akarnak részt venni, bizonyos kötelezettségek alól felmentést kapnak, és ennek fejében egy másik (kizárólag szakképzést nyújtó) intézményben rugalmas időbeosztást követve elsajátítanak egy szakmát vagy részszakmát.
+
+A következő kérdésre adott válaszomban fölismerhető lesz egy – laza – 6+6-os tartalmi szerkezet. Ez azonban nem teszi szükségessé az iskolarendszer ilyen irányú átalakítását.
+
+<em>A tantervi rendszer kívánatos modellje</em>
+
+<em>Milyen alapelvekre, szabályozási szintekre és tartalmi keretekre épüljön a jövő közoktatási tantervi rendszere annak érdekében, hogy egyszerre biztosítsa a közös műveltségi alapokat, az esélyteremtést, a szakmai minőséget és az intézményi-pedagógusi mozgásteret? A válaszadás során kapcsolódjon az előző kérdésben leírt iskolarendszerhez. Kitérhet a szakképzés közoktatáshoz kapcsolására is.</em>
+
+Abból indulok ki, hogy a közoktatásnak két tartalmi alapfeladata van: az alapkészségek fejlesztése, valamint a tudásvágy fölkeltése és fönntartása. A közoktatás első 4-6 évében az alapkészségek szisztematikus fejlesztése áll a középpontban, ennek a fejlesztési folyamatnak azonban nincs végpontja, a képzés későbbi szakaszaiban – sőt ideális esetben egy életen keresztül – folytatódik. Ekkor azonban a rendszeres képességfejlesztés helyét fokozatosan átveszi az érdeklődés által irányított önszabályozott és autonóm tanulás. A világ iránti érdeklődés (a tudásvágy) fölkeltése természetesen már az első évfolyamon elkezdődik, ám akkor még az alapkészségek fejlesztésének rendelődik alá. A két egymásba fonódó, egymást támogató és egymást feltételező folyamat tehát nem egyformán dominál a képzés különböző szakaszaiban.
+
+Ha a közoktatás a fenti pedagógiai célok szerint szerveződik, akkor érdemes a NAT szerkezetében is ezt a kettősséget követni. Eszerint külön fejezet foglalkozik az alapkészségek fejlesztésével és egy másik fejezet a tudásvágy fölkeltésével és fenntartásával. Az 1-6. évfolyamok egy alapozó szakaszt jelentenek, itt a NAT-nak viszonylag konkrét képességfejlesztési célokat kell előírnia, és ezekhez rendelve erős ajánlásokat megfogalmaznia bizonyos tanulói tevékenységek megszervezésére (módszerekre). Az uralkodó felfogás szerint a tanterv tananyagokat ír elő, ezzel szemben a pedagógus módszertani szabadsága sérthetetlen. Jelen javaslatban azonban egy másik – az előzővel szinte ellentétes – logika érvényesül: ez a NAT a tananyag konkrét megválasztását pedagógiai feladatnak tartja, ugyanakkor határozott álláspontot képvisel a tanulásszervezés eljárásaival kapcsolatban. Az alapozó szakaszban a NAT nem ír elő tantárgyakat, a tantárgyi rendszer kialakítását teljes egészében a helyi tanterv hatáskörébe utalja. Az 5-7. évfolyamon kezdődő második szakasz számára ez a fejezet inkább csak általános útmutatásokat tartalmaz a készségek későbbi fejlődésének útjairól, illetve a tanulók választásaihoz igazodó fejlesztési alternatívákról.
+
+A 7-8. évfolyamon lépnek be a kötelező tanulási területek, amelyekből egyszerű transzformációkkal hozza létre a helyi tanterv a tantárgyakat. A tananyag kiválasztásában azonban az az elv érvényesül, hogy ez pedagógiai feladat, és minden esetben a tanulócsoport összetételéhez (és a tanár felkészültségéhez) igazodik. Tantárgyi tematikát tehát sem a NAT, sem a helyi tanterv nem tartalmaz. Ez nem azt jelenti, hogy semmiféle tartalmi előírás nincs. Javaslatom szerint a 7. évfolyamtól a 12. évfolyamig a képzés kétéves ciklusokra tagolódik, és minden ciklusra megadhatóak tanulási területenként bizonyos metaszintű előírások minimális óraszámokkal, pl. hogy irodalomból a 9-10. évfolyamon minimum hány óra foglalkozzék magyar művekkel, hány óra lírai művekkel, stb. Fontos azonban, hogy az így megadott óraszámok összességükben lényegesen kisebbek legyenek az összóraszámnál. Egyáltalán mind a tanár, mind a tanuló számára minél több kérdésben választási szabadságot kell biztosítani.
+
+Természetesen az egyes tanulási területek tartalma a NAT-ban további (nem tematikus) eszközökkel is körülhatárolható: pl. a reflexiót irányító kérdések, kulcsfogalmak, fejlesztési feladatok és tanulói tevékenységek.
+
+Amit a NAT szerinti második szakaszról írtam, az értelemszerűen a műveltségközvetítő tárgyakra vonatkozik, bár azt hiszem, a testnevelés tanterve is hasonló elvek alapján szabályozható. Az egyetlen komoly kivétel az idegennyelv-oktatás, amely ebbe a gondolatmenetbe nem illeszthető be.
+
+Nézeteimet részletesen kifejtettem itt: Knausz Imre: [Milyen Nemzeti alaptantervre volna szükség?](https://upszonline.hu/resources/volumes/76/issues/03-04/upsz_76%2803-04%29_2026__008__knausz_imre.pdf) Új Pedagógiai Szemle, 2026/3-4., 16-26.
+
+<em>A kapcsolódó rendszerek összehangolása</em>
+
+<em>Hogyan lehetséges és szükséges a javasolt tantervi rendszerhez illeszteni a pedagógusképzést és a pedagógus-továbbképzést, a középfokú felvételi eljárásokat, valamint az érettségi vizsga (illetve esetleges felsőoktatási felvételi) követelményeit és vizsgarendszerét? Milyen kölcsönös igazodások és garanciák szükségesek a rendszer koherenciájához?</em>
+
+Ami a pedagógusképzést illeti, nagyon határozottan szeretném képviselni azt az álláspontot, hogy annak semmiképpen nem szabad a NAT-hoz kapcsolódnia, és ez az elv független attól, hogy milyen NAT valósul meg végül. A tantervek könnyen változhatnak, a pedagógusokat nem egy tanterv tanítására kell kiképezni, hanem arra, hogy mélyen értsék a szakterületüket, és mélyen értsék a pedagógiai folyamatokat.
+
+Nagyon fontos természetesen az érettségi újragondolása. Hogy tud igazságos lenni az érettségi (aminek felvételi vizsga jellegét én nem vitatnám), ha a jelöltek esetleg lényegesen eltérő témákat dolgoztak föl tanulmányaik során? Egy lehetséges válasz a projektérettségi. Ez egy létező vizsgatípus, a jelenlegi rendszerben is megtalálható, de sajnos csak kevés vizsgatárgy esetében, ilyen a médiaismeret vagy az etika. A projektvizsgán a jelöltnek azt kell bizonyítania, hogy rendelkezik azzal a tartalmi tudással, amely egy saját maga által kitűzött cél megvalósításához szükséges.
+
+<em>A megvalósítás és a tartós működőképesség feltételei</em>
+
+<em>Milyen szakmai, intézményi, jogi, finanszírozási, humánerőforrás és kommunikációs feltételek szükségesek ahhoz, hogy a javasolt tantervi rendszer bevezethető, a gyakorlatban működőképes, értékelhető és hosszú távon fenntartható legyen? Milyen ütemezést és visszacsatolási mechanizmusokat lenne indokolt alkalmazni?</em>
+
+Az autonómia nem a magány autonómiája. Az oktatásirányítás nem mondhatja azt a tanárnak, hogy “csinálj, amit akarsz”, hiszen ez valóban a félelmet növelné, és rontaná a munka eredményességét. Ugyanakkor látni kell, hogy a jól átgondolt szakmai támogatás egyben a tartalmi szabályozás eszköze is: a pedagógiai kultúra fejlesztése sokkal biztosabb útja az oktatás tartalmi átalakításának és eredményesebbé tételének, mint a bármily részletességgel kidolgozott előíró dokumentumok. Megpróbálom mintegy listázni, hogy mi mindent érthetünk szakmai támogatáson.
+
+a) A pedagógiai elvekről folytatott folyamatos eszmecsere a sajtóban, a szakirodalomban, konferenciákon, továbbképzéseken.
+
+b) A tanórán használható digitális és nyomtatott segédeszközök: szövegek, képek, animációk, filmek, feladatok, értelmezések, és bőven lehetne folytatni a sort. A magyar pedagógiai gondolkodás egyik kiemelkedő teljesítménye volt az ún. kompetenciaalapú programcsomagok elkészítése. Mégis azt gondolom, ez az út ebben a formában nem folytatható. A tanulókra irányuló radikális személyes figyelem nem teszi jól használhatóvá a teljes képzési folyamatokat átfogó pontos leírásokat. Ugyanakkor rendkívül fontos lenne, hogy ezt a fantasztikus munkát megmentsük a feledéstől és kritikai elemzés tárgyává tegyük.
+
+c) Szaktanácsadás. Az oktatás fejlesztésének egyik leghatékonyabb eszköze, amely ma szinte teljesen hiányzik a közoktatásból: a szaktanácsadók rendszeres iskolalátogatása és a tapasztalatok helyszínen történő feldolgozása. Életbevágó ugyanis, hogy a pedagógusok munkájukról rendszeres szakmai visszajelzést kapjanak, olyan visszajelzést azonban, amely nem minősítő, hanem fejlesztő célú, nem utasításokat jelent, hanem valóban tanácsokat, amelyek megbeszélés és vita tárgyát képezhetik, és így járulnak hozzá a pedagógus tanulási folyamatához és ezen keresztül a tanítás tartalmi szabályozásához.
+
+Egy ilyen komplex fejlesztésnek természetesen megvannak az intézményi feltételei. Égető szükség van egy kifejezetten fejlesztési feladatokkal megbízott országos pedagógiai intézet létrehozására. Hasonlóan fontos elsősorban a szaktanácsadás működtetése céljából a megyei pedagógiai intézetek újraélesztése.
+
+<em>Bármilyen más megjegyzés vagy jelzés, amit szeretne velünk közölni</em>
+
+A NAT-ra legtöbbször úgy tekintünk, mint a tartalmi reformot előmozdító intézkedésre. Nem ez a szerepe. A NAT arra való, hogy optimális szabályozási környezetet teremtsen a tartalmi reform számára. Amelynek az előző pontban (részben) említett eszközök – taneszközök, oktatási programok, szaktanácsadás, tanárképzés, továbbképzés – az igazi megvalósítói. De még ezeknél is fontosabb, hogy a legtágabb értelemben vett közvélemény (amelyre mint szülőkre szokás hivatkozni, de valójában ennél is tágabb körről van szó) a reform mellett álljon. Nagy veszélynek érzem azt, hogy a kormányzat elfogad egy közoktatási stratégiát, és létrehoz egy NAT-ot anélkül, hogy a közvéleményt előzetesen maga mellé állította volna. Ha így lesz, semmi nem valósul meg a tervekből. A legfontosabbnak tehát azt tartom, hogy a közoktatás fő kérdéseiről – amelyek közül csak egyik a NAT – sok embert megmozgató országos vita bontakozzék ki úgy, hogy az OGYM is világosan megfogalmazza a saját álláspontját. Vitakörök, kerekasztal-beszélgetések (személyesen és a tévében), konferenciák, sajtómegjelenések – ilyenekre van szükség, és természetesen időre. Egyáltalán nem szükséges, hogy nagyon hamar új NAT legyen.

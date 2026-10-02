@@ -1,10 +1,8 @@
 ---
 name: Békés Anna
 bio: >-
-  1982 &oacute;ta tan&iacute;tok k&ouml;z&eacute;piskol&aacute;ban. 10
-  &eacute;vvel ezelőtt a magyar-t&ouml;rt&eacute;nelem szak mell&eacute;
-  elv&eacute;geztem egy fejlesztő pedag&oacute;giai k&eacute;pz&eacute;st,
-  az&oacute;ta egy&eacute;ni &eacute;s kiscsoportos foglalkoz&aacute;sokat is
-  tartok a szak&oacute;r&aacute;k mellett. K&eacute;t felnőttkor&uacute;
+  1982 óta tanítok középiskolában. 10 évvel ezelőtt a magyar-történelem szak
+  mellé elvégeztem egy fejlesztő pedagógiai képzést, azóta egyéni és
+  kiscsoportos foglalkozásokat is tartok a szakórák mellett. Két felnőttkorú
   gyermekem van.
 ---

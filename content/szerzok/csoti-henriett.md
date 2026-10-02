@@ -1,16 +1,11 @@
 ---
 name: Csóti Henriett
 bio: >-
-  Az ELTE PPK nevel&eacute;studom&aacute;nyi
-  mesterk&eacute;pz&eacute;s&eacute;nek hallgat&oacute;ja vagyok. Imm&aacute;ron
-  8 &eacute;ve foglalkozom nevel&eacute;ssel, eleinte mint
-  ifj&uacute;s&aacute;gi vezető egy gyermekszervezetben. K&eacute;sőbb a
-  hobbib&oacute;l a gyerekek &eacute;s a pedag&oacute;gia felt&eacute;tlen
-  szeretete lett, a hitvall&aacute;sb&oacute;l pedig jelenleg
-  szabadidő-szervezői tev&eacute;kenys&eacute;g egy budapesti iskol&aacute;ban.
-  Le sem tagadhatn&aacute;m a tapasztalati tanul&aacute;s, az
-  &eacute;lm&eacute;ny jellegű cselekedtet&eacute;s ir&aacute;nti
-  elk&ouml;teleződ&eacute;semet, amelynek pedag&oacute;giai lehetős&eacute;geit
-  &eacute;s eszk&ouml;zeit c&eacute;lom felkutatni &eacute;s
-  meghonos&iacute;tani.
+  Az ELTE PPK neveléstudományi mesterképzésének hallgatója vagyok. Immáron 8 éve
+  foglalkozom neveléssel, eleinte mint ifjúsági vezető egy gyermekszervezetben.
+  Később a hobbiból a gyerekek és a pedagógia feltétlen szeretete lett, a
+  hitvallásból pedig jelenleg szabadidő-szervezői tevékenység egy budapesti
+  iskolában. Le sem tagadhatnám a tapasztalati tanulás, az élmény jellegű
+  cselekedtetés iránti elköteleződésemet, amelynek pedagógiai lehetőségeit és
+  eszközeit célom felkutatni és meghonosítani.
 ---

@@ -1,0 +1,3 @@
+---
+name: Kabdebó Ferenc
+---
