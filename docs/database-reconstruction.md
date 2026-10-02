@@ -78,6 +78,15 @@ nem. Ezért a 25 kiegészítő cikk címkéit a meglévő 236 elemes címkekész
 a cím és a törzsszöveg előfordulásai alapján rendeli hozzá a migráció. Ezt a
 `manifest.json` és az egyedi cikkfájlok `migration.tagSource` mezője is jelöli.
 
+**A dump marad az elsődleges forrás, a `migrate:sync` csak a rést tölti ki.**
+A dump egy adott pillanat lefagyasztott állapota; a `migrate:sync` a régi
+oldalt közvetlenül, HTTP-n kérdezi le, mert másképp nem tudná pótolni az
+azóta megjelent cikkeket. Ez a rés 2026. május 5-től (a fenti dump dátuma)
+2026 októberéig már 49 cikkre nőtt, mert a dumpot azóta nem frissítettük –
+ezért **minden teljes migráció előtt húzz friss dumpot**, hogy a
+`migrate:sync`-nek csak néhány, a frissítés óta megjelent cikket kelljen
+a weboldalról pótolnia, ne heteket/hónapokat.
+
 ## Médiafájlok
 
 Az SQL a fájlok metaadatait és útvonalait tartalmazza, magukat a fájlbájtokat
@@ -96,13 +105,17 @@ nélkül eltávolított, két galérialinket pedig a megőrzött bélyegképre i
 
 ## Újraépítés és ellenőrzés
 
+Egyben: `npm run migrate` (a MariaDB-dump visszaállítása az egyetlen kézi
+előfeltétel, lásd fent – húzz friss dumpot, mielőtt elindítod). Lépésenként:
+
 1. A MariaDB dumpok visszaállítása után futtatandó:
-   `python3 scripts/export_site_data.py`.
-2. A kezelt fájlok letöltése: `python3 scripts/download_media.py`.
+   `npm run migrate:export` (`python3 scripts/export_site_data.py`).
+2. A kezelt fájlok letöltése: `npm run migrate:media`
+   (`python3 scripts/download_media.py`).
 3. A dump utáni cikkek és a közvetlen inline média szinkronja:
-   `python3 scripts/supplement_live_articles.py`.
-4. A hiányzó szerkeszthető Markdown-cikkek és szerzők létrehozása:
-   `npm run migrate:markdown`.
+   `npm run migrate:sync` (`python3 scripts/supplement_live_articles.py`).
+4. A szerkeszthető Markdown-cikkek és szerzők determinisztikus létrehozása/
+   frissítése a migrált forrásból: `npm run migrate:markdown`.
 5. A teljes integritás-, adatvédelmi, média- és Markdown-ellenőrzés:
    `npm run migrate:validate`.
 
