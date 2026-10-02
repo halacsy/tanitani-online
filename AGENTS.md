@@ -50,17 +50,29 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
 ## Generált történeti tartalom
 
 - `content/migrated/tanitani/` a build által használt, generált publikus archívum.
-- A fájlokat ne szerkeszd kézzel. A teljes pipeline egyben: `npm run migrate`
-  (a dump visszaállítása MariaDB 10.11-be az egyetlen kézi előfeltétel, ami
-  nincs scriptelve). Lépésenként:
+- A fájlokat ne szerkeszd kézzel. A teljes pipeline egyben: `npm run migrate`.
+  Lépésenként:
 
-  1. állítsd vissza a dumpot MariaDB 10.11-be;
+  1. **húzz friss dumpot** a régi Drupal adatbázisról, és állítsd vissza
+     MariaDB 10.11-be (kézi előfeltétel, nincs scriptelve);
   2. `npm run migrate:export`;
   3. `npm run migrate:media`;
   4. `npm run migrate:sync`;
   5. `npm run migrate:markdown`;
   6. `npm run migrate:validate`.
 
+- **Az adatbázis-export (`migrate:export`) az elsődleges forrás, nem a
+  weboldal.** A `migrate:sync` csak a dump és a tényleges migrálás közti
+  (ideális esetben pár órás/napos) rést tölti ki: a régi oldalt közvetlenül
+  kérdezi le HTTP-n, mert a dump a lehúzás pillanatában lefagyasztott
+  állapot, és nem tartalmazhatja az azóta megjelent cikkeket. Minél
+  frissebb a dump az 1. lépésben, annál kevesebb cikket kell a
+  `migrate:sync`-nek a weboldalról pótolnia – ezért **mindig húzz friss
+  dumpot közvetlenül a migrálás előtt**, ne hónapokkal korábbit. A
+  `migrate:sync` valódi HTML-parsert (lxml) és ugyanazt a
+  `sanitize_public_html` tisztítást használja, mint az adatbázis-export,
+  de attól még a renderelt weboldalból dolgozik, nem SQL-mezőkből – a
+  dumpból jövő adat a megbízhatóbb.
 - Az exportáló szkript atomikusan cseréli a generált JSON-könyvtárat.
 - A `migrate:sync` a dump utáni publikus Drupal-cikkeket és a fájltáblában nem
   szereplő inline médiát is beemeli. A publikus oldalon nem látható új címkéket
