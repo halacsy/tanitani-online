@@ -27,10 +27,25 @@ from typing import Any, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_PATH = ROOT / "db" / "public-schema.sql"
+DUMP_PATH = ROOT / "tanitani.sql"
 DEFAULT_DB_PATH = ROOT / "data" / "tanitani-public.sqlite"
 DEFAULT_JSON_PATH = ROOT / "content" / "migrated" / "tanitani"
 CONTAINER = "tanitani-recovery"
 DATABASE = "tanitani"
+
+
+def dump_completed_at() -> str:
+    """When the SQL dump itself was produced, not when we last restored it.
+
+    `tanitani.sql` is never committed (privacy-sensitive, git-ignored), so
+    this can't be derived from git history — the dump file's own mtime is
+    the best available signal, and `unzip`/most transfer methods preserve
+    the original timestamp from whoever produced the dump. Falls back to
+    "now" if the file is missing so the script still runs standalone.
+    """
+    if DUMP_PATH.exists():
+        return datetime.fromtimestamp(DUMP_PATH.stat().st_mtime, tz=timezone.utc).isoformat()
+    return datetime.now(timezone.utc).isoformat()
 KNOWN_MISSING_PUBLIC_MEDIA = {
     "/sites/default/files/lrn1.jpg",
     "/sites/default/files/7-w470.jpg",
@@ -493,7 +508,7 @@ def build_export(db_path: Path, json_path: Path) -> dict[str, int]:
             [
                 ("source", "Drupal 7 / MariaDB 10.11"),
                 ("source_dump", "tanitani.sql"),
-                ("source_dump_completed_at", "2026-05-05T19:27:53Z"),
+                ("source_dump_completed_at", dump_completed_at()),
                 ("exported_at", datetime.now(timezone.utc).isoformat()),
                 ("privacy", "public content only; accounts and operational logs excluded"),
             ],
@@ -658,7 +673,7 @@ def build_export(db_path: Path, json_path: Path) -> dict[str, int]:
             temporary_dir / "manifest.json",
             {
                 "sourceDump": "tanitani.sql",
-                "sourceDumpCompletedAt": "2026-05-05T19:27:53Z",
+                "sourceDumpCompletedAt": dump_completed_at(),
                 "privacy": "Public content only; accounts and operational logs excluded.",
                 "counts": {
                     "articles": len(articles),

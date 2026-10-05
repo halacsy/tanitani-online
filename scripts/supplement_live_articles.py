@@ -859,6 +859,18 @@ def main() -> None:
     parser.add_argument("--origin", default="https://www.tani-tani.info")
     parser.add_argument("--dump-max-id", type=int, default=1411)
     parser.add_argument("--max-pages", type=int, default=10)
+    parser.add_argument(
+        "--media-only", action="store_true",
+        help=(
+            "Ne keress/vegyél fel ÚJ cikket az élő oldalról (nincs "
+            "discover_articles/parse_article hívás) — csak a dump-kori "
+            "(már az adatbázisból exportált) cikkek inline médiahivatkozásait "
+            "töltsd le/javítsd. Erre akkor van szükség, ha a tartalom "
+            "kizárólag az adatbázisból jöhet, de a dump nem tartalmazza a "
+            "WYSIWYG-szerkesztőbe közvetlenül beillesztett (a Drupal "
+            "fájlkezelőjében sosem katalogizált) képek bájtjait."
+        ),
+    )
     args = parser.parse_args()
     origin = args.origin.rstrip("/")
 
@@ -877,13 +889,16 @@ def main() -> None:
         unavailable_paths, article_index,
     )
 
-    discovered = discover_articles(origin, args.dump_max_id, args.max_pages)
-    print(f"Élő kiegészítés: {len(discovered)} cikk")
     live_articles: list[dict[str, Any]] = []
-    for position, (node_id, url) in enumerate(discovered, 1):
-        print(f"[{position}/{len(discovered)}] {node_id}: {url}")
-        live_articles.append(parse_article(node_id, url, origin, authors, tags, media))
-        time.sleep(0.1)
+    if args.media_only:
+        print("Élő kiegészítés: kihagyva (--media-only) — csak a meglévő cikkek médiája frissül.")
+    else:
+        discovered = discover_articles(origin, args.dump_max_id, args.max_pages)
+        print(f"Élő kiegészítés: {len(discovered)} cikk")
+        for position, (node_id, url) in enumerate(discovered, 1):
+            print(f"[{position}/{len(discovered)}] {node_id}: {url}")
+            live_articles.append(parse_article(node_id, url, origin, authors, tags, media))
+            time.sleep(0.1)
 
     articles_by_id = {article["id"]: article for article in article_index}
     for article in live_articles:

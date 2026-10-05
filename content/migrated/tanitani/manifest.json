@@ -1,26 +1,24 @@
 {
   "sourceDump": "tanitani.sql",
-  "sourceDumpCompletedAt": "2026-05-05T19:27:53Z",
+  "sourceDumpCompletedAt": "2026-10-02T16:49:06+00:00",
   "privacy": "Public content only; accounts and operational logs excluded.",
   "counts": {
-    "articles": 1241,
+    "articles": 1240,
     "authors": 628,
     "tags": 238,
     "sections": 13,
     "comments": 1045,
     "pages": 77,
-    "media": 4756,
+    "media": 4755,
     "attachments": 1365
   },
   "liveSupplement": {
     "origin": "https://www.tani-tani.info",
-    "dumpMaxNodeId": 1460,
-    "articleCount": 1,
-    "nodeIds": [
-      1461
-    ],
+    "dumpMaxNodeId": 1411,
+    "articleCount": 0,
+    "nodeIds": [],
     "tagSource": "content-inference",
-    "syncedAt": "2026-10-05T09:13:35+02:00"
+    "syncedAt": "2026-10-05T10:30:23+02:00"
   },
   "historicalInlineMedia": {
     "referenced": 3079,
