@@ -147,16 +147,16 @@ szerkesztői cikkeket/oldalakat és a médiát is. Külső (más domainre mutat�
 linkeket szándékosan kihagy. Hibás hivatkozás esetén nem nulla kilépési
 kóddal áll le, listázva a hibás URL-t és a hivatkozó oldalt.
 
-A production build jelenlegi referenciaeredménye (az `npm run migrate`
-legutóbbi, 2026 október eleji teljes lefuttatása után):
+A production build jelenlegi referenciaeredménye (a 2026-10-02-i friss
+dumpon futtatott `npm run migrate` után, 2026-10-05):
 
-- 1 240 cikk;
-- 626 szerzői rekord;
-- 236 címke, közülük 162 használatban;
+- 1 241 cikk;
+- 628 szerzői rekord;
+- 238 címke, közülük 151 használatban;
 - 77 archív oldal;
-- 1 039 publikus hozzászólás;
-- 1 327 csatolmány;
-- 2 177 generált Next.js oldal.
+- 1 045 publikus hozzászólás;
+- 1 365 csatolmány;
+- 2 169 generált Next.js oldal.
 
 Eltérő darabszám csak dokumentált új import vagy új szerkesztői tartalom miatt
 fogadható el. Build előtt érdemes újra lefuttatni a publikus élő szinkront, ha az
