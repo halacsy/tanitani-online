@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/migrans_gyerekek.jpg
 coverAlt: 'A kép forrása: unicef.hu'
 coverTitle: 'A kép forrása: unicef.hu'
-reads: 7989
+reads: 8388
 ---
 <strong>Vázlat a bevándorlók integrációját szolgáló oktatáspolitikai alternatívákról. Radó Péter írása</strong>
 

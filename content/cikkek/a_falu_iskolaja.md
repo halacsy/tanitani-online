@@ -14,7 +14,7 @@ excerpt: >-
   megpróbáljuk megérteni a lakóit, megismerni a problémáikat. A téma sokakat
   érzékenyen érinthet, és nem célom, hogy bárkit is megbántsak azok közül, akik
   őszinték voltak…
-reads: 6165
+reads: 6349
 ---
 > Egy kistelepülés általános iskolájáról lesz most szó. Mint oly sok más falusi iskolát, megérteni csak akkor fogjuk, ha megpróbáljuk megérteni a falut, megpróbáljuk megérteni a lakóit, megismerni a problémáikat. A téma sokakat érzékenyen érinthet, és nem célom, hogy bárkit is megbántsak azok közül, akik őszinték voltak hozzám, őszintén beszéltek a gondjaikról. A problémát úgy próbálom megoldani, hogy a községet a továbbiakban, mint „a Falu” fogom említeni – ha jól csináltam, és nem teljesen ügyetlen a próbálkozás, a Falu nem lesz felismerhető. Mert vendégségben jártam. Nem élhetek vissza a bizalmukkal.
 

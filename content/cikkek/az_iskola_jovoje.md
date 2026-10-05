@@ -15,7 +15,7 @@ excerpt: >-
   (társadalomtudomány, természettudomány) elenyésző jelentőséggel bírnak, a
   multiknak elég a saját…
 coverImage: /sites/default/files/orbis_pictus_cover.jpg
-reads: 1274
+reads: 1720
 ---
 <strong>Szunyogh Szabolcs Trencsényi Lászlóval beszélgetett a Klubrádióban 2025. május 26-án.</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/balazs_janos.jpg
 coverAlt: 'Balázs János: A nap szerelmese. Forrás: Wikipédia'
 coverTitle: 'Balázs János: A nap szerelmese. Forrás: Wikipédia'
-reads: 9218
+reads: 9488
 ---
 > Bizalmat kell adni a diákoknak ahhoz, hogy minden gondolatukat kimondhassák, azokat is, amiket mi nem tudunk elfogadni.
 

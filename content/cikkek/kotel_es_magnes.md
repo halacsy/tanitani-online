@@ -15,7 +15,7 @@ excerpt: >-
   csak akarsz. Segít, hogy iránytűd vonzásába érj, és azután annak irányába
   enged. A szabadság pedagógiája nem görcsös, mert nem sürget, nem reguláz, mert
   tudja, hibáznod is…
-reads: 9519
+reads: 9998
 ---
 > Egyetlen választásnak a lehetősége hiányzik, hogy magad lehess. Ez a szabadság. A kötetlenség pedagógiája nem azt súgja, hogy azt csinálsz, amit csak akarsz. Segít, hogy iránytűd vonzásába érj, és azután annak irányába enged. A szabadság pedagógiája nem görcsös, mert nem sürget, nem reguláz, mert tudja, hibáznod is kell, s nem akarja, hogy más légy, mint aki legbelül vagy, mert nem lehetsz más. Innentől közös a cél.
 

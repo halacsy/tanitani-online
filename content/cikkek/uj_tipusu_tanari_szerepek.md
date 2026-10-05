@@ -12,7 +12,7 @@ excerpt: >-
   Zagyváné Szűcs Ida írása A legfontosabb feladatunk az volt, hogyan vegyük rá a
   diákokat arra, hogy saját maguk álljanak elő ötletekkel.
 coverImage: /sites/default/files/comenius.png
-reads: 7411
+reads: 7608
 ---
 <strong>... a pedagógiai értékek, különösen a kulturális örökség közvetítésében. Zagyváné Szűcs Ida írása</strong>
 

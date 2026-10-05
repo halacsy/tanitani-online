@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/dixit_0028.jpg
 coverAlt: Dixit
 coverTitle: Dixit
-reads: 9607
+reads: 10008
 ---
 <strong>Szarka-Bögös Réka írása</strong>
 

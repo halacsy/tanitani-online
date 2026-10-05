@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/asztalos_cimlap_2.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 1778
+reads: 2078
 ---
 <strong>Miért felesleges az ennyiféle kompetenciamérés? Asztalos György írása</strong>
 

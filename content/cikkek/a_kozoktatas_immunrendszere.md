@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/immun_0.jpg
 coverAlt: 'Immunrendszer. Forrás: https://health.usnews.com/'
 coverTitle: 'Immunrendszer. Forrás: https://health.usnews.com/'
-reads: 3447
+reads: 3719
 ---
 <strong>…és a pedagógus szakmai szervezetek. Radó Péter írása</strong>
 

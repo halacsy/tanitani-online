@@ -6,16 +6,13 @@ authorSlugs:
   - braun-jozsef
 date: '2026-09-28'
 tags:
-  - felvételi
-  - szakképzés
-  - érettségi
   - oktatáspolitika
+  - nat
 excerpt: >-
   Braun József írása Válaszok az Oktatási és Gyermekügyi Minisztérium
   körkérdésére
 coverImage: /sites/default/files/national_curriculum_3.png
-coverAlt: Az innovatív kísérletekért
-reads: 407
+reads: 418
 ---
 <strong>Braun József írása</strong>
 

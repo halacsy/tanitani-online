@@ -12,7 +12,7 @@ excerpt: >-
   Balázs Ákos írása A kreativitás, a szövegértés és a szövegalkotás fejlesztésén
   túl más fókuszú foglalkozások kiegészítője is lehet egy ilyen program.
 coverImage: /sites/default/files/kepregenycimlap.jpg
-reads: 30878
+reads: 31523
 ---
 <strong>Balázs Ákos írása</strong>
 

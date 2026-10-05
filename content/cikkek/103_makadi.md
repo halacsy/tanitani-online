@@ -13,7 +13,7 @@ excerpt: >-
   lehanyatló Nap színváltozásait, a gomolygó felhőket, halljuk a fejünk felett
   elhúzó repülőgépek zaját, olvassuk a tőzsdehíreket, az üzemanyagárak
   emelkedését, az…
-reads: 13214
+reads: 13565
 ---
 Van-e csodálatosabb érzés annál, mint amikor az ember rádöbben arra, hogy érti a körülötte lévő világ valamely történését? Nap mint nap nyomon követjük a lehanyatló Nap színváltozásait, a gomolygó felhőket, halljuk a fejünk felett elhúzó repülőgépek zaját, olvassuk a tőzsdehíreket, az üzemanyagárak emelkedését, az asztmások és allergiások számának növekedési trendjeit, szemléljük az idegenforgalmi bevételek változását ábrázoló diagramokat, és látjuk a katasztrófák áldozatait. Megszoktuk. Mint ahogyan azt is megszoktuk, hogy ezek a benyomások számtalan forrásból törnek ránk: az utcán, a tévéből, valamely internetes hírportálról, a villamoson mások beszélgetéséből, egy blogból vagy az épp felbontott közüzemi számlánkról. Megnézzük, meghallgatjuk, aztán többnyire megyünk tovább napi életünkben. Felgyorsult élettempónk gyakran meggátolja, hogy elgondolkodjunk az információkon, nemhogy még egymáshoz is illesszük azokat. Ám olykor történnek dolgok, amelyek kikényszerítik e gondolati dominó összerakását. Megértjük, hogyan béníthatja meg egy vulkán kitörése a globális világot. No, az a földrajz! És ez a földrajztanítás alapfeladata is: kapcsolatot teremteni környezetünk tényei, jelenségei, folyamatai között. Vajon mindenki így gondolja, és ezt akarja?
 

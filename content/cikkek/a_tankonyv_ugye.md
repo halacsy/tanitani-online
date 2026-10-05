@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/tankonyv.jpg
 coverAlt: 'Szörnyek szörnyű könyve. Forrás: http://harrypotter.wikia.com/'
 coverTitle: 'Szörnyek szörnyű könyve. Forrás: http://harrypotter.wikia.com/'
-reads: 10396
+reads: 10663
 ---
 <strong>Nahalka István írása</strong>
 

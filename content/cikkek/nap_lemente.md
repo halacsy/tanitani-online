@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/nap_lemente.jpg
 coverAlt: A képen Caspar David Friedrich festménye.
 coverTitle: A képen Caspar David Friedrich festménye.
-reads: 6714
+reads: 6922
 ---
 > Ezt az írást eredetileg Templom Kati emlékének kívántam szentelni. Kedves, fontos kollégám halt meg decemberben hosszan tartó, súlyos, ám a tőle megszokott fegyelemmel viselt betegségben.
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/palya-w470.jpg
 coverAlt: A pálya
 coverTitle: A pálya
-reads: 8877
+reads: 9430
 ---
 <strong>Nyirati András írása</strong>
 

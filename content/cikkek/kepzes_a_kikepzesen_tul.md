@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kepzes.jpg
 coverAlt: 'Forrás: https://www.plant.ca/'
 coverTitle: 'Forrás: https://www.plant.ca/'
-reads: 2171
+reads: 2626
 ---
 <strong>Fóti Péter írása</strong>
 

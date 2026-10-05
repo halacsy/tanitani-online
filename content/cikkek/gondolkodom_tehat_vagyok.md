@@ -13,7 +13,7 @@ excerpt: >-
   Németh Anna írása a matematikatanításról Szembe kell szállnom azzal a
   berögzült tanári attitűddel, hogy „Én elmondom, Te megtanulod.”
 coverImage: /sites/default/files/gond_fejlodes.jpg
-reads: 5066
+reads: 5454
 ---
 <strong>Németh Anna írása a matematikatanításról</strong>
 

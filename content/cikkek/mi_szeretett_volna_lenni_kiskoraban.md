@@ -13,7 +13,7 @@ excerpt: >-
   asztalnál megosztják egymással tapasztalataikat, világnézetüket,
   nehézségeiket, illetve hogy papírra vessék az „elhangzott” párbeszédet.
 coverImage: /sites/default/files/drama.png
-reads: 857
+reads: 1363
 ---
 <strong><span style="font-size: 1em;">Szöveg- és szerepfeldolgozó foglalkozás drámaórán. Nikolics Patrik írása</span></strong>
 

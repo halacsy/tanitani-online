@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/mike2.jpg
 coverAlt: Mike Sándor
 coverTitle: Mike Sándor
-reads: 4549
+reads: 4900
 ---
 <strong>Beszélgetés Mike Sándorral. Az interjút készítette Proics Lilla, a Tani-Tani Online olvasói számára szerkesztette Trencsényi László</strong>
 

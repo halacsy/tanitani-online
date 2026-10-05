@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/munkacsy_gyula.png
 coverAlt: Munkácsy Gyula
 coverTitle: Munkácsy Gyula
-reads: 3036
+reads: 3435
 ---
 <strong>Hegedűs Mihály interjúja</strong>
 

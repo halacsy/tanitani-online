@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/roma_tabor.jpg
 coverAlt: 'Roma bevándorlók tábora Olaszországban. Forrás: The Guardian'
 coverTitle: 'Roma bevándorlók tábora Olaszországban. Forrás: The Guardian'
-reads: 6723
+reads: 6967
 ---
 <strong>…ő is hátrányos helyzetű akar lenni!” Baracsi Kitti gondolatai a „mások” iskolájáról</strong>
 

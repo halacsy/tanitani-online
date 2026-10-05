@@ -13,7 +13,7 @@ excerpt: >-
   iskolának, a felnőttek esetében a médiumoknak és a felnőttoktatásnak. Van-e
   bármi értelme manapság a nyelvművelés néven ismert jelenségnek, és vele
   szemben mi lenne az…
-reads: 19300
+reads: 19694
 ---
 Ebben az írásban arról lesz szó, hogy mik is a lehetséges feladatai <em>az anyanyelv használatával</em> kapcsolatban a gyerekek esetében a családnak és az iskolának, a felnőttek esetében a médiumoknak és a felnőttoktatásnak. Van-e bármi értelme manapság a <em>nyelvművelés</em> néven ismert jelenségnek, és vele szemben mi lenne az értelme az iskolai és nem iskolai <em>nyelvi nevelésnek</em>?
 

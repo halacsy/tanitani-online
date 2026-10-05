@@ -13,7 +13,7 @@ excerpt: >-
   Németh Tibor írása Amikor a gyarmatosítás a világban szinte mindenütt
   megvalósult már, a kanadai eszkimók számára még el sem kezdődött.
 coverImage: /sites/default/files/kep_065_420.jpg
-reads: 6481
+reads: 6756
 ---
 <strong>Németh Tibor írása</strong>
 

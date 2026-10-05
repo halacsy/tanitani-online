@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/gygys2.jpg
 coverAlt: Bográcsozás
 coverTitle: Bográcsozás
-reads: 6527
+reads: 6746
 ---
 <strong>Gyere Gyalog Soltvadkertre! Rényi Péter írása</strong>
 

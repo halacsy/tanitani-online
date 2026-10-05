@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/galgoczi.jpg
 coverAlt: 'Forrás: http://tv.hir24.hu/'
 coverTitle: 'Forrás: http://tv.hir24.hu/'
-reads: 5198
+reads: 5400
 ---
 <strong>Az emberi élet minősége Galgóczi Erzsébet&nbsp;irodalmi hagyatékában. Trencsényi László előadása</strong>
 

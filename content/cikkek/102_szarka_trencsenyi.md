@@ -14,7 +14,7 @@ excerpt: >-
   utcai falai között 2010. május 25-én. Hagyományteremtő szándékkal szerveztük
   ezt a rendezvényt azzal a céllal, hogy hidat építsünk a lehetséges munkaadók
   és…
-reads: 7779
+reads: 7960
 ---
 <strong>Pedagógiai asszisztensek a nevelési intézmények megújítására készen</strong><br> <br>Második alkalommal került sor a <em>Mesterségünk címere…</em> rendezvényre az ELTE PPK Kazinczy utcai falai között 2010. május 25-én. Hagyományteremtő szándékkal szerveztük ezt a rendezvényt azzal a céllal, hogy hidat építsünk a lehetséges munkaadók és hallgatóink mint munkavállalók között.
 

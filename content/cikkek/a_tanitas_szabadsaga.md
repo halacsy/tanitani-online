@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tornai.jpg
 coverAlt: Tornai Tünde
 coverTitle: Tornai Tünde
-reads: 8838
+reads: 9082
 ---
 <strong>Szarka-Bögös Réka interjúja Tornai Tünde osztálytanítóval</strong>
 

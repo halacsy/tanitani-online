@@ -14,7 +14,7 @@ excerpt: >-
   kész recepteket, könyveket, tanmeneteket, feladatlapokat, mindent, hogy ne
   kelljen sokat gondolkodni, csak rutinból túlélni. És jó nekik, ha a problémás
   gyerek…
-reads: 21540
+reads: 22394
 ---
 > De nem hiszem, hogy jól van így. Mert nincs az jól, hogy a pedagógusok zöme nem gondolkodik a törvénytervezeten. Hagyják, hogy előírjanak nekik, adjanak kész recepteket, könyveket, tanmeneteket, feladatlapokat, mindent, hogy ne kelljen sokat gondolkodni, csak rutinból túlélni. És jó nekik, ha a problémás gyerek kikerül. Még jobb, ha lehet büntetni, buktatni. Nem kell a gond, a kihívás. Csak akivel könnyen lehet produkálni. 
 

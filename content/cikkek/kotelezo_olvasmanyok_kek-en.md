@@ -14,7 +14,7 @@ excerpt: >-
   az elősegítését, hogy mindenki hozzájuthasson a fontos információkhoz, a
   kulturális…
 coverImage: /sites/default/files/kek_cimlap_2.jpg
-reads: 1805
+reads: 2260
 ---
 <b>avagy kötelező olvasmányok más-KÉK. Perjésiné Farkas Krisztina írása</b>
 

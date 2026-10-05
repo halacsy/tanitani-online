@@ -9,7 +9,7 @@ date: '2012-04-13'
 tags:
   - tantárgy-pedagógia
 excerpt: Knausz Imre interjúja Hosszú Gyula történelemtanárral
-reads: 10288
+reads: 10559
 ---
 <strong>Knausz Imre interjúja Hosszú Gyula történelemtanárral</strong>
 

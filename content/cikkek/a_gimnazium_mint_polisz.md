@@ -16,7 +16,7 @@ excerpt: >-
   temetkezési egylettől. – Beszédet akarok tartani – válaszolta Benya Krik. És
   beszédet tartott.” (Iszaak…
 coverImage: /sites/default/files/palyimark_beszed_420.jpg
-reads: 5891
+reads: 6170
 ---
 <strong>...és a világ állandósága. Pályi Márk írása. Elhangzott január 23-án a Városmajori Gimnáziumban, a „Művészek a Majorból” tablóavató ünnepség rendezvényén</strong>
 

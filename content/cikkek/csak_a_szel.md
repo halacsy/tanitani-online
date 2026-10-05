@@ -14,7 +14,7 @@ excerpt: >-
   problémásnak éreztem ezt. Úgy láttam, hogy a közönségnek általában tetszett,
   és azoknak is, akikkel együtt mentünk el megnézni. Ez is nagyon dühített: nem
   igaz, hogy ők nem…
-reads: 7805
+reads: 8017
 ---
 > Amikor kijöttem a moziból, dühös voltam. Nem beszéltem senkivel a filmről közvetlenül a vetítés után – amúgy sem szokásom –, de most különösen problémásnak éreztem ezt. Úgy láttam, hogy a közönségnek általában tetszett, és azoknak is, akikkel együtt mentünk el megnézni. Ez is nagyon dühített: nem igaz, hogy ők nem látják, hogy… Aztán inkább hazamentem, és írtam pár jegyzetet, majd félreraktam. Tudtam, hogy írni akarok róla, de azt is, hogy nem érdemes rögtön, abban a lelkiállapotban. Most újra elővettem a jegyzeteket, de semmit sem változott a véleményem.
 

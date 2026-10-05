@@ -14,7 +14,7 @@ excerpt: >-
   gazdaságilag kizsákmányolják, akkor ahhoz, hogy fennmaradhasson, olyan
   oktatási modellre van szüksége, melyet az őket uraló rendszer elfogad.
 coverImage: /sites/default/files/kep_582.jpg
-reads: 7654
+reads: 8064
 ---
 <strong>...&nbsp;az őserdőben, a tundrán, a sivatagban. Németh Tibor írása</strong>
 

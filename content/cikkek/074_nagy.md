@@ -11,7 +11,7 @@ excerpt: >-
   „Sokféle képet alkothatunk az emberről… Ne azt mutassuk meg, hogy milyen,
   hanem hogy mivé válhat. Ilyen képet alkotni annyit tesz, szeretni.” Bertolt
   Brecht
-reads: 7120
+reads: 7458
 ---
 <em>„Sokféle képet alkothatunk az emberről…<br>Ne azt mutassuk meg, hogy milyen, hanem<br>hogy mivé válhat.<br>Ilyen képet alkotni annyit tesz, szeretni.”</em><br>Bertolt Brecht<br><br>Az 1970-es évek végén az akkori Egészségügyi Minisztérium kezdeményezésére merült fel a bölcsődei integráció gondolata, részben a bölcsődék kihasználtsági fokának javítása, részben pedig a fogyatékos gyermeket nevelő családok szociálpolitikai megsegítése céljából. Ez az új kezdeményezés két különleges, addig nem ismert feladatot igényelt.
 

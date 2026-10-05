@@ -12,7 +12,7 @@ excerpt: >-
   kiverhetetlenül bennünk marad, előbb gyerekként, aztán felnőttként, az maga a
   szívás.
 coverImage: /sites/default/files/mann_cimlap.jpg
-reads: 6811
+reads: 7235
 ---
 <strong>Mann Dániel írása</strong>
 

@@ -8,7 +8,7 @@ date: '2010-05-05'
 tags:
   - multikulturális nevelés
 excerpt: ''
-reads: 8644
+reads: 8890
 ---
 A közelmúltban egy tanári képesítő vizsgán történt, hogy a pedagógusjelölt annak rendje-módja szerint idézte az alapvető intelmet, miszerint ha tanulói körében valamilyen cigányellenes élű beszélgetés bontakozik ki, akkor neki szakmai és erkölcsi kötelessége ráirányítani a tanulók figyelmét a tolerancia, az empátia alapvető szempontjain túl a roma kultúra értékeire is. Mikor a vizsgáztató rákérdezett arra, hogy konkrétan milyen értékekre gondol, miket emelne ki az osztályban egy ilyen kényes helyzetben, a különben tisztességgel felkészült hallgató részéről mindössze kínosan sokáig tartó csend volt a felelet.
 

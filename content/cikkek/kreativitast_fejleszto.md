@@ -15,7 +15,7 @@ excerpt: >-
   tanulók érdeklődését és aktív részvételt kíván tőlük – az élet bármilyen
   területéről! – már kiválóan alkalmazható a nyelvtanulásban, hiszen a tanuló az
   adott idegen…
-reads: 12512
+reads: 12736
 ---
 > Az angolórák kiváló lehetőséget biztosítanak a kreatív viselkedéshez szükséges képességek fejlesztésére, hiszen szinte bármilyen feladat, ami felkelti a tanulók érdeklődését és aktív részvételt kíván tőlük – az élet bármilyen területéről! – már kiválóan alkalmazható a nyelvtanulásban, hiszen a tanuló az adott idegen nyelven a maga szintjén, céllal és motiváltan dolgozik.
 

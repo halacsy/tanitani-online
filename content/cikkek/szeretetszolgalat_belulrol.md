@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/terep.jpg
 coverAlt: Antropológus terepen
 coverTitle: Antropológus terepen
-reads: 5287
+reads: 5600
 ---
 <strong>Karlowits-Juhász Orchidea: Kutatási naplóm margójáról I.</strong>
 

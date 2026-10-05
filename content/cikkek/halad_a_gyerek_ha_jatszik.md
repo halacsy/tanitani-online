@@ -14,7 +14,7 @@ excerpt: >-
   rögzítik a gépen. Kutatják? Tulajdonképpen igen. Holott képzeletüket
   mozgósítják csak nagy…
 coverImage: /sites/default/files/csalan.jpg
-reads: 3955
+reads: 4161
 ---
 <strong>A gyerekek munkáját megszerkesztette: T. Puskás Ildikó.</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/chedera_bolcsode_1934.jpg
 coverAlt: 'A kép magánfelvétel. 1934, A Hedera kibuc bölcsődéje'
 coverTitle: 'A kép magánfelvétel. 1934, A Hedera kibuc bölcsődéje'
-reads: 6255
+reads: 6752
 ---
 <strong>A nők szerepe az országépítésben (Brit Mandátum, 1917-1948). Zsigmond Anna írása</strong>
 

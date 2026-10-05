@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/foltin_jolan_0.jpg
 coverAlt: 'Foltin Jolán. Fotó: Máthé Zoltán / MTI'
 coverTitle: 'Foltin Jolán. Fotó: Máthé Zoltán / MTI'
-reads: 3218
+reads: 3457
 ---
 <strong>Budapest, 1943. szeptember 13.– Budapest, 2019. október 27. Sándor Ildikó megemlékezése</strong>
 

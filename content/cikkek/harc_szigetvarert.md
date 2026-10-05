@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/albrecht_zsofia.jpg
 coverAlt: A képen a szerző munka közben
 coverTitle: A képen a szerző munka közben
-reads: 6314
+reads: 6652
 ---
 <strong>Egy drámajátékos feladat ismertetése. Albrecht Zsófia írása</strong>
 

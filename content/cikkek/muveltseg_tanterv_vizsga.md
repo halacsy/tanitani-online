@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   A képen Gauguin festménye Szöulban látható. Forrás:
   http://koreajoongangdaily.joins.com
-reads: 4338
+reads: 4602
 ---
 <strong>Knausz Imre előadása Pécsett az Autonómia és felelősség c. konferencián 2018. május 10-én</strong>
 

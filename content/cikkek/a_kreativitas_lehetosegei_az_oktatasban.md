@@ -15,7 +15,7 @@ excerpt: >-
   belső motivációiból következik, s mindenféle komolyabb felnőtt kontroll nélkül
   csupa…
 coverImage: /sites/default/files/alike.jpg
-reads: 8773
+reads: 9414
 ---
 <strong>Szöllősi Barnabás írása</strong>
 

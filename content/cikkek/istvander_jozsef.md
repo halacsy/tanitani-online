@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/istvander.jpg
 coverAlt: Istvánder József
 coverTitle: Istvánder József
-reads: 7328
+reads: 7587
 ---
 <strong>Ruppert Edit (nem) búcsúzik</strong>
 

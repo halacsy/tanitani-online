@@ -13,7 +13,7 @@ excerpt: >-
   azt, amivel a hazai közoktatás eredményességét erősíthetjük. A
   CERNET-CERNEDA-CERNEDALTON (2001-2007) közép-európai projekt keretében
   lehetőségünk nyílt az amerikai…
-reads: 8578
+reads: 9006
 ---
 A megújuló magyar oktatás lehetővé teszi, hogy kitekintve a nagyvilágba, az ott jól működő pedagógiai rendszerek közül kiválaszthassuk és adaptálhassuk azt, amivel a hazai közoktatás eredményességét erősíthetjük.<br><br>A CERNET-CERNEDA-CERNEDALTON (2001-2007) közép-európai projekt keretében lehetőségünk nyílt az amerikai Helen Parkhurst (1887-1973) <em>Dalton-tervének</em> megismerésére. Tapasztaltuk, hogy ezt a koncepciót sikerrel alkalmazzák a mai európai oktatásban, többek között Hollandiában is (a PISA-felmérések előkelő helyezettje az összes tantárgyból) .<br><br>Magyarországon nem terjedt el, pedig tapasztalva a folyamatosan ismétlődő oktatási problémákat, rendkívül aktuálisnak tetszik. A tudás társadalmába vezető úton alkalmasnak tartjuk a társadalmi elvárások és iskolai válaszok közti néhány alapvető hiátus kitöltésére, az emberi erőforrások hatékony fejlesztésének megalapozására. Korszerű oktatásszervezésével képes a szükséges változtatásokat egyszerűen és különösebb anyagi ráfordítás nélkül bevezetni.<br><br><em>Miféle változtatásokra van szükség?</em>
 

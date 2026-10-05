@@ -14,7 +14,7 @@ excerpt: >-
   hogy ők már egy másik nemzedék, egy digitális nemzedék.[fn]Például:
   http://www.youtube.com/watch?v=_A-ZVCjfWf8,
   http://www.youtube.com/watch?v=dGCJ46vyR9o[/fn] Divatosan…
-reads: 31429
+reads: 32655
 ---
 Kitágult világunk eredményeképpen könnyen ráakadhat az ember azokra a videó-összeállításokra, amelyekben tanulók hívják fel a figyelmünket arra, hogy ők már egy másik nemzedék, egy digitális nemzedék.[fn]Például: http://www.youtube.com/watch?v=_A-ZVCjfWf8, http://www.youtube.com/watch?v=dGCJ46vyR9o[/fn] Divatosan digitális bennszülötteknek hívjuk őket. Ugyan mindennap használjuk, alkalmazzuk az online környezetben rejlő lehetőségeket, mégsem gondolunk bele abba, diákjaink ugyanebben a környezetben élnek, és ők – mint mindent – ezt is sokkal intenzívebben élik meg. Számukra az internet, az mp3, az msn, az iPod, a blog, az iwiw, a Facebook mind-mind természetesek, nem kutatják, hogy ezek mi fán teremnek, hogyan működnek, egyszerűen csak vannak a számukra, és ha már vannak, hát használják is őket.
 

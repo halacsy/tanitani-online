@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/igazgy.jpg
 coverAlt: Asztal nélkül
 coverTitle: Asztal nélkül
-reads: 11093
+reads: 11547
 ---
 > Mert amikor megalapítottam, szabad akaratomból, engem is a szeretet vezérelt. Iskolát akartam, ahol boldog gyerekek alkotnak, boldog tanárok segítségével, a szeretet eszközével, olyan iskolát, ahol az alkotás eszköze lesz a személyiségfejlesztésnek, ahol a szegény is esélyt kap arra, hogy kiemelkedhessen.
 

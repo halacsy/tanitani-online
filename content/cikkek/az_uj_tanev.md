@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Az Igazgyöngy AMI tanulói és a szerző Bódvalenkén az általuk készített
   falfestmény előtt
-reads: 8690
+reads: 9024
 ---
 > És a sietség sem mentség, senki sem kérte, hogy rohanva, a rendszert nem átlátva hozzanak döntéseket. A bizalmat pedig nem erősíti a kétnaponta változó törvényértelmezés.
 

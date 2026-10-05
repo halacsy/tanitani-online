@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/jag.jpg
 coverAlt: A monori József Attila Gimnázium
 coverTitle: A monori József Attila Gimnázium
-reads: 7343
+reads: 7628
 ---
 <strong>avagy elfeledett pedagógusszemélyiségek, legendák nyomában.</strong>
 

@@ -9,7 +9,7 @@ tags:
   - ifjúsági kultúra
   - IKT
 excerpt: Károlyi Júlia interjúja
-reads: 9737
+reads: 10147
 ---
 <strong>Károlyi Júlia interjúja</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   hogy a magyar közoktatás szférájában jelenjen meg az újság mint oktatási
   eszköz. A WAZ (Westdeutsche Algemeine Zeitung) német lapkiadócsoport, melynek
   magyarországi…
-reads: 9220
+reads: 9474
 ---
 ## A SÉTA előzményei
 

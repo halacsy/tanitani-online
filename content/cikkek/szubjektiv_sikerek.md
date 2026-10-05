@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/image007.jpg
 coverAlt: A szerző diákjaival
 coverTitle: A szerző diákjaival
-reads: 5780
+reads: 5963
 ---
 <strong>Egy szakiskolai közismereti tanár mindennapjai. Borsodi Csilla Noémi írása</strong>
 

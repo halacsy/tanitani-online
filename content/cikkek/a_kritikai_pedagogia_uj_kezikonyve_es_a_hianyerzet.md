@@ -12,7 +12,7 @@ excerpt: >-
   felszabadítás pedagógiája – A kritikai pedagógia elmélete és gyakorlata.
   Közélet Iskolája, Budapest, 2023.
 coverImage: /sites/default/files/kritikai_pedagogia.jpg
-reads: 3071
+reads: 3347
 ---
 <strong>...és a hiányérzet.&nbsp;Trencsényi László írása</strong>
 

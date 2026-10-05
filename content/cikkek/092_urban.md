@@ -8,7 +8,7 @@ date: '2010-03-13'
 tags:
   - művészetpedagógia
 excerpt: ''
-reads: 13950
+reads: 14315
 ---
 Granasztói Szilvia régóta hűséges kísérője az alternatív pedagógiáknak. Amellett, hogy maga is bábjátékos, több bábos könyv szerzője, részese volt a drámapedagógus Tornyai Magdolna mellett a törökbálinti Zsolnai-program fejlesztő munkálatainak, a rákospalotai leánynevelő intézetben végez elkötelezett karitatív munkát, bábterápiát, újabban a Wesley Főiskolán osztja meg tapasztalait az új pedagógusnemzedékekkel.
 

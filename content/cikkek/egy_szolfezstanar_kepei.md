@@ -12,7 +12,7 @@ excerpt: >-
   október 3-án Huszárné Papp Éva autonóm művész, önálló világlátása fénylik
   (vagy éppen dereng) fel jobbára sötét tónusú képein.
 coverImage: /sites/default/files/huszarne1.jpg
-reads: 1828
+reads: 2139
 ---
 <strong>Trencsényi László megnyitója </strong> <strong>Huszárné Papp Éva pesterzsébeti kiállításán 2022. október 3-án</strong>
 

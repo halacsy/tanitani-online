@@ -8,7 +8,7 @@ date: '2010-03-21'
 tags:
   - film
 excerpt: ''
-reads: 11616
+reads: 12242
 ---
 <strong>Rózsa János filmrendező, producer idén március 15-én több évtizedes művészi életútja elismeréseként Kossuth-díjat kapott. Ezen apropóból szeretném bemutatni a <em>Gyerekbetegségek, </em>a <em>Vasárnapi szülők,</em> a <em>Pókfoci, </em>a <em>Csók, anyu</em> és sok más film rendezőjének pályáját. Filmjeinek középpontjában a gyerekek, fiatalok világa áll, kiszolgáltatott helyzetüket, a felnőtt társadalommal vívott örök harcukat hol humorral, iróniával, hol megrendítő valójában mutatja be alkotójuk. Honnan ez az egész életművön átívelő érdeklődés a gyerekek, a gyerekkor problémái iránt? Mit üzennek filmjei a szülőknek, nevelőknek?</strong>
 

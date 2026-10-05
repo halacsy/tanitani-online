@@ -7,15 +7,15 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-07-03'
 tags:
-  - tanulás
+  - örökség
+  - mozgalompedagógia
 excerpt: >-
   Interjú Balázs Györggyel az úttörőmozgalom 80. évfordulóján. Lejegyezte
   Trencsényi László Jelenleg egy kicsiny, ma még éppen hogy talpon maradt
   országos gyermekszervezetnek vagyok egyik vezetője, a Magyarország Felfedezői
   Szövetség törzsfőnöke vagyok a Mátra vidékén.
 coverImage: /sites/default/files/balazs_gyorgy.jpg
-coverAlt: Gyurka pajtás
-reads: 927
+reads: 929
 ---
 <strong><span style="font-size: 12px;">Interjú Balázs Györggyel az úttörőmozgalom 80. évfordulóján. Lejegyezte Trencsényi László</span></strong>
 

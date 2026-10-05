@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/board-3704097_640.jpg
 coverAlt: pixabay.com
 coverTitle: pixabay.com
-reads: 13779
+reads: 14930
 ---
 <strong>Nahalka István írása</strong>
 

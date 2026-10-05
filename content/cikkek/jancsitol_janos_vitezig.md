@@ -15,7 +15,7 @@ excerpt: >-
   a felkészülés során használt weboldalak, programok, a mesterséges
   intelligencia adta lehetőségek…
 coverImage: /sites/default/files/petofi_boritokep.png
-reads: 987
+reads: 1292
 ---
 <strong><span style="font-size: 1em;">A mesterséges intelligencia adta lehetőségek felhasználása az irodalomtanításban I. Lőrincz Andrea írása</span></strong>
 

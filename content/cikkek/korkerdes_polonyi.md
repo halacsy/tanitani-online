@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/polonyi_istvan.jpeg
 coverAlt: 'Polónyi István. Forrás: https://hirklikk.hu/'
 coverTitle: 'Polónyi István. Forrás: https://hirklikk.hu/'
-reads: 675
+reads: 942
 ---
 <strong>Körkérdés az oktatásról 12.</strong>
 

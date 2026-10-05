@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/iwalk_cimlap.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 5538
+reads: 5845
 ---
 <strong>Alexovics Ingrid írása az IWalk programról</strong>
 

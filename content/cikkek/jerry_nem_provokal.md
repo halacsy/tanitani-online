@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/mintz.jpg
 coverAlt: 'Jerry Mintz: Szabadság és demokrácia az iskolában'
 coverTitle: 'Jerry Mintz: Szabadság és demokrácia az iskolában'
-reads: 6015
+reads: 6287
 ---
 > Jerry Mintz: Szabadság és demokrácia az oktatásban. Budapest, 2013, ELTE Eötvös Kiadó. Deák Márton recenziója.
 

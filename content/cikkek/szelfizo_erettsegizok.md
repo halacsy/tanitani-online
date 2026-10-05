@@ -17,7 +17,7 @@ excerpt: >-
   nélkül. Az egyik feladat a szelfikészítés és -elemzés volt, ami az egyik
   legjobban kedvelt téma lett.
 coverImage: /sites/default/files/selfie3_420.jpg
-reads: 5309
+reads: 5569
 ---
 <strong>Wilhelm Móni írása</strong>
 

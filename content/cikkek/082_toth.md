@@ -14,7 +14,7 @@ excerpt: >-
   értve alatta. Ki a pályaorientáció szinonimájaként, ki szélesebb tartalommal.
   Az életpálya-építés kompetenciaterület – a Nemzeti Fejlesztési Terv keretében
   a magyar…
-reads: 10488
+reads: 10899
 ---
 <em>Az életpálya-építés legújabb szótáraink címszavai között egyelőre nem szerepel, miközben csaknem egy évtizede használjuk, néha különböző tartalmakat értve alatta. Ki a pályaorientáció szinonimájaként, ki szélesebb tartalommal. Az életpálya-építés kompetenciaterület – a Nemzeti Fejlesztési Terv keretében a magyar oktatástörténet legnagyobb központi programfejlesztésének részeként – az egyik kompetenciaterület a hat közül. Előző számunkban a szövegértés-fejlesztés programcsomagjait mutattuk be, most az életpálya-építési programfejlesztés szakmai vezetőjével, </em> Farkas Lászlóval <em>beszélgetünk.</em>
 

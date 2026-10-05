@@ -15,7 +15,7 @@ excerpt: >-
   Berzsenyiről készülő könyvnek, amelyből az itt olvasható részletek
   valók.[fn]Az 1858-ban alapított iskola az idén lesz 150 éves.[/fn] 2003 nyara
   óta készítek interjúkat…
-reads: 13375
+reads: 13907
 ---
 <em>&nbsp;„Ha nem elég jók a képeid, menj közelebb”. (Robert Capa)</em>
 

@@ -14,7 +14,7 @@ excerpt: >-
   alkalmas – és aktuális – vitatémák lehetnének.
 coverImage: /sites/default/files/kolcsey.jpg
 coverAlt: 'Forrás: https://www.irodalmijelen.hu/'
-reads: 2128
+reads: 2517
 ---
 <strong>Bessenyei István írása</strong>
 

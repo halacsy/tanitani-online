@@ -13,7 +13,7 @@ excerpt: >-
   Előadásként elhangzott a X. Miskolci Taní-tani Konferencián 2017. február
   3-án.
 coverImage: /sites/default/files/drama.jpg
-reads: 5531
+reads: 5970
 ---
 <strong>Szemlélődéssel, hozzáadással, haszonelvűséggel. H. Tóth István írása</strong>
 

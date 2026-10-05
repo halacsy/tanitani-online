@@ -11,7 +11,7 @@ excerpt: >-
   Kerényi Mari ajánlja figyelmünkbe Földes Petra: A bizalom tere. Társaskönyv
   tanároknak. Tea Kiadó, Budapest, 2024.
 coverImage: /sites/default/files/bizalom-tere-3d-400x.png
-reads: 2628
+reads: 3087
 ---
 <strong>Kerényi Mari ajánlja figyelmünkbe</strong>
 

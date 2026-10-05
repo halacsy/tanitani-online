@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/image_article.jpg
 coverAlt: Paul Gauguin festménye
 coverTitle: Paul Gauguin festménye
-reads: 8210
+reads: 8721
 ---
 <strong>A <em>jelenlét</em> pedagógiája. Földes Petra írása</strong>
 

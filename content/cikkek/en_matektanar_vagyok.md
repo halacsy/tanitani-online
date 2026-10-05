@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/fekete_parduc_0.jpg
 coverAlt: 'Kép forrása: https://www.theringer.com/'
 coverTitle: 'Kép forrása: https://www.theringer.com/'
-reads: 1452
+reads: 1747
 ---
 <strong>…és ötödikes osztályfőnök. Mi a Te varázserőd? Egy X-es tanár és az Alfa generáció első (néha ijesztő meglepetésekkel teli) tanéve. Németh Anna írása</strong>
 

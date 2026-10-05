@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/welle.jpg
 coverAlt: Jelenet a filmből
 coverTitle: Jelenet a filmből
-reads: 16433
+reads: 16959
 ---
 > Ezeket a részleteket már döbbent csendben nézték a gyerekek. Az asztalokon félbehagyott tízóraik, félig telt palackok, de senki nem eszik vagy iszik. Erről megfeledkeztek. Már nem hajolnak a padtárshoz, nem sugdosnak. Feszülten figyelnek.
 

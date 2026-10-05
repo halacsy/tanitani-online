@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   A Magyar Királyi Erzsébet Tudományegyetem központi épülete. Pécs, Rákóczi út
   80. Forrás: Wikipédia
-reads: 3365
+reads: 3777
 ---
 <strong>…a numerus clausus árnyékában. Zsigmond Anna írása</strong>
 

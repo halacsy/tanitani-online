@@ -16,7 +16,7 @@ excerpt: >-
   afrikai iskolák között (összesen 16 európai és 16 afrikai iskola vesz részt a
   programban).
 coverImage: /sites/default/files/tarjan_bevezeto.jpg
-reads: 6799
+reads: 7033
 ---
 <strong>Az iskolai partnerség mint pedagógiai módszer. Koppány Judit és Tarján Edina írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/asztalos_school_0.jpg
 coverAlt: 'Forrás: https://www.spainexchange.com/'
 coverTitle: 'Forrás: https://www.spainexchange.com/'
-reads: 5789
+reads: 6588
 ---
 <strong>Miért okoz bennem disszonanciát a HVG listája? </strong> <strong>Asztalos György írása</strong>
 

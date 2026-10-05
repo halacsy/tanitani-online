@@ -15,7 +15,7 @@ excerpt: >-
   azzal, hogy a testet, a mozgást, a mozdulatot bevonjuk a zene befogadásába,
   hallgatásába…
 coverImage: /sites/default/files/farnadi_tamara_cimlap.png
-reads: 4591
+reads: 5187
 ---
 <strong>Farnadi Tamarával Buda Sára beszélgetett 2021 decemberében</strong>
 

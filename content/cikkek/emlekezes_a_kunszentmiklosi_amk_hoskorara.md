@@ -13,7 +13,7 @@ excerpt: >-
   Kunszentmiklóson 2018. október 5-én a 80 éves Turcsányi Lászlót köszöntő ÁMK-s
   baráti-szakmai találkozó nyitányaként.
 coverImage: /sites/default/files/image001.jpg
-reads: 3602
+reads: 3858
 ---
 <strong>Mózes Ernő írása. A szerző az ÁMK alapítása idején a város tanácselnöke volt, később első – független – polgármestere.</strong>
 

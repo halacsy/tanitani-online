@@ -27,7 +27,7 @@ excerpt: >-
   Fanni, Falus András és Feith Helga Judit írása Karácsony Sándor felfogása
   szerint az…
 coverImage: /sites/default/files/kolosai1_0.jpg
-reads: 6349
+reads: 6758
 ---
 <strong>A kortársoktatás hatékonyságának egyik meghatározó aspektusa</strong>
 

@@ -11,7 +11,7 @@ excerpt: Trencsényi László megemlékezése Meghalt Pál Tamás is.
 coverImage: /sites/default/files/igazlato_0.jpg
 coverAlt: 'Forrás: moly.hu'
 coverTitle: 'Forrás: moly.hu'
-reads: 5550
+reads: 6019
 ---
 <strong>Trencsényi László megemlékezése</strong>
 

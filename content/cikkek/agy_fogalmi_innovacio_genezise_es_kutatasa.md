@@ -15,7 +15,7 @@ excerpt: >-
   igaz emberség”. Faragó László: Racionalitás és irracionalitás (1937) – részlet
   Faragó Klára…
 coverImage: /sites/default/files/image_gallery_1.jpg
-reads: 5926
+reads: 6206
 ---
 <strong>Az Abszolút pedagógusok című kiadvány és bemutatója. Kiss Hajnal írása</strong>
 

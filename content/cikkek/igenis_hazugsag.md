@@ -12,7 +12,7 @@ excerpt: >-
   akkor, amikor azt mondjuk, hogy csakis a minden részletre kiterjedő és a
   tanítás egészét átfogó központi szabályozás a megoldás...
 coverImage: /sites/default/files/success.jpg
-reads: 7415
+reads: 7864
 ---
 <strong>Nahalka István válaszával folytatódik az érettségivita</strong>
 

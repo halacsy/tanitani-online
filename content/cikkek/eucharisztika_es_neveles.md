@@ -15,7 +15,7 @@ excerpt: >-
   hogy az 1938 májusában hazánkban megrendezett kongresszus milyen üzeneteket
   közvetített…
 coverImage: /sites/default/files/eucharisztika2.jpg
-reads: 2155
+reads: 2530
 ---
 <strong>Az 1938-as Nemzetközi Eucharisztikus Kongresszus és az iskola kapcsolata&nbsp;az&nbsp;Esti Kurir&nbsp;és az&nbsp;Uj Nemzedék&nbsp;című lapokban. Frank Tamás és Valentné Albert Éva írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   munkahely az egyetlen és kizárólagos mérce? És ha igen, képesek vagyunk
   megmondani előre, milyen szakemberből mennyire lesz szükség egy, tíz, ötven év
   múlva?
-reads: 18169
+reads: 19122
 ---
 > Valóban csak abból az egyetlen szempontból lehet megközelíteni a kérdést, hogy vajon el lehet-e helyezkedni a diplomával? Mindössze erről szólna a dolog? A munkahely az egyetlen és kizárólagos mérce? És ha igen, képesek vagyunk megmondani előre, milyen szakemberből mennyire lesz szükség egy, tíz, ötven év múlva? 
 

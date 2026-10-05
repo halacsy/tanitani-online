@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/autizmus.jpg
 coverAlt: 'Forrás: https://istockphoto.com/'
 coverTitle: 'Forrás: https://istockphoto.com/'
-reads: 905
+reads: 1327
 ---
 <strong><span style="font-size: 1em;">Matolcsi Zsuzsa előadása az <em>Együtt – Szülők és pedagógusok a gyerekek sikeréért</em> című veszprémi konferencián. Elhangzott 2025. november 15-én.</span></strong>
 

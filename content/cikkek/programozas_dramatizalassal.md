@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/bevezeto_kep470.jpg
 coverAlt: Programozás dramatizálással
 coverTitle: Programozás dramatizálással
-reads: 8424
+reads: 8771
 ---
 <strong>Bognár Amália írása</strong>
 

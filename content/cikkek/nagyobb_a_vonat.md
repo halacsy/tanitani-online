@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/oroshazi_5.jpg
 coverAlt: Tanulás a steril boxban
 coverTitle: Tanulás a steril boxban
-reads: 7696
+reads: 7946
 ---
 <strong>Orosházi Katalin írása a kórház-pedagógiáról</strong>
 

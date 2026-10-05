@@ -14,7 +14,7 @@ excerpt: >-
   sem volt érdeke ez a földműveseknek, mert a munkájukat így is el tudták látni,
   az ehhez kapcsolódó tudásukat nem az iskolában szerezték: „…a népesség
   többsége a…
-reads: 17269
+reads: 17710
 ---
 ## A pedagógus professzió kialakulása
 

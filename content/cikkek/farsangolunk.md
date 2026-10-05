@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/farsang.jpg
 coverAlt: Békés Márta
 coverTitle: Békés Márta
-reads: 1997
+reads: 2187
 ---
 <strong>Békés Márta versei. Részletek a Tünde néni tündöklése... c. készülő kötetből</strong>
 

@@ -12,7 +12,7 @@ excerpt: >-
   avagy miért nem a házi feladattal foglalkozunk a tanodában. Lencse Máté írása
   Ugyanolyan pedagógusok ugyanolyan gyerekeknek?
 coverImage: /sites/default/files/dscn0317-1024x691.jpg
-reads: 9856
+reads: 10232
 ---
 <strong>avagy miért nem a házi feladattal foglalkozunk a tanodában. Lencse Máté írása</strong>
 

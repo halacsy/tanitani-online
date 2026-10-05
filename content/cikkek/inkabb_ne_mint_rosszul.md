@@ -6,7 +6,7 @@ authorSlugs:
   - foti-peter
 date: '2026-08-11'
 tags:
-  - nevelés
+  - szabad nevelés
 excerpt: >-
   „Gyerekek és diákok hangja” projektnap. Fóti Péter írása A legnagyobb veszély
   ugyanis az, hogy egy jó gondolatból egy újabb kötelező iskolai program lesz.
@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/inkabb-ne.jpg
 coverAlt: 'Forrás: 24.hu'
 coverTitle: 'Forrás: 24.hu'
-reads: 2002
+reads: 2006
 ---
 <strong>„Gyerekek és diákok hangja” projektnap. Fóti Péter írása</strong>
 

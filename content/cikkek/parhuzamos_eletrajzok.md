@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/generaciok_0.jpg
 coverAlt: 'Rob McCullough: Generations. Forrás: https://fineartamerica.com/'
 coverTitle: 'Rob McCullough: Generations. Forrás: https://fineartamerica.com/'
-reads: 2703
+reads: 2936
 ---
 <strong>…avagy két kolléga egymás között. Trencsényi László interjúi</strong>
 

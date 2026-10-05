@@ -12,7 +12,7 @@ excerpt: >-
   pozitív hozzáállás nagyon sokat számít, és segít abban, hogy változatos
   feladatok végzése közben akár szórakozva, észrevétlenül tanuljanak.
 coverImage: /sites/default/files/fekvo_oldal.jpg
-reads: 6526
+reads: 6809
 ---
 <strong>A tanulási környezet kiterjesztésének egyik lehetősége. Nagy Emőke írása</strong>
 

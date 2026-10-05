@@ -11,7 +11,7 @@ excerpt: >-
   „Az életben a legnagyobb boldogság, ha meggyőződhetünk róla, hogy önmagunkért
   szeretnek, vagy pontosabban: szeretnek bennünket, annak ellenére, hogy
   önmagunk vagyunk.” Victor Hugo
-reads: 6943
+reads: 7261
 ---
 <em>„Az életben a legnagyobb boldogság, ha meggyőződhetünk róla, hogy önmagunkért szeretnek, vagy pontosabban: szeretnek bennünket, annak ellenére, hogy önmagunk vagyunk.”<br>Victor Hugo</em>
 

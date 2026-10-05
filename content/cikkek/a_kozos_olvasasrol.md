@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/paolo_es_francesca_feuerbach_1.jpg
 coverAlt: Paolo és Francesca. Anselm Feuerbach festménye.
 coverTitle: Paolo és Francesca. Anselm Feuerbach festménye.
-reads: 5345
+reads: 5848
 ---
 <strong>Knausz Imre írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   feltétlenül az, hogy hány gyermeket vettek fel gimnáziumba, hanem az, hogy
   hány gyermek kezdett el hinni magában.
 coverImage: /sites/default/files/csiszolatlangyemant.jpg
-reads: 1783
+reads: 2359
 ---
 <strong>Egy felkészítő szakkör tapasztalatai. Fazekas Éva Ildikó írása</strong>
 

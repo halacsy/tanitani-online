@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/glihiviayaasudt_copy.jpg
 coverAlt: 'Forrás: https://x.com/GraffitiRadical/'
 coverTitle: 'Forrás: https://x.com/GraffitiRadical/'
-reads: 1195
+reads: 1617
 ---
 <strong>Horváth Attila előadása a Magyar Pedagógiai Társaság Az iskola jövője – Utópiák és disztópiák c. konferenciáján 2025. május 17-én</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/az_alagut_vegen_0.jpg
 coverAlt: Az alagút végén (címlap)
 coverTitle: Az alagút végén (címlap)
-reads: 3160
+reads: 3479
 ---
 <strong>Kerényiné Probocskai Zita könyvismertetése</strong>
 

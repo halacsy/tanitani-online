@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/csak_az_olvassa.jpg
 coverAlt: 'Forrás: magyarnarancs.hu'
 coverTitle: 'Forrás: magyarnarancs.hu'
-reads: 7256
+reads: 7598
 ---
 <strong>…avagy hogyan tanítsuk József Attilát? Trencsényi László írása</strong>
 

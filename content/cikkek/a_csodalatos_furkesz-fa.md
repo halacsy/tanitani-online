@@ -17,7 +17,7 @@ excerpt: >-
   jártok, jutalmatok nem marad el: osztoztok vélem az egészségben és jókedvben,
   és palotám…
 coverImage: /sites/default/files/furkesz.jpg
-reads: 3414
+reads: 3877
 ---
 <strong>Leendő elsős ismerkedő foglalkozás a Fürkész suliban. Sulák Tünde, Domonkos Katalin és Windisch Zsuzsanna írása</strong>
 

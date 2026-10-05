@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/nemeth_tibor_camino.jpg
 coverAlt: 'A képen a szerző: úton Santiago felé'
 coverTitle: 'A képen a szerző: úton Santiago felé'
-reads: 6983
+reads: 7249
 ---
 <strong>Németh Tibor írása</strong>
 

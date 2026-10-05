@@ -14,7 +14,7 @@ excerpt: >-
   vagy csak a szokásos erőltetett izé, amit felnőttek manipulálnak. Nem volt az!
   Csak példaképpen: két kislány ült nem messze tőlem, akik az érvényes szabályok
   szerint nem…
-reads: 28106
+reads: 28865
 ---
 > A legelképesztőbb persze a közösségi gyűlés volt, amitől féltem is, arra gondolva, hogy egy olyan gyűlésre csöppenünk be éppen, ahol semmi sem lesz, vagy csak a szokásos erőltetett izé, amit felnőttek manipulálnak. Nem volt az!  Csak példaképpen: két kislány ült nem messze tőlem, akik az érvényes szabályok szerint nem mehettek ki egyedül-kettesben a városba. Engedélyt kértek a gyűléstől erre. Rövid vita után megkapták ezt egy szavazás után. Láttam, hogy egymásra néznek és boldogok. De ez csupán két perc volt abból az órából, ami a szemünk előtt zajlott egy gyűlésben, ahol tanárok és gyerekek ültek egymás mellett vegyesen, ahol mindezt egy gyerek vezette, támaszkodva a gyűlés titkárára és a többiekre.
 

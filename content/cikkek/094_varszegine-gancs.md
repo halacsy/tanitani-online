@@ -8,7 +8,7 @@ date: '2010-04-17'
 tags:
   - művészetpedagógia
 excerpt: ''
-reads: 7463
+reads: 7685
 ---
 A 90. évén túl is körünkben élő, fáradó, mégis fáradhatatlan Kisné Polyák Erzsébet hét évtized tapasztalatait vetette papírra a <em>Kisgyermek-könyvek</em> sorozat 4. kötetében, amely a Fővárosi Közoktatási Közalapítvány támogatásával, a Magyar Bábjátékos Egyesület ajánlásával, a Magyar Pedagógiai Társaság gondozásában került kiadásra. A szerző „óvodapedagógusként lett bábos, ennek a varázslatos művészetnek egy személyben írója, tervezője, alkotója, tanítója – egyszóval: mestere! Munkásságát hivatalosan is elismerték: az UNIMA (Nemzetközi Bábszövetség) dísztagja, tulajdonosa a <em>„Kultúráért”</em> Érdemrendnek, a Magyar Vöröskereszt <em>„Aranyhajó”</em> díjának, és miniszteri dicséretben is részesült. A Magyar Bábjátékos Egyesület az elsők között ismerte el életművét a <em>„Mészáros Vincéné Emlékplakettel”.</em>
 

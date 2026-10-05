@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/pancsics_edina_0.jpg
 coverAlt: Páncsics Edina
 coverTitle: Páncsics Edina
-reads: 7744
+reads: 8341
 ---
 <strong>Páncsics Edina írása</strong>
 

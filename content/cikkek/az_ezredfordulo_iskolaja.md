@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kuti_istvan.jpg
 coverAlt: Kuti István
 coverTitle: Kuti István
-reads: 6076
+reads: 6456
 ---
 <strong>Karlowits-Juhász Orchidea írása Kuti István újító törekvéseiről</strong>
 

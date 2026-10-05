@@ -14,7 +14,7 @@ excerpt: >-
   mellett olyan kompetenciák kialakítását, fejlesztését nevezi meg feladatként,
   amelyeket a hagyományos oktatási nevelési keretek közt aligha lehet megoldani.
   Néhány…
-reads: 55027
+reads: 55723
 ---
 A Nemzeti Alaptanterv 2007 – az Ember és társadalom ismeretterülethez tartozó történelem tárgyra vonatkozó – nevelési célkitűzései a hagyományos ismeretek mellett olyan kompetenciák kialakítását, fejlesztését nevezi meg feladatként, amelyeket a hagyományos oktatási nevelési keretek közt aligha lehet megoldani. Néhány példa erre:<br><br><em>„...fontos, hogy a történelmi múlttal való találkozás és a történelemből fakadó tanulságok feldolgozása a tanulók számára személyes élmény legyen.”</em><br><br>A fejlesztési feladatok közt szerepel:<br><br><em>„A tanulók ismerkedjenek olyan köznapi és kiélezett élethelyzetekkel, konfliktusokkal, amelyek rávilágítanak az erkölcsi értékminőségek és az emberi helytállás jelentőségére, illetve az azokkal kapcsolatos problémákra.”</em><br><br><em>„Történelmi jelenetek elbeszélése, eljátszása különböző szempontokból. Érvek gyűjtése a saját vélemény alátámasztására. Ellenérvek gyűjtése az ellenvélemények cáfolására.”</em><br><br><em>„Saját vélemény érthető megfogalmazása. Események, történetek, jelenségek dramatikus megjelenítése.”[fn]A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 243/2003 (XII. 17.) Korm. rendelet (a 202/2007. (VII. 31.) Korm. rendelettel módosított, egységes szerkezetbe foglalt szövege.[/fn]</em>
 

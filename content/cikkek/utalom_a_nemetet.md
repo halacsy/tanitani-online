@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/german-online.jpg
 coverAlt: 'Forrás: http://onlinelearningtips.com/'
 coverTitle: 'Forrás: http://onlinelearningtips.com/'
-reads: 9056
+reads: 9449
 ---
 <strong>Suzana Gouth írása</strong>
 

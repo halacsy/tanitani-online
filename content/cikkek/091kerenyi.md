@@ -15,7 +15,7 @@ excerpt: >-
   valamit, mintha múlt idővé válna. Mintha megszűnne a kapcsolata az élettel,
   történetté lenne, ami valami kései utód tanulsága-ként szolgálhat. A mondó
   buktatóit…
-reads: 8941
+reads: 9372
 ---
 Van abban valami, ahogy a primitív népek nem engedték, hogy fénykép készüljön róluk, mert attól tartottak, rabul ejti lelküket a képmásuk. Ahogy leírok valamit, mintha múlt idővé válna. Mintha megszűnne a kapcsolata az élettel, történetté lenne, ami valami kései utód tanulsága-ként szolgálhat. A mondó buktatóit kerülgetném – hiába. Akárhogy is igyekszem, ahhoz, hogy egy történetet elmeséljek, meg kell határoznom, hol kezdődik, hol fejezem be, kik a sze-replői, milyen eseményről szól. Ezzel egyszersmind azt is eldöntöm, hogy abból az eleven masszából, ami az életünk, mit is szakítok ki. Kerek lesz, csinos lesz, még igaz is, tagadhatat-lan. Rendes kis hamuban süt pogácsa, akárki útravalójának.<br><br>Nem tudok pedagógiáról írni. Mégis fontosnak tartom, hogy elmondjam a történeteinket, amelyek egy iskolában történtek meg velünk. Azért iskolában, mert ez lett az életterünk. Va-lahogy az van bennem, hogy nem lehet, hogy ennyi kavargó mindenféle, amit megélünk, a semmibe tűnjön, elszálljon a mindennapokkal. Érzelmek és indulatok, szenvedés és felszaba-dító katarzis, gyász és születés – mindez ezer történet, a mi történetünk.<br><br>Valamiért szeretném ezeket elmondani. Mint a gyerek, aki a sarokban magának mesél – csak úgy, magamban dünnyögve, de azért annyira hangosan, hogy aki kíváncsi, meghallhassa. Ha tudna olyan szépen, olyan simán folyni minden történet, hogy meg sem döccen a ritmus… az volna az igazi.
 

@@ -17,7 +17,7 @@ excerpt: >-
   harcként megélt mindennapokban, s botránkozunk, sértődünk, büntetünk,
   alázunk... Miért nem tudjuk kezelni ezt a folyamatot?
 coverImage: /sites/default/files/jozsa.jpg
-reads: 27068
+reads: 27849
 ---
 <strong>Józsa István gondolatai a kamaszokról</strong>
 

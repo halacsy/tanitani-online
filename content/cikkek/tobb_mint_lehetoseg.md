@@ -11,7 +11,7 @@ excerpt: >-
   Kerényi Mari könyvismertetése Gyarmathy Éva: Tehetségfejlesztés. Tea Kiadó,
   Budapest, 2021.
 coverImage: /sites/default/files/gyarmathy.jpeg
-reads: 2665
+reads: 2863
 ---
 <strong>Kerényi Mari könyvismertetése</strong>
 

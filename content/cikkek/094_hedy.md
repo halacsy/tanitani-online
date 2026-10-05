@@ -8,7 +8,7 @@ date: '2010-05-15'
 tags:
   - blog
 excerpt: ''
-reads: 5630
+reads: 5833
 ---
 ## Kezdet (2008. augusztus 10.)
 

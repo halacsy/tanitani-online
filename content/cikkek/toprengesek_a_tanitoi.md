@@ -20,7 +20,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_470.jpg
 coverAlt: Trencsényi László
 coverTitle: Trencsényi László
-reads: 8373
+reads: 8612
 ---
 > A művészetpedagógusok közössége vélekedik karakteresen úgy, hogy a pedagógusmesterségben, a pedagógusképzésben a mesterség megannyi gyakorlati kompetenciájára kellene helyezni a hangsúlyt: a hatékony-szuggesztív megjelenés, közlés, az „üzenni-való” vállalása megannyi olyan kompetencia, mely sok hasonló vonást tartalmaz a művészi közlés sajátosságaival. A művészetek nevelése-tanítása és a tanítás művészete így lett kiindulópontja a 2011. szeptemberi józsefvárosi dialógusnak.
 

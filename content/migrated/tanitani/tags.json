@@ -189,7 +189,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "egyhazi-iskolak",
-    "articleCount": 6
+    "articleCount": 3
   },
   {
     "id": 157,
@@ -213,7 +213,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "eloadas",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 232,
@@ -221,7 +221,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "erkolcsi-neveles",
-    "articleCount": 10
+    "articleCount": 9
   },
   {
     "id": 43,
@@ -229,7 +229,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "fegyelem",
-    "articleCount": 6
+    "articleCount": 5
   },
   {
     "id": 133,
@@ -253,7 +253,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "felsooktatas",
-    "articleCount": 18
+    "articleCount": 17
   },
   {
     "id": 45,
@@ -261,7 +261,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "felveteli",
-    "articleCount": 9
+    "articleCount": 4
   },
   {
     "id": 50,
@@ -285,7 +285,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "fogyatekkal-elok",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 833,
@@ -293,7 +293,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "generaciok",
-    "articleCount": 4
+    "articleCount": 2
   },
   {
     "id": 581,
@@ -381,7 +381,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "gyogypedagogia",
-    "articleCount": 14
+    "articleCount": 17
   },
   {
     "id": 208,
@@ -421,7 +421,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "hatranyos-helyzet",
-    "articleCount": 110
+    "articleCount": 112
   },
   {
     "id": 147,
@@ -469,7 +469,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "ikt",
-    "articleCount": 47
+    "articleCount": 51
   },
   {
     "id": 240,
@@ -517,7 +517,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "iskolakritika",
-    "articleCount": 42
+    "articleCount": 43
   },
   {
     "id": 840,
@@ -549,7 +549,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "jatek",
-    "articleCount": 18
+    "articleCount": 15
   },
   {
     "id": 190,
@@ -557,7 +557,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "joga",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 366,
@@ -621,7 +621,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kompetencia",
-    "articleCount": 36
+    "articleCount": 32
   },
   {
     "id": 881,
@@ -637,7 +637,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "konferencia",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 303,
@@ -669,7 +669,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kreativitas",
-    "articleCount": 7
+    "articleCount": 5
   },
   {
     "id": 211,
@@ -677,7 +677,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kultura",
-    "articleCount": 2
+    "articleCount": 0
   },
   {
     "id": 54,
@@ -685,7 +685,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kutatasok",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 485,
@@ -733,7 +733,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kozepiskola",
-    "articleCount": 13
+    "articleCount": 12
   },
   {
     "id": 299,
@@ -741,7 +741,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "kozosseg",
-    "articleCount": 21
+    "articleCount": 16
   },
   {
     "id": 165,
@@ -773,7 +773,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "lemorzsolodas",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 703,
@@ -813,7 +813,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "matematikatanitas",
-    "articleCount": 7
+    "articleCount": 8
   },
   {
     "id": 105,
@@ -853,7 +853,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "mese",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 155,
@@ -869,7 +869,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "minosegbiztositas",
-    "articleCount": 5
+    "articleCount": 3
   },
   {
     "id": 596,
@@ -901,7 +901,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "mozgalompedagogia",
-    "articleCount": 10
+    "articleCount": 11
   },
   {
     "id": 219,
@@ -909,7 +909,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "multikulturalis-neveles",
-    "articleCount": 22
+    "articleCount": 23
   },
   {
     "id": 86,
@@ -917,7 +917,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "media",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 256,
@@ -933,7 +933,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "modszerek",
-    "articleCount": 17
+    "articleCount": 15
   },
   {
     "id": 361,
@@ -949,7 +949,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "muveltseg",
-    "articleCount": 7
+    "articleCount": 6
   },
   {
     "id": 200,
@@ -957,7 +957,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "muveszeti-neveles",
-    "articleCount": 4
+    "articleCount": 0
   },
   {
     "id": 30,
@@ -965,7 +965,15 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "muveszetpedagogia",
-    "articleCount": 107
+    "articleCount": 112
+  },
+  {
+    "id": 922,
+    "name": "nat",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "nat",
+    "articleCount": 2
   },
   {
     "id": 134,
@@ -997,7 +1005,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "nemzetkozi",
-    "articleCount": 8
+    "articleCount": 1
   },
   {
     "id": 217,
@@ -1005,7 +1013,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "neveles",
-    "articleCount": 41
+    "articleCount": 31
   },
   {
     "id": 104,
@@ -1016,12 +1024,20 @@
     "articleCount": 7
   },
   {
+    "id": 913,
+    "name": "neveléselemélet",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "neveleselemelet",
+    "articleCount": 1
+  },
+  {
     "id": 653,
     "name": "neveléselmélet",
     "descriptionHtml": "",
     "weight": 0,
     "slug": "neveleselmelet",
-    "articleCount": 15
+    "articleCount": 16
   },
   {
     "id": 158,
@@ -1045,7 +1061,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "nevelestortenet",
-    "articleCount": 35
+    "articleCount": 36
   },
   {
     "id": 579,
@@ -1077,7 +1093,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "nyelvtanitas",
-    "articleCount": 14
+    "articleCount": 15
   },
   {
     "id": 164,
@@ -1109,7 +1125,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "neptanc-pedagogia",
-    "articleCount": 0
+    "articleCount": 1
   },
   {
     "id": 724,
@@ -1133,7 +1149,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "oktataspolitika",
-    "articleCount": 76
+    "articleCount": 84
   },
   {
     "id": 300,
@@ -1149,7 +1165,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "osztalyozas",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 435,
@@ -1173,7 +1189,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogia",
-    "articleCount": 5
+    "articleCount": 0
   },
   {
     "id": 588,
@@ -1189,7 +1205,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogus",
-    "articleCount": 38
+    "articleCount": 27
   },
   {
     "id": 331,
@@ -1213,7 +1229,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagogusok",
-    "articleCount": 73
+    "articleCount": 56
   },
   {
     "id": 254,
@@ -1221,7 +1237,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pedagoguspalya",
-    "articleCount": 2
+    "articleCount": 0
   },
   {
     "id": 283,
@@ -1229,7 +1245,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pisa",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 33,
@@ -1253,7 +1269,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "pszichologia",
-    "articleCount": 24
+    "articleCount": 23
   },
   {
     "id": 242,
@@ -1261,7 +1277,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "palyaorientacio",
-    "articleCount": 5
+    "articleCount": 4
   },
   {
     "id": 138,
@@ -1317,7 +1333,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "summerhill",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 116,
@@ -1341,7 +1357,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szabad-neveles",
-    "articleCount": 49
+    "articleCount": 53
   },
   {
     "id": 312,
@@ -1365,7 +1381,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szakkepzes",
-    "articleCount": 15
+    "articleCount": 11
   },
   {
     "id": 167,
@@ -1397,7 +1413,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szegregacio",
-    "articleCount": 12
+    "articleCount": 11
   },
   {
     "id": 173,
@@ -1413,7 +1429,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szelekcio",
-    "articleCount": 4
+    "articleCount": 3
   },
   {
     "id": 124,
@@ -1437,7 +1453,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szorongas",
-    "articleCount": 2
+    "articleCount": 1
   },
   {
     "id": 307,
@@ -1453,7 +1469,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szupervizio",
-    "articleCount": 3
+    "articleCount": 2
   },
   {
     "id": 98,
@@ -1469,7 +1485,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szinhaz",
-    "articleCount": 3
+    "articleCount": 0
   },
   {
     "id": 250,
@@ -1485,7 +1501,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szoveges-ertekeles",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 247,
@@ -1501,7 +1517,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "szulok",
-    "articleCount": 8
+    "articleCount": 4
   },
   {
     "id": 178,
@@ -1533,7 +1549,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tananyag",
-    "articleCount": 7
+    "articleCount": 2
   },
   {
     "id": 51,
@@ -1541,7 +1557,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tankonyv",
-    "articleCount": 8
+    "articleCount": 7
   },
   {
     "id": 311,
@@ -1557,7 +1573,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanterv",
-    "articleCount": 24
+    "articleCount": 18
   },
   {
     "id": 21,
@@ -1573,7 +1589,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanulas",
-    "articleCount": 11
+    "articleCount": 2
   },
   {
     "id": 597,
@@ -1589,7 +1605,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tanulasi-kornyezet",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 238,
@@ -1645,7 +1661,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "tehetseg",
-    "articleCount": 26
+    "articleCount": 25
   },
   {
     "id": 88,
@@ -1789,7 +1805,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "zene",
-    "articleCount": 1
+    "articleCount": 0
   },
   {
     "id": 246,
@@ -1829,7 +1845,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "erettsegi",
-    "articleCount": 14
+    "articleCount": 8
   },
   {
     "id": 224,
@@ -1845,7 +1861,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "erzelmi-neveles",
-    "articleCount": 5
+    "articleCount": 4
   },
   {
     "id": 344,
@@ -1861,7 +1877,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "ovoda",
-    "articleCount": 11
+    "articleCount": 12
   },
   {
     "id": 34,
@@ -1885,6 +1901,6 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "orokseg",
-    "articleCount": 157
+    "articleCount": 160
   }
 ]

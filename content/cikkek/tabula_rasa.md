@@ -13,7 +13,7 @@ excerpt: >-
   látványa is elborzasztja a leendő olvasót. Nem biztos, hogy igazam van, de az
   az elképzelésem, hogy úgy, ha előbb újra megtanítjuk őket írni.
 coverImage: /sites/default/files/tabula_rasa.jpg
-reads: 13846
+reads: 14810
 ---
 <strong>Alexovics Ingrid írása</strong>
 

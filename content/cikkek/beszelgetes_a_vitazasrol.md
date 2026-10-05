@@ -19,7 +19,7 @@ coverAlt: 'Forrás: Facebook'
 coverTitle: >-
   Forrás:
   https://www.facebook.com/media/set/?set=a.429767453772909.1073741825.165490110200646&type=3
-reads: 11964
+reads: 12593
 ---
 <strong>Lencse Máté kérdéseire Cohen Áron, Kruppa Fanni és Murányi Zsófia válaszoltak</strong>
 

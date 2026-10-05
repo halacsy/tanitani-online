@@ -6,10 +6,8 @@ authorSlugs:
   - csizmarne-gede-erika-judit
 date: '2026-06-09'
 tags:
-  - pedagógia
-  - közösség
-  - nevelés
-  - fogyatékkal élők
+  - neveléstörténet
+  - gyógypedagógia
 excerpt: >-
   Jan Joest von Kalkar követője: A Gyermek Krisztus imádata (kb. 1515) és a
   középkori fogyatékossággal élők teológiai helye. Csizmárné Gede Erika Judit
@@ -19,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/kalkar.png
 coverAlt: 'Forrás: The Met'
 coverTitle: 'Forrás: The Met'
-reads: 1031
+reads: 1034
 ---
 <strong>Jan Joest von Kalkar követője: A Gyermek Krisztus imádata (kb. 1515) és a középkori fogyatékossággal élők teológiai helye.&nbsp;Csizmárné Gede Erika Judit írása</strong>
 
@@ -67,7 +65,7 @@ A Gyermek Krisztus imádata tehát nem csupán a Down-szindróma legkorábbi ism
 
 ## Felhasznált irodalom
 
-Aquinói Szent Tamás: [A](http://mek.oszk.hu/14700/14746/14746.pdf%20) [Summa Theologiae](https://mek.oszk.hu/14700/14746/14746.pdf%20) [kérdései a jogról.](http://mek.oszk.hu/14700/14746/14746.pdf%20) Szerk. Dr. Varga Csaba. Ford. többen. PPKE–Szent István Társulat, Budapest, 2011.
+Aquinói Szent Tamás: [A](<http://mek.oszk.hu/14700/14746/14746.pdf >) [Summa Theologiae](<https://mek.oszk.hu/14700/14746/14746.pdf >) [kérdései a jogról.](<http://mek.oszk.hu/14700/14746/14746.pdf >) Szerk. Dr. Varga Csaba. Ford. többen. PPKE–Szent István Társulat, Budapest, 2011.
 
 Caesarius Heisterbach: [Dialogus Miraculorum](https://archive.org/details/dialogusmiraculo01caes). Coloniae, J.M. Heberle, 1851.
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/szenvedelyes_valasz.png
 coverAlt: 'Forrás: https://wellington.live/'
 coverTitle: 'Forrás: https://wellington.live/'
-reads: 2906
+reads: 3563
 ---
 <strong>…a „Mobiltelefon az iskolában: áldás vagy átok?” kérdésre. Farkas Károly írása</strong>
 

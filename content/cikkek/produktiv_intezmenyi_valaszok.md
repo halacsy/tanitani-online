@@ -16,7 +16,7 @@ excerpt: >-
   életpálya-építés szemléletének, innovatív tartalmainak, eszköztárának és
   tevékenységeinek…
 coverImage: /sites/default/files/renfe_class_730_viaducto_martin_gil_420.jpg
-reads: 5809
+reads: 6118
 ---
 <b>Bártfai Edit előadása a VIII. Miskolci Taní-tani Konferencián 2015. január 30-án</b>
 

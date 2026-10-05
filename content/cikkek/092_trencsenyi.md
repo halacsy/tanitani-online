@@ -13,7 +13,7 @@ excerpt: >-
   Taní-tani folyóirat nyitottsága, fogadókészsége – révén kerülhet Alexander
   Neill, a híres-hírhedt summerhilli internátus alapítója, a non-direktív
   pedagógia…
-reads: 8125
+reads: 8466
 ---
 <em>A 70 éves Mihály Ottónak ajánlom</em>
 

@@ -10,7 +10,7 @@ tags:
   - mozgalompedagógia
   - környezeti nevelés
 excerpt: Morvay Péter emlékére
-reads: 14847
+reads: 15210
 ---
 <strong>Morvay Péter emlékére</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   látszik, hogy mekkora káosz uralkodik az elmúlt hónapokban a felsőoktatási
   törvény körül. És, hogy ez miért óriási probléma? A magam részéről nem tudom
   elképzelni, hogy komolyan lehet venni majd ezek után az elfogadott törvényt.
-reads: 6742
+reads: 7056
 ---
 > Ebből az igencsak vázlatos, pár hírt kiragadó kis összefoglalóból is jól látszik, hogy mekkora káosz uralkodik az elmúlt hónapokban a felsőoktatási törvény körül. És, hogy ez miért óriási probléma? A magam részéről nem tudom elképzelni, hogy komolyan lehet venni majd ezek után az elfogadott törvényt. 
 

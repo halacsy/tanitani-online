@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/zoliborito.jpg
 coverAlt: Borítóképek
 coverTitle: Borítóképek
-reads: 1626
+reads: 1911
 ---
 <strong>Olvasni vagy nem olvasni, az itt a kérdés… Pompor Zoltán írása</strong>
 

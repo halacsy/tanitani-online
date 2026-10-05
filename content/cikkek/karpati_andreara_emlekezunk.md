@@ -6,10 +6,8 @@ authorSlugs:
   - simon-tunde
 date: '2026-06-23'
 tags:
-  - nemzetközi
-  - nevelés
-  - művészeti nevelés
-  - pedagógusok
+  - örökség
+  - művészetpedagógia
 excerpt: >-
   Simon Tünde előadása a 9. Művészetpedagógiai Konferencián 2026. május 28-án A
   sikert mutató színfalak mögött csendben ott volt a folyton másokért küzdő,
@@ -17,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/karpati_andrea.png
 coverAlt: Kárpáti Andrea
 coverTitle: Kárpáti Andrea
-reads: 1251
+reads: 1253
 ---
 <strong><span style="font-size: 12px;">Simon Tünde előadása a 9. Művészetpedagógiai Konferencián 2026. május 28-án</span></strong>
 

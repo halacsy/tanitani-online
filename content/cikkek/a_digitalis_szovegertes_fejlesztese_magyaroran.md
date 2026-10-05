@@ -14,7 +14,7 @@ excerpt: >-
   felelőssége van a pedagógusoknak ebben? Mivel segíthető elő az e területen
   szerzett jártasságok és készségek fejlődése már az általános iskolában?
 coverImage: /sites/default/files/bevezeto-kep.jpg
-reads: 25069
+reads: 25653
 ---
 <strong>Bognár Amália írása</strong>
 

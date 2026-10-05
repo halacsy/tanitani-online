@@ -12,7 +12,7 @@ excerpt: >-
   pedagógiai-pszichológiai képzése (a szerk.). [/fn], és azok az alapelvek,
   amelyeket minden minket tanító szakember képvisel, szöges ellentétben állnak
   azzal, ami a gyakorlatban, az iskolákban folyik.
-reads: 7451
+reads: 7799
 ---
 <em>Az egyetemen a többéves „Pepszi”-képzésünk[fn]</em>A tanár szakos hallgatók pedagógiai-pszichológiai képzése (a szerk.).<em>[/fn], és azok az alapelvek, amelyeket minden minket tanító szakember képvisel, szöges ellentétben állnak azzal, ami a gyakorlatban, az iskolákban folyik.<br>Én és tanárjelölt diáktársaim nem könnyű megmérettetés előtt állunk: évekig tanítják nekünk, hogyan kell szaxofonozni, majd a kezünkbe adnak egy rücskös tilinkót: lássuk, hogy fújod, és leosztályoznak.<br>Már korábban végzett diáktársaim történeteiből is tudtam: más komoly bajok is vannak a tanítási gyakorlatokkal. Én pedig megelégeltem, hogy ez tabutéma a közbeszédben, és úgy döntöttem, hogy előállok a magam esetével.</em><br><br>Egy közlekedésgépészeti szakközépiskolába osztanak be, méltán híres iskola, van, ahol csak az itt végzetteket veszik fel szerelőüzemekbe! Konzulensünk, E. fiatal-középkorú tanárnő, rögtön arra kér minket: tegeződjünk. Az első szembetűnő nehézség, természetesen, hogy kizárólag fiúkkal találja szembe magát az ember – de végül ez önmagában semmiféle gondot nem okoz.
 

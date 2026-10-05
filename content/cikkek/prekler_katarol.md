@@ -11,7 +11,7 @@ excerpt: >-
   Farkas Annamária írása Igen, ez a legfontosabb: kellő szabadság a gyereknek… a
   sajátnak és a félig sajátnak is.
 coverImage: /sites/default/files/watercolour-1766307_1920_0.jpg
-reads: 4649
+reads: 4889
 ---
 <strong>Farkas Annamária írása</strong>
 

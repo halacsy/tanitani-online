@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/ee_logo.jpg
 coverAlt: Eleven Emlékmű
 coverTitle: Eleven Emlékmű
-reads: 2781
+reads: 3208
 ---
 > Az Eleven Emlékmű csoport megszakítva emlékezetpolitikai témakörének több éve tartó beszélgetéssorozatát december 15-én a jelent, illetve a jövőt választotta az 52 fő jelenlétében lezajlott online beszélgetés témájául: az oktatásügyben zajló engedetlenségi mozgalmak kérdéseit állította fókuszba. A „barikád” nyolc „névtelen harcosát” hívta meg erre az estére. Közülük <strong>Pap Gábor Papesz</strong> le is írta „tanúvallomását”.
 

@@ -13,7 +13,7 @@ excerpt: >-
   walesi nyelvek egyenrangúságának elvét, és a kormány tervezetet készített a
   walesi nyelv védelme és terjesztése érdekében…
 coverImage: /sites/default/files/wales_dragon_0.jpg
-reads: 5486
+reads: 5804
 ---
 <strong>Németh Tibor írása</strong>
 

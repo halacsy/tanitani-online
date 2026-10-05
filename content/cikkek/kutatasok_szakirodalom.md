@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/foldespetra.jpg
 coverAlt: 'Fotó: L. Ritók Nóra'
 coverTitle: 'Fotó: L. Ritók Nóra'
-reads: 10164
+reads: 10657
 ---
 <strong>...és a valóság. Avagy elégséges érv-e a pedagógiai tapasztalat?</strong>
 

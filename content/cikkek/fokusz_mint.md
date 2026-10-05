@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/arunas_zilys.jpg
 coverAlt: Arunas Zilys festménye
 coverTitle: Arunas Zilys festménye
-reads: 33200
+reads: 35001
 ---
 <strong>...mint oktatáselméleti kategória</strong>
 

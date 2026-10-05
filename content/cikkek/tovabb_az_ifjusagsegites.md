@@ -15,7 +15,7 @@ excerpt: >-
   szervezésében háromnapos nyári egyetemen ismerkedtek az eredményekkel,
   módszerekkel és lehetőségekkel a fiatal értelmiségi szakma, az „ifjúságszakma”
   „öregjei” és vállalkozó…
-reads: 5871
+reads: 6045
 ---
 > A TÁMOP-projekt keretei között zajló tananyag-fejlesztési munkálatok „forró napjaira” került sor Kecskeméten. A Főiskola és a Mobilitás Szolgálat szervezésében háromnapos nyári egyetemen ismerkedtek az eredményekkel, módszerekkel és lehetőségekkel a fiatal értelmiségi szakma, az „ifjúságszakma” „öregjei” és vállalkozó kedvű leendő szakemberei. Az intenzív programot a Magyar Pedagógiai Társaság közreműködésével szervezett Műhelykonferencia zárta.
 

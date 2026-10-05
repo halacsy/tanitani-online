@@ -13,7 +13,7 @@ excerpt: >-
   de céljaink a tanulási készségek fejlesztésétől a társadalmi befogadás
   elősegítéséig terjednek.
 coverImage: /sites/default/files/1_420.jpg
-reads: 8554
+reads: 8943
 ---
 <strong>Szabó Márton írása&nbsp;a szociális cirkusz módszeréről</strong>
 

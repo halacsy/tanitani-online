@@ -13,7 +13,7 @@ excerpt: >-
   arra, hogy diákjaink irodalom iránti érdeklődését felkeltsük és fenn is
   tartsuk. Számos okkal magyarázható ez, de bőven elég, ha a külvilágból érkező
   hatásokra gondolunk –…
-reads: 10526
+reads: 10882
 ---
 A magyartanítás válságáról évtizedek óta tudunk. Gyakorló tanárok számos példával tudják igazolni, hogy a régi módszerek és elvek már nem alkalmasak arra, hogy diákjaink irodalom iránti érdeklődését felkeltsük és fenn is tartsuk. Számos okkal magyarázható ez, de bőven elég, ha a külvilágból érkező hatásokra gondolunk – hiszen alapvetően diákjaink arra reagálnak, amikor igényeik felmerülnek, vagyis amikor unalmasnak találják a régről jól bevált frontális oktatást és az ókori görög lírát. Gondoljunk bele: az a diák, aki naphosszat a gép előtt ül, netezik, és a virtuális világ minden percben új élményeket nyújt neki, persze, hogy szürkének találja azt az unásig ismert rendszert, hogy a tanár bejön, felelek vagy megúszom, szöveggyűjteményből felolvas, mi pedig írjuk, amit diktál. És ez nem egy óra menete, hanem naponta 5-6 óráé, ahol ráadásul hajlamosak a tanárok személyes sértésnek venni az unatkozó vagy kártyapartnert kereső tanítványaikat.
 

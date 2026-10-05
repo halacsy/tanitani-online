@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/sebzett.jpg
 coverAlt: 'Forrás: https://www.istockphoto.com/'
 coverTitle: 'Forrás: https://www.istockphoto.com/'
-reads: 2608
+reads: 2909
 ---
 <strong>Fóti Péter írása</strong>
 

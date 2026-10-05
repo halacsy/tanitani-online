@@ -14,7 +14,7 @@ excerpt: >-
   Albert Éva írása Az írás hosszabb, lábjegyzetekkel kiegészített változata a
   cikk alján letölthető.
 coverImage: /sites/default/files/albert_cimlap.jpg
-reads: 8598
+reads: 8961
 ---
 <strong>…nevelő hatása.&nbsp;</strong> <strong>Sacré Coeur – Budapest,&nbsp;</strong> <strong>New School – Abbotsholme.&nbsp;</strong> <strong>Valentné Albert Éva írása</strong>
 

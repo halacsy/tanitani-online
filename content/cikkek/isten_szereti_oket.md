@@ -7,10 +7,8 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-07-05'
 tags:
-  - közösség
-  - kompetencia
   - pedagógus
-  - játék
+  - hátrányos helyzet
 excerpt: >-
   Ezt próbálom megtapasztaltatni velük, hogy akkor is szereti őket Isten, ha
   rosszat csinálnak. Interjú Judit nővérrel. Lejegyezte Trencsényi László
@@ -20,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/judit_nover.jpg
 coverAlt: Judit nővér
 coverTitle: Judit nővér
-reads: 1360
+reads: 1362
 ---
 <strong><span style="font-size: 12px;">Ezt próbálom megtapasztaltatni velük, hogy akkor is szereti őket Isten, ha rosszat csinálnak. Interjú Judit nővérrel. Lejegyezte Trencsényi László</span></strong>
 

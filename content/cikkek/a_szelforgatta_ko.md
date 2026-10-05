@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/podor_dora_nemeth_tibor.jpg
 coverAlt: Pődör Dóra és a szerző
 coverTitle: Pődör Dóra és a szerző
-reads: 5972
+reads: 6243
 ---
 <strong>Pődör Dórával Németh Tibor készített interjút.</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   érzékelik, hogy a tantárgyak között témabeli átfedések lehetnek, a tantárgyak
   közötti kapcsolatokra mutatunk rá, így látókörük is tágul.
 coverImage: /sites/default/files/oa-_kep.png
-reads: 22491
+reads: 22945
 ---
 <strong>...mint tanítói segédletek a 21. században. &nbsp;Osvald Andrea írása</strong>
 

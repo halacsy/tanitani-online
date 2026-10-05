@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/kodaly_nyomaban.jpg
 coverAlt: A 7. r osztály és Dinyés Soma Becskén
 coverTitle: A 7. r osztály és Dinyés Soma Becskén
-reads: 1735
+reads: 2097
 ---
 <strong>Kodály népdalgyűjtő útjainak emlékezetére. Dinyés Soma, Körber Katalin és Walter Judit írása</strong>
 

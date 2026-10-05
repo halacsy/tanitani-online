@@ -14,7 +14,7 @@ excerpt: >-
   Kiadó, Budapest, 2024. 392 o. ISBN 978-615-82337-5-0. Magyar Narancs Könyvek.
   Sorozatszerkesztő: Bojtár B. Endre –László Géza. ISSN 3003-9576
 coverImage: /sites/default/files/upor_majdnem.jpg
-reads: 1330
+reads: 1551
 ---
 <strong>Upor László könyve az SZFE autonómiaharcáról. Bolvári-Takács Gábor recenziója</strong>
 

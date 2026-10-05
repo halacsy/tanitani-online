@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/slampoetry.jpg
 coverAlt: A kép a Bing segítségével készült.
 coverTitle: A kép a Bing segítségével készült.
-reads: 1756
+reads: 2114
 ---
 <strong>…a drámapedagógia szolgálatában. Hetesi Júlia Fanni írása</strong>
 

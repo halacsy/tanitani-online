@@ -13,7 +13,7 @@ excerpt: >-
   azt várhatom, hogy a csoportot jobban leköti az óra, motiváltabb lesz,
   gyorsabban haladunk, a hatékonyabb szemléltetés mélyebb tudást ad majd.
 coverImage: /sites/default/files/boritokep.jpg
-reads: 10386
+reads: 10616
 ---
 <strong>Mit ad hozzá az órámhoz? Bajkó Bálint írása</strong>
 

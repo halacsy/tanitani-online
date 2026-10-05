@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/alfred_adler.jpg
 coverAlt: 'Alfred Adler. Forrás: https://www.vision.org'
 coverTitle: 'Alfred Adler. Forrás: https://www.vision.org'
-reads: 8183
+reads: 8787
 ---
 <strong>...a nevelésben. Nagy Edit írása</strong>
 

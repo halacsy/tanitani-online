@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/chess-wallpapers-9_0.jpg
 coverAlt: 'Forrás: http://hdimagesnew.com/chess-wallpapers/'
 coverTitle: 'Forrás: http://hdimagesnew.com/chess-wallpapers/'
-reads: 13878
+reads: 14591
 ---
 <strong>Sakk-logika oktatás a telki Pipacsvirág Iskolában. Sarlós Erzsébet írása</strong>
 

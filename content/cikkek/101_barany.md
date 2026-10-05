@@ -13,7 +13,7 @@ excerpt: >-
   Helyreigazítás Az alábbi beszélgetés Csovcsics Erikával, a Gandhi Gimnázium
   hajdani igazgatójával készült annak ürügyén, hogy ebben az évben
   Várhegyi-Díjat kapott.
-reads: 8458
+reads: 8864
 ---
 [<strong>Helyreigazítás</strong>](/print/101_helyreigazitas)
 

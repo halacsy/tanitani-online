@@ -8,7 +8,7 @@ date: '2009-07-05'
 tags:
   - magániskolák
 excerpt: A második rész itt olvasható.
-reads: 13816
+reads: 14257
 ---
 > [A második rész itt olvasható.](/091tomasz)
 

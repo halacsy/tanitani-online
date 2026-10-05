@@ -13,7 +13,7 @@ excerpt: >-
   szempontjából különösen fontos történelmi korok és problémák iránt, hanem a
   réveteg tévhitek, a sokszor kifejezetten veszélyes következtetésekhez,
   szélsőséges…
-reads: 6455
+reads: 6823
 ---
 Beábrándulás. Ez a műszó arra a több szempontból aggasztó jelenségre utal, miszerint a 21. század elején nemcsak a figyelem növekedett meg a nemzettudat szempontjából különösen fontos történelmi korok és problémák iránt, hanem a réveteg tévhitek, a sokszor kifejezetten veszélyes következtetésekhez, szélsőséges meggyőződésekhez vezető hamis ábrándok népszerűsége is. Nemzeti történelmünk egyes kulcsfordulói élénk vitákat váltanak ki. Jól is van ez így addig, amíg e szakmai polémiák nem lehetetlenülnek el az adott problémát kisajátító, a végletekig leegyszerűsítő sémákat hirdetők lelkesedése miatt. S amíg a történelem azért népszerű, mert a vitatott korok, személyiségek, kérdések árnyalt elemzése lehetőséget ad az érvek ütköztetésére, s a múlttal való őszinte és olykor nagyon is fájdalmas szembenézésre – s az abból való okulásra. Ám ha ez a beábrándulás miatt lehetetlenné válik, akkor a kitalált – konstruált történelem segítségével éppúgy erőszakot lehet tenni a jelenen, mint amilyen erőszakot a múlt elszenved miáltalunk.
 

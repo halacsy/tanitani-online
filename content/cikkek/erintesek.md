@@ -14,7 +14,7 @@ excerpt: >-
   amely fejleszti az empátiát, és a kompetenciák listájára felveszi az
   odafigyelés reflexét.
 coverImage: /sites/default/files/pancsics_erintesek6.jpg
-reads: 2623
+reads: 2953
 ---
 <strong>Páncsics Edina írása</strong>
 

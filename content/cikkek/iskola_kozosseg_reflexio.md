@@ -12,7 +12,7 @@ excerpt: >-
   Zarándi Zsolt Bence könyvismertetése Trencsényi László: Az iskola belső
   világa. Tanulmányok 1989-2003. Budapest, 2015, Fapadoskönyv Kiadó.
 coverImage: /sites/default/files/belso_vilaga.jpg
-reads: 6060
+reads: 6324
 ---
 <strong>Zarándi Zsolt Bence könyvismertetése</strong>
 

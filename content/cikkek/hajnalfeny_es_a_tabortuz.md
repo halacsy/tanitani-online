@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Tábornyitó Ráckevén: Idők kapitánya, X kapitány, Hajóorvos, Fehér Szarvas, Kun
   Anna
-reads: 3372
+reads: 3711
 ---
 <strong>...avagy a gyermekkori szocializáció mintái anno. Révész György interjúja</strong>
 

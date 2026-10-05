@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/palinkas_jozsef.jpg
 coverAlt: Pálinkás József
 coverTitle: Pálinkás József
-reads: 2313
+reads: 2788
 ---
 <strong>Pálinkás József rövid válaszai öt fontos kérdésre az oktatásról (Körkérdés az oktatásról 11.)</strong>
 

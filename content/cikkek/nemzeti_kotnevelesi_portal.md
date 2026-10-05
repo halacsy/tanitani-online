@@ -11,7 +11,7 @@ excerpt: >-
   Jánk István írása Ez nagyjából annyira hasznosítható egy tanár számára, mintha
   módszertani segédlet címszóval azt javasolnánk neki, hogy tanítson jól.
 coverImage: /sites/default/files/nkp_420.png
-reads: 7611
+reads: 7866
 ---
 <strong>Jánk István írása</strong>
 

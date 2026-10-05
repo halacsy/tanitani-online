@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/lorand_ferenc.jpg
 coverAlt: 'Fotó: Neményi Márton. Forrás: http://fn.hir24.hu/'
 coverTitle: 'Fotó: Neményi Márton. Forrás: http://fn.hir24.hu/'
-reads: 6272
+reads: 6544
 ---
 <strong>Trencsényi László emlékezik</strong>
 

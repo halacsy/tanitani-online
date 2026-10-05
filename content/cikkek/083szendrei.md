@@ -14,7 +14,7 @@ tags:
 excerpt: >-
   Szendrei Juliannával, az ELTE Tanító- és Óvóképző Főiskolai Kara tanszékvezető
   főiskolai tanárával Knausz Imre beszélgetett a pedagógusképzésről
-reads: 19777
+reads: 20341
 ---
 <strong>Szendrei Juliannával, az ELTE Tanító- és Óvóképző Főiskolai Kara tanszékvezető főiskolai tanárával Knausz Imre beszélgetett a pedagógusképzésről</strong>
 

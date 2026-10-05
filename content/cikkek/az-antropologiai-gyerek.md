@@ -11,7 +11,7 @@ excerpt: >-
   Trencsényi László írása A "furi gyerek" terminusból nőtt ki a minden tanulóban
   fellelhetőnek gondolt "atipikus tehetség" fogalma.
 coverImage: /sites/default/files/covers_959240.jpg
-reads: 1050
+reads: 1626
 ---
 <strong>Trencsényi László írása</strong>
 

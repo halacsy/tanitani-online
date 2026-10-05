@@ -16,7 +16,7 @@ coverImage: >-
   /sites/default/files/640px-eno_izmed_mariborskih_dvorisc_-_otroci_med_igro_1961_2-w400.jpg
 coverAlt: 'Játszótér 1961-ben. Forrás: Wikimedia Commons'
 coverTitle: 'Játszótér 1961-ben. Forrás: Wikimedia Commons'
-reads: 8628
+reads: 8839
 ---
 <strong>Benkőné Szilveszter Éva:</strong><br><strong>Általános iskolai tanulók szabadidős szokásainak vizsgálata Kőbányán</strong>
 

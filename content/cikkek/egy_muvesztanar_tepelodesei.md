@@ -12,7 +12,7 @@ excerpt: >-
   elemezni egy adott képet, megnézni, hogy az első benyomásra azonnal kialakuló
   értékítéletnek – tetszik, vagy nem tetszik – mi lehet az oka...
 coverImage: /sites/default/files/boldizsar_noemi_12g_420_0.jpg
-reads: 8473
+reads: 8963
 ---
 <strong>Wilhelm Móni írása</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/tompeorru.jpg
 coverAlt: 'Tömpe orrú mopsz. Forrás: http://www.haziallat.hu'
 coverTitle: 'Tömpe orrú mopsz. Forrás: http://www.haziallat.hu'
-reads: 8067
+reads: 8474
 ---
 <strong>Vass Vilmos az idei középiskolai felvételikről</strong>
 

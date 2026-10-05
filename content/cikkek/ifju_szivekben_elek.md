@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/szj_buborek.jpg
 coverAlt: 'Szendrei Julianna. Gaul Emil felvétele, 2009. augusztus 6.'
 coverTitle: 'Szendrei Julianna. Gaul Emil felvétele, 2009. augusztus 6.'
-reads: 6703
+reads: 7028
 ---
 > Szendrei Juliannára, az ELTE TÓK Matematika Tanszékének nemrég elhunyt tanszékvezető asszonyára emlékeztek 2013. február 21-én az egyetemi kar hallgatói, azok a diákok, akiket nemrég még aktívan tanított.
 

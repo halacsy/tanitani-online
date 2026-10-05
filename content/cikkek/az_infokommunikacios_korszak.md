@@ -12,7 +12,7 @@ excerpt: >-
   szavakban elismeri a rendszer a különlegesek igényeit, a gyakorlatban viszont
   bünteti, mert az elvárásoknak nem felel meg a „deviáns”.
 coverImage: /sites/default/files/sofeleseg.jpg
-reads: 14587
+reads: 15061
 ---
 <strong>…infokommunikációs sokfélesége. Gyarmathy Éva írása</strong>
 

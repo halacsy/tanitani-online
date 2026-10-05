@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/egyetemistak_oktober_23.jpg
 coverAlt: Egyetemisták 1956. október 23-án (a kép illusztráció).
 coverTitle: Egyetemisták 1956. október 23-án (a kép illusztráció).
-reads: 5489
+reads: 5877
 ---
 <strong>Gergely Ferenc kiadatlan dokumentumgyűjteményének szerkesztett részlete</strong>
 

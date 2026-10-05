@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/meztelen_kiraly.jpg
 coverAlt: 'Cyril Bouda illusztrációja. Forrás: http://www.ekklesiaproject.org/'
 coverTitle: 'Cyril Bouda illusztrációja. Forrás: http://www.ekklesiaproject.org/'
-reads: 7018
+reads: 7372
 ---
 <strong>Jakab György írása</strong>
 

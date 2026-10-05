@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ltp-w400.jpg
 coverAlt: A budapesti Füredi úti lakótelep
 coverTitle: A budapesti Füredi úti lakótelep
-reads: 11553
+reads: 11889
 ---
 <strong>Molnár Cecília Sarolta írása arról, hogy hogyan dolgozható föl a&nbsp;Vad Fruttik zenekar „Embergép” című dala végzős gimnazistákkal</strong>
 

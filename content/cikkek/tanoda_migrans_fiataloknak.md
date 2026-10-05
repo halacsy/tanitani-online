@@ -14,7 +14,7 @@ excerpt: >-
   nem lehet megspórolni”, a helyváltoztatás megszokásához, és az integrációhoz
   úgyanúgy időre van szükség, mint a magyar nyelv megtanulásához.
 coverImage: /sites/default/files/opendoors_1.jpg
-reads: 7340
+reads: 7699
 ---
 <strong>A tanoda mint helyszín és pedagógiai módszer migráns fiatalok nyelvi és tantárgyi felzárkóztatásában. Kontsek András írása</strong>
 

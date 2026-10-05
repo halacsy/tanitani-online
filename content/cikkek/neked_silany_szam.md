@@ -15,7 +15,7 @@ excerpt: >-
   elmélet vígan virágozhat akár akkor is, amikor az utolsó iskolának is rég
   bezárták az ajtaját.
 coverImage: /sites/default/files/watermelons_2.jpg
-reads: 58602
+reads: 62027
 ---
 <strong>Achs Károly írása az iskolák sorrendjéről</strong>
 

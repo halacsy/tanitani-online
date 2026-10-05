@@ -15,7 +15,7 @@ excerpt: >-
   esnek bele a gyermekvédelmi kedvezményezett kategóriájába, mert …két éve
   meghalt a családfenntartó édesapa. Az árvasági a családi pótlékkal már jóval
   meghaladja a kedvezmény…
-reads: 39920
+reads: 41602
 ---
 http://nyomorszele.blog.fn.hu/
 

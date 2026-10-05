@@ -14,7 +14,7 @@ excerpt: >-
   tragédiája) (Az előző történet középpontjában a tanár személyisége állt.
   Láttuk, hogy torzult személyiségvonások esetében, a gyerekek fejlődése
   szempontjából milyen kártékony…
-reads: 7336
+reads: 7682
 ---
 <em>„Be van fejezve a nagy mű, igen.<br>A gép forog, az alkotó pihen.<br>Évmilliókig eljár tengelyén,<br>Míg egy kerékfogát ujítni kell.”<br>(Madách: Az ember tragédiája)</em>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/a_gyermekkultura_heroszai_borito.png
 coverAlt: A gyermekkultúra héroszai
 coverTitle: A gyermekkultúra héroszai
-reads: 1656
+reads: 1889
 ---
 <strong>Szabó Zsófia könyvismertetése</strong>
 

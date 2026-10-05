@@ -12,7 +12,7 @@ excerpt: >-
   2015. november 30-án megrendezett KIP Napon, amelyet a Hejőkeresztúri IV. Béla
   Általános Iskola és a Miskolci Egyetem Bölcsészettudományi Kara szervezett
   Hejőkeresztúron.
-reads: 2714
+reads: 2919
 ---
 <strong>KIP Nap Hejőkeresztúron</strong>
 

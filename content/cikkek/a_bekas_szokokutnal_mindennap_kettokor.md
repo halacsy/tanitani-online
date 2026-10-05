@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/bekas_szokokut.jpg
 coverAlt: 'Forrás: kozterkep.hu'
 coverTitle: 'Forrás: kozterkep.hu'
-reads: 2655
+reads: 2856
 ---
 <strong>Pedagógiai innováció a digitális munkarend idején egy hátrányos helyzetű gyerekekkel dolgozó iskolában. Károlyi Júlia írása</strong>
 

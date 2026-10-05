@@ -15,7 +15,7 @@ excerpt: >-
   legalább azokból a szempontokból, amelyeket az iskola fontosnak, értékesnek
   tart, és, ily módon…
 coverImage: /sites/default/files/college_1.jpg
-reads: 5826
+reads: 6102
 ---
 <strong>Molnár Cecília Sarolta előadása a XI. Miskolci Taní-tani Konferencián, 2018. február 2-án.</strong>
 

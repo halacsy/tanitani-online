@@ -6,10 +6,7 @@ authorSlugs:
   - foti-peter
 date: '2026-09-14'
 tags:
-  - tanterv
-  - tanulás
-  - tananyag
-  - jóga
+  - oktatáspolitika
 excerpt: >-
   Fóti Péter hozzászólása Knausz Imre Megkérdeztek a NAT-ról című írásához Ha
   azt mondjuk és valóban szeretnénk, hogy tanítványaink önálló tanulókká
@@ -17,8 +14,7 @@ excerpt: >-
   lehessenek. Máshogy egyszerűen nem megy. Ha azt szeretném, hogy a gyerekek
   önállóan tanuljanak…
 coverImage: /sites/default/files/national_curriculum_0.png
-coverAlt: Kötelező keret vagy ajánlás?
-reads: 645
+reads: 647
 ---
 <strong>Fóti Péter hozzászólása Knausz Imre Megkérdeztek a NAT-ról című írásához</strong>
 

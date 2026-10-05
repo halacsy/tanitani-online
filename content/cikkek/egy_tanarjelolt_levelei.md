@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanari.jpg
 coverAlt: 'A kép forrása: https://veszpresszo.hu/'
 coverTitle: 'A kép forrása: https://veszpresszo.hu/'
-reads: 2607
+reads: 2866
 ---
 <strong>Lejegyezte és kommentálta: Martin Jánosné</strong>
 

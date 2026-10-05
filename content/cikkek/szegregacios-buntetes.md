@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegregacios_0.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 1526
+reads: 1988
 ---
 <strong><span>Asztalos György írása</span></strong>
 

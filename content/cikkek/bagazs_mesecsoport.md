@@ -14,7 +14,7 @@ excerpt: >-
   írása A IX. Miskolci Taní-tani Konferencián 2016. február 5-én elhangzott
   előadás szerkesztett változata.
 coverImage: /sites/default/files/20141106_115357.jpg
-reads: 7231
+reads: 7478
 ---
 <strong>Cigánytelepen élő óvodáskorú gyerekek mentalizációs fejlesztése. Szakadát Sára írása</strong>
 

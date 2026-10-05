@@ -14,7 +14,7 @@ excerpt: >-
   gyarapodás, a megbocsátás és a bosszú ideje. Ez az életérzés, tempó, erkölcs
   viharzott a felszínen Abonyban is. A helyi ifjúság modora, öltözködése,
   szórakozása, zenei ízlése, tánca…
-reads: 8206
+reads: 8415
 ---
 <strong>Abony (1945–1948)</strong>
 

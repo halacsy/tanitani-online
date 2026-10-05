@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/porkolabne_1.jpg
 coverAlt: Porkolábné Kóra Zsuzsa
 coverTitle: Porkolábné Kóra Zsuzsa
-reads: 3364
+reads: 3739
 ---
 <strong>…Magyarországon Freinet-pedagógia? Eredics Ágnes beszélget Porkolábné Kóra Zsuzsával</strong>
 

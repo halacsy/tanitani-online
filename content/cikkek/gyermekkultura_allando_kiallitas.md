@@ -13,7 +13,7 @@ excerpt: >-
   Óvóképző Karán Életünk útjai ezerfelé futnak, és mi rohanunk ezeken az utakon.
   Mégis összegyűlünk és megállunk, ha valaki vagy valami hív. Ez ünnep.
 coverImage: /sites/default/files/image001_420.png
-reads: 5523
+reads: 5780
 ---
 <strong>Kolosai Nedda kiállításmegnyitója 2015. december 9-én az ELTE Tanító- és Óvóképző Karán</strong>
 

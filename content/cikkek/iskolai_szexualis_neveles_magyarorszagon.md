@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/heart-762564_640.jpg
 coverAlt: 'https://pixabay.com'
 coverTitle: 'https://pixabay.com'
-reads: 12245
+reads: 13034
 ---
 <strong>A szexuális nevelés témakörének megjelenése a napjainkban érvényes hazai általános iskolai oktatást szabályozó dokumentumokban.&nbsp; Makrai Kata írása</strong>
 

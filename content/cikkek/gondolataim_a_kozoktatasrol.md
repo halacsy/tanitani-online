@@ -6,13 +6,10 @@ authorSlugs:
   - kabdebo-ferenc
 date: '2026-08-26'
 tags:
-  - minőségbiztosítás
-  - pedagógusképzés
-  - tananyag
+  - oktatáspolitika
 excerpt: Kabdebó Ferenc írása A teljes koncepció mellékletben olvasható .
 coverImage: /sites/default/files/gondolataim.jpg
-coverAlt: Gondolataim a közoktatásról
-reads: 1446
+reads: 1450
 ---
 <strong>Kabdebó Ferenc írása</strong>
 

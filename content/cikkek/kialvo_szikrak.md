@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/bonis2_cimlap_0.jpg
 coverAlt: Bónis Ferenc
 coverTitle: Bónis Ferenc
-reads: 2806
+reads: 3086
 ---
 <strong>Morva Péter megemlékezése </strong> <strong>a gyermekrádiózás egyik nagy személyiségéről, a 2019 decemberében elhunyt Bónis Ferencről</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/400px-petermclaren.jpg
 coverAlt: 'Peter McLaren Forrás: Wikipédia'
 coverTitle: 'Peter McLaren Forrás: Wikipédia'
-reads: 11331
+reads: 11936
 ---
 <strong>Kormos Janka reflexiói Peter McLaren 2014. április 15-i budapesti előadásáról</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/turcsanyi.jpg
 coverAlt: Turcsányi László
 coverTitle: Turcsányi László
-reads: 5190
+reads: 5511
 ---
 <strong>Trencsényi László írása</strong>
 

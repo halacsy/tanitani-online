@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/1-w400.jpg
 coverAlt: Az egyik szerző két játékossal
 coverTitle: Az egyik szerző két játékossal
-reads: 41953
+reads: 43824
 ---
 <strong>Példák a gyakorlatból.&nbsp;Kincses Eszter és Lencse Máté írása</strong>
 

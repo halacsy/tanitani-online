@@ -11,7 +11,7 @@ excerpt: >-
   Kerényi Mari könyvajánlója Glashütter Melinda – Bognár Roman: A SZERETET
   iránytűje. Arany Iránytű Program. Carpe Diem Alapítvány, 2023.
 coverImage: /sites/default/files/iranytu_1.jpg
-reads: 2116
+reads: 2541
 ---
 <strong>Kerényi Mari könyvajánlója</strong>
 

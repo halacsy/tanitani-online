@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/konyvek_0.jpg
 coverAlt: pixabay.com
 coverTitle: pixabay.com
-reads: 6635
+reads: 6973
 ---
 <strong>Mészárosné Győrvári Bella írása</strong>
 

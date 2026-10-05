@@ -12,7 +12,7 @@ excerpt: >-
   írása Regény? Tankönyv? Alighanem a szerző tantárgya illusztrációjának
   képzelte, amikor írta.
 coverImage: /sites/default/files/kamarasi_istvan_titkos_k_4c_custom_1024x613_1.jpg
-reads: 5650
+reads: 6028
 ---
 <strong>Avagy hogyan is tanítsunk korszerűen társadalomismeretet? – Trencsényi László írása</strong>
 

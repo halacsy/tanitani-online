@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/loso_radnoti.jpg
 coverAlt: 'Forrás: http://uj.kispest.hu'
 coverTitle: 'Forrás: http://uj.kispest.hu'
-reads: 1915
+reads: 2157
 ---
 <strong>Losó Györgyné antirasszista Radnóti-díjára. Trencsényi Borbála írása</strong>
 

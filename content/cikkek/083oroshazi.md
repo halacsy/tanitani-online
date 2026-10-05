@@ -13,7 +13,7 @@ tags:
 excerpt: >-
   Beszélgetés dr. Orosházi Józsefné kriminálpszichológussal, igazságügyi
   szakértővel Az interjút készítette: W. Barna Erika
-reads: 25819
+reads: 26572
 ---
 <strong>Beszélgetés dr. Orosházi Józsefné kriminálpszichológussal, igazságügyi szakértővel</strong>
 

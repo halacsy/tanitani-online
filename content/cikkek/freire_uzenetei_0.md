@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/bk_az_elnyomottak_1200_0.jpg
 coverAlt: Az elnyomottak pedagógiája
 coverTitle: Az elnyomottak pedagógiája
-reads: 1548
+reads: 1784
 ---
 <strong>Udvarhelyi Tessza beszéde 2024. október 29-én Paulo Freire Az elnyomottak pedagógiája c. könyvének bemutatóján</strong>
 

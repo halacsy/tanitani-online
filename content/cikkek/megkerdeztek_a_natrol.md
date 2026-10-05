@@ -6,10 +6,7 @@ authorSlugs:
   - knausz-imre
 date: '2026-09-12'
 tags:
-  - felvételi
-  - érettségi
-  - tanterv
-  - szakképzés
+  - oktatáspolitika
 excerpt: >-
   Knausz Imre írása Megtisztelő levelet kaptam az Oktatási és Gyermekügyi
   Minisztériumtól: mondanám el a véleményem egy kérdőív kitöltésével arról, hogy
@@ -17,8 +14,7 @@ excerpt: >-
   válaszaim. A Taní-tani Online nyitott arra, hogy mások válaszainak is
   nyilvánosságot adjon.
 coverImage: /sites/default/files/national_curriculum.png
-coverAlt: Megkérdeztek a NAT-ról
-reads: 810
+reads: 812
 ---
 <strong>Knausz Imre írása</strong>
 

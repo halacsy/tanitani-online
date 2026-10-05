@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/pajor_merre.jpg
 coverAlt: Merre halad a világ?
 coverTitle: Merre halad a világ?
-reads: 18178
+reads: 18905
 ---
 <strong>Gondolatébresztő, az együttgondolkodás további igényével.</strong>
 

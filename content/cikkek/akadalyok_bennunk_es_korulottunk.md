@@ -12,7 +12,7 @@ excerpt: >-
   másság elfogadásától vezet el a sokféleség elfogadásáig, ami azonban a többség
   részéről nagyon komoly áldozattal: a normalitás primátusának feladásával jár.
 coverImage: /sites/default/files/diversity.png
-reads: 1144
+reads: 1558
 ---
 <strong><span style="font-size: 1em;">Fogalmi váltás az inkluzív nevelésben. Földes Petra írása</span></strong>
 

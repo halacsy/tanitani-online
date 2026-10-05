@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/peschel.jpg
 coverAlt: 'A kép forrása: https://www.uni-paderborn.de'
 coverTitle: 'A kép forrása: https://www.uni-paderborn.de'
-reads: 4797
+reads: 5112
 ---
 <strong>…az empatikus-demokratikus tanulóközösségig. Fóti Péter interjúja Falko Peschellel a harzbergi iskolában II. rész (2017 október 11.)</strong>
 

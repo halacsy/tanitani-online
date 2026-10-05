@@ -16,7 +16,7 @@ excerpt: >-
   korában” – mondta, majd előkerültek Édesanyja szeretett emlékei és a saját
   menyasszonyi fejdísze is. A kislányok azonnal felpróbálták, miközben tátott
   szájjal hallgatták a…
-reads: 8968
+reads: 9355
 ---
 > A szekrényében katonás rendben sorakozó rakott szoknyákról és a színben hozzávaló maga hímezte kendők mindegyikéről mesélt. „Jobb a szemem, mint új korában” – mondta, majd előkerültek Édesanyja szeretett emlékei és a saját menyasszonyi fejdísze is. A kislányok azonnal felpróbálták, miközben tátott szájjal hallgatták a menyasszonyi ruha történetének és a készülődés rituáléjának egykori emlékeit.
 

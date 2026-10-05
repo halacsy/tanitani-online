@@ -6,10 +6,7 @@ authorSlugs:
   - l-ritok-nora
 date: '2026-08-15'
 tags:
-  - pedagógusok
-  - kompetencia
-  - szupervízió
-  - szorongás
+  - pedagógus
 excerpt: >-
   L. Ritók Nóra írása Mert a szabadság önmagában nem tanít meg szabadnak lenni.
   Ahhoz tudás, készségek, önbizalom, önreflexió, együttműködés, szakmai
@@ -17,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szabadsag.jpg
 coverAlt: Készült az Igazgyöngy műhelyében
 coverTitle: Készült az Igazgyöngy műhelyében
-reads: 1653
+reads: 1662
 ---
 <strong><span style="font-size: 12px;">L. Ritók Nóra írása</span></strong>
 

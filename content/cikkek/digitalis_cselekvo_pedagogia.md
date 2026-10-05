@@ -13,7 +13,7 @@ excerpt: >-
   és ötfősek voltak. Mindegyik csoport két táblagépet kapott, hisz az
   alapkoncepció a digitálisan létrehozott alkotás volt.
 coverImage: /sites/default/files/digitalis_cimlap.jpg
-reads: 10643
+reads: 13184
 ---
 <strong>Bognár Amália írása</strong>
 

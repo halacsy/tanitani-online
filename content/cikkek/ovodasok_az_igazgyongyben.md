@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiss_berta.jpg
 coverAlt: Kiss Berta alkotása. Készült az Igazgyöngy műhelyében
 coverTitle: Kiss Berta alkotása. Készült az Igazgyöngy műhelyében
-reads: 12974
+reads: 13378
 ---
 <strong>L. Ritók Nóra írása</strong>
 

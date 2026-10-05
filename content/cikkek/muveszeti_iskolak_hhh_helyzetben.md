@@ -15,7 +15,7 @@ excerpt: >-
   szomszédos országok mindegyikéből, hogy nézzék, tanulják, mit, hogyan teszünk.
   Mert problémás gyerek mindenütt van, akikhez más módszerek kellenek. És
   hívnak…
-reads: 43715
+reads: 45552
 ---
 > Csak azt érzem, minden, amit álmodtam, sikerrel megvalósítottam, itt nem kell. Pedig jönnek hozzánk Japánból, Finnországból, Portugáliából, Olaszországból a szomszédos országok mindegyikéből, hogy nézzék, tanulják, mit, hogyan teszünk. Mert problémás gyerek mindenütt van, akikhez más módszerek kellenek. És hívnak külföldre, konferenciákra, mert nemzetközi kitekintésben is értékesnek találják.
 >

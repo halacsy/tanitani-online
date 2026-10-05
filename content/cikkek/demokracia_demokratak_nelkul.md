@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/jakab_cimlap_0.jpg
 coverAlt: 'Jakab György: Demokrácia demokraták nélkül?'
 coverTitle: 'Jakab György: Demokrácia demokraták nélkül?'
-reads: 1641
+reads: 1920
 ---
 <strong>Gönczöl Enikő könyvismertetője</strong>
 

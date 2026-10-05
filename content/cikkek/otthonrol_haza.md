@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/perge.jpg
 coverAlt: Perge Éva
 coverTitle: Perge Éva
-reads: 4242
+reads: 4469
 ---
 <strong>Németh Tibor interjúja Perge Évával</strong>
 

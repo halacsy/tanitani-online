@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/hozzaadott.jpg
 coverAlt: A kép gyerekrajz az Igazgyöngy műhelyéből
 coverTitle: A kép gyerekrajz az Igazgyöngy műhelyéből
-reads: 2809
+reads: 3344
 ---
 <strong>Frank Orsolya írása</strong>
 

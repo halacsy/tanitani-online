@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/bogi_001_470.jpg
 coverAlt: János vitéz
 coverTitle: János vitéz
-reads: 8971
+reads: 9271
 ---
 > Olyan ez, mintha sosem ennénk, élveznénk az ízeket, hanem – ahelyett, hogy jól lakunk, pusztán kémiailag írnánk le az ínycsiklandozó falatot, lakmuszpapírt lógatnánk az illatozó zöldséglevesbe, táblázatba foglalnánk, tanulmányt írnánk róla, majd a sok absztrakcióval betelve, végül hagynánk, amíg kihűl és megpenészedik a szépen terített asztalon.
 

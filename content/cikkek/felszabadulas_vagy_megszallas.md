@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/hid.jpg
 coverAlt: 'Forrás: http://fortepan.444.hu/'
 coverTitle: 'Forrás: http://fortepan.444.hu/'
-reads: 8072
+reads: 8533
 ---
 <strong>Hogyan viszonyuljon a történelemtanítás a „felszabadulás vagy megszállás” vitához? Kojanitz László írása</strong>
 

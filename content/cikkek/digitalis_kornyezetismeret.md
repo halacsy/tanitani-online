@@ -12,7 +12,7 @@ excerpt: >-
   nincs is szükség a tanári kar digitális kultúrájának egységesítésére –
   sokféleképpen lehet valaki jó tanár."
 coverImage: /sites/default/files/digitalis_jakab_0.png
-reads: 4977
+reads: 5432
 ---
 <strong>Fel s alá járvány az iskolarendszerben. Jakab György írása</strong>
 

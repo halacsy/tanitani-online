@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/apple.jpg
 coverAlt: 'Forrás: https://pxhere.com'
 coverTitle: 'Forrás: https://pxhere.com'
-reads: 9185
+reads: 9701
 ---
 <strong>Knausz Imre írása</strong>
 

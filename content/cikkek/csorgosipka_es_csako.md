@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/lovas_huszar.jpg
 coverAlt: 'Schéner Mihály: Lovas huszár. Forrás: https://axioart.com/'
 coverTitle: 'Schéner Mihály: Lovas huszár. Forrás: https://axioart.com/'
-reads: 1126
+reads: 1449
 ---
 <strong>Gondolatok Schéner Mihály gyermekkorának megidézéséről, avagy a Miska álomjátéketűd motívumairól. Hegedűs-Bite Beáta írása</strong>
 

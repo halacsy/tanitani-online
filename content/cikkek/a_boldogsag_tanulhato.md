@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/happiness.jpg
 coverAlt: 'Forrás: https://www.nytimes.com/'
 coverTitle: 'Forrás: https://www.nytimes.com/'
-reads: 1226
+reads: 1587
 ---
 <strong>A pozitív pedagógia megjelenése az iskolákban. Ludnikné Pálfi Dorina és Molnár Balázs írása</strong>
 

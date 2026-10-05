@@ -15,7 +15,7 @@ excerpt: >-
   legfontosabb célja a fogalmak elsajátíttatása, a problémamegoldó gondolkodás
   fejlesztése és a feladat megértetése.
 coverImage: /sites/default/files/helping_hands.jpg
-reads: 9965
+reads: 10346
 ---
 <strong>Hospitálási tapasztalatok Hejőkeresztúron – Ferencsik Marcell és Orosz Gabriella írása</strong>
 

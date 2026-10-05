@@ -14,7 +14,7 @@ excerpt: >-
   módszere radikálisan megváltoztatja a hagyományos tanár-diák viszonyt. Tőle
   származik az Angliában és hazánkban is elterjedt felismerés, hogy a
   drámapedagógia…
-reads: 11650
+reads: 12167
 ---
 <em><img hspace="10" align="left" src="/sites/default/files/heathcote.jpg" alt="Dorothy Heathcote">Dorothy Heathcote a szakértői dráma feltalálója. Foglalkozásaival az 1970-es évek közepétől kezdve teljesen megújította az angol drámapedagógiát. Heathcote módszere radikálisan megváltoztatja a hagyományos tanár-diák viszonyt. Tőle származik az Angliában és hazánkban is elterjedt felismerés, hogy a drámapedagógia rendkívül hatékony pedagógiai eszköz más tantárgyak tanítására is. Az év tavaszán a Káva Színház meghívására Budapesten tartott bemutatót. A „helyszíni tudósítás” a nyílt nap programjáról szól.</em>
 

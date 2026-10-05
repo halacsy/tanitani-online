@@ -14,7 +14,7 @@ excerpt: >-
   Azonban vannak olyan területek, amiket kiválóan lehet online keretek között
   fejleszteni.
 coverImage: /sites/default/files/72183908_421052275215042_851125654639345664_n.jpg
-reads: 3508
+reads: 3735
 ---
 <strong>Nagy Virág írása</strong>
 

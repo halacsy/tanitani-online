@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/laskai2_0.jpg
 coverAlt: Gábor János és a vendégek
 coverTitle: Gábor János és a vendégek
-reads: 7238
+reads: 7458
 ---
 <strong>Egy rendhagyó nyári élmény és tanulságai</strong>
 

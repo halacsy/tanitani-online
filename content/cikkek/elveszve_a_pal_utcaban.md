@@ -14,7 +14,7 @@ excerpt: >-
   erőben. Arra kértem, hogy készítsen egy képet, amin a Pál utcai fiúk és a
   vörösingesek szemben állnak egymással. Egy…
 coverImage: /sites/default/files/elveszve_a_pal_utcaban_0.jpg
-reads: 969
+reads: 1357
 ---
 <strong><span style="font-size: 1em;">A mesterséges intelligencia adta lehetőségek felhasználása az irodalomtanításban II. Lőrincz Andrea írása</span></strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   az aktív részvétel hiánya. A közösségi és helyi ismeretek virtuális adatokra
   cserélődtek fel, az aktív részvétel pedig passzív szemlélődéssé alakul.
 coverImage: /sites/default/files/zauberberg_eyes_on.jpg
-reads: 10713
+reads: 11131
 ---
 <strong>...a magyar közoktatásban?&nbsp;</strong> <strong>Kontsek András írása</strong>
 

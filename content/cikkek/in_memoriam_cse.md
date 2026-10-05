@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   Csirke Ernő a Krisna-völgyi környezeti nevelési konferencián. Forrás:
   krisna.hu
-reads: 10189
+reads: 10430
 ---
 <strong>Kolics Pál írása</strong>
 

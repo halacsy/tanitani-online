@@ -14,7 +14,7 @@ excerpt: >-
   magyarázó ember gesztusa. Ő nem tudja, honnan is tudhatná, hogy nekem
   világos-e, amit ő mond. A tanár se tudja, aki leadja az anyagot. De ő azt
   hiszi, tudja. Mert neki…
-reads: 9163
+reads: 9512
 ---
 <strong>Knausz Imre előadása Mihály Ottó 70. születésnapja alkalmából, a Miskolci Egyetem Tanárképző Intézetében rendezett konferencián 2009. május 20-án</strong>
 

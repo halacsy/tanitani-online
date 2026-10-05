@@ -6,10 +6,7 @@ authorSlugs:
   - a-felforgatokonyv-pedagogiai-muhelye
 date: '2026-09-27'
 tags:
-  - pedagógus
-  - pedagógusok
-  - szakképzés
-  - felvételi
+  - oktatáspolitika
 excerpt: >-
   A Felforgatókönyv pedagógiai műhelyének javaslatai az Oktatási és Gyermekügyi
   Minisztérium kérdéseire 2026 februárjában közel egyéves műhelymunka
@@ -17,8 +14,7 @@ excerpt: >-
   félszáz szerzője a főbb nehézségek azonosítására és megoldásukra tesz
   javaslatot abban a…
 coverImage: /sites/default/files/national_curriculum_2.png
-coverAlt: Felforgató válaszok
-reads: 457
+reads: 465
 ---
 <strong>A Felforgatókönyv pedagógiai műhelyének javaslatai az Oktatási és Gyermekügyi Minisztérium kérdéseire</strong>
 

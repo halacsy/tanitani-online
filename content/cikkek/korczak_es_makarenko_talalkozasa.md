@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/lewin_sirja.jpg
 coverAlt: Aleksander Lewin sírja Varsóban
 coverTitle: Aleksander Lewin sírja Varsóban
-reads: 1906
+reads: 2250
 ---
 <strong>…egy árvaházban az Urál tövében a világháború alatt. Velkey Kristóf ismertetője</strong>
 

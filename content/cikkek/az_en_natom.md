@@ -6,18 +6,15 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-09-19'
 tags:
-  - tanulás
-  - szakképzés
-  - műveltség
-  - érettségi
+  - oktatáspolitika
+  - nat
 excerpt: >-
   Trencsényi László írása Csapodi Csabának, az OGYM miniszteri biztosának
   csoportos felhívására, a Magyar Pedagógiai Társaság egyik munkacsoportjának
   háttéranyagaként, de saját „szerzői munkásságom” részeként is. Ezért is
   örülök, hogy a Tani-tani Online vitára közreadja.
 coverImage: /sites/default/files/national_curriculum_1.png
-coverAlt: Az én NAT-om
-reads: 631
+reads: 637
 ---
 <strong>Trencsényi László írása</strong>
 

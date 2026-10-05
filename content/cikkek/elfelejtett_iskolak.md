@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/patapoklosi.jpg
 coverAlt: 'A Patapoklosi Református Elemi Népiskola, 1938/39. Forrás: patapoklosi.hu'
 coverTitle: 'A Patapoklosi Református Elemi Népiskola, 1938/39. Forrás: patapoklosi.hu'
-reads: 6812
+reads: 7087
 ---
 > Kolics Pál könyvéről (Elfelejtett iskolák. Szigetvár, 2013, Szigetvári Várbaráti Kör)
 

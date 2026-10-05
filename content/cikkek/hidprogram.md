@@ -15,7 +15,7 @@ excerpt: >-
   lesz egy (vagy sikertelenség esetén két) év alatt pótolni mindazt, ami 14 évig
   kimaradt. Ami képes áthidalni azt az elképesztő szakadékot, ami ezeknek a
   gyerekeknek az élete és az…
-reads: 15550
+reads: 16107
 ---
 > Nem hiszek ebben az elgondolásban. Nem hiszem, hogy ugyanez a pedagógustársadalom, ugyanezzel a tudással, módszertannal felvértezve képes lesz egy (vagy sikertelenség esetén két) év alatt pótolni mindazt, ami 14 évig kimaradt. Ami képes áthidalni azt az elképesztő szakadékot, ami ezeknek a gyerekeknek az élete és az iskolai elvárások között feszül.
 

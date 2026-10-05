@@ -14,7 +14,7 @@ excerpt: >-
   idegrendszeri fejlődés valamint a tanulás függvénye, és csak másodsorban
   eszmei, politikai kérdés.
 coverImage: /sites/default/files/zsonglor.jpg
-reads: 2144
+reads: 2381
 ---
 <strong>Gyarmathy Éva írása</strong>
 

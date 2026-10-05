@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/bajai_zsinagoga.jpg
 coverAlt: 'Baja, zsinagóga (családi tulajdon)'
 coverTitle: 'Baja, zsinagóga (családi tulajdon)'
-reads: 3428
+reads: 4275
 ---
 <strong>Zsigmond Anna írása</strong>
 

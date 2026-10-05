@@ -6,10 +6,7 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-09-03'
 tags:
-  - jóga
-  - minőségbiztosítás
-  - tanterv
-  - szülők
+  - pedagógus
 excerpt: >-
   Trencsényi László írása A rendszerváltás utáni intézményműködtetési
   innovációknak – túl a fenntartás körüli megoldáskereséseken – fontos alapkövei
@@ -19,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/marie-gabrielle_capet_-_studio_scene.jpg
 coverAlt: A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye
 coverTitle: A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye
-reads: 628
+reads: 630
 ---
 <strong><span style="font-size: 12px;">Trencsényi László írása</span></strong>
 

@@ -7,16 +7,12 @@ authorSlugs:
   - molnar-balazs
 date: '2026-06-21'
 tags:
-  - pedagógus
-  - generációk
-  - fegyelem
-  - tananyag
+  - iskolakritika
 excerpt: >-
   …avagy miért kell változnunk, milyenné kell válnunk? Ludnikné Pálfi Dorina és
   Molnár Balázs írása A digitális bennszülöttek köztünk élnek.
 coverImage: /sites/default/files/digitalis.png
-coverAlt: A tanárszerep újradefiniálása…
-reads: 1138
+reads: 1140
 ---
 <strong><span style="font-size: 12px;">…avagy miért kell változnunk, milyenné kell válnunk? Ludnikné Pálfi Dorina és Molnár Balázs írása</span></strong>
 

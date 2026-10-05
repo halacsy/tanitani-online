@@ -14,7 +14,7 @@ excerpt: >-
   feltétlenül vezet kaotikus állapotokhoz: amit a témalistáktól általában
   várunk, az megvalósulhat a szabályozás más módjait követve is. Örömömre
   szolgálna, ha sikerülne vitát…
-reads: 12191
+reads: 12547
 ---
 > Írásomban két dolgot szerettem volna bizonyítani. (1) A központilag előírt témalisták durván rontják az oktatás hatékonyságát. (2) Ezek hiánya nem feltétlenül vezet kaotikus állapotokhoz: amit a témalistáktól általában várunk, az megvalósulhat a szabályozás más módjait követve is. Örömömre szolgálna, ha sikerülne vitát indítanom ebben a kérdésben.
 

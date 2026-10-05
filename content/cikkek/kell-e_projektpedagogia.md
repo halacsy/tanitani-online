@@ -14,7 +14,7 @@ excerpt: >-
   választ, és attól kérdez, aki nem tudja. Hozzátehetünk ehhez még valamit:
   attól kérdez, aki nemcsak hogy nem tudja a választ, de jellemzően nem is
   érdekli. A jól…
-reads: 21626
+reads: 22663
 ---
 <strong>Előadás a miskolci Zrínyi Ilona Gimnázium projektzáró konferenciáján 2011. május 30-án</strong>
 

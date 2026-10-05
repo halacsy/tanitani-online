@@ -13,7 +13,7 @@ excerpt: >-
   Kata írása Munkalehetőség hiányában, a családtól való függésben csak a saját
   család alapítása, a gyermekvállalás ad értelmet életüknek.
 coverImage: /sites/default/files/korai.jpg
-reads: 6485
+reads: 7090
 ---
 <strong>…mint korai iskolaelhagyást okozó faktor hatása a társadalmi esélyekre. Makrai Kata írása</strong>
 

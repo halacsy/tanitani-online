@@ -12,7 +12,7 @@ excerpt: >-
   L. Ritók Nóra írása Amikor hozzánk, a művészetibe jönnek a gyerekek az első
   órán, többen könyörgő hangon kérdezik: ugye nem a nyári élmény lesz a téma?
 coverImage: /sites/default/files/kep1_420.jpg
-reads: 50354
+reads: 51402
 ---
 <strong>L. Ritók Nóra írása</strong>
 

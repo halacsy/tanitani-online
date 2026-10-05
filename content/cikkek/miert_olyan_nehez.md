@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/miert_nehez_motivalni.jpg
 coverAlt: 'Alvó apostolok, Rodez-i székesegyház. Forrás: http://www.flickriver.com/'
 coverTitle: 'Alvó apostolok, Rodez-i székesegyház. Forrás: http://www.flickriver.com/'
-reads: 32986
+reads: 33516
 ---
 <strong>És miért nem léteznek a gyakorlatba könnyen átültethető, azonnal használható motivációs stratégiák? Fejes József Balázs írása</strong>
 

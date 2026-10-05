@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kzssg.jpg
 coverAlt: 'forrás: pixabay.com'
 coverTitle: 'forrás: pixabay.com'
-reads: 4778
+reads: 5122
 ---
 <strong>Kerényi Mari írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   érdeklődőknek, szülőknek a táborozás mint élethelyzet közös értelmezéséhez.
   Segítséget nyújt az elindulásban, tájékozódásban a gyermektáboroztatás
   területén. Reméljük…
-reads: 7430
+reads: 7757
 ---
 <strong>Mihály Gábor és Szathmári Edit könyvéről</strong>
 

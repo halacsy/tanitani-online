@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/constructing.jpg
 coverAlt: 'Forrás: http://parkspluscreation.blogspot.hu/'
 coverTitle: 'Forrás: http://parkspluscreation.blogspot.hu/'
-reads: 26482
+reads: 27640
 ---
 <strong>Nahalka István írása</strong>
 

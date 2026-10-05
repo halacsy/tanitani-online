@@ -11,7 +11,7 @@ excerpt: 'Az agresszióról és a sikerkereső emberről. Saxum Könyvkiadó, Bu
 coverImage: /sites/default/files/ml_portre.jpg
 coverAlt: 'Mohás Lívia Forrás: http://www.napkut.hu/mohas_livia.html'
 coverTitle: 'Mohás Lívia Forrás: http://www.napkut.hu/mohas_livia.html'
-reads: 5745
+reads: 5982
 ---
 > Az agresszióról és a sikerkereső emberről. Saxum Könyvkiadó, Budapest, 2012
 

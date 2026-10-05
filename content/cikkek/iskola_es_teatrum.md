@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/eck.jpg
 coverAlt: Borítókép (részlet)
 coverTitle: Borítókép (részlet)
-reads: 1159
+reads: 1550
 ---
 <strong>Eck Júliáról és könyvéről. Trencsényi László recenziója</strong>
 

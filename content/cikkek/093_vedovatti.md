@@ -8,7 +8,7 @@ date: '2010-03-21'
 tags:
   - mentálhigiéné
 excerpt: Dallos Gyöngyvér gyermekpszichiáterrel Vedovatti Anildo beszélgetett.
-reads: 9639
+reads: 9989
 ---
 <em>Dallos Gyöngyvér gyermekpszichiáterrel Vedovatti Anildo beszélgetett.</em>
 

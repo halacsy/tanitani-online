@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/nagy_petra_nemzeti.jpg
 coverAlt: Nagy Petra rajza (Igazgyöngy)
 coverTitle: Nagy Petra rajza (Igazgyöngy)
-reads: 8658
+reads: 8937
 ---
 > A rajzlapján egy nagy táblát ábrázolt, mögötte vízpart, erdő. A táblán pedig ez állt, így: NEM zetipark.
 

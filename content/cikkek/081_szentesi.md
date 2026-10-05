@@ -12,7 +12,7 @@ tags:
 excerpt: >-
   A Belvárosi Tanoda Alapítványi Gimnázium és Szakközépiskola iskolai
   kultúrájának bemutatása
-reads: 10316
+reads: 11119
 ---
 ## A Belvárosi Tanoda Alapítványi Gimnázium és Szakközépiskola iskolai kultúrájának bemutatása
 

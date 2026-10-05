@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/karacsony-sandor-head.jpg
 coverAlt: 'Forrás: cultura.hu'
 coverTitle: 'Forrás: cultura.hu'
-reads: 3265
+reads: 3666
 ---
 <strong>Két méltatás a 130 éve született Mesterről</strong>
 

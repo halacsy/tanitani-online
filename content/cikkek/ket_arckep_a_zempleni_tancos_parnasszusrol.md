@@ -13,7 +13,7 @@ excerpt: >-
   ...a zempléni táncos Parnasszusról. Darmos István és Téglás Zsolt Gábor írása
   Nagy Istvánról és Téglás Dezsőről
 coverImage: /sites/default/files/teglas_nagy_cimlap.jpg
-reads: 2986
+reads: 3211
 ---
 <strong>...a zempléni táncos Parnasszusról.&nbsp;Darmos István és Téglás Zsolt Gábor írása</strong>
 

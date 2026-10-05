@@ -15,7 +15,7 @@ excerpt: >-
   könyvben lényegében testet öltenek azok a kérdések, problémák, amelyekkel az
   anyanyelv-pedagógia az utóbbi évtizedekben nem tudott mit kezdeni...
 coverImage: /sites/default/files/nyelvtan_9.jpg
-reads: 10759
+reads: 11063
 ---
 <strong>Nagy Zoltán írása az új kísérleti nyelvtan-tankönyvekről</strong>
 

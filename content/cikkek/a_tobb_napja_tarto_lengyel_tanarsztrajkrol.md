@@ -11,7 +11,7 @@ excerpt: >-
   Velkey Kristóf írása Ötödik napja tart Lengyelországban a tanárok országos
   sztrájkja, és egyelőre nem látni a végét.
 coverImage: /sites/default/files/sztrajk.jpg
-reads: 7163
+reads: 7678
 ---
 <strong>Velkey Kristóf írása</strong>
 

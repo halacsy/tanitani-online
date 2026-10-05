@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/pirisi_janosne.jpg
 coverAlt: Pirisi Jánosné
 coverTitle: Pirisi Jánosné
-reads: 6026
+reads: 6327
 ---
 <strong>Kolics Pál megemlékezése</strong>
 

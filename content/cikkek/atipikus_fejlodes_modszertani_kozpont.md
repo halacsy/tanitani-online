@@ -13,7 +13,7 @@ excerpt: >-
   oka, hogy hiányzik a pedagógusok módszertani felkészítése az eltérő fejlődésű
   tanulók tanításához.
 coverImage: /sites/default/files/atypical.jpg
-reads: 12054
+reads: 12510
 ---
 <strong>Gyarmathy Éva írása</strong>
 

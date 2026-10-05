@@ -14,7 +14,7 @@ excerpt: >-
   értéket, amellyel e három emberöltő alatt a magyar gyermekek életét
   gazdagította.
 coverImage: /sites/default/files/img_7028.jpg
-reads: 3887
+reads: 4182
 ---
 <strong>Révész György írása az úttörőmozgalom hazai történetéről</strong>
 

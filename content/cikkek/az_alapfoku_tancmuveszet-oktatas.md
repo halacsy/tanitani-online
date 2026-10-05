@@ -14,7 +14,7 @@ excerpt: >-
   állapot- és életminőség-javításról, ami kihat egy személy életének számos
   területére...
 coverImage: /sites/default/files/balett_0.jpg
-reads: 4434
+reads: 4955
 ---
 <strong>…pozitív hatásai </strong> <strong>egyéb területekre. Németh Luca írása</strong>
 

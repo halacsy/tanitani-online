@@ -14,7 +14,7 @@ excerpt: >-
   akként is kell elsajátítani. Tévedhetnek is esetleg nagy néha a tankönyvek
   írói, de ezt gyorsan javítjuk, már a tanító javítja, csak egy kis gikszerről
   van szó. Ha…
-reads: 14634
+reads: 15198
 ---
 > És itt sincsenek kétségek. Az iskola nem más, mint az igazság közvetítője. A tantervekben, a tankönyvekben a megkérdőjelezhetetlen igazságok vannak, ezeket akként is kell elsajátítani. Tévedhetnek is esetleg nagy néha a tankönyvek írói, de ezt gyorsan javítjuk, már a tanító javítja, csak egy kis gikszerről van szó. Ha meg a tanító nem javítja, akkor ki sem derül.
 

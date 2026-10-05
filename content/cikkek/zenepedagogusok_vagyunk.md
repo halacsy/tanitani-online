@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/szilvay.jpg
 coverAlt: A Szilvay-fivérek
 coverTitle: A Szilvay-fivérek
-reads: 1514
+reads: 1794
 ---
 <strong>Adalékok a finn-magyar pedagógiai kapcsolatok történetéhez. Szilvay Géza és Szilvay Csaba írása</strong>
 

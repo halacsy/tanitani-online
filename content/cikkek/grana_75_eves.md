@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/grana.jpg
 coverAlt: Granasztói Szilvia
 coverTitle: Granasztói Szilvia
-reads: 3528
+reads: 3796
 ---
 <strong>Grana, Szilvi, Szilva. Aczél Anna írása</strong>
 

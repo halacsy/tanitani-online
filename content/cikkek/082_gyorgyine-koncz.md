@@ -11,7 +11,7 @@ tags:
   - pedagógusképzés
   - pedagógusok
 excerpt: ''
-reads: 9835
+reads: 10092
 ---
 Az utolsó évtized új lehetőségeket, új szemléletet hozott a pedagóguskutatásban azzal, hogy a kvalitatív módszerek bevonultak a vizsgálati eljárások sorába. Különösen nagy jelentőségű Szabolcs Éva munkája, aki lefordította a módszer alapirodalmát, I. E. Seidman 90-es évek elején megjelent munkáját, az <em>Interviewing as Qualitative Research – A Guide for Researchers in Education and the Social Sciences</em> című könyvet (magyarul: Az interjú mint kvalitatív kutatási módszer), mely az angol alcím szerint pontos eligazítást ad a módszerről oktatási és társadalomtudományi kutatók számára.
 

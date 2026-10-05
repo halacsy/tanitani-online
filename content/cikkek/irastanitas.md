@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/iras.jpg
 coverAlt: 'Forrás: http://menshealth.hu/'
 coverTitle: 'Forrás: http://menshealth.hu/'
-reads: 9432
+reads: 9816
 ---
 <strong>Einhorn Ágnes írása</strong>
 

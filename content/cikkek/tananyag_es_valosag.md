@@ -12,7 +12,7 @@ excerpt: >-
   Knausz Imre írása Előadás a Horizontok és dialógusok c. konferencián Pécsett
   2017. május 11-én.
 coverImage: /sites/default/files/tananyag_es_valosag.jpg
-reads: 12353
+reads: 12607
 ---
 <strong>Knausz Imre írása</strong>
 

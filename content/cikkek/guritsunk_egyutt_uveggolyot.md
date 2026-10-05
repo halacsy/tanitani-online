@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/baraz_eszter.jpg
 coverAlt: Baráz Eszter és Németh Tibor
 coverTitle: Baráz Eszter és Németh Tibor
-reads: 3497
+reads: 3774
 ---
 <strong>Németh Tibor kérdéseire Baráz Eszter pedagógus válaszol</strong>
 

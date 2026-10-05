@@ -12,7 +12,7 @@ excerpt: >-
   bán helye ebben a rendszerben. Hornok Máté írása Kijelenthető, hogy a Bánk bán
   a kötelező olvasmányok között az egyik legrosszabb megítélésnek örvend.
 coverImage: /sites/default/files/bank_ban.jpg
-reads: 3443
+reads: 3780
 ---
 <strong>A kötelező irodalmi művek szerepe és helyzete a magyar közoktatásban, a <em>Bánk bán</em> helye ebben a rendszerben. Hornok Máté írása</strong>
 

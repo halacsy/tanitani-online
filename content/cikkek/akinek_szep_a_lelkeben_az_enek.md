@@ -11,7 +11,7 @@ excerpt: 'Sulyok Blanka recenziója Szabó Anna: Míg roppan egy utolsót. OFOE 
 coverImage: /sites/default/files/mig_roppan_egy_utolsot.jpg
 coverAlt: Míg roppan egy utolsót-borító
 coverTitle: Míg roppan egy utolsót-borító
-reads: 8907
+reads: 9548
 ---
 <strong>Sulyok Blanka recenziója</strong>
 

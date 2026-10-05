@@ -18,7 +18,7 @@ excerpt: >-
   nem tud haladni miattuk, a felzárkóztatásukkal kell elsősorban foglalkoznia, a
   figyelme elterelődik a tehetségnevelésről, a gyenge tanulók sokszor
   „magatartási…
-reads: 9133
+reads: 9423
 ---
 > Ezt valahogy mindenki evidens tényként kezeli, mintha még gondolkodni sem lenne érdemes rajta. Hát hogyne húznák le a gyengék a jók eredményeit: a tanár nem tud haladni miattuk, a felzárkóztatásukkal kell elsősorban foglalkoznia, a figyelme elterelődik a tehetségnevelésről, a gyenge tanulók sokszor „magatartási problémásak” is, szétverik az órákat; mit kell ezen morfondírozni, az állítás minden kétséget kizáró módon igaz. Érdemes mégis elvégezni bizonyos számításokat! 
 

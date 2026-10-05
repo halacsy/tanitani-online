@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/sokfeleseg.jpg
 coverAlt: 'Hope McConnell alkotása. Forrás: https://www.behance.net'
 coverTitle: 'Hope McConnell alkotása. Forrás: https://www.behance.net'
-reads: 2700
+reads: 2925
 ---
 <strong>…a magyar mint idegen nyelv (mid) tanításakor? </strong> <strong>H. Tóth István írása</strong>
 

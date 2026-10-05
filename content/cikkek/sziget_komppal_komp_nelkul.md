@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/mihaly1_0.jpg
 coverAlt: Mihály Ottó
 coverTitle: Mihály Ottó
-reads: 3022
+reads: 3382
 ---
 <strong>Ugrai János írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   nemcsak a tanórákon, de múzeumi környezetben is jól alkalmazhatóak,
   köszönhetően a drámapedagógia interdiszciplinaritásának.
 coverImage: /sites/default/files/albrecht_cimlap_0.jpg
-reads: 3539
+reads: 3838
 ---
 <strong>…drámajátékok a múzeumpedagógiában. Albrecht Zsófia írása</strong>
 

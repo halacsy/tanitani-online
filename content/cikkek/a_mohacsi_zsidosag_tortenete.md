@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/zsinagga_mohcs.jpg
 coverAlt: 'A mohácsi zsinagóga. Forrás: http://theoldmohacs.blogspot.com'
 coverTitle: 'A mohácsi zsinagóga. Forrás: http://theoldmohacs.blogspot.com'
-reads: 4053
+reads: 4673
 ---
 <strong>Polgárosodás és oktatás. Zsigmond Anna írása</strong>
 

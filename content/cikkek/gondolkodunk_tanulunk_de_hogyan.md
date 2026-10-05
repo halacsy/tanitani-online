@@ -13,7 +13,7 @@ excerpt: >-
   kijavításában, hanem értékelő, ítélkező bíróként, aki minden hibátlan
   megoldásra pontot ad…
 coverImage: /sites/default/files/nemeth_cimlap_0.jpg
-reads: 2637
+reads: 2905
 ---
 <strong><span style="background-color: rgb(232, 232, 232); font-size: 12px;">De hogyan?&nbsp;</span>Németh Anna írása</strong>
 

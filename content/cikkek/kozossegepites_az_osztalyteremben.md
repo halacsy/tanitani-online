@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/bbdd2c779f07907125d2b7fc52d8c6cc.jpg
 coverAlt: 'Forrás: https://www.pinterest.com/'
 coverTitle: 'Forrás: https://www.pinterest.com/'
-reads: 29242
+reads: 30247
 ---
 <strong>Csík Orsolya írása</strong>
 

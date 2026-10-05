@@ -14,7 +14,7 @@ excerpt: >-
   hallani, hogy a gyerekeknek szóló színházi munka, ill. a színházi nevelés
   várhatóan előnyösebb helyzetbe kerül majd, mint azt korábban tapasztalhattuk.
   Ha színház…
-reads: 13264
+reads: 13592
 ---
 A közelmúltban zajlott a színházi törvény előkészítése. Az arról szóló szakmai vita nyomonkövethető volt a sajtón keresztül is. Több ízben lehetett arról hallani, hogy a gyerekeknek szóló színházi munka, ill. a színházi nevelés várhatóan előnyösebb helyzetbe kerül majd, mint azt korábban tapasztalhattuk.
 

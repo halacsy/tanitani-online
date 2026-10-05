@@ -14,7 +14,7 @@ excerpt: >-
   hogy az egymás megértéséhez, az együttműködés kialakításához csupán az egyik
   fél tanulása…
 coverImage: /sites/default/files/puzzle_0.jpg
-reads: 6212
+reads: 6763
 ---
 <strong>…egy olyan emberrel kommunikálni, akinek más az anyanyelve.</strong>[fn]Jim Sinclair: [„Ne sirassatok minket!" – Egy autista ember levele szüleihez](https://kettosmerce.blog.hu/2016/04/02/_ne_sirassatok_minket_egy_autista_ember_levele_szuleihez). Kettős Mérce[/fn] <strong>Solt Anna írása</strong>
 

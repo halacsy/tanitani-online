@@ -14,7 +14,7 @@ excerpt: >-
   végtelenszer kijavíthatjuk a hibáinkat, és büntetlenül hajszolhatjuk a happy
   endet.
 coverImage: /sites/default/files/ifju_kalandoroknak.jpg
-reads: 1537
+reads: 1977
 ---
 <strong>Kalandjáték ifjú utazóknak. Lőrincz Andrea írása</strong>
 

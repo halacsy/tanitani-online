@@ -14,7 +14,7 @@ excerpt: >-
   Tibor kötetét olvasva, sokszor éreztem azt, hogy a kanadai indiánok sorsa
   megegyezik az én szűkebb közösségem történetével.
 coverImage: /sites/default/files/gypsies_420.jpg
-reads: 7433
+reads: 7668
 ---
 <strong>Magyarország kiengesztel?&nbsp;Bogdán Péter írása</strong>
 

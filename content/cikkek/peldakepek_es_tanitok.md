@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/somody2.jpg
 coverAlt: Szentandrássy István és Trencsényi László a Lakatos Menyhért Iskolában
 coverTitle: Szentandrássy István és Trencsényi László a Lakatos Menyhért Iskolában
-reads: 3569
+reads: 3887
 ---
 <strong>…akik műveikkel élnek tovább. Somody Beáta megemlékezése Szentandrássy Istvánról</strong>
 

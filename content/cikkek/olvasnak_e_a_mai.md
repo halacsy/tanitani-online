@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/reading_ebook.jpg
 coverAlt: 'Forrás: http://drscavanaugh-ebooknews.blogspot.hu/'
 coverTitle: 'Forrás: http://drscavanaugh-ebooknews.blogspot.hu/'
-reads: 14050
+reads: 14498
 ---
 <strong>...a mai fiatalok?</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/mikroiskola.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 1505
+reads: 2174
 ---
 <strong>Kovácsné Balla Katalin írása</strong>
 

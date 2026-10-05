@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/fiann.jpg
 coverAlt: Fiann Ó Nualláin és Németh Tibor
 coverTitle: Fiann Ó Nualláin és Németh Tibor
-reads: 6300
+reads: 6540
 ---
 <strong>Fiann Ó Nualláinnal Németh Tibor készített interjút.</strong>
 

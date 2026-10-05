@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/3.470.jpg
 coverAlt: 'Kisújszállás, 50-es évek, családi kép'
 coverTitle: Dr. Sípos István családja körében az 50-es években
-reads: 8835
+reads: 9193
 ---
 <strong>Dr. Sípos István életútja.&nbsp;Kontra Imréné írása</strong>
 

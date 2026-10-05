@@ -13,7 +13,7 @@ excerpt: >-
   diagnosztikus méréseket, az ezzel összefüggő fejlesztő munkák alapelveit
   mutatjuk be.
 coverImage: /sites/default/files/stat.jpg
-reads: 5765
+reads: 6187
 ---
 <strong>…egy nyíregyházi tanodában. </strong> <strong>Schmercz István írása</strong>
 

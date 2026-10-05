@@ -17,7 +17,7 @@ coverAlt: >-
 coverTitle: >-
   Merész Márton fotója (168 Óra) Forrás:
   https://168ora.hu/itthon/szudi-janos-elhunyt-halal-gyasz-oktatas-184015
-reads: 3291
+reads: 3546
 ---
 <strong>Egyszerre meghalt. Trencsényi László megemlékezése</strong>
 

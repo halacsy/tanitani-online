@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/waldorf_classroom470.jpg
 coverAlt: Tanóra egy alternatív iskolában
 coverTitle: Tanóra egy alternatív iskolában
-reads: 52064
+reads: 53991
 ---
 <strong>...és új oktatási „formák” Magyarországon a XXI. század elején.</strong> <strong>Dobos Orsolya írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/nagy_trencsenyi.jpg
 coverAlt: Könyvborító
 coverTitle: Könyvborító
-reads: 5674
+reads: 5964
 ---
 > Nagy Ádám – Trencsényi László: Szocializációs közegek a változó társadalomban
 >

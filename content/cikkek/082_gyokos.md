@@ -14,7 +14,7 @@ excerpt: >-
   megkísérlem felvázolni a fegyelmi ügy hátterében kitapintható erőviszonyokat,
   végezetül a fegyelmi eset egy lehetséges értelmezését adom az iskola és tágabb
   környezete…
-reads: 9714
+reads: 10051
 ---
 ## A helyi társadalom és az iskolai fegyelmezés kapcsolata a 19. század végi Szolnokon
 

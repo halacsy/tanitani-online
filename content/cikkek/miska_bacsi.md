@@ -13,7 +13,7 @@ excerpt: >-
   természetes részei életünknek. Azért vannak, hogy megoldjuk őket. Ettől
   leszünk valakik. Mert valakikké kell lennünk. Ez a gondolkodásmód akkortájt –
   és mindenkor –…
-reads: 14621
+reads: 15246
 ---
 <strong>Személyes emlékezés Bácskai Mihályra (1929–2011)</strong>
 

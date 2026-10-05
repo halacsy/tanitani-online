@@ -11,7 +11,7 @@ excerpt: ...egy élet szövőszékén Csókos Varga Györgyi (1926–2012) emlé
 coverImage: /sites/default/files/fonal-w470.jpg
 coverAlt: 'Forrás: http://nepzene.network.hu'
 coverTitle: 'Forrás: http://nepzene.network.hu'
-reads: 5058
+reads: 5226
 ---
 <strong>...egy élet szövőszékén</strong>
 

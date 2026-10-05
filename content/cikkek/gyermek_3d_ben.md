@@ -12,7 +12,7 @@ excerpt: >-
   Turcsik Katalin recenziója Gyermek 3D-ben – Tanulási zavarral a szakképzésben
   Szerkesztette: Mudri Zsuzsa; Magyar Pedagógiai Társaság, 2016.
 coverImage: /sites/default/files/kep_1.jpg
-reads: 7420
+reads: 7774
 ---
 <strong>Turcsik Katalin recenziója</strong>
 

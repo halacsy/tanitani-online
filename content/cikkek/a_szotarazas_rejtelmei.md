@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/szotarazas.jpg
 coverAlt: 'Forrás: http://www.theguardian.com/'
 coverTitle: 'Forrás: http://www.theguardian.com/'
-reads: 7822
+reads: 8190
 ---
 <strong>„A szótár azt tartalmazza, amit nem tudunk bemagolni.” Czenner Júlia írása</strong>
 

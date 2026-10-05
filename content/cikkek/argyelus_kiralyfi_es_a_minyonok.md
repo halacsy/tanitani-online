@@ -12,7 +12,7 @@ excerpt: >-
   leértékelődésével a kultúra átadása és vele együtt a kultúra folyamatossága is
   veszélybe kerül.
 coverImage: /sites/default/files/argyelusminyon.png
-reads: 6245
+reads: 6600
 ---
 <strong>Tölgyessy Zsuzsanna írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   gondolkodásra ösztönző helyzeteket teremt. A „hibázni szabad” elve így a
   tanulói autonómia alapjává válik.
 coverImage: /sites/default/files/image_6_copy.png
-reads: 2829
+reads: 3390
 ---
 <strong>Digitális és analóg gamifikáció a tanulói fejlődés támogatására. Nagy Fruzsina írása</strong>
 

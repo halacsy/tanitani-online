@@ -14,7 +14,7 @@ excerpt: >-
   tudást hozott magával, amit egy életen át bővített, és tévedhetetlenül
   felismerte a kincseket, mit kell kiemelni, mit lehet továbbadni.
 coverImage: /sites/default/files/beres.jpg
-reads: 1476
+reads: 1731
 ---
 <strong>Lukács Ágnes emlékező beszéde Béres János – Kossuth-díjas furulyaművész, zenepedagógus, népzenekutató – emléktáblájának avatásakor</strong>
 

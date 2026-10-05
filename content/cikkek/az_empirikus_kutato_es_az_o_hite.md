@@ -12,7 +12,7 @@ excerpt: >-
   feltárható pedagógiai valóság és a közösség, közösségi társadalom eszményei
   iránti szigorú hűség komplex egységében…
 coverImage: /sites/default/files/hunyady_zsuzsa_kollektivitas_0.jpg
-reads: 3186
+reads: 3451
 ---
 <strong>Trencsényi László emlékezik Hunyady Zsuzsára</strong>
 

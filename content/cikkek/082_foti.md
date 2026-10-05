@@ -8,7 +8,7 @@ date: '2010-05-02'
 tags:
   - szabad nevelés
 excerpt: ''
-reads: 13290
+reads: 13861
 ---
 ## Közvetlen demokrácia és autonómia az angliai Summerhill iskolában<fn>Előadás Dunakeszin 2007. november 21-én. A cikkben egyebek mellett az angol nyelvű Wikipedia Summerhill és Alexander Sutherland Neill szócikkeire is támaszkodtam. Az előadáshoz készült Power Point vetítés letölthető a http://www.foti-peter.hu/publikaciok.html<fn> oldalról. Ugyanitt találhatók meg az iskoláról szóló további írásaim is.</fn></fn>
 

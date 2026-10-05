@@ -13,7 +13,7 @@ excerpt: >-
   vált számomra. Az, hogy mennyire megvezethetőek vagyunk, mennyire
   felkészületlenek. És ilyen módon számunkra ellenőrizhetetlen folyamatok
   részesei leszünk Talán itt…
-reads: 28920
+reads: 30543
 ---
 > Tudom, ez az üzleti világ farkastörvénye. Ők felkészültek erre, ez teljesen átjött. De a másik oldal megtéveszthetősége, sebezhetősége is nyilvánvalóvá vált számomra. Az, hogy mennyire megvezethetőek vagyunk, mennyire felkészületlenek. És ilyen módon számunkra ellenőrizhetetlen folyamatok részesei leszünk Talán itt úsznak el a milliók anélkül, hogy a társadalmi hasznosulásuk érzékelhető lenne.
 

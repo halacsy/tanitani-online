@@ -14,7 +14,7 @@ excerpt: >-
   nem csillapítják. A gyógyíthatatlan betegségek, járványok, naponkénti
   katasztrófák, terrorcselekmények az etnikai villongások, helyi konfliktusok,
   öngyilkosságok…
-reads: 13452
+reads: 13958
 ---
 <strong>Misszió a cigányok között</strong>
 

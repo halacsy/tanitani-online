@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/testtakingstudent.jpg
 coverAlt: 'Forrás: Wikimedia Commons'
 coverTitle: 'Forrás: Wikimedia Commons'
-reads: 19802
+reads: 20713
 ---
 > Azt hiszem, ki kellene egyszer mondani: úgy, hogy hazudunk… de vajon kinek? És miért? Miért fontos, hogy mi, pedagógusok jól jöjjünk ki a dologból?
 

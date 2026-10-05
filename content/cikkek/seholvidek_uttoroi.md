@@ -13,7 +13,7 @@ excerpt: >-
   margójára. Előadtak: Benedekné Fekete Hajnalka, Csatári Tamara, Kincses
   Eszter, Tóth Éva. Elnök: Leiner Károly – Zöldbéka tanár úr.
 coverImage: /sites/default/files/2_0.jpg
-reads: 7554
+reads: 7789
 ---
 <strong>Benedekné Fekete Hajnalka írása</strong>
 

@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Rodin Gondolkodója a brüsszeli Laeken Temetőben. Forrás:
   http://www.brusselspictures.com/
-reads: 6310
+reads: 6501
 ---
 <strong>Óvodától egyetemig – Kasik László írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hogyan_eltek.jpg
 coverAlt: 'Körner András: Hogyan éltek?'
 coverTitle: 'Körner András: Hogyan éltek?'
-reads: 5484
+reads: 5669
 ---
 > Körner András: Hogyan éltek? A magyar zsidók hétköznapi élete 1867-1940, Corvina Kiadó, 2013.
 

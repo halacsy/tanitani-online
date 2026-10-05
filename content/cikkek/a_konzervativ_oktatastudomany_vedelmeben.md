@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/nyulureg.jpg
 coverAlt: Jó eséllyel egy sötét nyúlüregben vagyunk.
 coverTitle: Jó eséllyel egy sötét nyúlüregben vagyunk.
-reads: 6658
+reads: 7094
 ---
 <strong>...védelmében. Az MCC növekvő befolyása az oktatásról szóló diskurzusra nem a konzervatív, hanem a szélsőjobboldali (illiberális populista) befolyást erősíti. Radó Péter írása</strong>
 

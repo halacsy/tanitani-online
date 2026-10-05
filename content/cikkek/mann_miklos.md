@@ -11,7 +11,7 @@ excerpt: Nagy Péter Tibor megemlékezése Mann Miklós múlt hétfőn eltávozo
 coverImage: /sites/default/files/mann_1.jpg
 coverAlt: 'Forrás: http://kerikata.hu'
 coverTitle: 'Forrás: http://kerikata.hu'
-reads: 4357
+reads: 4721
 ---
 <strong>Nagy Péter Tibor megemlékezése</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   huszadik századi fázisát. A paradigma sok helyütt használhatónak tűnik, a
   közép-amerikai…
 coverImage: /sites/default/files/dscn0968.png
-reads: 5248
+reads: 5576
 ---
 <strong>Németh Tibor írása</strong>
 

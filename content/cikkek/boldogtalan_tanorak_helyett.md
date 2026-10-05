@@ -12,7 +12,7 @@ excerpt: >-
   ...21. századi iskola. Gyarmathy Éva írása Először azt gondolná az ember, hogy
   viccről van szó, de nem...
 coverImage: /sites/default/files/biznisz.jpg
-reads: 8984
+reads: 9399
 ---
 <strong>...21. századi iskola.&nbsp;Gyarmathy Éva írása</strong>
 

@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A Hargita megyei diákok karikatúraversenyének győztes alkotása. Kercsó Anna
   rajza. Forrás: http://www.szekelyhon.ro/
-reads: 21099
+reads: 22060
 ---
 <strong>Knausz Imre írása</strong>
 
@@ -128,7 +128,7 @@ Mit jelent a pedagógiai kultúraváltás? Az alábbiakban ennek a technikáját
 
 ## Irodalom
 
-Arató László, Knausz Imre, Nahalka István, Pála Károly: [<em>Modernizáció és programfejlesztés</em>](http://www.knauszi.hu/modernizacio_es_programfejlesztes). Kézirat, 2002. július 27.
+Arató László, Knausz Imre, Nahalka István, Pála Károly: [<em>Modernizáció és programfejlesztés</em>](https://www.dropbox.com/scl/fi/utu7z9y248x6xglv20h47/Moderniz-ci-s-programfejleszt-s.doc?rlkey=anawdgmpfemnoqza296kigrgm&st=ju8nlzab&dl=0). Kézirat, 2002. július 27.
 
 Arcangeli, Alessandro: <em>Cultural History. A Concise Introduction</em>. New York, Routledge, 2012, 144.
 

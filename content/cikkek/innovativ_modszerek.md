@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/siker.jpg
 coverAlt: 'Nem mindig az a siker, ami látszik.'
 coverTitle: 'Nem mindig az a siker, ami látszik.'
-reads: 8503
+reads: 8761
 ---
 <strong>Lubinszki Mária a pedagógus-coaching lehetőségeiről</strong>
 

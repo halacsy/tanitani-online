@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   Kövendi Dénes 1923-2011 Az emlékező írást tiszteletünk jeleként vettük át a
   Reformátusok Lapja 2011. június 26-i számából.
-reads: 7889
+reads: 8136
 ---
 <strong>Kövendi Dénes 1923-2011</strong>
 

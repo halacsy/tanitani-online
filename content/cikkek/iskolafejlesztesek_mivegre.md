@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hejoker_csoport.jpg
 coverAlt: Csoportmunka Hejőkeresztúrban
 coverTitle: Csoportmunka Hejőkeresztúrban
-reads: 6337
+reads: 6560
 ---
 > K. Nagy Emese: Több mint csoportmunka. Munka heterogén tanulói csoportban. Nemzeti Tankönyvkiadó, Budapest, 2012.
 

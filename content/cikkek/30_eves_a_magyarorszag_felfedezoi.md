@@ -11,7 +11,7 @@ excerpt: >-
   Balázs György írása Talán soha ennyi felnőtt nem segített gyermekszervezetet,
   programokat, táborokat, mint a 90-es évek elején.
 coverImage: /sites/default/files/felfedezok_cimlapra.jpg
-reads: 3666
+reads: 3976
 ---
 <strong>Balázs György írása</strong>
 

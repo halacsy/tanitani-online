@@ -13,7 +13,7 @@ excerpt: >-
   konferencián 2025. május 16-án Budapesten elhangzott előadás szerkesztett
   változata
 coverImage: /sites/default/files/utopia.jpg
-reads: 1738
+reads: 2220
 ---
 <strong>A “partneri-társas-integratív” és a “tanárközpontú-tekintélyelvű” tanítás-tanulás. Fóti Péter írása</strong>
 

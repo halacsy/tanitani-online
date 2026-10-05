@@ -13,7 +13,7 @@ excerpt: >-
   közös történelmünk nem üres múlt, nem a kiváltságos nemzetek tulajdona, hanem
   az a ház, ahol mi, európai emberek mindannyian otthon lehetünk.
 coverImage: /sites/default/files/heh_cimlap.jpg
-reads: 1743
+reads: 2031
 ---
 <strong>Az Európai Történelem Háza (House of European History), Brüsszel. Alexovics Ingrid írása</strong>
 

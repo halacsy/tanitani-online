@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/ertl.jpg
 coverAlt: Ertl Pálné Kuti Mária
 coverTitle: Ertl Pálné Kuti Mária
-reads: 1915
+reads: 2229
 ---
 <strong>Pintér Katalin és Ertl Balázs&nbsp;írása</strong>
 

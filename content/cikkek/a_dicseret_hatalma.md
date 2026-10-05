@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   ...a dicséret a fellegekbe röpíti a fiút... Fotó: Ru dagon. Forrás: Wikimedia
   Commons
-reads: 25618
+reads: 26220
 ---
 > Attila szeret szerepelni, élvezi, hogy szóban az egyik leggyorsabb a társai között, így sok dicséretet kap. A dilemmát az okozza, hogy mi legyen a fiú írásbeli teljesítményével.
 

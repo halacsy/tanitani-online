@@ -10,7 +10,7 @@ tags:
 excerpt: >-
   „A szakképzési hozzájárulás felhasználásának gyakorlata 2008-2009”. A Life
   Long Learning Magyarország Alapítvány kutatási összefoglalója.
-reads: 7272
+reads: 7569
 ---
 <strong><i>„A szakképzési hozzájárulás felhasználásának gyakorlata 2008-2009”. </i>A Life Long Learning Magyarország Alapítvány kutatási összefoglalója.</strong>
 

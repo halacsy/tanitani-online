@@ -13,7 +13,7 @@ excerpt: >-
   június 21-én lesz 180 esztendeje, hogy a nagyhatású pedagógus Porcsalmán
   megszületett.
 coverImage: /sites/default/files/erzsebet_terkep_0.jpg
-reads: 1580
+reads: 1877
 ---
 <strong>...és a kamaraerdei Erzsébet Otthon. Kálmánné Bánvölgyi Rozál, budaörs-kamaraerdei helytörténész sorozatának harmadik, befejező írása</strong>
 

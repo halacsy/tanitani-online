@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/sakkpalota.jpg
 coverAlt: Sakkpalota – borító
 coverTitle: Sakkpalota – borító
-reads: 11933
+reads: 12443
 ---
 <strong>Gondolatok</strong>
 

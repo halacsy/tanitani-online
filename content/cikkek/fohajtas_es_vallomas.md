@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/urban_gyula.jpg
 coverAlt: 'Urbán Gyula. Forrás: minalunk.hu'
 coverTitle: 'Urbán Gyula. Forrás: minalunk.hu'
-reads: 4163
+reads: 4480
 ---
 <strong>...az ismeretlen gyermek szobra előtt</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
   talbotípia néven ismert fotóeljárás kifejlesztője volt. Miközben ír, szeme
   sarkából látja, hogy a tizenöt fős csoportból kiválik a tizenöt éves Marci,
   akinek az ellenőrző…
-reads: 8343
+reads: 8785
 ---
 Mai óránk témája a fotózás kezdetei, Talbot-ról fogunk tanulni, közli Ági, és fölírja a táblára a fotós nevét. William Henry Fox TALBOT (1800-1877) a talbotípia néven ismert fotóeljárás kifejlesztője volt. Miközben ír, szeme sarkából látja, hogy a tizenöt fős csoportból kiválik a tizenöt éves Marci, akinek az ellenőrző könyvében látott egy beírást a biológia tanárnőtől, az elmúlt héten, mielőtt bevésett neki fotótörténetből egy elégtelent, mely szerint Tisztelt Szülő! A gyermek biológia órán megevésre kínálta nemi szervét, tisztelettel. Horváth Rozália tanárnő. Marci megfontolt mozdulatokkal emelkedik ki a hátsó padból, mint Iluska a János Vitéz által tóba dobott, sírján kinőtt rózsából, nekirugaszkodik, mint akit puskából lőttek ki, egyenesen a tábla felé tart, a következő pillanatban kiveszi Ági kezéből a krétát, kiegészíti TALBOT nevét ITALBOLT-ra, végül közli, hogy ennyi hozzáfűznivalója lenne a témához, és méltóságteljesen visszavonul a helyére.
 

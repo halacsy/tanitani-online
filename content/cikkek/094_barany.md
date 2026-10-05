@@ -13,7 +13,7 @@ excerpt: >-
   éli meg a kudarcokat és a sikereket, és nem utolsó sorban, milyen szerepet
   játszottak döntéseiben az iskolák. Ezért nem is a személye érdekes, hanem az
   eddig megtett…
-reads: 6978
+reads: 7171
 ---
 Az alábbi beszélgetést egy nem mindennapi sport művelőjével készítettük. Az érdekelt minket, mi hajtja az embert hasonló teljesítmények elérésére, hogyan éli meg a kudarcokat és a sikereket, és nem utolsó sorban, milyen szerepet játszottak döntéseiben az iskolák. Ezért nem is a személye érdekes, hanem az eddig megtett útja.
 

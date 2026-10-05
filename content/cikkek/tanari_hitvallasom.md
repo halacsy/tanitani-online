@@ -9,7 +9,7 @@ tags:
   - nevelés
 excerpt: Tóth Eszter írása Mindenki felemelkedése a tükör előtt kezdődik.
 coverImage: /sites/default/files/hitvallas_cimlap.jpg
-reads: 9249
+reads: 9797
 ---
 <strong>Tóth Eszter írása</strong>
 

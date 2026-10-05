@@ -13,7 +13,7 @@ excerpt: >-
   Máté írása De ne felejtsük el, hogy elsősorban játszunk, minden más csupán
   szerencsés véletlen.
 coverImage: /sites/default/files/img_20150220_153011.jpg
-reads: 15523
+reads: 16133
 ---
 <strong>Kísérlet a társasjátékok kulcskompetenciák szerinti kategorizálására. Lencse Máté írása</strong>
 

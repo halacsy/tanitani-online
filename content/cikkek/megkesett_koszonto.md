@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/mma_prkai_istvn.jpg
 coverAlt: 'Forrás: mma.hu'
 coverTitle: 'Forrás: mma.hu'
-reads: 2451
+reads: 2690
 ---
 <strong>Párkai István karnagy 92 éves. Mindszenty Zsuzsánna írása</strong>
 

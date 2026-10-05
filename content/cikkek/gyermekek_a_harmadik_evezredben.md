@@ -13,7 +13,7 @@ excerpt: >-
   tehát a barátságosnak vágyott évezred első évtizede nagyon is barátságtalanná
   vált, a mai úttörők egy majdnem lakhatatlan bolygó kihaló népessége...
 coverImage: /sites/default/files/uttoro_cimlap.jpg
-reads: 4895
+reads: 5130
 ---
 <strong>Rácz Péter írása a magyar úttörőmozgalom 70. születésnapján</strong>
 

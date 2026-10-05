@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/shezhana_soosh_httpsbrightside.me_.png
 coverAlt: 'Shezhana Soosh vízfestménye. Forrás: https://brightside.me'
 coverTitle: 'Shezhana Soosh vízfestménye. Forrás: https://brightside.me'
-reads: 6218
+reads: 6483
 ---
 <strong>Krajnyákné Csorba Fanni írása</strong>
 

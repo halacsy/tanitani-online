@@ -15,7 +15,7 @@ excerpt: >-
   elengedhetetlen ezt tudnunk. A szövegértés-fejlesztés ilyen felfogásának a
   „magyaros” tárgyaktól való idegenségét jól mutatja, hogy amikor a diákokkal
   grafikonokat…
-reads: 19360
+reads: 20057
 ---
 > Ezeket a feladatokat nap mint nap automatikusan kell végeznünk: egy újságcikk elolvasásakor vagy egy tankönyv feldolgozásakor. Azaz az önálló tanuláshoz elengedhetetlen ezt tudnunk. A szövegértés-fejlesztés ilyen felfogásának a „magyaros” tárgyaktól való idegenségét jól mutatja, hogy amikor a diákokkal grafikonokat értelmeztettem egy órán, azt kaptam válaszul, hogy „Ne már, tanárnő, ez tiszta matek!”
 

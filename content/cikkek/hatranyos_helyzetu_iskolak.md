@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/zoller1.jpg
 coverAlt: Egy hátrányos helyzetű ablak
 coverTitle: Egy hátrányos helyzetű ablak
-reads: 7911
+reads: 8278
 ---
 <strong>...tanulók hátrányos helyzetű iskolája – Az igényes környezet igényes embert nevel</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   feljáróval, lifttel, a minden teremben felszerelt interaktív táblával most
   hideg és üres. A gyerekek, akiknek 60%-a halmozottan hátrányos helyzetű, most
   mindenfele, lakásban…
-reads: 13790
+reads: 14186
 ---
 > A múlt héten az egyik vidéki iskolában kikapcsolták a fűtést. Kicsit szimbolikus most nekem ez az egész. A szép, új épület, mozgáskorlátozott feljáróval, lifttel, a minden teremben felszerelt interaktív táblával most hideg és üres. A gyerekek, akiknek 60%-a halmozottan hátrányos helyzetű, most mindenfele, lakásban, irodában, ahol még van fűtés, próbálnak tanulni. Esély sincs, hogy a tél végéig visszamenjenek. 
 

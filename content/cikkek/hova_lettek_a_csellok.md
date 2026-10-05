@@ -9,7 +9,7 @@ tags:
   - művészetpedagógia
 excerpt: Sinkó István képeiről. Trencsényi László írása Sinkó 70 éves idén áprilisban.
 coverImage: /sites/default/files/sinko_cimlap.jpg
-reads: 2049
+reads: 2264
 ---
 <strong>Sinkó István képeiről. Trencsényi László írása</strong>
 

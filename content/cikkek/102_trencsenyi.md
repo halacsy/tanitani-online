@@ -14,7 +14,7 @@ excerpt: >-
   Művelődési Központban telt házzal megszervezett Több út c. konferencia fontos,
   meghatározó gyülekezőhelye volt a „maratoni seregnek”, számon tartandó
   esemény…
-reads: 20498
+reads: 21168
 ---
 <strong><span style="font-size: 16px;">Loránd Ferenc életének 80., az Iskolafejlesztési Alapítvány 20. évében</span></strong><br><br>Jelen írásban azt kell igazolnom, hogy az 1992 tavaszán a Marczibányi téri Művelődési Központban telt házzal megszervezett Több út c. konferencia fontos, meghatározó gyülekezőhelye volt a „maratoni seregnek”, számon tartandó esemény, megkerülhetetlen adat.[fn]Maratoni seregnek – Báthory Zoltán metaforája, a „maratoni reform” nyomán – nevezem a közoktatásnak (Báthory által kezdetét illetően 1972-ra datált elhúzódó, meg-megszakított) modernizációt, humanizációt és demokratizálást szolgáló reformfolyamatát. Vö. Perjés István: „Csak az a szép zöld fű…” Új Pedagógiai Szemle, 2009. 12. sz.[/fn]
 

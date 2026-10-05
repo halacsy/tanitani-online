@@ -13,7 +13,7 @@ excerpt: >-
   Pedagógusjelöltekkel azért fontos bábozni, mert lehetőségük lesz a fiatal
   korosztályokkal, a még hajlékony lelkekkel foglalkozni.
 coverImage: /sites/default/files/szentirmai5.jpg
-reads: 3015
+reads: 3298
 ---
 <strong>Avagy a pedagógiai bábjáték és a gyermekkultúra. Szentirmai László írása</strong>
 

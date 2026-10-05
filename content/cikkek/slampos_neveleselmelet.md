@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/s10_0.jpg
 coverAlt: 'Gyulaj, 1965. Fotó: Bakó Jenő. Forrás: https://www.terrorhazafoto.hu/'
 coverTitle: 'Gyulaj, 1965. Fotó: Bakó Jenő. Forrás: https://www.terrorhazafoto.hu/'
-reads: 2265
+reads: 2525
 ---
 <strong>…maradi nevelési gyakorlat. Fábry Béla írása a konzervatív pedagógiáról és a pedagógiai konzervativizmusról</strong>
 

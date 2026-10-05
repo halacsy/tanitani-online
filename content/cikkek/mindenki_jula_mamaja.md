@@ -7,13 +7,10 @@ authorSlugs:
 date: '2026-07-12'
 tags:
   - örökség
-  - nemzetközi
-  - pedagógusok
-  - generációk
+  - néptánc-pedagógia
 excerpt: Mészáros Kinga írása „Virtuális táncosokkal nem lehet dolgozni."
 coverImage: /sites/default/files/jula_mama.jpg
-coverAlt: Mindenki „Jula mamája”
-reads: 1790
+reads: 1794
 ---
 <strong><span style="font-size: 12px;">Mészáros Kinga írása</span></strong>
 

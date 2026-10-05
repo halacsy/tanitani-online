@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/buntetes.jpg
 coverAlt: 'George Cruikshank karikatúrája1839-ből. Forrás: https://www.apmreports.org/'
 coverTitle: 'George Cruikshank karikatúrája1839-ből. Forrás: https://www.apmreports.org/'
-reads: 5812
+reads: 6872
 ---
 <strong>Bessenyei István írása</strong>
 

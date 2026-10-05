@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/imm1-w470.jpg
 coverAlt: 'J. F. Kennedy: A Nation of Immigrants. Forrás: amazon.com'
 coverTitle: 'J. F. Kennedy: A Nation of Immigrants. Forrás: amazon.com'
-reads: 1510
+reads: 1813
 ---
 <strong>Amerika választ 2024. Zsigmond Anna írása</strong>
 

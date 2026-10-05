@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/amikim_hazak.jpg
 coverAlt: Házak
 coverTitle: Házak
-reads: 8221
+reads: 8682
 ---
 <strong>Ami egy könyvből kimaradt</strong>
 

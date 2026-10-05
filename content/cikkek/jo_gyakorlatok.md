@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/circus_525-w400.jpg
 coverAlt: 'A képen Frederick W. Glasier fotója. Forrás: http://designobserver.com/'
 coverTitle: 'A képen Frederick W. Glasier fotója. Forrás: http://designobserver.com/'
-reads: 16218
+reads: 16780
 ---
 <strong>Avagy az innovációk temetői. L. Ritók Nóra írása</strong>
 

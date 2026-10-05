@@ -21,7 +21,7 @@ coverAlt: >-
 coverTitle: >-
   Hans Asperger a Bécsi Egyetem Gyermekkórházában. Forrás:
   https://www.derstandard.de/
-reads: 3204
+reads: 3492
 ---
 <strong>A náci örökség és a gyógypedagógia emlékezete. Ugrai János írása</strong>
 

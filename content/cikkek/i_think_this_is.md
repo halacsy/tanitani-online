@@ -14,7 +14,7 @@ excerpt: >-
   kettesben maradtunk az egész iskolában.) Nem akartam gyáván hazamenni, így
   súlyos-csöndes dilemmázás után úgy döntöttem, hogy megkérdezem tőle, tudja-e,
   hogy ki az osztályfőnöke? Nem tudta. Jól elfehéredett, nagyot nyelt.
-reads: 29585
+reads: 31096
 ---
 > Fél óra után már érezhetően kontrakcióban volt a gyomrom. (Ráadásul addigra kettesben maradtunk az egész iskolában.) Nem akartam gyáván hazamenni, így súlyos-csöndes dilemmázás után úgy döntöttem, hogy megkérdezem tőle, tudja-e, hogy ki az osztályfőnöke? Nem tudta. Jól elfehéredett, nagyot nyelt.
 

@@ -6,10 +6,7 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-05-26'
 tags:
-  - játék
-  - pedagógus
-  - színház
-  - tanterv
+  - demokratikus nevelés
 excerpt: >-
   Trencsényi László írása Döntsd el, olvasó: komoly-e vagy mégiscsak játék és
   mégis komoly volt az Árvaház törvényei közt a „Szutyok napja”, amikor az aznap
@@ -18,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/korczak_novendekei.jpg
 coverAlt: 'Janusz Korczak növendékei. Forrás: Arolsen Archives'
 coverTitle: 'Janusz Korczak növendékei. Forrás: Arolsen Archives'
-reads: 2148
+reads: 2149
 ---
 <strong>Trencsényi László írása</strong>
 

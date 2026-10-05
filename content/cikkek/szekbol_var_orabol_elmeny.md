@@ -7,10 +7,8 @@ authorSlugs:
   - tallian-mariann
 date: '2026-06-03'
 tags:
-  - nevelés
-  - művészeti nevelés
-  - erkölcsi nevelés
-  - érzelmi nevelés
+  - művészetpedagógia
+  - pedagógus
 excerpt: >-
   Lázár Balázs interjúja Tallián Mariann dráma- és színházművészeti tanárral A
   komplex művészeti nevelésben hiszek, és nem abban, hogy drámajátékos
@@ -20,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/tallian_mariann.jpg
 coverAlt: Tallián Mariann. Mészáros Gábor fotója
 coverTitle: Tallián Mariann. Mészáros Gábor fotója
-reads: 1501
+reads: 1503
 ---
 <strong><span style="font-size: 12px;">Lázár Balázs interjúja Tallián Mariann dráma- és színházművészeti tanárral</span></strong>
 

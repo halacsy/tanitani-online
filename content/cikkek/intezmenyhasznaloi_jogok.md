@@ -17,7 +17,7 @@ excerpt: >-
   megoldás egyértelmű: ebben a felfogásban a tanulót magát „beszállítónak” kell,
   lehet tekinteni, ez fejezi ki azt, hogy az iskola érdekelt e partnerével
   kötött –…
-reads: 12918
+reads: 13329
 ---
 <strong>Az V. Miskolci Taní-tani Konferencia (2012. február 3.) "virtuális" (a szerző kényszerű távolléte miatt a résztvevőknek írásban kiosztott) előadása</strong>
 

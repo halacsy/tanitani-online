@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/hajra_gador.jpg
 coverAlt: Németh Tibor és Szabados Mónika
 coverTitle: Németh Tibor és Szabados Mónika
-reads: 3224
+reads: 3544
 ---
 <strong>Németh Tibor interjúja Szabados Mónikával</strong>
 

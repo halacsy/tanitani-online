@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/test.jpg
 coverAlt: 'Forrás: http://www.frostburg.edu/'
 coverTitle: 'Forrás: http://www.frostburg.edu/'
-reads: 7798
+reads: 8042
 ---
 <strong>…felértékelődése az oktatási rendszer fejlesztésében.</strong> <strong> Tóth Edit írása</strong>
 

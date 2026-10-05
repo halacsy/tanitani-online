@@ -14,7 +14,7 @@ excerpt: >-
   Varga László, korrektor: Fodor Zsuzsanna, borítóterv és tördelés: Zádor
   György.
 coverImage: /sites/default/files/pedagogiga-lelke.jpg
-reads: 1842
+reads: 2231
 ---
 <strong><span style="font-size: 12px;">„Kérem, hogy ne sétáljanak ezen az ösvényen. Ez a lelkeké” Perjés István recenziója</span></strong>
 

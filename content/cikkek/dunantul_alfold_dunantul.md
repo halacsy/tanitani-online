@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/petko_jeno.jpg
 coverAlt: 'Petkó Jenőt Akasztó községben köszöntik 2017-ben. Forrás: www.akaszto.hu'
 coverTitle: 'Petkó Jenőt Akasztó községben köszöntik 2017-ben. Forrás: www.akaszto.hu'
-reads: 1938
+reads: 2360
 ---
 <strong>Petkó Jenő (1933. december 7. – 2021. február 14.). Körömi Gábor emlékezése</strong>
 

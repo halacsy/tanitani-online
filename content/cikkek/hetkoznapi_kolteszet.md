@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/villon_manuscript-w400.jpg
 coverAlt: 'Villon Nagy Testamentumának egy részlete. Forrás: Wikimedia Commons'
 coverTitle: 'Villon Nagy Testamentumának egy részlete. Forrás: Wikimedia Commons'
-reads: 7365
+reads: 7731
 ---
 > Az alkotói folyamatban való részvétel és a publikálás lehetősége természetesen a költészet és a versek recepcióját is befolyásoló tényezővé vált...
 

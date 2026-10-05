@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/iskolapad.jpg
 coverAlt: 'Forrás: https://fenykepek.hu'
 coverTitle: 'Forrás: https://fenykepek.hu'
-reads: 4884
+reads: 5119
 ---
 <strong>Az iskola: éthosz és mindennapok. Knausz Imre írása</strong>
 

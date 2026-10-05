@@ -13,7 +13,7 @@ excerpt: >-
   francia – valóságos oktatási forradalmat gerjesztett: az emberek olvastak, a
   városokban kölcsönkönyvtárak nyíltak.
 coverImage: /sites/default/files/skocia_cimlap_0.jpg
-reads: 4823
+reads: 5083
 ---
 <strong>Németh Tibor írása</strong>
 

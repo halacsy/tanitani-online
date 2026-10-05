@@ -13,7 +13,7 @@ excerpt: >-
   amit művel, az kifejezetten kártékony. Értékelem, hogy szeret festeni, és a
   festészetet másokkal is meg akarja szerettetni, de ebben a formában ez
   elfogadhatatlan. A…
-reads: 173479
+reads: 180033
 ---
 > Kedves Való Ibolya!
 >

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/pataki2-w400.jpg
 coverAlt: Pataki Gyula
 coverTitle: Pataki Gyula
-reads: 9582
+reads: 10019
 ---
 <strong>Pataki Gyulával Tóth Tamás Május beszélgetett.</strong>
 

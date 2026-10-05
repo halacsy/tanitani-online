@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/inkluzio_0.jpg
 coverAlt: 'Forrás: iStock'
 coverTitle: 'Forrás: iStock'
-reads: 1328
+reads: 1712
 ---
 <strong>…az óvodai nevelés mindennapjaiban. Csizmárné Gede Erika Judit írása</strong>
 

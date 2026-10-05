@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/veszekedok.jpg
 coverAlt: 'Forrás: https://comeandreason.com/'
 coverTitle: 'Forrás: https://comeandreason.com/'
-reads: 3444
+reads: 4134
 ---
 <strong>Földes Petra írása</strong>
 

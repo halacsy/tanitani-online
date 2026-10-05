@@ -15,7 +15,7 @@ excerpt: >-
   neve Laky Ilonka Általános Iskola lett. A névadó, Laky Károlyné Székely Ilona
   több generáció kedves tanító nénije volt a faluban. Hányatott sorsa ellenére
   megértéssel…
-reads: 25086
+reads: 25472
 ---
 > Az Ecseri Általános Iskolában 2011. junius 13-án iskolai névadó ünnepséget tartottak. Helyi kezdeményezésre, az önkormányzat támogatásával az iskola új neve Laky Ilonka Általános Iskola lett. A névadó, Laky Károlyné Székely Ilona több generáció kedves tanító nénije volt a faluban. Hányatott sorsa ellenére megértéssel és elhivatottsággal foglalkozott a gyerekekkel, amellett nevéhez fűződik az ecseri népi motívumkincs megörökítése rajzzal, fotóval – ennek megjelentetése könyvben.
 

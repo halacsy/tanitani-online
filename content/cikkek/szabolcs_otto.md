@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/2010_szabolcs_otto.jpg
 coverAlt: 'Szabolcs Ottó (Forrás: Történelemtanítás)'
 coverTitle: 'Szabolcs Ottó (Forrás: Történelemtanítás)'
-reads: 6572
+reads: 6822
 ---
 > Szabolcs Ottó műveinek, s tevékenységének, sokoldalú kapcsolati hálójának stb. nagyon nagy szerepe van a Kádár-rendszer közepének és második felének oldódási folyamataiban...
 

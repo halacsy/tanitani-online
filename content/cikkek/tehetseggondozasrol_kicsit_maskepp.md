@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/tehetseg_cimlap.jpg
 coverAlt: Az Igazgyöngy műhelyéből. Részlet egy óvodás csoportmunkából
 coverTitle: Az Igazgyöngy műhelyéből. Részlet egy óvodás csoportmunkából
-reads: 9739
+reads: 10005
 ---
 <strong>L. Ritók Nóra írása</strong>
 

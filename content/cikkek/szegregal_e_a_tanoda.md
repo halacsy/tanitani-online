@@ -11,7 +11,7 @@ excerpt: >-
   Fejes József Balázs írása Emellett az is célja, hogy a témában tájékozatlan
   pedagógusoknak „beszóljon”, és tájékozódásra késztesse őket.
 coverImage: /sites/default/files/fjb_szegr.jpg
-reads: 8214
+reads: 8570
 ---
 <strong>Fejes József Balázs írása</strong>
 

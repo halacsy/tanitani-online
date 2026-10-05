@@ -14,7 +14,7 @@ excerpt: >-
   Tudtam, a szülők nem értik majd, mi ez a sok szöveg a jegy helyett. De nem
   akartam a művészeti iskolák zömében jellemző formális ötösöket beírni. Mert
   mindenhol ez van.…
-reads: 10167
+reads: 10482
 ---
 > Tudtam, nehéz lesz a szöveges értékelés. Mert a kollégákkal is kiszúrok, hiszen oldalakat kell majd körmölni, és a gyerekek is várják majd a jegyeket. Tudtam, a szülők nem értik majd, mi ez a sok szöveg a jegy helyett. De nem akartam a művészeti iskolák zömében jellemző formális ötösöket beírni. Mert mindenhol ez van. Na jó, van ahol a négyesig is elmennek.
 

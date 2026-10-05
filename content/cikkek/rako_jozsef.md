@@ -14,7 +14,7 @@ excerpt: >-
   szentelte, de e mellett jelentős helytörténeti és történelmi kutatásokat is
   végzett.
 coverImage: /sites/default/files/rak.png
-reads: 4830
+reads: 5124
 ---
 <strong>Egy gyerekmozgalmi vezető életének tanulságai.&nbsp;</strong> <strong>Révész György írása</strong>
 

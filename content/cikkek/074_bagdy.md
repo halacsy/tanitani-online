@@ -14,7 +14,7 @@ excerpt: >-
   Pszichológia Tanszékének vezetőjével. Az interjút Barna Erika Viktória
   készítette. Pszic hológusként milyen problémákat látsz az oktatásban? Ahogyan
   a pedagógia világában…
-reads: 68107
+reads: 69242
 ---
 <strong><img alt="Bagdy Emőke" src="/sites/default/files/bagdy.jpg" style="margin-left: 10px; margin-right: 10px; float: left; width: 300px; height: 450px; ">A</strong><strong>z iskoláról beszélgettünk dr. Bagdy Emőke klinikai szakpszichológus, pszichoterapeuta egyetemi tanárral, a Károli Gáspár Református Egyetem Pszichológia Tanszékének vezetőjével. Az interjút Barna Erika Viktória készítette.</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/one-against-all-1744091_640.jpg
 coverAlt: pixabay.com
 coverTitle: pixabay.com
-reads: 5938
+reads: 6148
 ---
 <strong>Hétköznapi agresszió az iskolában. Lőrincz Andrea írása</strong>
 

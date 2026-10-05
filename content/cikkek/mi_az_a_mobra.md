@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/mobra-w400.jpg
 coverAlt: Mobra
 coverTitle: Mobra
-reads: 8451
+reads: 8826
 ---
 <strong>Valentné Albert Éva írása</strong>
 

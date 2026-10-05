@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/10.jpg
 coverAlt: 'Forrás: http://igazgyongy-alapitvany.hu/'
 coverTitle: 'Forrás: http://igazgyongy-alapitvany.hu/'
-reads: 28043
+reads: 29307
 ---
 > Ha olyan iskolában szerzett volna tapasztalatokat, ahol a pedagógusok már nem tudnak mit tenni az iskolába is begyűrűző társadalmi problémákkal, akkor megértené, hogy mennyire rossz úton jár.
 

@@ -13,7 +13,7 @@ excerpt: >-
   Szomorú, de felemelő széljegyzetek egy könyvről Az alternatív pedagógusok
   korán halnak? Osztályrészük a lobogás, a korai (nem ki-!, de) elégés? De jó
   lenne az ellenkezőjéhez keresni bizonyságot. Sokat!
-reads: 10328
+reads: 10739
 ---
 ## Szomorú, de felemelő széljegyzetek egy könyvről
 

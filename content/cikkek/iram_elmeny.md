@@ -13,7 +13,7 @@ excerpt: >-
   olyan eseményeket és előadásokat valósítanak meg, ahol az alkotók és a
   közönség együtt gondolkoznak, kutatnak és játszanak.
 coverImage: /sites/default/files/image001_2.jpg
-reads: 3249
+reads: 3506
 ---
 <strong>Takács Rita írása</strong>
 

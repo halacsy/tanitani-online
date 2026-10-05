@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/falko_peschel_www.obleser.de_.jpg
 coverAlt: 'Falko Peschel. Forrás: www.obleser.de'
 coverTitle: 'Falko Peschel. Forrás: www.obleser.de'
-reads: 8326
+reads: 8676
 ---
 <strong>Fóti Péter írása</strong>
 

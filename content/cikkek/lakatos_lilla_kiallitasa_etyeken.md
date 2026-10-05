@@ -12,7 +12,7 @@ excerpt: >-
   – és folyamatos korszerűsödést igénylő – vizuális kultúránkban és
   művészetpedagógiánkban.
 coverImage: /sites/default/files/lakatos_lilla.jpg
-reads: 2070
+reads: 2309
 ---
 <strong>Trencsényi László megnyitója</strong>
 

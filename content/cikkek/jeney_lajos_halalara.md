@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/jeney_420.jpg
 coverAlt: 'Jeney Lajos. Fotó: Mészáros Judit. Forrás: http://epiteszforum.hu'
 coverTitle: 'Jeney Lajos. Fotó: Mészáros Judit. Forrás: http://epiteszforum.hu'
-reads: 6280
+reads: 6503
 ---
 <strong>Trencsényi László megemlékezése</strong>
 

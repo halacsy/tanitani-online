@@ -12,7 +12,7 @@ excerpt: >-
   dolgokról esett szó az Art Departmentben, Rajk László egykori műtermében, ahol
   Csoszó Gabriella kiállítására gyülekeztek a vendégek.
 coverImage: /sites/default/files/csoszo_cimlap.jpg
-reads: 1761
+reads: 2015
 ---
 <strong>…avagy hogyan osztályoz Csoszó Gabriella. Trencsényi László írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   másnak talán jobban kell” szemlélet. Mikor lesz, hogy a nem rászoruló nem
   fogja megkeresni a kiskaput, hogy kedvezményhez jusson. Mikor lesz, hogy nem ő
   követeli arcpirító módon…
-reads: 15151
+reads: 15623
 ---
 > Nem tudom, mikor fog ezekben a döntésekben az etikus magatartás győzedelmeskedni. Mikor lesz a „nekem még többet” helyett a „nézzünk körül, másnak talán jobban kell” szemlélet. Mikor lesz, hogy a nem rászoruló nem fogja megkeresni a kiskaput, hogy kedvezményhez jusson. Mikor lesz, hogy nem ő követeli arcpirító módon leghangosabban a jussát. Tartok tőle, soká. Nem tudom, máshol, más országban ez hogy működik, és működik-e egyáltalán. 
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/miklosi_laszlo.jpg
 coverAlt: Miklósi László
 coverTitle: Miklósi László
-reads: 1234
+reads: 1619
 ---
 <strong>Körkérdés az oktatásról 14.</strong>
 

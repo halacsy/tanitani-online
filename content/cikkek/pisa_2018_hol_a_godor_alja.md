@@ -14,7 +14,7 @@ excerpt: >-
   magyar 15 évesek teljesítményével kapcsolatos előzetes várakozásaimat. A
   2018-as mérés adataival…
 coverImage: /sites/default/files/cave-555727_640.jpg
-reads: 9703
+reads: 10694
 ---
 <strong>Radó Péter írása</strong>
 

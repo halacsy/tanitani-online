@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/lorincz_cimlap.jpg
 coverAlt: A szerző fotója
 coverTitle: A szerző fotója
-reads: 10191
+reads: 10549
 ---
 <strong>Lőrincz Andrea írása a gyermekotthonban élő fiatalok tetováltatási szokásainak motivációs hátteréről</strong>
 

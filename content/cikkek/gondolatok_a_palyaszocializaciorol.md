@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/fp_borito.jpg
 coverAlt: 'Forrás: https://www.marcandangel.com/'
 coverTitle: 'Forrás: https://www.marcandangel.com/'
-reads: 2663
+reads: 2936
 ---
 <strong>„Tanárnő, sose hittem volna, hogy ez ennyire bonyolult…” Földes Petra írása</strong>
 

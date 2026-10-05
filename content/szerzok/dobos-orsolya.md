@@ -1,6 +1,6 @@
 ---
 name: Dobos Orsolya
 bio: >-
-  A Rogers Óvoda és Iskola munkatársa, az Alapítványi és Magániskolák Egyesülete
-  alternatív tagozatának vezetője.
+  Az Alapítványi és Magániskolák és -óvodák Egyesülete társelnöke vagyok,
+  tanügyigazgatási szakértő, neveléstudományi PhD-val rendelkezem.
 ---

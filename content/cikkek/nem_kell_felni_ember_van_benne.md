@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tomory.png
 coverAlt: Tömöry Márta
 coverTitle: Tömöry Márta
-reads: 1729
+reads: 2102
 ---
 <strong><span style="font-size: 1em;">Tömöry Márta 80. születésnapjára. Galuska László Pál interjúja a jeles bábművésszel</span></strong>
 

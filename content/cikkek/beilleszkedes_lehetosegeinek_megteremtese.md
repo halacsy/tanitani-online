@@ -14,7 +14,7 @@ excerpt: >-
   már nem az a kérdés, hogy szükséges-e a befogadó iskola, hanem az hogy a
   gyakorlatban mindez…
 coverImage: /sites/default/files/image1_1.jpg
-reads: 3814
+reads: 4055
 ---
 <strong>...megteremtése testnevelésórán.&nbsp;&nbsp;Dr. Kovács Katalin írása</strong>
 

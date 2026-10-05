@@ -15,7 +15,7 @@ excerpt: >-
   tenni, miközben áttekinti a tanodamozgalom jelenlegi helyzetét és legfőbb
   kihívásait. Emellett e munka…
 coverImage: /sites/default/files/tanodaplatform5_2.jpg
-reads: 10572
+reads: 10997
 ---
 <strong>A VIII. Miskolci Taní-tani Konferencián elhangzott előadás szerkesztett, bővített változata. Dr. Szűcs Norbert írása</strong>
 

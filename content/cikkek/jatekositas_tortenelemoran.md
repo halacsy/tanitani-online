@@ -12,7 +12,7 @@ excerpt: >-
   a másik munkáját is megtekintsük/bíráljuk. Aki nem teljesítette határidőre a
   feladatokat, az is kaphatott pontot." (Tanulói vélemény)
 coverImage: /sites/default/files/bevezeto_kep.jpg
-reads: 29311
+reads: 30063
 ---
 <strong>Bognár Amália írása</strong>
 

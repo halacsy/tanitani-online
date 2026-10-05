@@ -14,7 +14,7 @@ excerpt: >-
   nevezünk? És bocsánat, hol ér össze azzal, amit magyarságnak nevezünk? Mert
   ennek egyféle, erőltetett értelmezése sem túl jó megoldás… és ez talán
   bonyolultabb kérdés…
-reads: 21479
+reads: 22271
 ---
 > Hogy nevelünk így korszerű világlátású, a kortárs művészeteket, a médiát, a környező világot értő embereket? Hol ér ez össze azzal, amit európaiságnak nevezünk? És bocsánat, hol ér össze azzal, amit magyarságnak nevezünk? Mert ennek egyféle, erőltetett értelmezése sem túl jó megoldás… és ez talán bonyolultabb kérdés, mint a János vitéz felvetései…
 

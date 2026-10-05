@@ -15,7 +15,7 @@ excerpt: >-
   elindítani és aztán hagyni, hogy a másik meséljen. Ugyanakkor a
   beszélgetőtársak joggal elvárhatják, hogy mi is meséljünk időnként valami
   érdekeset. Ezek mértékének és…
-reads: 16076
+reads: 16470
 ---
 > Kevés az olyan ember, aki napjainkban a beszélgetés kultúrájával rendelkezik. Tudni kell valamilyen nagyon egyszerű megállapítással a beszélgetést elindítani és aztán hagyni, hogy a másik meséljen. Ugyanakkor a beszélgetőtársak joggal elvárhatják, hogy mi is meséljünk időnként valami érdekeset. Ezek mértékének és egyensúlyának megtalálása a jó beszélgetés titka.
 

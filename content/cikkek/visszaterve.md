@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/osztalyterem_0.jpg
 coverAlt: 'Forrás: https://szilbet.jimdofree.com/ – Szilágyi Erzsébet weboldala'
 coverTitle: 'Forrás: https://szilbet.jimdofree.com/ – Szilágyi Erzsébet weboldala'
-reads: 1981
+reads: 2293
 ---
 <strong>…a „konzervatív pedagógia” teoretikusaihoz. Trencsényi László írása</strong>
 

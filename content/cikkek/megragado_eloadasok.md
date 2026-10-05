@@ -13,7 +13,7 @@ excerpt: >-
   pillére, hogy a közönség hitelesnek és igaznak lássa mind az előadót, mind az
   előadás tartalmát.
 coverImage: /sites/default/files/eloadas.jpg
-reads: 4501
+reads: 4750
 ---
 <strong>Szijártó Adrienn írása korunk nyilvános előadásainak jelentőségéről és jellemzőiről</strong>
 

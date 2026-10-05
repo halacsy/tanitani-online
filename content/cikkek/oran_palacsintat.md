@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/palacs_cimlap.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 13994
+reads: 14594
 ---
 <strong>L. Ritók Nóra írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/idefigyi3.jpg
 coverAlt: Németh Tibor és Fernando Riesenberger
 coverTitle: Németh Tibor és Fernando Riesenberger
-reads: 6695
+reads: 6923
 ---
 <strong>Kultúraközi találkozások térben és időben</strong>
 

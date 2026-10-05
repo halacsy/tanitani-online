@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/zoldkakas_0.jpg
 coverAlt: 'Forrás: zoldkakas.hu'
 coverTitle: 'Forrás: zoldkakas.hu'
-reads: 4920
+reads: 5413
 ---
 <strong>Braun József és Kerényi Mari írása</strong>
 

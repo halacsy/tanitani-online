@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/benposta.jpg
 coverAlt: 'A kép forrása: talita.hu'
 coverTitle: 'A kép forrása: talita.hu'
-reads: 4550
+reads: 4859
 ---
 <strong>…avagy gyerekvilág és egyház Kolumbiában. Nézetek és gyakorlatok a „szeretetteljes integráció” jegyében. Trencsényi László könyvajánlója</strong>
 

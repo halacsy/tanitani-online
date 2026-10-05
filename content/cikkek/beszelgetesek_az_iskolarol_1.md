@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/gorogiskola_0.jpg
 coverAlt: 'Forrás: apollopapafrangou.wordpress.com'
 coverTitle: 'Forrás: apollopapafrangou.wordpress.com'
-reads: 3151
+reads: 3400
 ---
 <strong>Révész György írása. Első párbeszéd</strong>
 

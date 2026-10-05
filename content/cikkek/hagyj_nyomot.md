@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hagyj_nyomot.jpg
 coverAlt: részlet a könyv borítójából
 coverTitle: részlet a könyv borítójából
-reads: 3636
+reads: 3906
 ---
 <strong>Mit keresnek a művészek az iskolában? Lencse Máté recenziója</strong>
 

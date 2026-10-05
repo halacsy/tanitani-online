@@ -14,7 +14,7 @@ excerpt: >-
   alkalmazását? Hogyan állítja döntési helyzetbe a tanulási folyamat
   résztvevőit?
 coverImage: /sites/default/files/kep_5_0.jpg
-reads: 13156
+reads: 13752
 ---
 <strong>A tanulási környezet szerepe a pedagógusok módszertani megújulásában. Bognár Amália írása</strong>
 

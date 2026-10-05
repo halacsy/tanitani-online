@@ -15,7 +15,7 @@ excerpt: >-
   ennek a pedagógiai rendszernek a lényege: a fejhez, a gondolkodáshoz,
   kognícióhoz a kézen, tehát a változatos tevékenységrendszereken és a szíven,
   tehát az érzelmeken…
-reads: 21524
+reads: 22032
 ---
 Pestalozzi nyomán szokták a Waldorf-pedagógiát a fej, a szív és a kéz pedagógiájának nevezni. Ebből a gondolatból számomra gyönyörűen kibontható ennek a pedagógiai rendszernek a lényege: a fejhez, a gondolkodáshoz, kognícióhoz a kézen, tehát a változatos tevékenységrendszereken és a szíven, tehát az érzelmeken keresztül vezet az út. Ebben a tanulmányban a Waldorf-pedagógiát annak függvényében fogom megvizsgálni, hogy milyen társadalmi, szellemi, tudományos hatásokra formálódott, alakult gyermek- és ifjúképe. A mostani kérdés tehát az, kutatható-e egy pedagógiai rendszer gyermekképe anélkül, hogy tanulmányoznánk azt a környezetet, elemeznénk azokat a történelmi-társadalmi hatásokat, melyekben a vizsgált gyermek-fogalom, gyermekkép megfogalmazódott?
 

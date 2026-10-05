@@ -12,7 +12,7 @@ excerpt: >-
   természettudományokon túlmutatva, általános problémája, hogy a tanulás nem a
   tudásért történik.
 coverImage: /sites/default/files/kovalens.jpg
-reads: 1961
+reads: 2456
 ---
 <strong>... ez itt a kérdés. Rigóczki Csaba írása</strong>
 

@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A szegedi és hódmezővásárhelyi deszegregációt támogató Hallgatói
   Mentorprogram.
-reads: 6956
+reads: 7288
 ---
 > Fejes József Balázs és Szűcs Norbert (szerk., 2013): A szegedi és hódmezővásárhelyi deszegregációt támogató Hallgatói Mentorprogram. Öt év tapasztalatai. Belvedere, Szeged. Lencse Máté recenziója
 

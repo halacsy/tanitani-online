@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ferge_jozsef.jpg
 coverAlt: 'Ferge József – Forrás: https://www.zaol.hu'
 coverTitle: 'Ferge József – Forrás: https://www.zaol.hu'
-reads: 3592
+reads: 3843
 ---
 <strong>Trencsényi László búcsúztató szavai</strong>
 

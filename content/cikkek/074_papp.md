@@ -9,7 +9,7 @@ tags:
   - hátrányos helyzet
   - iskolakritika
 excerpt: Zűr…
-reads: 6136
+reads: 6444
 ---
 ## Zűr…
 

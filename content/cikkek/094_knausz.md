@@ -12,7 +12,7 @@ tags:
   - magániskolák
   - természettudományos oktatás
 excerpt: ''
-reads: 10016
+reads: 10384
 ---
 > [Az első rész itt olvasható.](/093_knausz)
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/gen-z.jpg
 coverAlt: 'Forrás: https://fineartamerica.com/'
 coverTitle: 'Forrás: https://fineartamerica.com/'
-reads: 1390
+reads: 1690
 ---
 <strong>Kovácsné Balla Katalin írása</strong>
 

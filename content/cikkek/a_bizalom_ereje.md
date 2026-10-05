@@ -6,10 +6,7 @@ authorSlugs:
   - nemeth-tibor
 date: '2026-05-17'
 tags:
-  - érettségi
-  - középiskola
-  - pedagógusok
-  - módszerek
+  - pedagógus
 excerpt: >-
   Németh Tibor interjúja Mayer Szilvia tanárnővel Nagyon szeretném megtanítani a
   tanulóknak, hogy többre képesek, mint amennyit magukról gondolnak. A tanulási
@@ -18,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/mayer_nemeth.jpg
 coverAlt: Mayer Szilvia és Németh Tibor
 coverTitle: Mayer Szilvia és Németh Tibor
-reads: 2936
+reads: 2938
 ---
 <strong>Németh Tibor interjúja Mayer Szilvia tanárnővel</strong>
 

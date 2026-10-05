@@ -16,7 +16,7 @@ excerpt: >-
   részletek a teljes interjúból Ő többször mondta: „Miért nem emeli föl a papád
   az árakat? Hogy csak a leg-leg… gyerekek jöhessenek.” De hát erről szó se
   volt. Sőt! A…
-reads: 9083
+reads: 9368
 ---
 <strong>Gábor Ignác leányával, Rónai Mihály Andrásné Gábor Marianne festőművésszel a <a href="http://www.centropa.hu">Centropa</a> megbízásából Bihari Józsefné készített életútinterjút.</strong>
 

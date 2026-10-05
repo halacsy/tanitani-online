@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/csobanka_zsuzsa_cimlap.jpg
 coverAlt: Csobánka Zsuzsa
 coverTitle: Csobánka Zsuzsa
-reads: 6415
+reads: 6647
 ---
 > Csobánka Zsuzsa előadása a Magyartanárok Egyesülete által szervezett Kortárs magyar irodalom – otthon és az iskolában című konferencián
 

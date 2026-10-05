@@ -7,8 +7,7 @@ authorSlugs:
   - trencsenyi-laszlo
 date: '2026-08-21'
 tags:
-  - pedagógusok
-  - pedagógus
+  - oktatáspolitika
 excerpt: >-
   A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének
   megújításához (Szüdi János, 2014) Szüdi János jogászként indult. Minisztériumi
@@ -18,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/mm_szudijanos_0925_3.jpg
 coverAlt: 'Forrás: https://www.hodpress.hu/'
 coverTitle: 'Forrás: https://www.hodpress.hu/'
-reads: 976
+reads: 981
 ---
 > A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének megújításához (Szüdi János, 2014)
 

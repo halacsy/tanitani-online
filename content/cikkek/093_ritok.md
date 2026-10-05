@@ -15,7 +15,7 @@ excerpt: >-
   amelyek a mai Magyarország sok más településén is jelen vannak. Hat
   telephelyen évente mintegy 600 tanulót részesítünk művészeti nevelésben, több
   mint 60%-uk hátrányos…
-reads: 17148
+reads: 17710
 ---
 Iskolánknak, amely a 33 leghátrányosabb helyzetű kistérség egyikében, a berettyóújfalui kistérségben működik, olyan problémákkal kell megküzdenie, amelyek a mai Magyarország sok más településén is jelen vannak.
 

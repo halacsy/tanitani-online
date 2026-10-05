@@ -11,7 +11,7 @@ excerpt: >-
   Asztalos György matematikai bizonyítása Jól látszik, hogy a TÉR megbukott, az
   értékelés szimpátián és véleménytudáson alapul.
 coverImage: /sites/default/files/asztalos_cimlap_0.jpg
-reads: 2503
+reads: 2876
 ---
 <strong>Asztalos György matematikai bizonyítása</strong>
 

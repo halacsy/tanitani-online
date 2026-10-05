@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kulturkorok1.jpg
 coverAlt: Kultúrkörök
 coverTitle: Kultúrkörök
-reads: 2134
+reads: 2614
 ---
 <strong>Gönczöl Enikő recenziója</strong>
 

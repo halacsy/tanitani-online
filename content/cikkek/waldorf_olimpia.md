@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/olimpia2.jpg
 coverAlt: 'Forrás: https://www.hidegkut-waldorf.hu/'
 coverTitle: 'Forrás: https://www.hidegkut-waldorf.hu/'
-reads: 4171
+reads: 4653
 ---
 <strong>Egy hagyomány neveléselméleti és didaktikai hátteréről. </strong> <strong>Szita Júlia írása</strong>
 

@@ -12,7 +12,7 @@ excerpt: >-
   ingerszegény környezetet jelentenek, az átütő fejlődésű gyerekek számára
   viszont afféle rémálom minden ott töltött nap.
 coverImage: /sites/default/files/alkotonap_420.jpg
-reads: 12177
+reads: 12666
 ---
 <strong>Gyarmathy Éva írása</strong>
 

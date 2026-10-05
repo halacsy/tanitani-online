@@ -13,7 +13,7 @@ excerpt: >-
   kisbabák akkor fejlődnek legjobban egészség, boldogság, intelligencia,
   függetlenség, önállóság, bátorság és együttműködés tekintetében, ha a humán
   biológiai tapasztalat…
-reads: 10609
+reads: 10930
 ---
 Számomra olyan jelentősnek tűnik ez a könyv, mint az összes általam eddig olvasott könyv együttvéve. Jean Liedloff leírja és megmutatja benne, hogy a kisbabák akkor fejlődnek legjobban egészség, boldogság, intelligencia, függetlenség, önállóság, bátorság és együttműködés tekintetében, ha a humán biológiai tapasztalat „kontinuumában” születnek és nőnek fel. Úgy, ahogy a „primitív” anyák szülik meg és nevelik fel csecsemőiket, s ahogy vélhetően mindig tették ezt az emberi létezés évmilliói során. Nagyjából egy évig, amíg a kúszó-mászó, felfedező időszak el nem kezdődik, a csecsemők élvezik és igénylik az anyával való folyamatos fizikai kapcsolatot (vagy egy olyan valakiét, akit ugyanolyan jól ismernek és megbíznak benne). Néhány ezer évig a kisbabák mindig megkapták ezt a folyamatos fizikai érintkezést, és minden újszülött – mit sem tudva a történelemről, de mindent tudva saját állati természetéről – elvárja, követeli ezt, és rettentően szenved, ha nem kapja meg.
 

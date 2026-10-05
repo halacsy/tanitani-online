@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/kocsis_zoltan.jpg
 coverAlt: Kocsis Zoltán
 coverTitle: Kocsis Zoltán
-reads: 2140
+reads: 2465
 ---
 <strong>…avagy szakmatanulás meglett (férfi)korban. Simonyi Antónia Ilona interjúja</strong>
 

@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/bacsa-ban_nagy.png
 coverAlt: Bacsa-Bán Anetta és Nagy Ádám
 coverTitle: Bacsa-Bán Anetta és Nagy Ádám
-reads: 1019
+reads: 1430
 ---
 <strong>XXI. századi, szakmafüggetlen kompetenciamix mint versenyelőny. Körkérdés az oktatásról 7. Bacsa-Bán Anetta és Nagy Ádám válaszai&nbsp;</strong> 
 

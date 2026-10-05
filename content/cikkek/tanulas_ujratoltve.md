@@ -13,7 +13,7 @@ excerpt: >-
   Németh Anna írása Fedezzük fel újra Richard Skemp A matematikatanulás
   pszichológiája című könyvét!
 coverImage: /sites/default/files/skemp.jpg
-reads: 2326
+reads: 2645
 ---
 <strong>Miért érdemes szülőként, tanárként tanulmányozni egy múlt századi könyvet? Németh Anna írása</strong>
 

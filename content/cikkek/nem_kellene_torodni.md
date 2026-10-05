@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/dsc_0858-w400.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 56380
+reads: 58296
 ---
 > Gyűlölöm a világot, amiben ilyenek történhetnek, a nyomorúságot, a szülői tudatlanságot, gonoszságot, az egész rohadt rendszert, amiben nem tudtam megakadályozni ezt az egészet.
 

@@ -12,7 +12,7 @@ excerpt: >-
   részletesen is kifejtett kritika alapján azt állítom, hogy a formálódó
   pedagógus minősítési rendszer nem tölthet be oktatásfejlesztő funkciót.
 coverImage: /sites/default/files/management_of_employees.jpg
-reads: 14288
+reads: 14637
 ---
 <strong>Nahalka István írása</strong>
 

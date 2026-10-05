@@ -6,7 +6,6 @@ authorSlugs:
   - jankovics-adrienn
 date: '2026-08-23'
 tags:
-  - játék
   - óvoda
 excerpt: >-
   Gondolatok a gyermekközpontú óvodáról és a pedagógusszerep változásáról.
@@ -15,8 +14,7 @@ excerpt: >-
   és mit szeretnék elérni. Ha azonban a gyerekek érdeklődéséből indulok ki,
   nekem is el kell…
 coverImage: /sites/default/files/gombvalogatos.png
-coverAlt: A napirend vagy a gyerek?
-reads: 898
+reads: 900
 ---
 <strong><span style="font-size: 12px;">Gondolatok a gyermekközpontú óvodáról és a pedagógusszerep változásáról. Jankovics Adrienn írása</span></strong>
 

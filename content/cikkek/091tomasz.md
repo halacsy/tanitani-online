@@ -8,7 +8,7 @@ date: '2009-12-14'
 tags:
   - magániskolák
 excerpt: Az első rész itt olvasható.
-reads: 15067
+reads: 15334
 ---
 > [Az első rész itt olvasható.](/084tomasz)
 

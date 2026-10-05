@@ -16,7 +16,7 @@ excerpt: >-
   jártasságok és…
 coverImage: >-
   /sites/default/files/testnevelesi_egyetem_gyakorlo_sportiskolai_altalanos_iskola_es_gimnazium1.jpg
-reads: 1407
+reads: 1586
 ---
 <strong>Puy-Darnyi Andrea írása</strong>
 

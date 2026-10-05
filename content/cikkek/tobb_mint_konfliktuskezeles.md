@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/mentalization.jpg
 coverAlt: 'Forrás: https://www.rodwhite.net/'
 coverTitle: 'Forrás: https://www.rodwhite.net/'
-reads: 694
+reads: 3081
 ---
 <strong>Resztoratív szemlélet a közösségben. Földes Petra írása</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/connected.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 2531
+reads: 3409
 ---
 <strong><span style="font-size: 12px;">Inklúziós minimumok a többségi oktatásban. Földes Petra írása</span></strong>
 

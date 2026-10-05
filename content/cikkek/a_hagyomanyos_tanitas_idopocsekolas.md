@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ruppaner_0.jpg
 coverAlt: 'A Süddeutsche Zeitung címlapfotója alapján – https://www.sueddeutsche.de/'
 coverTitle: 'A Süddeutsche Zeitung címlapfotója alapján – https://www.sueddeutsche.de/'
-reads: 1830
+reads: 2045
 ---
 <strong>Lilith Volkert interjúja Stefan Ruppanerrel a Süddeutsche Zeitungban (2024. február 25.)</strong>
 

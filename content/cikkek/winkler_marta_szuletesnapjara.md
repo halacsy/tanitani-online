@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/winkler_marta.png
 coverAlt: Winkler Márta
 coverTitle: Winkler Márta
-reads: 2842
+reads: 3366
 ---
 <strong>Kolosai Nedda köszöntője</strong>
 

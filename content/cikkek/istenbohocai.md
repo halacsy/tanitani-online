@@ -11,7 +11,7 @@ excerpt: >-
   Párbeszédre invitáló jegyzetek Kamarás István új regényéről. Trencsényi László
   írása A dialógus az ő irodalmi és életműfaja is.
 coverImage: /sites/default/files/image_1.png
-reads: 2036
+reads: 2255
 ---
 <strong>Párbeszédre invitáló jegyzetek Kamarás István új regényéről. Trencsényi László írása</strong>
 

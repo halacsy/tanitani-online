@@ -14,7 +14,7 @@ excerpt: >-
   Református Egyházkerület és a budapesti Kálvin Kiadó jegyzi a kötetet.
   Megjelent 2011-ben. A visszaemlékezők közt Vita Zsigmond, Dávid Gyula, Borzsák
   István, Tálasi Istvánné…
-reads: 8370
+reads: 8629
 ---
 > Az emlékezéseket Imre Lajos gyűjtötte egybe, Fenyő D. György végezte a szerkesztői munkát a tőle megszokott gondossággal. A kolozsvári Erdélyi Református Egyházkerület és a budapesti Kálvin Kiadó jegyzi a kötetet. Megjelent 2011-ben. A visszaemlékezők közt Vita Zsigmond, Dávid Gyula, Borzsák István, Tálasi Istvánné Varga Anna, Ujfalusy Klára, Nemes Nagy Ágnes, H. Kiss Judit, Tusa Erzsébet, Lőrincze Lajos, Domonkosné Ozoray Márta, György Ágnes, Nagyné Hrabovszky Anna, A. Nagy Zsuzsa, Korbuly Judit, Szabó Imréné Szabó Éva, Veressné Deák Éva, Frank Vera. Felbukkan Kéryné Soós Júlia emlékező írása is.
 

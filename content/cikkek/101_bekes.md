@@ -13,7 +13,7 @@ excerpt: >-
   Nem tudom ezt már leírni, nem fogom ezt már kibírni! Évről évre romlik a
   gyerekanyag, romlik a gyerekanyag, ebadta! Évről évre kopnak az idegeim,
   kopnak az idegeim…
-reads: 91669
+reads: 93171
 ---
 ## A bús tanító panaszai
 

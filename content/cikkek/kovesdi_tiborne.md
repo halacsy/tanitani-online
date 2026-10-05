@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/kovesdi_tiborne_gal_gizella-w400.jpg
 coverAlt: Kövesdi Tiborné Gál Gizella
 coverTitle: Kövesdi Tiborné Gál Gizella
-reads: 9696
+reads: 9958
 ---
 <strong>Egy mesztegnyői tanítónő és népművelő munkásságának bemutatása</strong>
 

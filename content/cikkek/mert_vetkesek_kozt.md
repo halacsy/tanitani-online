@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/image002-w400.jpg
 coverAlt: Zsidó házak kifosztása a deportálásuk után
 coverTitle: Zsidó házak kifosztása a deportálásuk után
-reads: 13558
+reads: 14064
 ---
 <strong>Atyjafiáért számot ad a testvér – Tölgyessy Zsuzsanna írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   így nem jó? És képes lesz másként is jól csinálni majd? „Akinek nem tetszik,
   arra nézve is kötelező!” – hangzott a sommás válasz, amikor valamelyik fórumon
   erre…
-reads: 37599
+reads: 39149
 ---
 > Biztosan van, akinek jó. Hiszen, aki a kereteket megadta, az is azért írta ilyenné a törvényt, mert neki így jó. Kérdés, hogy azzal mi lesz, akinek ez így nem jó? És képes lesz másként is jól csinálni majd? „Akinek nem tetszik, arra nézve is kötelező!” – hangzott a sommás válasz, amikor valamelyik fórumon erre rákérdeztek. Igen, a törvény kötelezőségét nem is vitatja senki. De talán egy modern demokráciában elvárhatók a tágabb keretek. Amibe jobban betagozódhat ez a sokféle gyerek, iskolatípus, módszertan.
 

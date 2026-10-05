@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/beiratkozas.jpg
 coverAlt: 'Forrás: https://www.magyar-iskola.sk/'
 coverTitle: 'Forrás: https://www.magyar-iskola.sk/'
-reads: 4251
+reads: 4576
 ---
 <strong>Kételyek és kérdések s azok eloszlatási lehetőségei. Molnár Ildikó írása</strong>
 

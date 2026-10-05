@@ -13,7 +13,7 @@ excerpt: >-
   Ferenc írása A legfontosabb, Budapesten és vidéken egyaránt, a gyermekek
   szeretetteljes gyámolítása volt.
 coverImage: /sites/default/files/gyermekbarat_cimlap.jpg
-reads: 5045
+reads: 5336
 ---
 <strong>Száz esztendeje alakult meg a Magyarországi Gyermekbarátok Egyesülete. </strong> <strong>Gergely Ferenc írása</strong>
 
