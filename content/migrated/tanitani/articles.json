@@ -1,43 +1,5 @@
 [
   {
-    "id": 1461,
-    "slug": "az_oktatas_mint_tapasztalat",
-    "contentType": "poszt",
-    "title": "Az oktatás mint tapasztalat",
-    "authors": [
-      {
-        "id": 66,
-        "slug": "foti-peter",
-        "name": "Fóti Péter"
-      }
-    ],
-    "publishedAt": 1791125220,
-    "date": "2026-10-04",
-    "updatedAt": 1791125220,
-    "tags": [
-      {
-        "id": 820,
-        "slug": "tanulas",
-        "name": "tanulás"
-      },
-      {
-        "id": 190,
-        "slug": "joga",
-        "name": "jóga"
-      }
-    ],
-    "sections": [],
-    "excerpt": "Mit tanul a gyerek abból, ahogy tanítjuk? Fóti Péter írása Minden tanári beavatkozásnak van ugyanis egy pedagógiai következménye azon túl is, amit az adott pillanatban el akarunk érni.",
-    "coverImage": "/sites/default/files/independent.jpg",
-    "coverAlt": "Forrás: https://www.graduateprogram.org/",
-    "coverTitle": "Forrás: https://www.graduateprogram.org/",
-    "reads": 224,
-    "commentCount": 0,
-    "issueYear": "",
-    "issueNumber": null,
-    "issuePage": ""
-  },
-  {
     "id": 1460,
     "slug": "rendszerszemlelet_a_nemet_passziv_szerkezetek_oktatasaban",
     "contentType": "poszt",
