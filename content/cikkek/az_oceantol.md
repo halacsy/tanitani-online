@@ -15,7 +15,7 @@ excerpt: >-
   éves korában kezdte felfedezni magyar gyökereit. Tizenhét évesen Párizsban
   rendszeres magyar nyelvi és kulturális tanulmányokba kezdett, Szilveszterkor
   ma a Himnuszt…
-reads: 11420
+reads: 11910
 ---
 <strong>Beszélgetések Natacha Daszkellel Châteaubriant-ban (Franciaország) 2011 novemberében és decemberében</strong>
 

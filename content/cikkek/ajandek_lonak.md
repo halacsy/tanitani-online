@@ -11,7 +11,7 @@ excerpt: >-
   Bodóczky István írása Ha valaki egy üres kapuba be tud rúgni egy labdát, az
   már tud focizni?
 coverImage: /sites/default/files/brain-2062057_640.jpg
-reads: 6543
+reads: 6921
 ---
 <strong>Bodóczky István írása</strong>
 

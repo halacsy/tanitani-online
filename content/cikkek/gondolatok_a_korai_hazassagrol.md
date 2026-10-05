@@ -15,7 +15,7 @@ excerpt: >-
   segíthet újraértelmezni a korai házasság és oktatás kapcsolatáról szóló
   vélekedéseinket.
 coverImage: /sites/default/files/a_young_mother_of_bodo_tribe_in_assam_india_0.jpg
-reads: 6962
+reads: 7276
 ---
 <strong>Baracsi Kitti írása</strong>
 

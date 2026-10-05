@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/pedagogusokhoz.jpg
 coverAlt: A kép az Igazgyöngy Alapfokú Művészetoktatási Intézmény műhelyében készült.
 coverTitle: A kép az Igazgyöngy Alapfokú Művészetoktatási Intézmény műhelyében készült.
-reads: 31341
+reads: 32436
 ---
 > Sokat megélt már. Most örül, hogy távol maradhat. Hogy már befejezhette a harcot. Mert már nyugdíjas. De szorong, félti a gyerekeket. Félti a jövőt. 
 

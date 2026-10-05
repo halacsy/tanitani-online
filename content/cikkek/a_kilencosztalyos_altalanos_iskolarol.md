@@ -14,7 +14,7 @@ excerpt: >-
   élvonalára és egy a legszegényebb harmadik világbeli országra jellemző
   teljesítményeket produkáló intézménytípust.
 coverImage: /sites/default/files/nyitokep_iskolaszerkezet_0.png
-reads: 23318
+reads: 24002
 ---
 <strong>Radó Péter írása</strong>
 

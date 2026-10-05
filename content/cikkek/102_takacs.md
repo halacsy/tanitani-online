@@ -12,7 +12,7 @@ excerpt: >-
   éves gyereknek egy gyakorlati tantárgyról? Működőképes-e a drámapedagógia
   tankönyv alapján? A szakma nagyjai közül néhányan azt gondolták, igen – ennek
   jártam utána.
-reads: 9929
+reads: 10175
 ---
 <em>Hogyan lehet a drámapedagógiához tankönyvet készíteni? Mit lehet írni 10-14 éves gyereknek egy gyakorlati tantárgyról? Működőképes-e a drámapedagógia tankönyv alapján? A szakma nagyjai közül néhányan azt gondolták, igen – ennek jártam utána.</em>
 

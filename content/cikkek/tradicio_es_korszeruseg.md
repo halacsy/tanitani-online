@@ -14,7 +14,7 @@ excerpt: >-
   igazol a technikai eszközök elterjedtségének mértéke és azok felhasználási
   aránya is, valamint ez magyarázza azt is, hogy a vizsgálatban részt vevő
   tanároknak…
-reads: 7845
+reads: 8080
 ---
 > A eszközök felhasználásában való jártasság tekintetében, sorrendben a többség átlagosnak, majd átlag alattinak, és átlag felettinek tartja önmagát, amit igazol a technikai eszközök elterjedtségének mértéke és azok felhasználási aránya is, valamint ez magyarázza azt is, hogy a vizsgálatban részt vevő tanároknak megközelítőleg a ¾ része él szabadidejében szívesen, javarészt napi rendszerességgel az információs és kommunikációs technikai eszközök, köztük is leginkább a számítógépek, internetes tartalmak és a mobiltelefonok adta a lehetőségekkel.
 

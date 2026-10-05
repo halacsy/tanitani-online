@@ -12,7 +12,7 @@ excerpt: >-
   Benedek Krisztina és Sándor Ildikó könyvében a hagyományok ápolását hittel
   valló, egyben a mesterséget is jól ismerő kollégák őszinte élménybeszámolóit,
   az iskolai élet valós tapasztalatait olvashatjuk.
-reads: 12137
+reads: 12540
 ---
 > Benedek Krisztina és Sándor Ildikó könyvében a hagyományok ápolását hittel valló, egyben a mesterséget is jól ismerő kollégák őszinte élménybeszámolóit, az iskolai élet valós tapasztalatait olvashatjuk.
 

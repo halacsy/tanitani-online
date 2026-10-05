@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/bethlen_gabor_liceum_0.jpg
 coverAlt: 'A Bethlen Gábor Líceum, Beregszász. Forrás: https://karpataljalap.net/'
 coverTitle: 'A Bethlen Gábor Líceum, Beregszász. Forrás: https://karpataljalap.net/'
-reads: 863
+reads: 1107
 ---
 <strong>Páros interjú Iván Éva és Hnatik-Riskó Márta kárpátaljai magyartanárokkal. Az interjút&nbsp;Snicer-Pobránszky Gabriella készítette.</strong>
 

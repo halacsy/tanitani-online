@@ -12,7 +12,7 @@ excerpt: >-
   iparművészeti ágán. Dósa Judit írása Később derült ki számomra is, hogy ezeket
   a módszereket összefoglaló néven drámapedagógiának nevezik.
 coverImage: /sites/default/files/2015-05-28_21.06.42-w470.jpg
-reads: 5400
+reads: 5921
 ---
 <strong>Drámapedagógiai módszerek alkalmazása az alapfokú művészetoktatás képző- és iparművészeti ágán. Dósa Judit írása</strong>
 

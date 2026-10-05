@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kovacs_rozi-timea.jpg
 coverAlt: 'Rozika némi és lánya, Tímea'
 coverTitle: 'Rozika némi és lánya, Tímea'
-reads: 12096
+reads: 12375
 ---
 <strong>Bardiné Bohács Anikó írása Kovács Andrásnéról</strong>
 

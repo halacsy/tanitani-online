@@ -14,7 +14,7 @@ excerpt: >-
   buszos utakat, a csodás helyeket és azt a sok információt, amit megtudtunk
   tőle bárhol is jártunk...
 coverImage: /sites/default/files/maxresdefault.jpg
-reads: 1792
+reads: 2098
 ---
 <strong>Fábry Ilona írása</strong>
 

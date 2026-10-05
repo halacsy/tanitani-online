@@ -18,7 +18,7 @@ excerpt: >-
   tapasztalható hiányosságok pótlása, elfedése. Vállalhatják-e ezért a
   felelősséget?
 coverImage: /sites/default/files/baracsi_1.jpg
-reads: 6486
+reads: 6710
 ---
 <strong>Baracsi Kitti</strong> <b><strong>&nbsp;</strong>gondolatai az oktatás és a civilek kapcsolatáról</b>
 

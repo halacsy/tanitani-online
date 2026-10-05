@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Forrás: a Magyar Alapfokú Művészetpedagógiai Egyéni Értéktár videója,
   https://www.youtube.com/watch?v=OjnXv8TbHE0
-reads: 3316
+reads: 3599
 ---
 <strong>Egy Prima Primissima díjas néptáncpedagógus pályaképe. Sándor Ildikó írása</strong>
 

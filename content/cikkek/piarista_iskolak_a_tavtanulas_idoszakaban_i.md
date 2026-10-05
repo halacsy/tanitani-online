@@ -17,7 +17,7 @@ excerpt: >-
   tanulást támogató munkatársak között a digitális távtanulási időszak
   tapasztalatairól és…
 coverImage: /sites/default/files/piar.jpg
-reads: 2542
+reads: 2791
 ---
 <strong>Egy kutatás keretei és megállapításai a zárt kérdésekre adott válaszok alapján. Lázár László, Biró Fanni és Tóth-Szabó Veronika írása</strong>
 

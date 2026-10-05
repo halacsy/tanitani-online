@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/amnesia_0.jpg
 coverAlt: 'Forrás: www.arkadbudapest.hu'
 coverTitle: 'Forrás: www.arkadbudapest.hu'
-reads: 15543
+reads: 15999
 ---
 <strong>&nbsp;– amnéziás demokrácia</strong>
 

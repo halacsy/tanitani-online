@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/debreczeni.jpg
 coverAlt: 'Forrás: https://vers.hu/'
 coverTitle: 'Forrás: https://vers.hu/'
-reads: 1211
+reads: 1573
 ---
 <strong>Mányi István búcsúbeszéde Debreczeni Tibor temetésén Nagykovácsiban, 2024. szeptember 19-én</strong>
 

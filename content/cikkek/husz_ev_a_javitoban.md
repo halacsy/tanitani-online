@@ -8,7 +8,6 @@ authorSlugs:
 date: '2026-05-21'
 tags:
   - gyermekvédelem
-  - kultúra
 excerpt: >-
   Aczél Annával Kun Zsuzsa beszélgetett a Klubrádió Klubdélelőtt c. műsorában
   2026. február 21-én. Szerkesztett szöveg. Aczél Anna pszichológus, a Magyar
@@ -17,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/aczel_anna.jpg
 coverAlt: Aczél Anna
 coverTitle: Aczél Anna
-reads: 1256
+reads: 1257
 ---
 <strong>Aczél Annával Kun Zsuzsa beszélgetett a Klubrádió Klubdélelőtt c. műsorában 2026. február 21-én. Szerkesztett szöveg.</strong>
 

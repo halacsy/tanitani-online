@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/image001_1.jpg
 coverAlt: A kamaraerdei otthon épülete ma
 coverTitle: A kamaraerdei otthon épülete ma
-reads: 2632
+reads: 3358
 ---
 <strong>Iskola a kamaraerdőn (1900–1978). Kálmánné Bánvölgyi Rozál írása</strong>
 

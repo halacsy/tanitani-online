@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/falusivan.jpg
 coverAlt: Falus Iván
 coverTitle: Falus Iván
-reads: 41306
+reads: 42703
 ---
 <strong>...a pedagógusokat!</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kicsi_kate.jpg
 coverAlt: 'Forrás: https://news.sky.com/'
 coverTitle: 'Forrás: https://news.sky.com/'
-reads: 11607
+reads: 12475
 ---
 <strong>Knausz Imre írása</strong>
 

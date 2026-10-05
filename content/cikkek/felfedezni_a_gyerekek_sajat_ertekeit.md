@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/sborbala.jpg
 coverAlt: Sapszon Borbála
 coverTitle: Sapszon Borbála
-reads: 1980
+reads: 2307
 ---
 <strong>Interjú Sapszon Borbálával</strong>
 

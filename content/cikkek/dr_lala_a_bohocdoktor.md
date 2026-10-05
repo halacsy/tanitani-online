@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/drlala.jpg
 coverAlt: Dr. Lala
 coverTitle: Dr. Lala
-reads: 1839
+reads: 2165
 ---
 <b>Trencsényi László könyvajánlója</b>
 

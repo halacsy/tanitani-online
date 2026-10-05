@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/moderntimes.jpg
 coverAlt: Modern idők
 coverTitle: Modern idők
-reads: 18519
+reads: 19621
 ---
 <strong>Knausz Imre írása</strong>
 

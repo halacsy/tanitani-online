@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ceu.jpg
 coverAlt: 'A CEU budapesti épülete. Forrás: https://europatarsasag.hu/'
 coverTitle: 'A CEU budapesti épülete. Forrás: https://europatarsasag.hu/'
-reads: 1781
+reads: 2007
 ---
 <b>Trencsényi Balázs írása a CEU projektjéről</b>
 

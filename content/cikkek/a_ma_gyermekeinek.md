@@ -15,7 +15,7 @@ excerpt: >-
   például a “jó”, homogén osztályok eredményességén kéjeleghessenek, s a
   "rossz", heterogén csoportok reménytelenségén agonizálhassanak, olyan
   kényelem, mint amilyen egy…
-reads: 7742
+reads: 8037
 ---
 > Persze akadnak majd, akik kényelmes megnyugvással kapaszkodnak béklyóikba s elfelejtik, hogy a dolgok nem kívül kezdődnek, hanem belül.  E kényelem, hogy például a “jó”, homogén osztályok eredményességén kéjeleghessenek, s a "rossz", heterogén csoportok reménytelenségén agonizálhassanak, olyan kényelem, mint amilyen egy szakadék felé zakatoló luxusvonat első osztályán megadatik. 
 

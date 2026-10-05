@@ -15,7 +15,7 @@ excerpt: >-
   gyerekek otthoni tanulását a családtagoknak kell támogatni, mint a
   középosztálybeli családok számára.
 coverImage: /sites/default/files/bagazs_tablet.png
-reads: 4314
+reads: 4537
 ---
 <strong>Kassai Réka és Szilveszter Áron írása</strong>
 

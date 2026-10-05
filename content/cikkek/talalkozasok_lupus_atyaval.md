@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/455px-lupus_mariavolgy_110812.jpg
 coverAlt: 'Forrás: wikimedia.org'
 coverTitle: 'Forrás: wikimedia.org'
-reads: 1569
+reads: 1943
 ---
 <strong>Wagner Veronika írása</strong>
 

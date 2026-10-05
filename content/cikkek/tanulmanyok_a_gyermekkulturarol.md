@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanulmanyok_a_gyermekkulturarol-w400.jpg
 coverAlt: Tanulmányok a gyermekkultúráról
 coverTitle: Tanulmányok a gyermekkultúráról
-reads: 10410
+reads: 10878
 ---
 <strong>Kolosai Nedda recenziója</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/aischool.jpg
 coverAlt: 'Forrás: orangemantra.com'
 coverTitle: 'Forrás: orangemantra.com'
-reads: 1497
+reads: 2035
 ---
 <strong>Emberközpontú keretrendszer a mesterséges intelligencia oktatási használatához. Bessenyei István írása</strong>
 

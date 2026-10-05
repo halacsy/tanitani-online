@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/iskola.jpg
 coverAlt: 'Illusztráció. Forrás: http://helytortenet.sulysap.eu/'
 coverTitle: 'Illusztráció. Forrás: http://helytortenet.sulysap.eu/'
-reads: 2116
+reads: 2338
 ---
 <strong>Visszatekintés egy pedagóguspálya alkonyán az eszmélés éveire. Szücs-Gáspár Borbála írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   figyel, észreveszi, ha a gyerek bizonytalan vagy elakad az online térben, és
   mellé áll. Ebben a világban a tanító nemcsak oktató, hanem védelmező is.
 coverImage: /sites/default/files/digital.png
-reads: 542
+reads: 786
 ---
 <strong><span style="font-size: 1em;">Digitális pedagógia az alsó tagozaton. Fazekas Éva Ildikó írása</span></strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   jelentését, adjanak példákat használatára, igazi kis nyelvészek lesznek
   egyből...
 coverImage: /sites/default/files/stop.jpg
-reads: 4244
+reads: 4861
 ---
 <strong>A szerző, Sentei Viktória egyetemi hallgató, az írás az egyik órára készült.</strong>
 

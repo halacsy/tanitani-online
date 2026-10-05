@@ -13,7 +13,7 @@ excerpt: >-
   Kiadó. Fordította: Nemes Krisztina. „Az iskola megölte önmagát, az iskola
   halott; ezzel az állítással tanárok vagy szülők, pedagógusok vagy politikusok
   is egyetértenek. A…
-reads: 9408
+reads: 9729
 ---
 <strong><span style="font-size: 16px;">Francia röpirat a pedagógiai pesszimizmus nevében</span></strong>
 

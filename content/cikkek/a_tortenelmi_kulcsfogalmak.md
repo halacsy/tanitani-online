@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/nikolaiviertel_3a.jpg
 coverAlt: 'Albert Wolff: Clio, 1876, Berlin. Forrás: Wikimedia Commons'
 coverTitle: 'Albert Wolff: Clio, 1876, Berlin. Forrás: Wikimedia Commons'
-reads: 13281
+reads: 13786
 ---
 <strong>A történelmi kulcsfogalmak tanítása&nbsp;</strong> – <strong>Okok és következmények</strong>
 

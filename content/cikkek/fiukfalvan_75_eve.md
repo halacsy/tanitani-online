@@ -12,7 +12,7 @@ excerpt: >-
   Dobronay Vilma naplójából. Közreadja: Makai Éva, a Fiúkfalva-archívum őrzője
   Ma 75 éve alakult meg a debreceni tanyavilágban Fiúkfalva.
 coverImage: /sites/default/files/dobronay_cimlap.jpg
-reads: 3356
+reads: 3687
 ---
 <strong>Dobronay Vilma naplójából. </strong> <strong>Közreadja: Makai Éva, a Fiúkfalva-archívum őrzője</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   Mónika írása ...nem egyszerű jogi státusz tehát, hanem cselekvés- és
   mentalitáskultúra, a közösségi döntésekben való részvételi igény attitűdje.
 coverImage: /sites/default/files/helping-hands.png
-reads: 12102
+reads: 12619
 ---
 <strong>oktatáspolitikai koncepciói&nbsp;Magyarországon és Angliában.&nbsp;Gomboczné Erdei Mónika írása</strong>
 

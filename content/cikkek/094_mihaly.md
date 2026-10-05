@@ -12,7 +12,7 @@ excerpt: >-
   and Behavioural Problems. Anxiety, Aggression, Depression and ADHD – A
   Biopsychological Model with Guidelines for Diagnostics and Treatment. Jessica
   Kingsley Publishers, 2004. nyomán
-reads: 8531
+reads: 8861
 ---
 ## Gondolatok Martine F. Delfos holland pszichológus nagy sikerű munkája<fn><b>Children and Behavioural Problems.</b> <i>Anxiety, Aggression, Depression and ADHD – A Biopsychological Model with Guidelines for Diagnostics and Treatment.</i> Jessica Kingsley Publishers, 2004.</fn> nyomán
 

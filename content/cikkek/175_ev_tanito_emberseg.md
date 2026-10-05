@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiss_aron_0.jpg
 coverAlt: Tanító emberség
 coverTitle: Tanító emberség
-reads: 2198
+reads: 2410
 ---
 <strong>Tatárné Nagy Ágnes könyvismertetése</strong>
 

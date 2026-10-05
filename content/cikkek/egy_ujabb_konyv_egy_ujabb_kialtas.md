@@ -12,7 +12,7 @@ excerpt: >-
   Egy újabb kiáltás. L. Ritók Nóra recenziója Leiner Károly: Az én gyerekeim.
   OFOE könyvek, Budapest, 2016.
 coverImage: /sites/default/files/vegleges_borito.jpg
-reads: 6906
+reads: 7264
 ---
 <strong>Egy újabb kiáltás. L. Ritók Nóra recenziója</strong>
 

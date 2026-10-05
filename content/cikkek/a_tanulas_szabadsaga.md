@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/httpsinhabitat.com_.jpg
 coverAlt: 'Forrás: https://inhabitat.com'
 coverTitle: 'Forrás: https://inhabitat.com'
-reads: 6395
+reads: 6730
 ---
 <strong>…és a demokratikus önkormányzat az alsó tagozatban – Fóti Péter Falko Peschel pedagógiájáról</strong>
 

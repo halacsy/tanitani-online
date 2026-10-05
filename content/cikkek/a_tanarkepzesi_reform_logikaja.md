@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanarkepzes.jpg
 coverAlt: 'Russbelt Guerra Carranza festménye. Forrás: www.saatchiart.com'
 coverTitle: 'Russbelt Guerra Carranza festménye. Forrás: www.saatchiart.com'
-reads: 7077
+reads: 7742
 ---
 <strong>Falus Iván írása</strong>
 

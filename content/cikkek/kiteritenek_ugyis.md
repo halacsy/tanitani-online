@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/sasok1.jpg
 coverAlt: Sasfiók
 coverTitle: Sasfiók
-reads: 15499
+reads: 15769
 ---
 <strong>Gyarmathy Éva írása</strong>
 

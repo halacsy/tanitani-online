@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/waldapfel.jpg
 coverAlt: Waldapfel
 coverTitle: Waldapfel
-reads: 17571
+reads: 18227
 ---
 <strong>Trencsényi László írása</strong>
 

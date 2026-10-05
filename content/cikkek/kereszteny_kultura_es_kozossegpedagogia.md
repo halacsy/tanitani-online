@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/bjerker_0.jpg
 coverAlt: 'Vibeke Lerfeldt Bjerker festménye. Forrás: https://www.carredartistes.com'
 coverTitle: 'Vibeke Lerfeldt Bjerker festménye. Forrás: https://www.carredartistes.com'
-reads: 3089
+reads: 3535
 ---
 <strong>Tóth Tamás Május könyvismertetője</strong>
 

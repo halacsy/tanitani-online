@@ -14,7 +14,7 @@ excerpt: >-
   nem-iskola határán, közművelődés és oktatás határán, gyerekkori szocializáció
   és felnőttkori tanulás határán, állami segítség és civil kurázsi határán
   kigondolt, létrehozott intézmény.
-reads: 10743
+reads: 11181
 ---
 > S ennek az olvasztótégelynek gyújtópontjában áll a Tanoda, ez az iskola és nem-iskola határán, közművelődés és oktatás határán, gyerekkori szocializáció és felnőttkori tanulás határán, állami segítség és civil kurázsi határán kigondolt, létrehozott intézmény. 
 

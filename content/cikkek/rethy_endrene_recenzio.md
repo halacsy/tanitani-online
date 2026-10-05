@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/negative_feedback.jpg
 coverAlt: Visszajelzés
 coverTitle: Visszajelzés
-reads: 4966
+reads: 5258
 ---
 > Réthy Endréné (2011): Tanári teljesítmény-visszajelzés hatása a tanulók személyiségére. Comenius Oktató és Kiadó Kft., Pécs. Terjedelem: 304 oldal, ISBN: 978 963 9687 31 8.
 

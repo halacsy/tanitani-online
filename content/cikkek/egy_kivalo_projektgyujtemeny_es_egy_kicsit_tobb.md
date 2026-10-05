@@ -21,7 +21,7 @@ coverAlt: >-
 coverTitle: >-
   A kép – mely a könyv borítóján is szerepel – az Igazgyöngy műhelyében készült,
   Lakatos Mária Irén rajza.
-reads: 1624
+reads: 1897
 ---
 <strong>…és egy kicsit több. Nahalka István recenziója</strong>
 

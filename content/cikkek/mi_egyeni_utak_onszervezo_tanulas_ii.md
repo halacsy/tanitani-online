@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/neurons.jpg
 coverAlt: A képet a NightCafé generálta
 coverTitle: A képet a NightCafé generálta
-reads: 2646
+reads: 2965
 ---
 <strong>II. rész. Bessenyei István írása</strong>
 

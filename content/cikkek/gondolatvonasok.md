@@ -13,7 +13,7 @@ excerpt: >-
   körforgásba, ahol a filozofálgatástól a terepen zajló munkáról szóló
   beszámolókon keresztül az eszmecsere utolsó napján eljutottunk a gyakorlatig.
 coverImage: /sites/default/files/stafeta.jpg
-reads: 6700
+reads: 6995
 ---
 <strong>Kiss Hajnal írása az idei Staféta táborról</strong>
 

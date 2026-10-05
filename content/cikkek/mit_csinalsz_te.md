@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/leila3.jpg
 coverAlt: Állatasszisztált művészeti foglalkozás
 coverTitle: Állatasszisztált művészeti foglalkozás
-reads: 7236
+reads: 7547
 ---
 <strong>„Mit csinálsz te a simogatós kutyáddal?”</strong>
 

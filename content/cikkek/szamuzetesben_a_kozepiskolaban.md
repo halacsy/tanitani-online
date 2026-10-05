@@ -11,7 +11,7 @@ excerpt: Ősi János írása Az irodalom mintha száműzetésbe kerülne a köz�
 coverImage: /sites/default/files/tqvekxbu_2_1000x700.png
 coverAlt: 'Fotó: Draskovics Ádám Forrás: https://www.vasarnapihirek.hu'
 coverTitle: 'Fotó: Draskovics Ádám Forrás: https://www.vasarnapihirek.hu'
-reads: 4037
+reads: 4268
 ---
 <strong>Ősi János írása</strong>
 

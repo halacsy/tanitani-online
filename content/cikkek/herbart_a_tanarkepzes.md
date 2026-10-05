@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/herbart.jpg
 coverAlt: Johann Friedrich Herbart
 coverTitle: Johann Friedrich Herbart
-reads: 5898
+reads: 6126
 ---
 <strong>…a tanárképzés atyja</strong>
 

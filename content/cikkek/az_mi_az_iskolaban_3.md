@@ -7,10 +7,7 @@ authorSlugs:
   - apati-balazs
 date: '2026-05-11'
 tags:
-  - pedagógus
-  - tanulás
-  - pedagógusok
-  - nemzetközi
+  - IKT
 excerpt: >-
   Az MI és a pedagógus autonómia. Tanári döntések egy algoritmikusan strukturált
   térben. Bessenyei István és Apáti Balázs írása Egy tanóra sokáig ismerős,
@@ -18,8 +15,7 @@ excerpt: >-
   kiválasztotta a feladatokat, megadta a tempót, az osztály pedig együtt haladt
   végig ezen az úton.…
 coverImage: /sites/default/files/aischool_1.jpg
-coverAlt: Az MI az iskolában 3.
-reads: 1570
+reads: 1576
 ---
 <strong style="font-size: 1em;">Az MI és a pedagógus autonómia. Tanári döntések egy algoritmikusan strukturált térben. Bessenyei István és Apáti Balázs írása</strong>
 

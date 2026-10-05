@@ -15,7 +15,7 @@ excerpt: >-
   bölcsen fognak dönteni. Ezért a demokrácia valódi védelmezője a (demokratikus)
   oktatás”.
 coverImage: /sites/default/files/gyules.jpg
-reads: 6614
+reads: 7332
 ---
 <strong>Fóti Péter írása</strong>
 

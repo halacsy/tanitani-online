@@ -9,7 +9,7 @@ tags:
   - kompetencia
   - szünidő
 excerpt: ''
-reads: 8019
+reads: 8364
 ---
 Megszokott tapasztalat, hogy a tanév vége felé a gyerekek már nagyon türelmetlenül várják a vakációt, a szülők pedig kifejezetten tartanak tőle. Mindkettőnek megvan a maga oka; a gyerekek ilyenkor már fáradtnak érzik magukat, unják az iskolai mindennapokat, és reményeik szerint a vakáció kezdetével minden sokkal izgalmasabb, érdekesebb lesz; míg a szülők – főleg a kisebb, felügyeletet igénylő gyermekeik esetében – azt kalkulálják, hogyan tudják megoldani a több mint két nyári hónap alatt gyermekük biztonságát, megfelelő ellátását és a szünidőtől annyira várt kikapcsolódását; meglesz-e mindehhez a szükséges anyagi fedezet (a különféle táborokra) vagy az elegendő személyes segítség (a nagyszülőktől, rokonoktól) a gyermekek felügyeletéhez.
 

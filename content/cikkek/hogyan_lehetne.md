@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/angyal_cimlap.jpg
 coverAlt: Játék vagy tanulás?
 coverTitle: Játék vagy tanulás?
-reads: 9304
+reads: 9562
 ---
 <strong>L. Ritók Nóra írása</strong>
 

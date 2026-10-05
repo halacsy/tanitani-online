@@ -19,7 +19,7 @@ excerpt: >-
 coverImage: /sites/default/files/gombfoci.jpg
 coverAlt: 'Forrás: Fortepan'
 coverTitle: 'Forrás: Fortepan'
-reads: 2984
+reads: 3328
 ---
 > Trencsényi Imre, író, az ismert közművelődési, közösségszervezési és pedagógiai szakíró, a Népművelés folyóirat SZÍN-KÉP című amatőrművészeti-művészetpedagógiai mellékletének és az MNT-nek (a Népfőiskolai Társaság lapjának) szerkesztője 85. születésnapját ünnepli október 21-én. A jubileum alkalmából egy családi szenvedélyről, a gombfociról vall Imre mellett fia, Balázs, a jeles történész. A párhuzamos interjút Trencsényi Márk, az unoka készítette.
 

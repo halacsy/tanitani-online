@@ -13,7 +13,7 @@ excerpt: >-
   kirajzolódik a félév változékony íve: voltak nagyon jól, de kevésbé jól
   sikerült alkalmak is, kihívások, nehézségek, nagy pillanatok.
 coverImage: /sites/default/files/11225537_10205117826359441_1330299394_n.jpg
-reads: 8164
+reads: 8570
 ---
 <strong>Egy program kipróbálásának tapasztalatai. Csík Orsolya írása</strong>
 

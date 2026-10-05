@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/screen_cimlap.jpg
 coverAlt: Dear Santa!
 coverTitle: Dear Santa!
-reads: 8373
+reads: 8662
 ---
 <strong>Screenagerek és digitális bennszülöttek a tanítás/tanulás folyamatában. Horkai Anita írása</strong>
 

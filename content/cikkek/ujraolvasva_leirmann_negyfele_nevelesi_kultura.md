@@ -14,7 +14,7 @@ excerpt: >-
   Baudelaire albatrosza. Ugyanakkor könyvét olvasva kiderül, hogy Leirman mélyen
   idealista.
 coverImage: /sites/default/files/negyfele-nevelesi-kultura-420_1_3.jpg
-reads: 5420
+reads: 5734
 ---
 <strong>Fuszek Csilla reflexiói Walter Leirman <em>Négyféle nevelési kultúra</em> című könyvéről</strong>
 

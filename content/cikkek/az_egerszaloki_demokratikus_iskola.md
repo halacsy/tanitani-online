@@ -15,7 +15,7 @@ excerpt: >-
   Egerszalókon, az eddig félig üresen álló iskola épületében megkezdte munkáját
   az első magyarországi legális demokratikus iskola.
 coverImage: /sites/default/files/egerszaloki_iskola.jpg
-reads: 5447
+reads: 5870
 ---
 <strong>Szlaukó Mónikával Fóti Péter beszélgetett 2017 nyarán.</strong>
 

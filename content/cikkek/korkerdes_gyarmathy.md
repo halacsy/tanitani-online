@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyarmathy_eva_0.jpg
 coverAlt: 'Gyarmathy Éva. Forrás: https://www.ttk.hun-ren.hu/'
 coverTitle: 'Gyarmathy Éva. Forrás: https://www.ttk.hun-ren.hu/'
-reads: 6266
+reads: 6734
 ---
 <strong>Körkérdés az oktatásról 15.</strong>
 

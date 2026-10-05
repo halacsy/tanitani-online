@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/cirkusz.jpg
 coverAlt: Ballagási tarisznyák a Szuno műhelyéből
 coverTitle: Ballagási tarisznyák a Szuno műhelyéből
-reads: 3733
+reads: 4064
 ---
 <strong>A középiskolai végzős évfolyam szertartásrendje egy antropológus szemével. Károlyi Júlia írása</strong>
 

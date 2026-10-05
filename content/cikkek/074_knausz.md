@@ -13,7 +13,7 @@ excerpt: >-
   akkor is, amikor azt hisszük, hogy lehetetlen. Mostani számunkban ez a rovat
   elég nagyra nőtt, és nem ígérem, hogy később majd kisebb lesz. Mert hiszek
   benne, hogy…
-reads: 6526
+reads: 6817
 ---
 Emberek a címe annak a rovatnak lapunkban, amelyben pedagógusokat szólaltatunk meg, hogy fölmutassunk valami szépet, emberit és biztatót. Hogy lehetséges akkor is, amikor azt hisszük, hogy lehetetlen. Mostani számunkban ez a rovat elég nagyra nőtt, és nem ígérem, hogy később majd kisebb lesz. Mert hiszek benne, hogy szükségünk van ezekre a vallomásokra és hitvallásokra. A tapasztalatból fakadó bölcsességre.
 

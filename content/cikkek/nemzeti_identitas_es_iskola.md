@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/identitas.jpg
 coverAlt: 'Forrás: https://orientxxi.info/'
 coverTitle: 'Forrás: https://orientxxi.info/'
-reads: 1833
+reads: 2078
 ---
 <strong>Trencsényi László írása</strong>
 

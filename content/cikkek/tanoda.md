@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/lrn__0.jpg
 coverAlt: L. Ritók Nóra
 coverTitle: L. Ritók Nóra
-reads: 9565
+reads: 9970
 ---
 > Pályázatot írok most én is, korábbi véleményem ellenére. Tanodára. Mert muszáj valamit kitalálni, ami segíthet. Ami a szigorodó, büntető hatásokkal szemben valami mást mutat fel.
 

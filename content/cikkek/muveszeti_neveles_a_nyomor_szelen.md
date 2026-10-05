@@ -15,7 +15,7 @@ excerpt: >-
   hogy élnek. Nem tudják, hogy komfort nélküli vagy félkomfortos házakban
   laknak, ahol nincsen vezetékes víz, sok esetben villany sem. Hogy a lakások
   berendezései…
-reads: 23166
+reads: 23813
 ---
 ## A IV. Miskolci Taní-tani Konferencián elhangzott előadás, utólag lejegyzeve
 

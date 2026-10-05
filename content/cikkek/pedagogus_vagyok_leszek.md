@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/palne_totszegi_erzsebet.jpg
 coverAlt: Pálné Tótszegi Erzsébet
 coverTitle: Pálné Tótszegi Erzsébet
-reads: 2832
+reads: 3062
 ---
 <strong>Martin Jánosné interjúja Pálné Tótszegi Erzsébet dunaújvárosi általános iskolai tanárral</strong>
 

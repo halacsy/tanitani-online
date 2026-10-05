@@ -14,7 +14,7 @@ excerpt: >-
   keretében egy kis falu óvodájában. A projekt a tehetséggondozásra irányult, ám
   a gyerekek szociális helyzete előre megjósolta számunkra, nem csak erre kell
   terveznünk. A projekt eredményei pedig elgondolkodtattak pár dologról.
-reads: 31111
+reads: 32124
 ---
 > A vizuális neveléshez kapcsolódó projektet bonyolíthattunk le egy pályázat keretében egy kis falu óvodájában. A projekt a tehetséggondozásra irányult, ám a gyerekek szociális helyzete előre megjósolta számunkra, nem csak erre kell terveznünk. A projekt eredményei pedig elgondolkodtattak pár dologról.
 

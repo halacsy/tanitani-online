@@ -6,10 +6,7 @@ authorSlugs:
   - siposne-varga-edit
 date: '2026-05-24'
 tags:
-  - pedagógusok
-  - nemzetközi
-  - zene
-  - művészeti nevelés
+  - művészetpedagógia
 excerpt: >-
   Hogyan válhat egy elit műfaj közösségi pedagógiai folyamattá? Siposné Varga
   Edit írása Az opera iskolai jelenléte végső soron a kulturális demokratizálás
@@ -17,8 +14,7 @@ excerpt: >-
   léphetnek vele. Amikor a saját hangjuk, mozdulatuk, történetük, rajzuk,
   ötletük is…
 coverImage: /sites/default/files/mezitlabas_szille.png
-coverAlt: Opera az iskolában
-reads: 1073
+reads: 1076
 ---
 <strong><span style="font-size: 12px;">Hogyan válhat egy elit műfaj közösségi pedagógiai folyamattá? Siposné Varga Edit írása</span></strong>
 

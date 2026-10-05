@@ -15,7 +15,7 @@ excerpt: >-
   találkozó, amelyen – elsősorban pedagógusokból, oktatókból és fejlesztő
   szakemberekből álló közönség előtt – olyan iskolák képviselői beszélgettek
   egymással, ahol több évre…
-reads: 10105
+reads: 10464
 ---
 2008\. március 28-án, az Educatio Kht. szakmai fejlesztéseihez kapcsolódóan került megrendezésre a <em>Projektpedagógiai kerekasztal </em> elnevezésű szakmai találkozó, amelyen – elsősorban pedagógusokból, oktatókból és fejlesztő szakemberekből álló közönség előtt – olyan iskolák képviselői beszélgettek egymással, ahol több évre, évtizedre visszanyúló hagyománya van a projektpedagógiának, a projektrendszerű oktatásnak. [fn]A rendezvény egyben a HEFOP 2.1.1. központi programjához kapcsolódóan 2007 áprilisában indult projektpedagógiai szakmai műhely záró akkordja volt, így a hallgatóság körében képviseltették magukat a projektpedagógiai programcsomagot kipróbáló és adaptáló közoktatási intézmények is.[/fn]<br><br>A beszélgetés résztvevői voltak:
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/gavin_bolton.jpg
 coverAlt: 'Gavin Bolton: Essential Writings'
 coverTitle: 'Gavin Bolton: Essential Writings'
-reads: 4138
+reads: 4466
 ---
 <strong>…avagy a drámapedagógia angliai (h)őstörténete. Simon Mátyás írása</strong>
 

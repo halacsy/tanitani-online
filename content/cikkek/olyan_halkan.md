@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/zsofia.jpg
 coverAlt: 'Forrás: https://www.psychiatrictimes.com'
 coverTitle: 'Forrás: https://www.psychiatrictimes.com'
-reads: 9576
+reads: 10010
 ---
 <strong>…avagy van-e bátorságunk tükörbe nézni? Kerényi Mari írása</strong>
 

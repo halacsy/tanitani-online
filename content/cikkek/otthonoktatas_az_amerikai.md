@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/home-schoolmom-w400.jpg
 coverAlt: 'Forrás: http://gettingsmart.com/'
 coverTitle: 'Forrás: http://gettingsmart.com/'
-reads: 14044
+reads: 14552
 ---
 <strong>...az Amerikai Egyesült Államokban</strong>
 

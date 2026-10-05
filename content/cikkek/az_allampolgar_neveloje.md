@@ -20,7 +20,7 @@ excerpt: >-
   és megtapasztalja azokat a módokat és lehetőségeket, amikor a tacit közhatalom
   valódi…
 coverImage: /sites/default/files/allampolgar_cimlap.jpg
-reads: 6644
+reads: 6978
 ---
 <strong>…a köznevelési törvényben. </strong> <strong>Horváth H. Attila, Mészáros György, Gomboczné Erdei Mónika, Kenedi Gergely, Sárospataki Barnabás, Szondi Boglárka és T. Vesztergombi Krisztina írása</strong>
 

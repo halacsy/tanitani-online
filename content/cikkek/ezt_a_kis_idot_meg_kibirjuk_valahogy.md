@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/pexels-mikhail-nilov-7929419.jpg
 coverAlt: 'A kép forrása: pexels'
 coverTitle: 'A kép forrása: pexels'
-reads: 1567
+reads: 2416
 ---
 <strong>Szalai Kriszta írása</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
   iskolák gyakorlata mutatja, ez nem lesz így. A summerhilli iskola immár 90 éve
   működteti a közös tanár-diák önkormányzatot, és tapasztalja, hogy az iskolában
   nincs…
-reads: 37461
+reads: 38978
 ---
 > Sok tanár gondolata lehet a folyamat elején az, hogy a változásokkal az iskola bolondokházává fog válni. Mint a már demokratikus keretek között dolgozó iskolák gyakorlata mutatja, ez nem lesz így. A summerhilli iskola immár 90 éve működteti a közös tanár-diák önkormányzatot, és tapasztalja, hogy az iskolában nincs anarchia, és hogy az iskola tanulói az évek során felelős emberekké válnak, akik az iskolai élet jó részét irányítják.
 

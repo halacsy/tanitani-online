@@ -13,7 +13,7 @@ excerpt: >-
   felkészülését. Legközelebbi találkozásotokkor örömmel újságolja, hogy a közös
   tanulás után négyest kapott matematikából. Ez a hír büszkeséggel tölt el.
 coverImage: /sites/default/files/kozeli.jpg
-reads: 8561
+reads: 8999
 ---
 <strong>Társasjátékok felnőtteknek egy jobb oktatási rendszerért. Csempesz Péter írása</strong>
 

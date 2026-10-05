@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/ritok4_0.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 18507
+reads: 19290
 ---
 <strong>...a minőségi integrációért</strong>
 

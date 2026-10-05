@@ -14,7 +14,7 @@ excerpt: >-
   gyerekeiknek Mikulás ünnepséget szervezzenek. A 6-7 család a szervezés során
   egyre bővült, és az első találkozóra már 80 honfitárs gyűlt össze.
 coverImage: /sites/default/files/imag0003.jpg
-reads: 5991
+reads: 6323
 ---
 <strong>...és a földrajz nem áll meg a határokon!</strong>
 

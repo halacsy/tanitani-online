@@ -6,10 +6,7 @@ authorSlugs:
   - hollone-baski-nikoletta
 date: '2026-07-19'
 tags:
-  - pedagógusok
-  - pedagógus
-  - pedagógia
-  - módszerek
+  - gyógypedagógia
 excerpt: >-
   Az egyéni bánásmód az autizmussal élő tanulók támogatásában. Intézményvezetői
   tapasztalatok és bevált pedagógiai gyakorlatok. Hollóné Baski Nikoletta írása
@@ -19,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/personalized.jpg
 coverAlt: 'Forrás: https://standtogether.org/'
 coverTitle: 'Forrás: https://standtogether.org/'
-reads: 1094
+reads: 1097
 ---
 <strong><span style="font-size: 12px;">Az egyéni bánásmód az autizmussal élő tanulók támogatásában.&nbsp;</span><span style="font-size: 12px;">Intézményvezetői tapasztalatok és bevált pedagógiai gyakorlatok. Hollóné Baski Nikoletta írása</span></strong>
 

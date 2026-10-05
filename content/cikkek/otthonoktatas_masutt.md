@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/rousseau.jpg
 coverAlt: Henri Rousseau festménye
 coverTitle: Henri Rousseau festménye
-reads: 2553
+reads: 2765
 ---
 <strong>Csatlós Márton írása</strong>
 

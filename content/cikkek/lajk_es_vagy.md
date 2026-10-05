@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/reuven_feuerstein.jpg
 coverAlt: 'Reuven Feuerstein. Forrás: hetek.hu'
 coverTitle: 'Reuven Feuerstein. Forrás: hetek.hu'
-reads: 9197
+reads: 9573
 ---
 <strong>János Réka, Maior Edit és Fărcaș Zsuzsanna írása</strong>
 

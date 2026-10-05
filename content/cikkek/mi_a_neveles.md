@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kis_herceg.jpg
 coverAlt: 'Az ember csak azt ismeri meg igazán, amit megszelídít – mondta a róka.'
 coverTitle: 'Az ember csak azt ismeri meg igazán, amit megszelídít – mondta a róka.'
-reads: 62078
+reads: 65935
 ---
 <strong>Előadás Egerben az Országos Neveléstudományi Konferencián 2013. november 9-én. Bächer Ivánnak ajánlom.</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   ilyen harsány eredménye egy hibátlanul megoldott fizikapéldának vagy
   matematikai egyenletnek?
 coverImage: /sites/default/files/babos_0.jpg
-reads: 2800
+reads: 3050
 ---
 <strong>Szentirmai László Bábos Tóth Lászlóról</strong>
 

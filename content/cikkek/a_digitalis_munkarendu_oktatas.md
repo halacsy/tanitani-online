@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/online_school.jpeg
 coverAlt: 'Forrás: https://www.learncube.com/'
 coverTitle: 'Forrás: https://www.learncube.com/'
-reads: 7324
+reads: 7792
 ---
 <strong>Tapasztalatok és tanulságok. Mongyi Norbert és Szabó Roland írása</strong>
 

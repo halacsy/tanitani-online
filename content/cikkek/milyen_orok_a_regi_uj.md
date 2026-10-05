@@ -12,7 +12,7 @@ excerpt: >-
   félezer éve írt ballada XX. századi fordítása vagy átírása olyan gondolatot
   tartalmaz, amely őt ma foglalkoztatja.
 coverImage: /sites/default/files/typewriter-498105_1920.jpg
-reads: 3980
+reads: 4337
 ---
 <strong>Ősi János írása</strong>
 

@@ -8,7 +8,7 @@ date: '2010-03-13'
 tags:
   - gyermekkép
 excerpt: ''
-reads: 9864
+reads: 10170
 ---
 ## <strong>A múlt ideológiai nevelési stratégiái</strong><fn>E dolgozat átdolgozott változata megjelenés alatt: <em>A politikai diktatúra társadalmiasítása – A jelenkortörténet útjai 3.,</em> Szerk: Ö. KOVÁCS József, Miskolci Egyetem Bölcsészettudományi Kar Új- és Jelenkori Magyar Történeti Tanszék, Miskolc, Bíbor Kiadó, 2009.</fn>
 

@@ -17,7 +17,7 @@ excerpt: >-
   gimnázium, mert mi úgy látjuk, hogy azokon a területeken, ahol nagy létszámban
   élnek olyan fiatalok, akik különben tengenek-lengenek, nincsenek az
   iskolarendszerben, ott…
-reads: 9910
+reads: 10142
 ---
 <strong>Derdák Tiborral, a sajókazai <a href="http://www.ambedkar.hu/">Dr. Ámbédkar Iskola</a> igazgatójával Knausz Imre beszélgetett.</strong>
 

@@ -6,7 +6,7 @@ authorSlugs:
   - guoth-suzana
 date: '2026-09-29'
 tags:
-  - nevelés
+  - nyelvtanítás
 excerpt: >-
   …a német passzív szerkezetek oktatásában. Suzana Guoth írása Gyakorlati
   módszertani párbeszéd az elméleti túlbonyolítás ellen – egy mesterséges
@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/passive.jpg
 coverAlt: 'Passzív cica. Forrás: https://ekobuilt.com/'
 coverTitle: 'Passzív cica. Forrás: https://ekobuilt.com/'
-reads: 438
+reads: 489
 ---
 <strong>…a német passzív szerkezetek oktatásában. Suzana Guoth írása</strong>
 

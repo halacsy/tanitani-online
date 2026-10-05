@@ -14,7 +14,7 @@ excerpt: >-
   gyakorlóiskolákba ugyanis főkképp csak a magasabb társadalmi státuszú rétegek
   gyermekei járnak. Így a pályára lépők többsége nem rendelkezik
   tapasztalatokkal a szegényebb…
-reads: 9530
+reads: 9842
 ---
 > A jelenlegi pedagógusképzés sajnos nem készíti fel a hallgatókat arra, hogyan lehet az eltérő társadalmi státuszú gyermekeket oktatni, az egyetemi gyakorlóiskolákba ugyanis főkképp csak a magasabb társadalmi státuszú rétegek gyermekei járnak. Így a pályára lépők többsége nem rendelkezik tapasztalatokkal a szegényebb rétegek gyermekeivel kapcsolatban, noha a pedagógusjelöltek részéről régóta látható az igény az ilyen típusú ismeretek megszerzésére. 
 

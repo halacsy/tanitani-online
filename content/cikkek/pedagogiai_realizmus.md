@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/merei_bortonfoto.jpg
 coverAlt: 'Mérei Ferenc börtönfotója, 1958. Forrás: http://www.visszaemlekezesek.hu'
 coverTitle: 'Mérei Ferenc börtönfotója, 1958. Forrás: http://www.visszaemlekezesek.hu'
-reads: 8442
+reads: 9158
 ---
 <strong>Kísérlet egy elvetélt pedagógiai elmélet rekonstrukciójára: Mérei Ferenc, 1948. Knausz Imre írása</strong>
 

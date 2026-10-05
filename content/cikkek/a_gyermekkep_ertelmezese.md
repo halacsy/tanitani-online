@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/key_steiner_montessori.png
 coverAlt: 'Ellen Key, Rudolf Steiner, Maria Montessori'
 coverTitle: 'Ellen Key, Rudolf Steiner, Maria Montessori'
-reads: 2610
+reads: 3055
 ---
 <strong>…Ellen Key és a korabeli gondolkodók pedagógiai eszmerendszerében.</strong> <strong>Sütő Attila írása</strong>
 

@@ -12,7 +12,7 @@ excerpt: >-
   karakterét, mint a nyelv. A nyelv a legerősebb és legtartósabb kötelék, mely
   egyesít.
 coverImage: /sites/default/files/jiddis_cimlap.jpg
-reads: 2896
+reads: 3298
 ---
 <strong>Zsigmond Anna írása</strong>
 

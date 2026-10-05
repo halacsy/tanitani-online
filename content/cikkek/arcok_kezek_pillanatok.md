@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_imre_0.jpg
 coverAlt: Trencsényi Imre
 coverTitle: Trencsényi Imre
-reads: 2207
+reads: 2456
 ---
 <strong>Trencsényi Imre fotókiállítása az Óbudai Kulturális Központban. Körömi Gábor megnyitója</strong>
 

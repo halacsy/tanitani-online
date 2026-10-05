@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/dixit_0.jpg
 coverAlt: 'Forrás: http://boardgamegeek.com (Dixit)'
 coverTitle: 'Forrás: http://boardgamegeek.com (Dixit)'
-reads: 16175
+reads: 16413
 ---
 <strong>...metaforák tükrében. Szabó Anna írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/19657442_839327482887095_8895341964099226904_n-w470.jpg
 coverAlt: 'A kép forrása: Zumba a Szabadsághídon II. Kállai Etus Facebook-eseménye'
 coverTitle: 'A kép forrása: Zumba a Szabadsághídon II. Kállai Etus Facebook-eseménye'
-reads: 9573
+reads: 9963
 ---
 <strong>Gyarmathy Éva írása</strong>
 

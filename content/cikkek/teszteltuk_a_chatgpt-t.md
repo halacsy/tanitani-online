@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/craiyon_134931_artificial_intelligence.png
 coverAlt: A képet a craiyon.com generálta az artificial intelligence kifejezésre
 coverTitle: A képet a craiyon.com generálta az artificial intelligence kifejezésre
-reads: 3481
+reads: 3955
 ---
 <strong>A tesztelést Bessenyei István végezte 2022. február 5-én.</strong>
 

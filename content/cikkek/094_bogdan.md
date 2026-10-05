@@ -13,7 +13,7 @@ excerpt: >-
   segít hátrányos helyzetű gyerekeket abban, hogy örömet találjanak az életben,
   egészségessé és hatékonnyá váljanak, és megtalálják maguk számára azt a helyet
   a…
-reads: 10286
+reads: 10592
 ---
 A Budapesti Nyílt Társadalom Intézet (Open Society Institute) a 2006/2007-es tanévben indította el a Pressley Ridge <fn> "A Pressley Ridge több mint 170 éve segít hátrányos helyzetű gyerekeket abban, hogy örömet találjanak az életben, egészségessé és hatékonnyá váljanak, és megtalálják maguk számára azt a helyet a társadalomban, ahol sikeresek lehetnek." Szolgáltatásaik "között szerepel oktatás, átmeneti terápiás nevelőszülői ellátás, bentlakásos programok, családnál nyújtott szolgáltatások, valamint képzés, tanácsadás és értékelés Magyarországon, Ukrajnában és a kelet-európai régióban, valamint Portugáliában és az USA-ban." <em>(Roma Mentor Projekt – Mentor Adatbázis,</em> Open Society Institute és Pressley Ridge, Budapest, 2008, 4. o.)</fn>\-dzsel együttműködve kísérleti jelleggel a Roma Mentor Projekt című vállalkozását annak a Roma Kulturális Programnak a keretében, amelynek fő célkitűzése „a roma kulturális és társadalmi identitás művészeten és kultúrán keresztül történő<fn><em>Roma Mentor Projekt – Mentor Adatbázis,</em> Open Society Institute és Pressley Ridge, Budapest, 2008, 2. o.</fn> feltárása és kutatása, illetve azok segítségével a roma kultúra befogadtatása és elismertetése, a többség cigánysággal szembeni attitűdjének megváltoztatása.
 

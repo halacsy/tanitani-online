@@ -15,7 +15,7 @@ excerpt: >-
   információt kapjak a hallgatók szövegalkotási képességéről,
   gondolkodásmódjáról, intelligenciájáról, valamint kulturális hátteréről. A
   beszélgetés során elsősorban…
-reads: 8217
+reads: 8443
 ---
 <strong>Előadás a IV. Miskolci Taní-tani Konferencián 2011. február 4-én</strong>
 

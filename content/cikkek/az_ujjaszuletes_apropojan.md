@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/meghalt_az_iskola.png
 coverAlt: A képet a Gemini generálta.
 coverTitle: A képet a Gemini generálta.
-reads: 1706
+reads: 2365
 ---
 <strong>Meghalt az iskola. Éljen az iskola! A <em>Felforgatókönyv</em> margójára. Gyarmathy Éva írása</strong>
 

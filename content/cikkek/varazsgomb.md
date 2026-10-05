@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/varazsgomb_cimlap.jpg
 coverAlt: Erényi Bálint és Németh Tibor
 coverTitle: Erényi Bálint és Németh Tibor
-reads: 6009
+reads: 6274
 ---
 <strong>Németh Tibor interjúja Erényi Bálinttal</strong>
 

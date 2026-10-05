@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/burnt_tree_4187327316_420.jpg
 coverAlt: Kiégés
 coverTitle: Kiégés
-reads: 8622
+reads: 8902
 ---
 <strong>L. Ritók Nóra írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   bizonyos magatartásformák. Ehhez pedig arra lenne szükség, hogy a diákévek
   alatt sokkal többször legyen lehetősége betekinteni egy-egy iskola működésébe,
   illetve különböző…
-reads: 8417
+reads: 8678
 ---
 > A gyakorlat során természetesen sok mindent elsajátít a pedagógus, de hasznosabb lenne úgy kikerülni az egyetemről, hogy rendelkezésre álljanak bizonyos magatartásformák. Ehhez pedig arra lenne szükség, hogy a diákévek alatt sokkal többször legyen lehetősége betekinteni egy-egy iskola működésébe, illetve különböző pedagógiai szituációkba. A HISZEM tehát arra is alkalmas lehetne, hogy a tanárjelölt hallgatók is részt vegyenek a hálózatépítésben és gyakorlati tapasztalatot szerezzenek. 
 

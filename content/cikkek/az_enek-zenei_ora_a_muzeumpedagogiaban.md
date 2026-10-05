@@ -11,7 +11,7 @@ excerpt: >-
   Borz Zsófia írása A kép és zene kapcsolata, az érzékszervek együttes
   használata sok lehetőséget kínál a múzeumon belül.
 coverImage: /sites/default/files/atyaisten_eneklo_es_zenelo_angyalokkal_0.jpg
-reads: 6857
+reads: 7128
 ---
 <strong>Borz Zsófia írása</strong>
 

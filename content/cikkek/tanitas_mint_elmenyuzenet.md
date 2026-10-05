@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/tolgyessy.jpg
 coverAlt: Tölgyessy Zsuzsanna és Németh Tibor
 coverTitle: Tölgyessy Zsuzsanna és Németh Tibor
-reads: 3468
+reads: 3714
 ---
 <strong>Németh Tibor interjúja Tölgyessy Zsuzsannával</strong>
 

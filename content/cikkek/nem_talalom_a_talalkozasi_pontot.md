@@ -14,7 +14,7 @@ excerpt: >-
   eredendő bűn gondolatáról, meg attól, hogy a szexualitás az ördögtől való. Én
   ezekre…
 coverImage: /sites/default/files/sketch-3042584_1280.jpg
-reads: 4545
+reads: 4822
 ---
 <strong>Mario Montessori és Alexander S. Neill beszélgetése 1964-ben. Fóti Péter írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   értékelésének egyik fő próbaköve, ha kipróbáljuk. Ekkor derül ki, mennyire
   használható, mennyire és hogyan működik a gyakorlatban. A felhasználás során
   mennyire engedi…
-reads: 7522
+reads: 7702
 ---
 <strong>Európa kulturális fővárosai és a kultúrák együttélése c. oktatási program adaptív feldolgozása felzárkóztató osztályommal</strong>
 

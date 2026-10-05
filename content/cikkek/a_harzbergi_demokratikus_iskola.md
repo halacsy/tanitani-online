@@ -13,7 +13,7 @@ excerpt: >-
   magának nagyon nehezére esik nem közbeszólni. A gyerekek tudják ezt róla, néha
   megbocsátják ezt neki, de néha azért őt is figyelmeztetik.
 coverImage: /sites/default/files/bsh-kivulrol-1_0.jpg
-reads: 3741
+reads: 4106
 ---
 <strong>Benedikt Hageneder írása</strong>
 

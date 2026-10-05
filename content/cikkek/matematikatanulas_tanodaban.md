@@ -13,7 +13,7 @@ excerpt: >-
   Csatári Tamara írása ...de hogy lehet továbblépni a pálya széli tanulásokból
   valami komplexebb felé?
 coverImage: /sites/default/files/20150516_110641_1.jpg
-reads: 6316
+reads: 6605
 ---
 <strong>Az Igazgyöngy Alapítvány Toldi Tanodájában szerzett tapasztalatok nyomán. Csatári Tamara írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   pedagógus önbizalmára is. A gyerekek együttműködési készségeinek fejlődése
   fejleszti a tantestület kooperációját is.
 coverImage: /sites/default/files/igazgyongy_1.jpg
-reads: 4599
+reads: 4957
 ---
 <strong>L. Ritók Nóra írása</strong>
 

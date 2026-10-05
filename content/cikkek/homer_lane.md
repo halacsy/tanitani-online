@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/www.virgin.com_.jpg
 coverAlt: 'Forrás: https://www.virgin.com'
 coverTitle: 'Forrás: https://www.virgin.com'
-reads: 7597
+reads: 7889
 ---
 <strong>A demokratikus iskolai önkormányzat „feltalálója”. </strong> <strong>Fóti Péter írása</strong>
 

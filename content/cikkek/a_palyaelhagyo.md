@@ -12,7 +12,7 @@ excerpt: >-
   Kerényi Mari írása Még nem tudom, mit fogok csinálni. De azt tudom, hogy mit
   nem: nem leszek a része semmilyen formában a magyar oktatási rendszernek.
 coverImage: /sites/default/files/bye.jpg
-reads: 3154
+reads: 3890
 ---
 <strong>Kerényi Mari írása</strong>
 

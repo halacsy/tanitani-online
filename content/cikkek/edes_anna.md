@@ -14,7 +14,7 @@ excerpt: >-
   lehetséges kérdésfelvetések megválaszolása. Illetve kiegészítő célként a
   regényen keresztül kiemelendő problémakör a kiszolgáltatottság,
   elidegenedettség, megaláztatás…
-reads: 18871
+reads: 19301
 ---
 > A foglalkozás célja az Édes Anna helyének, fontosságának feltérképezése a magyar irodalmi kánonban, a mű motívumainak, jelentésének feltárása, a lehetséges kérdésfelvetések megválaszolása. Illetve kiegészítő célként a regényen keresztül kiemelendő problémakör a kiszolgáltatottság, elidegenedettség, megaláztatás manapság az iskolai és otthoni környezetben. Mit jelent az érzelmi zsarolás, a lelki terror, milyen veszélyeket rejt magában mások megszégyenítése?
 

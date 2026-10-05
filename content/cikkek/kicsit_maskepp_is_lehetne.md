@@ -12,7 +12,7 @@ excerpt: >-
   már szimbolikussá válik. Egy letűnt kor szemléletének tananyagát
   szimbolizálja.
 coverImage: /sites/default/files/maskepp7-w470.jpg
-reads: 5578
+reads: 5815
 ---
 <strong>L. Ritók Nóra írása</strong>
 

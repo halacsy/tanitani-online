@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/galga1-w400.jpg
 coverAlt: Az elsők
 coverTitle: Az elsők
-reads: 7239
+reads: 7473
 ---
 > Részlet Szarvas László <em>Galga menti kincskeresők. A Galga Expedíció 40 évének története</em> című megjelenés előtt álló könyvéből
 

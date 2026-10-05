@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/svab_csalad.jpg
 coverAlt: Egy sváb család – a foglalkozás mellékletéből
 coverTitle: Egy sváb család – a foglalkozás mellékletéből
-reads: 954
+reads: 1319
 ---
 <strong>Gőbl Gabriella drámapedagógiai foglalkozásának vázlata</strong>
 

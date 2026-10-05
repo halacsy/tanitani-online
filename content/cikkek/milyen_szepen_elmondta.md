@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/multikulturalis.jpg
 coverAlt: 'Fotó: Geoff Powers. Forrás: http://www.chagrinvalleytoday.com/'
 coverTitle: 'Fotó: Geoff Powers. Forrás: http://www.chagrinvalleytoday.com/'
-reads: 5865
+reads: 6093
 ---
 <strong>...pedig nem is magyar származású! Pauer László írása</strong>
 

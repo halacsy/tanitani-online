@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ciganyok.jpg
 coverAlt: 'Forrás: Romedia Foundation'
 coverTitle: 'Forrás: Romedia Foundation'
-reads: 6822
+reads: 7437
 ---
 <strong>H. Tóth István írása</strong>
 

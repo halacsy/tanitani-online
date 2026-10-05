@@ -17,7 +17,7 @@ excerpt: >-
   az előző korszakokhoz képest. Az erőszak, a szociális egyenlőtlenségek, a
   diszkrimináció, a család intézményének instabilitása, intézményes oktatási
   elképzelések, ezek…
-reads: 10208
+reads: 10558
 ---
 <strong>Elhangzott 2011. október 25-én Budapesten a Lengyel Kultúra Házában.</strong>
 

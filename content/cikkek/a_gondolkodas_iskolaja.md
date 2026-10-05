@@ -22,7 +22,7 @@ coverAlt: >-
 coverTitle: >-
   Pólya György. Forrás: UNL Dept. of Math. Math & Statistics Newsletter, May
   1994. 9. old.
-reads: 2958
+reads: 3394
 ---
 > A tatabányai volt Sárberki Általános Iskola felvette Pólya György nevét. Az előadások között meghallgathattuk Tuska Ágnes és Benedek András közösen megfogalmazott beszédét is. A két kutató hosszú idő óta foglalkozik Pólya György életművével, szeretnék munkásságát egyre ismertebbé tenni Magyarországon. Közös munkájuk egyik eredménye a balatonfüredi [Nemzetközi Heurisztika Konferencia](https://turizmus.balatonfured.hu/event/nemzetkozi-heurisztika-konferencia/), és a folyamatosan frissülő [heurisztikai honlap](http://heurisztika.btk.mta.hu/) is. Kérésünkre megengedték, hogy a Tatabányán április 24-én elhangzott köszöntő beszéd itt is elérhető, olvasható legyen. (Munkácsy Katalin)
 

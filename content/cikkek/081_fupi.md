@@ -10,7 +10,7 @@ date: '2010-05-04'
 tags:
   - minőségbiztosítás
 excerpt: ''
-reads: 7459
+reads: 7870
 ---
 Az oktatás területén a minőség és megbízhatóság egyre inkább az előtérbe kerül valamennyi érdekelt fél [fn]Ezalatt az intézmény potenciális, tanuló és végzett diákjait, az intézmény vezetőit, tanárait és munkatársait, valamint az erőforrásokat biztosító működtetőt/fenntartót, a szülőket, a munkahelyeket és a társadalmat értjük.[/fn] számára.
 

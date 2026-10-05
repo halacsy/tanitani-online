@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/korkerdes.jpg
 coverAlt: A képet a Canva.com generálta
 coverTitle: A képet a Canva.com generálta
-reads: 727
+reads: 1163
 ---
 <strong>Bessenyei István megkérdezte a GPT-t</strong>
 

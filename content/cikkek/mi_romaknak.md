@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/mi_romaknal.jpg
 coverAlt: 'Forrás: http://igazgyongy-alapitvany.hu/'
 coverTitle: 'Forrás: http://igazgyongy-alapitvany.hu/'
-reads: 8363
+reads: 8959
 ---
 <strong>Szocializációs mintázatok egy észak-magyarországi község romungró lakossága körében. Makrai Kata írása</strong>
 

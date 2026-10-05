@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   Hosszú, küzdelmes életút után – közel álltunk 90. születésnapjához – megpihent
   Bakonyi Pál, a XX. század második felének fontos személyisége.
-reads: 7428
+reads: 7703
 ---
 > Hosszú, küzdelmes életút után – közel álltunk 90. születésnapjához –  megpihent Bakonyi Pál, a XX. század második felének fontos személyisége.
 

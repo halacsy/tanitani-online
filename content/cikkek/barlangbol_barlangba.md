@@ -6,10 +6,7 @@ authorSlugs:
   - nemeth-gabor
 date: '2026-09-20'
 tags:
-  - pedagógus
-  - nevelés
-  - tanulási környezet
-  - konferencia
+  - neveléselmélet
 excerpt: >-
   A 21. századi gyermek, az iskola és a szabadság új kérdése. Németh Gábor írása
   „Bűnösök közt cinkos, aki néma.” De cinkossá válhat az is, aki már mindent
@@ -17,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/allegory_of_the_cave.jpg
 coverAlt: 'Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/'
 coverTitle: 'Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/'
-reads: 863
+reads: 868
 ---
 <strong>A 21. századi gyermek, az iskola és a szabadság új kérdése. Németh Gábor írása</strong>
 

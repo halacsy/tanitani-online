@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/tehetseg.jpg
 coverAlt: 'Forrás: telegraph.co.uk'
 coverTitle: 'Forrás: telegraph.co.uk'
-reads: 16872
+reads: 17262
 ---
 > A cikk a 2013. október 19-én megrendezett Ez is tehetséggondozás! Elmélet és módszerek c. konferencián elhangzott beszélgetés részletét tartalmazza szerkesztett formában. A teljes szöveg a cikk végéről pdf-ben elérhető.
 

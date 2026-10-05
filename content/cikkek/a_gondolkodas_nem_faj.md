@@ -15,7 +15,7 @@ excerpt: >-
   nyelvet és szakfordítást a Budapesti Műszaki Egyetemen, ahol betekintést
   nyerhetett a magyar közoktatásba is. A Magyarországon élő külföldiekkel
   folytatott interjúsorozatunk…
-reads: 8281
+reads: 8542
 ---
 ### Harnos Nelli interjúja Clemens Prinzcel
 

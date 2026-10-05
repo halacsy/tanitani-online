@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/homeschooling.jpg
 coverAlt: 'Otthontanulás. Libby Anne blogjáról. Forrás: http://www.patheos.com/'
 coverTitle: 'Otthontanulás. Libby Anne blogjáról. Forrás: http://www.patheos.com/'
-reads: 8674
+reads: 8901
 ---
 <strong>Fóti Péter írása két pedagógiai szupersztár, A. S. Neill és John Holt barátságáról</strong>
 

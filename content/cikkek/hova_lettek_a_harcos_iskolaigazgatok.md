@@ -14,7 +14,7 @@ excerpt: >-
   tudnak mit tenni. Ez már rég nem kompromisszum. Ez feltétlen elfogadás,
   lázadás nélkül. Sokan azt hiszik, így is jobb, mint ha felállnának, mert
   tudják, az utánuk jövő még…
-reads: 60375
+reads: 63174
 ---
 > Így hát már nem harcolnak. Szó nélkül tudomásul veszik a költségvetésük meghúzását, a tanulócsoportok összevonását, a pedagógusok elbocsátását. Nem tudnak mit tenni. Ez már rég nem kompromisszum. Ez feltétlen elfogadás, lázadás nélkül. Sokan azt hiszik, így is jobb, mint ha felállnának, mert tudják, az utánuk jövő még rosszabb lenne.
 

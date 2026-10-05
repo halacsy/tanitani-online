@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/dscf3488.jpg
 coverAlt: Párhuzamos világtörténet diákoknak
 coverTitle: Párhuzamos világtörténet diákoknak
-reads: 4089
+reads: 4388
 ---
 <strong>…avagy mit is nyújthat a „mátrix-módszer” a történelem tantárgy oktatása során? Petrikné Jánossy Csilla írása</strong>
 

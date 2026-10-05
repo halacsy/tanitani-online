@@ -15,7 +15,7 @@ excerpt: >-
   hatalmas energiájától, lelkesedésétől és elkötelezettségétől függ… Gyakran
   adok hangot annak a meggyőződésemnek, hogy minden ember számít, minden ember
   képes tenni valamit…
-reads: 12341
+reads: 12585
 ---
 <strong>Gondolatok az ifjúsági önkéntesség és közösségi részvétel, valamint a demokratikus készségfejlesztés kapcsán</strong>
 

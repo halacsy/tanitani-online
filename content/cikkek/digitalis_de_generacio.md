@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/digitalis-de-generacio2-eleje-w400.jpg
 coverAlt: digitalis_de_generacio 2.0
 coverTitle: digitalis_de_generacio 2.0
-reads: 12800
+reads: 13497
 ---
 > Szekszárdi Júlia (szerk., 2012): digitalis_de_generacio 2.0. Underground Kiadó, <em>Budapest.</em> Lencse Máté recenziója
 

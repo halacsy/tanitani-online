@@ -11,7 +11,7 @@ excerpt: >-
   Farkas Attila írása Hogy a közoktatásban az első fal, amit le kell bontani az:
   hogy a résztvevő nem akar ott lenni.
 coverImage: /sites/default/files/felbehagyott.jpg
-reads: 5014
+reads: 5431
 ---
 <strong>Farkas Attila írása</strong>
 

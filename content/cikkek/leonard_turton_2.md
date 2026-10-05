@@ -15,7 +15,7 @@ excerpt: >-
   Leonard Turton summerhilli tanár portréja 2. "Amit a gyerekekkel csinálunk a
   tradicionális iskolában, az felháborító. De olyan mértékű, hogy szinte
   normálisnak tűnik."
-reads: 14495
+reads: 15071
 ---
 <strong>Leonard Turton summerhilli tanár portréja 2.</strong>
 

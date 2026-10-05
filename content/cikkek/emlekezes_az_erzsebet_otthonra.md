@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/erzsebet_otthon.jpg
 coverAlt: A budaörsi Erzsébet Otthon
 coverTitle: A budaörsi Erzsébet Otthon
-reads: 2671
+reads: 2977
 ---
 <strong>Kriston-Vízi József beszéde Budaörs-Kamaraerdőn 2022. október 19-én az egykori Erzsébet Otthon központi épületénél</strong>
 

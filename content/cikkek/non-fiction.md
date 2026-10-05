@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A Csurgay Franciska Általános iskola gyűjteményéből (1966). Forrás:
   http://www.taborfalva-iskola.sulinet.hu/
-reads: 5894
+reads: 6205
 ---
 <strong>Trencsényi László könyvismertetése kitérőkkel</strong>
 

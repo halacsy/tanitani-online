@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyermekvasut.jpg
 coverAlt: 'Forrás: http://sajatleveben.blogspot.hu/'
 coverTitle: 'Forrás: http://sajatleveben.blogspot.hu/'
-reads: 8170
+reads: 8488
 ---
 <strong>…a nevelés színtere. Csóti Henriett írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/nem_ertik.jpg
 coverAlt: 'Szegény gyerekek a Hiltonban. Forrás: origo.hu'
 coverTitle: 'Szegény gyerekek a Hiltonban. Forrás: origo.hu'
-reads: 18025
+reads: 18668
 ---
 > Nem tudom, miért nem érzik. Mert hogy nem értik, az nyilvánvaló. Talán, mert nem voltak még megalázott, kitaszított helyzetben? Nem tudják elképzelni annak a lelkiállapotát, aki meleg ételre szorul?
 

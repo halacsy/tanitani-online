@@ -14,7 +14,7 @@ excerpt: >-
   eredménye, hogy a jelnyelven beszélők perifériás látása és reakcióideje is
   jobb.
 coverImage: /sites/default/files/jelnyelv2.jpg
-reads: 2419
+reads: 2714
 ---
 <strong>Jelnyelv és fejlesztés. Martin Jánosné írása</strong>
 

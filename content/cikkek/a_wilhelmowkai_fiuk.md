@@ -13,7 +13,7 @@ excerpt: >-
   tárgyaltak a két turnus alatt. Elgondolkodtatóak a bölcs és – ma így
   mondanánk: resztoratív – ítéletek.
 coverImage: /sites/default/files/korczak_cimlap.jpg
-reads: 3145
+reads: 3423
 ---
 <strong>Józek, Jasiek, Franek és a többiek. Simon Mária Janusz Korczak könyvéről</strong>
 

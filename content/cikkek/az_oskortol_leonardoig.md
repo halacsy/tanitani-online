@@ -12,7 +12,7 @@ excerpt: >-
   Leonardóig – 77 játék a művészettörténet világából. Corvina Kiadó, Budapest,
   2019, 256 oldal.
 coverImage: /sites/default/files/cover.jpg
-reads: 3354
+reads: 3618
 ---
 <strong>Géczi-Laskai Judit ajánlása Beke Mari könyvéhez</strong>
 

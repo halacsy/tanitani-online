@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/testing.jpg
 coverAlt: 'Forrás: https://inewsnetwork.net/'
 coverTitle: 'Forrás: https://inewsnetwork.net/'
-reads: 3185
+reads: 3418
 ---
 <strong>Pygmalion-effektus vagy fejlesztés? Adalékok és értelmezési lehetőségek az iskolarendszer alulteljesítésének és méltányossági mutatóinak összefüggésrendszerében. Asztalos György írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   szomszédaival, és roppant nehéz meglelni a központját. W.D. Pattison A
   földrajzi tudomány elsősorban mindenkor az volt, amit annak tartottak. Teleki
   Pál Bevezetés A hazai…
-reads: 9703
+reads: 10047
 ---
 <strong>A földrajzoktatásról egy felmérés tükrében</strong>
 

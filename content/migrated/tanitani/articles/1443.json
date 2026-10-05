@@ -10,60 +10,66 @@
       "name": "Kabdebó Ferenc"
     }
   ],
-  "publishedAt": 1787755200,
+  "publishedAt": 1787755245,
   "date": "2026-08-26",
-  "updatedAt": 1787755200,
+  "updatedAt": 1787755938,
   "tags": [
     {
-      "id": 228,
-      "slug": "minosegbiztositas",
-      "name": "minőségbiztosítás"
-    },
-    {
-      "id": 22,
-      "slug": "pedagoguskepzes",
-      "name": "pedagógusképzés"
-    },
-    {
-      "id": 132,
-      "slug": "tananyag",
-      "name": "tananyag"
+      "id": 294,
+      "slug": "oktataspolitika",
+      "name": "oktatáspolitika"
     }
   ],
   "sections": [],
   "excerpt": "Kabdebó Ferenc írása A teljes koncepció mellékletben olvasható .",
   "coverImage": "/sites/default/files/gondolataim.jpg",
-  "coverAlt": "Gondolataim a közoktatásról",
+  "coverAlt": "",
   "coverTitle": "",
-  "reads": 1446,
-  "commentCount": 0,
+  "reads": 1450,
+  "commentCount": 2,
   "issueYear": "",
   "issueNumber": null,
   "issuePage": "",
   "summaryHtml": "",
-  "bodyHtml": "<p><strong>Kabdebó Ferenc írása</strong></p>\n<blockquote><p>A teljes koncepció <a href=\"/sites/default/files/gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf\">mellékletben olvasható</a>.</p>\n</blockquote>\n<!--break--><p class=\"rtejustify\">A jelen tanulmány a magyar közoktatás radikális megújítására tesz kísérletet egy kompetenciaalapú és funkcionális oktatási modell vitairataként. A szerző négy évtizedes pedagógiai tapasztalatára támaszkodva amellett érvel, hogy az iskola hagyományos, lexikális ismeretközpontú szemléletét fel kell váltania egy olyan megközelítésnek, amelyben a tantárgyi tudás és a tényszerű tananyag nem öncél, hanem a képességfejlesztés eszköze.</p>\n<p class=\"rtejustify\">A dolgozat a közoktatásra társadalmi ígéretként, egy minden állampolgár számára garantált „szolgáltatási csomagként” tekint. Ez a csomag egyfelől közvetlenül használható, gyakorlati ismereteket (például nyelvi, pénzügyi, digitális és állampolgári tudást), másfelől szigorúan mérhető tanulási részképességeket és szociális kompetenciákat (köztük szövegértést, logikus problémamegoldást, forráskritikát és rezilienciát) tartalmaz. A javasolt modell a tantárgyakat mentális „edzőtermekként” fogja fel, ahol a konkrét tananyagrész csupán egy-egy súlyzó vagy futópad a kritikus gondolkodás fejlesztéséhez, miközben a felesleges elméleti ballaszt kiszűrésre kerül.</p>\n<p class=\"rtejustify\">A koncepció megvalósítása a teljes oktatási ökoszisztéma átalakítását feltételezi: egy politikai kurzusokon átívelő, hosszú távú országvízió kijelölését; a pedagógusképzés elmozdulását a tudománytól a módszertan felé; valamint a belső, TQM-alapú minőségbiztosítás bevezetését, amely személyfüggetlen, kiszámítható szakmai minimumot garantál. A tanulmány javaslatot tesz a szakmai jogkörök és az intézményi autonómia radikális visszaadására (szabad tankönyvválasztás, fejlesztési kötelezettség), miközben a fenntartói szerepkört a világnézetileg semleges állam vagy önkormányzat strukturális és finanszírozási feladataira korlátozná.</p>\n<p class=\"rtejustify\">Az írás végkövetkeztetése szerint az oktatás valódi reformja nem strukturális részletkérdéseken, hanem a legalapvetőbb szemléletváltáson múlik: nem a meglévő tananyagból kell levezetni, hogy milyen embert képez az iskola, hanem fordítva: a tizenkét év után kibocsátani kívánt ember képességprofiljához kell hozzárendelni a megfelelő tartalmakat és intézményi kereteket.</p>\n<p class=\"rtejustify\">Kulcsszavak: közoktatási reform, képességfejlesztés, funkcionális oktatási modell, minőségbiztosítás, intézményi autonómia, kulturális minimum.</p>\n<p class=\"rtejustify\"><em>A szinopszist mesterséges intelligenciával készíttettem (Gemini), de ezen túlmenően minden szó, minden mondat a saját munkám. Az MI-vel, amikor a szinopszis megalkotását kértem tőle, nem közöltem, hogy én vagyok a szerző. Tettem ezt azért, hogy ne írjon dicshimnuszt az anyagról. Hajlamos rá ugyanis.</em></p>",
+  "bodyHtml": "<p><strong>Kabdebó Ferenc írása</strong></p>\r\n<blockquote>\r\n\t<p>A teljes koncepció <a href=\"/sites/default/files/gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf\">mellékletben olvasható</a>.</p>\r\n</blockquote>\r\n<!--break-->\r\n<p class=\"rtejustify\">A jelen tanulmány a magyar közoktatás radikális megújítására tesz kísérletet egy kompetenciaalapú és funkcionális oktatási modell vitairataként. A szerző négy évtizedes pedagógiai tapasztalatára támaszkodva amellett érvel, hogy az iskola hagyományos, lexikális ismeretközpontú szemléletét fel kell váltania egy olyan megközelítésnek, amelyben a tantárgyi tudás és a tényszerű tananyag nem öncél, hanem a képességfejlesztés eszköze.</p>\r\n<p class=\"rtejustify\">A dolgozat a közoktatásra társadalmi ígéretként, egy minden állampolgár számára garantált „szolgáltatási csomagként” tekint. Ez a csomag egyfelől közvetlenül használható, gyakorlati ismereteket (például nyelvi, pénzügyi, digitális és állampolgári tudást), másfelől szigorúan mérhető tanulási részképességeket és szociális kompetenciákat (köztük szövegértést, logikus problémamegoldást, forráskritikát és rezilienciát) tartalmaz. A javasolt modell a tantárgyakat mentális „edzőtermekként” fogja fel, ahol a konkrét tananyagrész csupán egy-egy súlyzó vagy futópad a kritikus gondolkodás fejlesztéséhez, miközben a felesleges elméleti ballaszt kiszűrésre kerül.</p>\r\n<p class=\"rtejustify\">A koncepció megvalósítása a teljes oktatási ökoszisztéma átalakítását feltételezi: egy politikai kurzusokon átívelő, hosszú távú országvízió kijelölését; a pedagógusképzés elmozdulását a tudománytól a módszertan felé; valamint a belső, TQM-alapú minőségbiztosítás bevezetését, amely személyfüggetlen, kiszámítható szakmai minimumot garantál. A tanulmány javaslatot tesz a szakmai jogkörök és az intézményi autonómia radikális visszaadására (szabad tankönyvválasztás, fejlesztési kötelezettség), miközben a fenntartói szerepkört a világnézetileg semleges állam vagy önkormányzat strukturális és finanszírozási feladataira korlátozná.</p>\r\n<p class=\"rtejustify\">Az írás végkövetkeztetése szerint az oktatás valódi reformja nem strukturális részletkérdéseken, hanem a legalapvetőbb szemléletváltáson múlik: nem a meglévő tananyagból kell levezetni, hogy milyen embert képez az iskola, hanem fordítva: a tizenkét év után kibocsátani kívánt ember képességprofiljához kell hozzárendelni a megfelelő tartalmakat és intézményi kereteket.</p>\r\n<p class=\"rtejustify\">Kulcsszavak: közoktatási reform, képességfejlesztés, funkcionális oktatási modell, minőségbiztosítás, intézményi autonómia, kulturális minimum.</p>\r\n<p class=\"rtejustify\"><em>A szinopszist mesterséges intelligenciával készíttettem (Gemini), de ezen túlmenően minden szó, minden mondat a saját munkám. Az MI-vel, amikor a szinopszis megalkotását kértem tőle, nem közöltem, hogy én vagyok a szerző. Tettem ezt azért, hogy ne írjon dicshimnuszt az anyagról. Hajlamos rá ugyanis.</em></p>\r\n",
   "attachments": [
     {
       "articleId": 1443,
-      "mediaId": -2158731971,
+      "mediaId": 5256,
       "position": 0,
       "description": "Kabdebó Ferenc gondolatai a közoktatásról",
       "visible": true,
       "media": {
-        "id": -2158731971,
+        "id": 5256,
         "filename": "gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf",
-        "uri": "sites/default/files/gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf",
+        "uri": "public://gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf",
         "publicPath": "/sites/default/files/gondolataim_a_kozoktatasrol_kabdebo_ferenc.pdf",
         "mimeType": "application/pdf",
         "byteSize": 294941,
-        "createdAt": 1787755200,
-        "sourceNodeId": 1443
+        "createdAt": 1787755245
       }
     }
   ],
-  "comments": [],
-  "migration": {
-    "source": "live-public-supplement",
-    "tagSource": "content-inference"
-  }
+  "comments": [
+    {
+      "id": 1200,
+      "parentId": 1199,
+      "articleId": 1443,
+      "authorName": "Kabdebó Ferenc",
+      "subject": "És a művészetek? Rövid válasz.",
+      "bodyHtml": "Hogyne férne bele, persze hogy belefér.\r\nEgyfelől a zenében, a táncban, a képzőművészetben, a testedzésben számtalan lehetőség lapul, amelyek a képességfejlesztést nagyszerűen segíthetik, másfelől a kulturális minimumnak ugyanúgy része lehet egy Eötvös Péter mint egy Kondor Béla vagy akár Hajós Alfréd.",
+      "publishedAt": 1787895998,
+      "threadPath": "01.00/"
+    },
+    {
+      "id": 1199,
+      "parentId": null,
+      "articleId": 1443,
+      "authorName": "Trencsényi László",
+      "subject": "És a művészetek?",
+      "bodyHtml": "Ebbe az iskolaképbe nem férne bele? Nagy kár!",
+      "publishedAt": 1787808425,
+      "threadPath": "01/"
+    }
+  ]
 }

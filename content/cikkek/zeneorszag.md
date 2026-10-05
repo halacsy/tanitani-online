@@ -13,7 +13,7 @@ excerpt: >-
   művésszé lesz. A tehetség bennünk van, és ha módot adunk rá, napvilágra
   bukkan. Az énekeskönyv és lemez segítségével együtt énekelhet a gyerekkel az
   anya meg az apa is, a barátok, s még a nagyi is."
-reads: 9621
+reads: 9908
 ---
 > „A zene csodája képessé tesz felfedezni azt, hogy nem csak az tehetséges, aki művésszé lesz. A tehetség bennünk van, és ha módot adunk rá, napvilágra bukkan. Az énekeskönyv és lemez segítségével együtt énekelhet a gyerekkel az anya meg az apa is, a barátok, s még a nagyi is."
 

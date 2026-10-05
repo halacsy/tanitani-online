@@ -12,7 +12,7 @@ excerpt: >-
   környezetet, ahol lehetőséget tudunk teremteni autista gyerekek és családjaik
   támogatására.
 coverImage: /sites/default/files/ginko_cimlap_0.jpg
-reads: 3668
+reads: 3908
 ---
 <strong>Matolcsi Zsuzsa írása</strong>
 

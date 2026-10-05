@@ -14,7 +14,7 @@ excerpt: >-
   felhasználása előírt kötelessége. A teremtett világ jeleinek keresése és
   értelmezése hozzátartozik az isteni kinyilatkoztatás megismeréséhez.
 coverImage: /sites/default/files/berzsenyi_emese.jpg
-reads: 7783
+reads: 8035
 ---
 <strong>...tartó tanulás&nbsp;hitbéli parancsának megvalósulása az iszlám vallásban</strong>
 

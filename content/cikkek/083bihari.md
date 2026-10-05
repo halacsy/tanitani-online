@@ -15,7 +15,7 @@ excerpt: >-
   tankönyv, hanem komoly, kiérlelt, csinos külsejű, bár korántsem hibátlan
   munka. Rögtön a címe kissé megtévesztő: „A nők és a férfiak története
   Magyarországon a hosszú…
-reads: 8303
+reads: 8704
 ---
 Mint a címből is látszik, ilyen (nálunk) még nem volt. Ha mégis, akkor nem ilyen minőségben – a Pető Andrea által összeállított kötet már nem kísérleti tankönyv, hanem komoly, kiérlelt, csinos külsejű, bár korántsem hibátlan munka. Rögtön a címe kissé megtévesztő: „A nők és a férfiak története Magyarországon a hosszú 20. században”. Valójában azért nőtörténet ez, s mellette a családoké is, férfiakról csak az elkerülhetetlen mértékben esik szó. A szerzők nyilván – és indokoltan – el akarták kerülni a férfiellenes feminizmus látszatát. A hosszú 20. század fordulat szintén kissé rejtélyes: feltehetően a nőemancipáció 19. századi felbukkanásától a 21. század elejéig terjedő időszakot jelöli – a karcsú kötetben bőven vannak a 19. századdal foglalkozó szövegek, képek és kérdések.
 

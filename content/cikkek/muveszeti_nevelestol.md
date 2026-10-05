@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_muveszeti_cimlap.jpg
 coverAlt: Művészeti neveléstől a gyermekkultúráig
 coverTitle: Művészeti neveléstől a gyermekkultúráig
-reads: 5554
+reads: 5756
 ---
 > Trencsényi László: Művészeti neveléstől a gyermekkultúráig. Tanulmányok, módszertani írások, reflexiók 1965-2013. Kiadja a PTE IGYK, Gyermekkultúra Kutatócsoport, Új Helikon Bt., Szekszárd–Budapest, 2013. Bús Imre recenziója
 

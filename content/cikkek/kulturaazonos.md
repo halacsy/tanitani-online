@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   A rajz az Igazgyöngy műhelyében készült, Bujdosó Zoé alkotása. Forrás:
   flickr.com
-reads: 2384
+reads: 2789
 ---
 <strong>Beszélgetés a Ferge Zsuzsa Szabadegyetemen a roma/cigány integrációról. Trencsényi László hozzászólása</strong>
 

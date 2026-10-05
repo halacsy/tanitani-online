@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/hianyzasok.jpg
 coverAlt: 'Forrás: http://imgbuddy.com/'
 coverTitle: 'Forrás: http://imgbuddy.com/'
-reads: 6764
+reads: 7024
 ---
 <strong>Csejoszki Mihály írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   Kétségtelen, hogy sokféleképpen közelíthetünk egy-egy téma, egy-egy motívum,
   egy-egy mű gazdagságához...
 coverImage: /sites/default/files/roof_hafez_tomb_420.jpg
-reads: 5589
+reads: 5807
 ---
 <strong>H. Tóth István a gyermek és a tehetséggondozás kapcsolatáról a magyartanítás keretében. Elhangzott a 2016-os IX. Miskolci Taní-tani Konferencián.</strong>
 

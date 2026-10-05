@@ -6,10 +6,8 @@ authorSlugs:
   - csizmarne-gede-erika-judit
 date: '2026-09-18'
 tags:
-  - pedagógus
-  - tanterv
-  - kutatások
-  - pedagógia
+  - óvoda
+  - multikulturális nevelés
 excerpt: >-
   A másság példázatszerepe a vallás- és óvodapedagógia határterületén. Csizmárné
   Gede Erika Judit írása A szentek és tanítók olyan figurák, amelyeken át a
@@ -19,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/massag.jpg
 coverAlt: 'Forrás: IStock'
 coverTitle: 'Forrás: IStock'
-reads: 747
+reads: 750
 ---
 <strong>A másság példázatszerepe a vallás- és óvodapedagógia határterületén. Csizmárné Gede Erika Judit írása</strong>
 

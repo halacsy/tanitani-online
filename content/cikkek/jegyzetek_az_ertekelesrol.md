@@ -7,8 +7,6 @@ authorSlugs:
 date: '2026-07-23'
 tags:
   - értékelés
-  - szöveges értékelés
-  - mese
 excerpt: >-
   Trencsényi László írása Ostoba tökfilkó, neveletlen kölyke anyádnak, mondd meg
   apádnak, hogy kössön a jászol elé!
@@ -19,7 +17,7 @@ coverAlt: >-
 coverTitle: >-
   Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez.
   Forrás: pszeudo.hu
-reads: 2024
+reads: 2026
 ---
 <strong>Trencsényi László írása</strong>
 

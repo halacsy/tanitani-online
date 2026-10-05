@@ -7,9 +7,6 @@ authorSlugs:
 date: '2026-09-13'
 tags:
   - pedagógus
-  - szülők
-  - pszichológia
-  - pedagógusok
 excerpt: >-
   Németh Tibor interjúja Flaskárné Hajdu Rita általános iskolai tanárnővel A jó
   pedagógus feladata, hogy ébren tartsa a gyerekek kíváncsiságát és fel tudja
@@ -18,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/flaskarne_hajdu_rita.jpg
 coverAlt: Németh Tibor és Flaskárné Hajdu Rita
 coverTitle: Németh Tibor és Flaskárné Hajdu Rita
-reads: 1859
+reads: 1891
 ---
 <strong>Németh Tibor interjúja Flaskárné Hajdu Rita általános iskolai tanárnővel</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   amikor annak tagjai nyugdíjba mennek. Az iskolából tehát valamit magukkal kell
   vinniük, és…
 coverImage: /sites/default/files/20171011_111945.jpg
-reads: 9018
+reads: 9313
 ---
 <strong>…ahol nincs frontális tanítás. Fóti Péter interjúja Falko Peschellel a harzbergi iskolában</strong>
 

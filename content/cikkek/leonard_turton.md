@@ -15,7 +15,7 @@ excerpt: >-
   ilyen jól. Erre azt mondtam, hogy ezek a dolgok nagyon természetesek. A dolog
   vége az lett a második év végére, hogy ilyen tanácskozások működtek mind a
   hét…
-reads: 13624
+reads: 14178
 ---
 <strong>Leonard Turton summerhilli tanár portréja I. rész</strong>
 

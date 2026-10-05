@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   A kép forrása:
   https://brentcrosstown.co.uk/stories/a-new-mural-for-claremont-primary-school
-reads: 672
+reads: 953
 ---
 <strong>Az MPSM-modell válasza a Taní-tani Online közoktatási felvetéseire.&nbsp;Németh Gábor írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/httpswww.discovermagazine.com_.jpg
 coverAlt: 'Forrás: https://www.discovermagazine.com'
 coverTitle: 'Forrás: https://www.discovermagazine.com'
-reads: 3789
+reads: 4260
 ---
 <strong>...és amiről mesélnek. A családból kiemelt gyermekek szocializációja és az új család szerepe, jelentősége. Horváth Csilla írása</strong>
 

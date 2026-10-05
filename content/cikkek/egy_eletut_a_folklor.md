@@ -14,7 +14,7 @@ excerpt: >-
   tartott egy előadást, ahol felidézte, hogy nemrég felkereste egy nagyon művelt
   ember és azt mondta, hogy nem érti Ady Endrének ezt a mondatát: „beágyazott a
   villás…
-reads: 8117
+reads: 8362
 ---
 ## Várszeginé Gáncs Erzsébet interjúja dr. Barsi Ernővel
 

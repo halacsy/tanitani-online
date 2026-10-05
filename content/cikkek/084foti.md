@@ -14,7 +14,7 @@ excerpt: >-
   mindannyian jól érezzék magukat, és lehetővé tegyék a gyerekeknek (és
   önmaguknak), hogy azt tanulhassák, ami érdekli őket. A második rész itt
   olvasható „Nem azért…
-reads: 23028
+reads: 23613
 ---
 <strong>Tanácsadó tanároknak, akik utálják a túlközpontosított iskolai bürokráciát, és akik szeretnének a rájuk bízott gyerekekkel emberi kapcsolatba lépni, hogy mindannyian jól érezzék magukat, és lehetővé tegyék a gyerekeknek (és önmaguknak), hogy azt tanulhassák, ami érdekli őket.</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   látjuk, hogy képesek koncentrált munkát folytatni, együttműködni, de azt nem
   látjuk, hogy honnan jutottak el idáig. L. Ritók Nóra el is mondja, hogy jó
   lett volna, ha már az…
-reads: 11299
+reads: 11831
 ---
 > Egészen elképesztő látvány, ahogy a gyerekek figyelnek és koncentrálnak amellett, hogy élvezettel, érdeklődve és hozzáértően rajzolnak. Azt tehát látjuk, hogy képesek koncentrált munkát folytatni, együttműködni, de azt nem látjuk, hogy honnan jutottak el idáig. L. Ritók Nóra el is mondja, hogy jó lett volna, ha már az elején ott van a stáb, és be tudja mutatni az egész folyamatot, mert nagyon messziről indultak.
 

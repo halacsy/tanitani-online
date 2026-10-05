@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   Az emelt szintű magyar nyelv és irodalom szóbeli érettségi vizsgára (Bodor
   Ádám Sinistra körzet)
-reads: 10805
+reads: 11220
 ---
 ## Az emelt szintű magyar nyelv és irodalom szóbeli érettségi vizsgára<em><br></em>(Bodor Ádám Sinistra körzet)
 

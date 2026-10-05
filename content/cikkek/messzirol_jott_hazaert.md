@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/borda_hajnalka.jpg
 coverAlt: Borda Hajnalka és Németh Tibor
 coverTitle: Borda Hajnalka és Németh Tibor
-reads: 2873
+reads: 3286
 ---
 <strong>Németh Tibor interjúja Borda Hajnalkával</strong>
 

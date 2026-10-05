@@ -10,7 +10,7 @@ tags:
   - magyartanítás
   - pedagógusok
 excerpt: Előzmények – Berzsenyi
-reads: 15570
+reads: 16062
 ---
 ## Előzmények – Berzsenyi
 

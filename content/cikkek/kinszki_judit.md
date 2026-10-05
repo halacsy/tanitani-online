@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kinszki_judit.jpg
 coverAlt: 'Kinszki Judit. Forrás: https://huszargaliskola.hu'
 coverTitle: 'Kinszki Judit. Forrás: https://huszargaliskola.hu'
-reads: 3634
+reads: 3919
 ---
 <strong>Drámapedagógia, gyerekszínjátszás egy életen keresztül. Kazinczy Viktória írása</strong>
 

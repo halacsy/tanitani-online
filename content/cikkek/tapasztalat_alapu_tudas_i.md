@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/eperience-based.jpg
 coverAlt: 'Forrás: https://www.gettingsmart.com/'
 coverTitle: 'Forrás: https://www.gettingsmart.com/'
-reads: 4199
+reads: 4639
 ---
 <strong>Gyarmathy Éva és Kökényesi Imre írása</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/lorand-ferenc4-w470.jpg
 coverAlt: 'Fotó: Neményi Márton. Forrás: 24.hu'
 coverTitle: 'Fotó: Neményi Márton. Forrás: 24.hu'
-reads: 3261
+reads: 3463
 ---
 <strong>Megdöbbentő felismerés: ebben az iskolában pofozzák a gyerekeket!</strong>
 

@@ -6,10 +6,7 @@ authorSlugs:
   - foti-peter
 date: '2026-09-11'
 tags:
-  - tanulás
-  - közösség
-  - tananyag
-  - Summerhill
+  - szabad nevelés
 excerpt: >-
   Fóti Péter képzeletbeli beszélgetése John Dewey-val, A. S. Neill-lel és
   Hannelore Zehnpfenniggel A szemünk előtt zajlik egy csendes, mégis gyökeres
@@ -19,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/activeforlife.com_.jpg
 coverAlt: 'Forrás: activeforlife.com'
 coverTitle: 'Forrás: activeforlife.com'
-reads: 559
+reads: 561
 ---
 <strong><span style="font-size: 12px;">Fóti Péter képzeletbeli beszélgetése John Dewey-val, A. S. Neill-lel és Hannelore Zehnpfenniggel</span></strong>
 

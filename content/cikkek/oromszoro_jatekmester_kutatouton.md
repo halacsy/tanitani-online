@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/tornyai_nemeth.jpg
 coverAlt: Tornyai Munk Magda és Németh Tibor
 coverTitle: Tornyai Munk Magda és Németh Tibor
-reads: 3281
+reads: 3532
 ---
 <strong>Németh Tibor interjúja Tornyai Munk Magdával</strong>
 

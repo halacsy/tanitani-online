@@ -15,7 +15,7 @@ excerpt: >-
   innovációkat és jó gyakorlatokat feldolgozó workshopokat szervezett
   magyarországi…
 coverImage: /sites/default/files/53738693574_98f2d2bc47_k.jpg
-reads: 2072
+reads: 2347
 ---
 <strong>Önkénteskoordináció a tanodában. Major Zsuzsa írása</strong>
 

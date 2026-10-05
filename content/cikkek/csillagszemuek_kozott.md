@@ -13,7 +13,7 @@ excerpt: >-
   Siposné Tavaszi Virág köszönti a 90 éves Timár Sándort Mert mibennünk zeng a
   lélek Minket illet ez az élet
 coverImage: /sites/default/files/csillagszemu1_0.jpg
-reads: 3932
+reads: 4291
 ---
 <strong>Siposné Tavaszi Virág köszönti a 90 éves Timár Sándort</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/graduation-1449488_640.jpg
 coverAlt: pixabay.com
 coverTitle: pixabay.com
-reads: 5327
+reads: 5649
 ---
 <strong>Radó Péter írása</strong>
 

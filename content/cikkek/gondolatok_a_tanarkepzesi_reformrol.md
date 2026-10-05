@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanarkepzes_0.jpg
 coverAlt: 'Russbelt Guerra Carranza festménye. Forrás: www.saatchiart.com'
 coverTitle: 'Russbelt Guerra Carranza festménye. Forrás: www.saatchiart.com'
-reads: 3996
+reads: 4336
 ---
 <strong>A szükséges és a lehetséges. Gortva János hozzászólása Falus Iván írásához</strong>
 

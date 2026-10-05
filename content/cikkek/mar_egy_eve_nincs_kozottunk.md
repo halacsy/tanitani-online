@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/sallai_eva_2.jpg
 coverAlt: Sallai Éva egy konferencián
 coverTitle: Sallai Éva egy konferencián
-reads: 2841
+reads: 3066
 ---
 <strong>In memoriam Sallai Éva (1952. december 19. – 2020. január 13.). Borsodi Csilla Noémi írása</strong>
 

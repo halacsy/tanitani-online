@@ -16,7 +16,7 @@ excerpt: >-
   Ugyanakkor ugyanazzal a gyerekközösséggel több pedagógus folytat magányos
   munkát, és furcsa módon ezeknek a párhuzamosan folyó magányos munkáknak kell
   azt az adott…
-reads: 14589
+reads: 15024
 ---
 > A pedagógiai munka alapvetően magányos jellegű, lényegében az osztály, egy gyerekközösség és a tanár között zajlik, tulajdonképpen az ő belső ügyük. Ugyanakkor ugyanazzal a gyerekközösséggel több pedagógus folytat magányos munkát, és furcsa módon ezeknek a párhuzamosan folyó magányos munkáknak kell azt az adott közösséget valamilyenné formálni. Az, hogy milyenné, azt jó esetben ezek a magányosan dolgozó pedagógusok egy közösségként, az iskola nevelőtestületeként közösen gondolták ki, de legalábbis tudják, hogy milyen is az, és vállalták. Rosszabb esetben csak teszik a dolgukat bármiféle közös platform nélkül. 
 

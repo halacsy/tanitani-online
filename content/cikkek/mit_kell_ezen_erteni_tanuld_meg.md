@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/problemamegoldas.jpg
 coverAlt: 'Forrás: https://www.exittheroom.hu'
 coverTitle: 'Forrás: https://www.exittheroom.hu'
-reads: 2834
+reads: 3044
 ---
 <strong>Mit gondolna erről Pólya György tanár úr? Németh Anna írása</strong>
 

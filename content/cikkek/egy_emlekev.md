@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/janusz-korczak-w470.jpg
 coverAlt: Janusz Korczak
 coverTitle: Janusz Korczak
-reads: 8027
+reads: 8371
 ---
 >  A 2012-es évet Lengyelország parlamentje Janusz Korczak emlékévnek nyílvánította. Ezt a világ tudomásul vette, és mindenütt készültek erre az évre. 
 

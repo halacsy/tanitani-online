@@ -12,7 +12,7 @@ excerpt: >-
   lehet a tudásvágyát úgy lecsökkenteni, hogy lázadni már ne lázadozzon, de még
   el tudjon olvasni mindenfajta használati utasítást.
 coverImage: /sites/default/files/dictionary.jpg
-reads: 2268
+reads: 2629
 ---
 <strong>Bessenyei István írása</strong>
 

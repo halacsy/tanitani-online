@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/coaching.jpg
 coverAlt: 'Forrás: https://blitzontwerpt.nl/'
 coverTitle: 'Forrás: https://blitzontwerpt.nl/'
-reads: 2029
+reads: 2421
 ---
 <strong>Lubinszki Mária írása</strong>
 

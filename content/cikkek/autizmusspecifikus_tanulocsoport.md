@@ -13,7 +13,7 @@ excerpt: >-
   önállóságukban – tehát teljesült. Mégis a negyedik közös tanév végére azt a
   döntést kellett meghozni, hogy az ötödik egyben az utolsó tanév is lesz.
 coverImage: /sites/default/files/ginko1.jpg
-reads: 1949
+reads: 2231
 ---
 <strong>Lehetőség vagy kényszer? Knausz Anna írása</strong>
 

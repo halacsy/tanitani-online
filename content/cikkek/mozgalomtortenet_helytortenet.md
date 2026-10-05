@@ -14,7 +14,7 @@ excerpt: >-
   szalkszentmártoni Petőfi-házban eltöltött éveiről a kezdetektől 1971-ig Majsai
   Károly tollából. Mozgalompedagógiai füzetek 14. Múltunk Öröksége Alapítvány.
 coverImage: /sites/default/files/petofi-haz.jpg
-reads: 1586
+reads: 1790
 ---
 <strong>A szalkszentmártoni Petőfi úttörőcsapat története. Révész György írása</strong>
 

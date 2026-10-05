@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/film.jpg
 coverAlt: 'Magyarázat mindenre. Forrás: https://cirkofilm.hu/'
 coverTitle: 'Magyarázat mindenre. Forrás: https://cirkofilm.hu/'
-reads: 2663
+reads: 2934
 ---
 <strong>Trencsényi László filmajánlója</strong>
 

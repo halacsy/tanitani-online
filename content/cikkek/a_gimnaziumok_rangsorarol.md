@@ -13,7 +13,7 @@ excerpt: >-
   mindenki számára közösen értelmezett, nem variálható, választást nem
   megengedő, kanonizált halmaza...
 coverImage: /sites/default/files/2017-10-19_120724-w470.jpg
-reads: 10949
+reads: 11276
 ---
 <strong>Nahalka István írása</strong>
 

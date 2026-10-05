@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kommunikacio.jpg
 coverAlt: 'Forrás: https://raisingchildren.net.au'
 coverTitle: 'Forrás: https://raisingchildren.net.au'
-reads: 2628
+reads: 3131
 ---
 <strong>…célzó (demokratikus) nevelési stílus. Az egymást kiegészítő értékek/erények világa. Fóti Péter írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/iskola_tanora-w400.jpg
 coverAlt: Tanóra Hejőkeresztúrban
 coverTitle: Tanóra Hejőkeresztúrban
-reads: 53697
+reads: 54434
 ---
 <strong>A Komplex Instrukciós Program alkalmazásának előnyei</strong>
 

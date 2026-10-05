@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/bortonszinhaz.jpg
 coverAlt: 'A kép illusztráció. Forrás: http://www.prweb.com/'
 coverTitle: 'A kép illusztráció. Forrás: http://www.prweb.com/'
-reads: 6700
+reads: 7090
 ---
 <strong>Honti György írása</strong>
 

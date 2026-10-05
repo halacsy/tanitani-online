@@ -13,7 +13,7 @@ excerpt: >-
   iskoláról, nevelésről, a gyerekek világáról. Néha éppenséggel gyerekek. A
   blogok persze igazán akkor érthetőek és élvezhetőek, ha a neten is
   meglátogatjuk őket, és…
-reads: 6214
+reads: 6377
 ---
 <i>Új rovatunkban a blogok világára szeretnénk felhívni olvasóink figyelmét. Az írások szerzői nem kutatók, gyakran nem is pedagógusok. De van véleményük iskoláról, nevelésről, a gyerekek világáról. Néha éppenséggel gyerekek. A blogok persze igazán akkor érthetőek és élvezhetőek, ha a neten is meglátogatjuk őket, és alaposabban megmerítkezünk bennük.</i>
 

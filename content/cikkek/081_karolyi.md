@@ -14,7 +14,7 @@ excerpt: >-
   mi öltözékünkhöz és zenei ízlésünkhöz?) de ráadásul éjjel-nappal a számítógép
   előtt ülnek, olyannyira, hogy az már a tévétől is képes elvonni őket. Ha pedig
   megkérdezzük…
-reads: 7094
+reads: 7290
 ---
 Ezek a mai fiatalok… Az még hagyján, hogy lehetetlen ruhákban járnak és rettenetes zenéket hallgatnak (emlékszünk még, mit szóltak a saját szüleink a mi öltözékünkhöz és zenei ízlésünkhöz?) de ráadásul éjjel-nappal a számítógép előtt ülnek, olyannyira, hogy az már a tévétől is képes elvonni őket. Ha pedig megkérdezzük, mégis mit csinálnak akár napi öt-hat óra hosszat a képernyő előtt, könnyen egy efféle párbeszéd kerekedhet ki a dologból:<br>– És mit csinálsz egész este a számítógépnél?<br>– Hát emesenezek a haverokkal, meg szétnézek a fájlcserélőn, hátha már le lehet tölteni az új Alien-filmet. Ja meg leszedek pár klipet a jutyúbról.<br>– Hogy mit csinálsz a haverokkal?<br>– Emesenezek. Tetszik tudni, az egy csetszolgáltatás.
 

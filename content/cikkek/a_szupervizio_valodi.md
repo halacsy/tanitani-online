@@ -18,7 +18,7 @@ excerpt: >-
   azt volt, hogy én is nagyon fontos vagyok. Nem lehetek úgy egy segítő pályán,
   hogy önmagamra nem figyelek, a szükségleteimet nem veszem komolyan, és
   belefeledkezem…
-reads: 14454
+reads: 14774
 ---
 <strong>Az V. Miskolci Taní-tani Konferencián (2012. február 3.) elhangzott előadás szerkesztett változata</strong>
 

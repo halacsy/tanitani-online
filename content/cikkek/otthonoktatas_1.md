@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/othhontanulo.jpg
 coverAlt: 'Otthon tanuló diák a feladatán dolgozik (Forrás: Wikimedia Commons)'
 coverTitle: 'Otthon tanuló diák a feladatán dolgozik (Forrás: Wikimedia Commons)'
-reads: 55671
+reads: 58130
 ---
 > A tudásvágy, érdeklődés nagyon sokáig megmarad ezekben a gyerekekben, nem ,,égnek ki” idő előtt, nem alakulnak ki pszichoszomatikus betegségek, depresszív állapot az iskolai viszonyok miatt.
 

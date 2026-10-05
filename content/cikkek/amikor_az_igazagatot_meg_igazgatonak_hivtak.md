@@ -13,7 +13,7 @@ excerpt: >-
   nevezték, vagyis régen (bár időben nem), állt a Budapestre bejövő főútvonal
   két oldalán egy-egy közoktatási intézmény. Egy középiskola és egy kollégium.
 coverImage: /sites/default/files/dyslexia.jpg
-reads: 3432
+reads: 3715
 ---
 <strong style="font-size: 1em;">K</strong><strong style="font-size: 1em;">öpf Lászlóné írása</strong>
 

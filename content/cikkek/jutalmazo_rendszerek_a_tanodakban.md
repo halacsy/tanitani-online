@@ -12,7 +12,7 @@ excerpt: >-
   Az alsószentmártoni petákrendszer. Gyurka Zsolt írása Fontos megemlíteni, hogy
   ez a jutalmazó rendszer tud úgy is működni, hogy közben nincs büntetőrendszer!
 coverImage: /sites/default/files/imag0625_2.jpg
-reads: 9222
+reads: 9556
 ---
 <strong>Az alsószentmártoni petákrendszer. Gyurka Zsolt írása</strong>
 

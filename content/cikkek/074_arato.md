@@ -15,7 +15,7 @@ excerpt: >-
   szeretném megkérdezni tőled, hogy honnan ez az irodalmi érdeklődés. Vissza
   lehet-e ezt nyomozni a személyes történetben, hogy mennyire tudunk visszamenni
   a múltba?…
-reads: 12844
+reads: 13256
 ---
 <img alt="Arató 1" src="/sites/default/files/aratol-w300.jpg" style="margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; float: left; width: 300px; height: 333px; "><strong>Arató László gimnáziumi magyartanárral,&nbsp;a Magyartanárok Egyesülete elnökével Knausz Imre beszélgetett.</strong>
 

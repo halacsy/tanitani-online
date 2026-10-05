@@ -13,7 +13,7 @@ excerpt: >-
   térbe, a tanterembe, a 45 perc korlátaiba, és most az online oktatással még
   életidegenebb virtuális térbe?
 coverImage: /sites/default/files/iskolakert_gyermekliget_alternatv_iskola.jpg
-reads: 2804
+reads: 3068
 ---
 <strong>Miért fontos? Avagy hogyan nyerhetjük vissza alkalmazkodó képességünket az (emberi) természethez? Dani-Ördög Dalma írása</strong>
 

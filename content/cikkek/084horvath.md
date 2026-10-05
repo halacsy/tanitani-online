@@ -17,7 +17,7 @@ excerpt: >-
   ország társadalmi és gazdasági fejlődését – ezért is fontos ezzel a területtel
   foglalkozni, egy kicsit más szemszögből is, mint ahogyan azt megszoktuk.
   Valamennyi…
-reads: 21371
+reads: 21788
 ---
 Egy oktatási intézmény nem csak tudást ad át, hanem szokásokat, morált, tudományt, lehetőségeket, tanulságokat; önállóságra nevel, és biztosítja az ország társadalmi és gazdasági fejlődését – ezért is fontos ezzel a területtel foglalkozni, egy kicsit más szemszögből is, mint ahogyan azt megszoktuk.
 

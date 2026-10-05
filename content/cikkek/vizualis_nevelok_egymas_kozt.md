@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/szavai_istvan_0.jpg
 coverAlt: Szávai István
 coverTitle: Szávai István
-reads: 3621
+reads: 4052
 ---
 <strong>Beszélgetés Szávai Istvánnal. Az interjút Kókai-Vigh Veronika Judit készítette.</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
   hogy az internet – megfelelően használva – a társadalmi segítségnyújtás
   eszköze is lehet.
 coverImage: /sites/default/files/etanoda.jpg
-reads: 3305
+reads: 3696
 ---
 <strong>Lukács Lilla és Balog Réka írása</strong>
 

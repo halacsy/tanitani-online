@@ -16,7 +16,7 @@ excerpt: >-
   energiát az emberből. Számtalan esettel találkozhatunk, amikor az egyébként
   kiváló kvalitásokkal…
 coverImage: /sites/default/files/mindfulness.jpg
-reads: 791
+reads: 1137
 ---
 <strong>A mindfulness és a stressz.&nbsp;Ludnikné Pálfi Dorina és Molnár Balázs írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   2009-es kiemelkedő PISA-eredményekig 20 év telt el. Az átalakulások
   lépcsőzetesen valósultak meg...
 coverImage: /sites/default/files/flag_of_poland.svg_420.png
-reads: 12400
+reads: 12946
 ---
 <b>Wilhelm Móni írása</b>
 

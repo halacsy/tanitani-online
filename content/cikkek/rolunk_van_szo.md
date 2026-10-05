@@ -15,7 +15,7 @@ excerpt: >-
   elmaradt volna a személyes és szociális kompetenciák fejlesztése. Ezért azt
   kértem a hallgatóktól, hogy mindenki válasszon magának párt az osztályban, és
   egymásnak…
-reads: 17327
+reads: 17920
 ---
 > Kézenfekvő lett volna, hogy ki-ki magának készíti el vágyai amulettjét, és ezzel pompásan teljesítjük a tantárgy által előírt követelményeket, de akkor elmaradt volna a személyes és szociális kompetenciák fejlesztése. Ezért azt kértem a hallgatóktól, hogy mindenki válasszon magának párt az osztályban, és egymásnak tervezzék meg az amulettet.
 

@@ -16,7 +16,7 @@ excerpt: >-
   művészetterapeuta, mentálhigiénés szakember – hét éve dolgozik a kanadai
   Gyermek- és Családfejlesztési Minisztériumban. A Jeges-tenger és a Mackenzie
   folyó torkolatánál, az…
-reads: 9184
+reads: 9448
 ---
 <em>„Az ember nem erőszakkal lesz úrrá<br>a természeten, hanem belátással.”<br>Jacob Bronowski</em><br> 
 

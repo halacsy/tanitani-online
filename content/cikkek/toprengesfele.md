@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/konzerv.jpg
 coverAlt: 'Forrás: wikimedia.org'
 coverTitle: 'Forrás: wikimedia.org'
-reads: 1747
+reads: 1978
 ---
 <strong>„...az egyes ember horizontjától az emberiség horizontjáig tartó útról” (<span style="font-size: 1em;">Paul Éluard). Trencsényi László írása</span></strong>
 

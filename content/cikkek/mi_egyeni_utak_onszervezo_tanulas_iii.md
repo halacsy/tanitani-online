@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/teacher.jpg
 coverAlt: A képet a NightCafé generálta
 coverTitle: A képet a NightCafé generálta
-reads: 2151
+reads: 2389
 ---
 <strong>III. rész: Az MI mint tanári asszisztens. Bessenyei István írása</strong>
 

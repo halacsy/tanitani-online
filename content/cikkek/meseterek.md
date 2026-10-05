@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/ko_boldizsar.jpg
 coverAlt: 'Kő Boldizsár. Forrás: kultura.hu'
 coverTitle: 'Kő Boldizsár. Forrás: kultura.hu'
-reads: 831
+reads: 1272
 ---
 <strong>Kő Boldizsár beszél színekről, mesékről, terekről</strong>
 

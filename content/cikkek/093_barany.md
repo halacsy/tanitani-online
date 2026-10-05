@@ -13,7 +13,7 @@ excerpt: >-
   Magyargéci Általános Iskolában is vezetnek – zömében roma tanulók számára –
   néptánc szakkört. „A tánc valahogy más” – Egy nagyon rövid bemutatkozást
   kérnék tőletek…
-reads: 7417
+reads: 7745
 ---
 Oláh Józseffel és Oláhné Csercsics Ivettel a 2005-ben alakult szécsényi Iglice Tánccsoport szakmai vezetőivel és koreográfusaival beszélgettünk, akik a Magyargéci Általános Iskolában is vezetnek – zömében roma tanulók számára – néptánc szakkört.<br> 
 

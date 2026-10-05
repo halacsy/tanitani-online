@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/vereb.jpg
 coverAlt: Vereb Kata és Németh Tibor
 coverTitle: Vereb Kata és Németh Tibor
-reads: 4944
+reads: 5140
 ---
 > Vereb Kata kábítószerfüggők rehabilitációját segítő projektmunkás Dublinban. Épít, tervez, részt vesz. Németh Tibor interjúja 2013 októberében készült.
 

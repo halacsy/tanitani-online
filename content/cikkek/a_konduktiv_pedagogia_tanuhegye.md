@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/peto_andras.jpg
 coverAlt: Pető András
 coverTitle: Pető András
-reads: 3390
+reads: 3709
 ---
 <strong>Forrai Judit írása Pető Andrásról</strong>
 

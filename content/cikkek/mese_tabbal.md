@@ -15,7 +15,7 @@ excerpt: >-
   önkéntes, hogy Potty!, amikor ráesik a fejére. Mi is szeretjük, hogy mesélnek
   a gyerekeknek, meg szeretik ők is."
 coverImage: /sites/default/files/mese.jpg
-reads: 3034
+reads: 3288
 ---
 <strong>Mesés jó gyakorlat a Toldi Tanoda módszertanából<em>.</em> Csatári Tamara és Lencse Máté írása</strong>
 

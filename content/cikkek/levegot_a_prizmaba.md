@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/tevan.jpg
 coverAlt: Tevan Zsolt és a szerző
 coverTitle: Tevan Zsolt és a szerző
-reads: 3436
+reads: 3667
 ---
 <strong>Németh Tibor interjúja Tevan Zsolttal</strong>
 

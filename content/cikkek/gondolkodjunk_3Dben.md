@@ -12,7 +12,7 @@ excerpt: >-
   közösségi vita módszertana. Demokratikus Ifjúságért Alapítvány, Budapest,
   2014.
 coverImage: /sites/default/files/szemuveg.png
-reads: 21069
+reads: 22215
 ---
 <strong>Lencse Máté recenziója</strong>
 

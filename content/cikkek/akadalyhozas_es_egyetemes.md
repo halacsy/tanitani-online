@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/akadaly.jpg
 coverAlt: Szófelhő
 coverTitle: Szófelhő
-reads: 18287
+reads: 19313
 ---
 <strong>Gyarmathy Éva és Czenner Júlia írása a felsőoktatásban diagnosztizált tanulási problémák kezeléséről</strong>
 

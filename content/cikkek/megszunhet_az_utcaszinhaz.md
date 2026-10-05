@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/simon_balazs.jpg
 coverAlt: Simon Balázs
 coverTitle: Simon Balázs
-reads: 2203
+reads: 2529
 ---
 <strong>A stressz megismerését és kezelését segítő tréningekkel és európai programokban való részvétellel próbálja biztosítani megmaradását az Utcaszínházi Alkotóközösség…&nbsp;Kálid Artúr ás Murányi Tünde beszélgetése Simon Balázzsal</strong>
 

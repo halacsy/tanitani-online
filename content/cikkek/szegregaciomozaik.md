@@ -14,7 +14,7 @@ excerpt: >-
   workshop során olyan összefüggéseket láttam meg, amikről úgy gondolom,
   segíteni fogják pedagógusi…
 coverImage: /sites/default/files/54687903647_8574d96019_o.jpg
-reads: 1197
+reads: 1590
 ---
 <strong>Oktatási segédeszköz tanároknak, tanárképzőknek és civil szervezeteknek. Halász Csenge írása</strong>
 

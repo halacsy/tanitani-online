@@ -6,10 +6,7 @@ authorSlugs:
   - nagy-fruzsina
 date: '2026-06-10'
 tags:
-  - pedagógusok
-  - pedagógus
-  - tananyag
-  - pedagóguspálya
+  - oktatáspolitika
 excerpt: >-
   Gondolatok az új Oktatási és Gyermekügyi Minisztérium előtt álló feladatokról.
   Nagy Fruzsina írása Z generációs tanárszakos hallgatóként az elmúlt időben
@@ -17,8 +14,7 @@ excerpt: >-
   Pályaválasztásomból fakadóan különösen érzékenyen érintenek azok a döntések,
   amelyek a…
 coverImage: /sites/default/files/help.jpeg
-coverAlt: 'Új távlatok, régi kérdések'
-reads: 2041
+reads: 2044
 ---
 <strong><span style="font-size: 12px;">Gondolatok az új Oktatási és Gyermekügyi Minisztérium előtt álló feladatokról. Nagy Fruzsina írása</span></strong>
 

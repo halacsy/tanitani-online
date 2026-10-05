@@ -7,10 +7,7 @@ authorSlugs:
   - apati-balazs
 date: '2026-09-06'
 tags:
-  - tanulás
-  - tanterv
-  - nemzetközi
-  - lemorzsolódás
+  - IKT
 excerpt: >-
   Ki irányítja az egyénre szabott tanulást az MI korában? Bessenyei István és
   Apáti Balázs írása Ebben a modellben az MI nem tantervi döntéshozóként, hanem
@@ -18,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/alpha.jpg
 coverAlt: 'Forrás: forbes.com'
 coverTitle: 'Forrás: forbes.com'
-reads: 921
+reads: 924
 ---
 <strong><span style="font-size: 12px;">Ki irányítja az egyénre szabott tanulást az MI korában? Bessenyei István és Apáti Balázs írása</span></strong>
 

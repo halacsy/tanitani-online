@@ -11,7 +11,7 @@ excerpt: >-
   Bodóczky István írása Mindeközben persze a művészetek fontosságáról,
   mindennapos jelenlétéről beszélnek.
 coverImage: /sites/default/files/muveszetek.jpg
-reads: 23147
+reads: 23549
 ---
 <strong>Bodóczky István írása</strong>
 

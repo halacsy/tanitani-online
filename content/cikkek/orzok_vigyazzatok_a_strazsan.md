@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kheiron.jpg
 coverAlt: 'Kheirón és egy tanítvány. Etruszk váza. Forrás: Wikimedia Commons.'
 coverTitle: 'Kheirón és egy tanítvány. Etruszk váza. Forrás: Wikimedia Commons.'
-reads: 4351
+reads: 4592
 ---
 <strong>Trencsényi László könyvismertetése</strong>
 

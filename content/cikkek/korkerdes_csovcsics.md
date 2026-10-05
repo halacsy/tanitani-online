@@ -30,7 +30,7 @@ coverTitle: >-
   megközelítőleg napi nyolc órát intézményekben tartózkodva, szétaprózott
   tantárgyakban leginkább elméleti úton ismerik meg a világot? Ehhez pedig a
   legalkalmasabb rendszernek az látszik, hogy a „képesebbek” számá
-reads: 822
+reads: 1121
 ---
 <strong>Körkérdés az oktatásról 9.</strong>
 

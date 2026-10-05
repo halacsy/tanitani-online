@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/kugler_mucsarnok_borito.jpg
 coverAlt: Múzeumban
 coverTitle: Múzeumban
-reads: 6339
+reads: 6588
 ---
 <strong>Múzeumpedagógiai foglalkozáson a SZIE Gyakorló Általános Iskola és Gimnázium 7-12. osztályos tanulói</strong>
 

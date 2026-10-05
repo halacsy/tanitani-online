@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tiger_mom2.jpg
 coverAlt: 'A tigrisanya. Forrás: yukoart.com'
 coverTitle: 'A tigrisanya. Forrás: yukoart.com'
-reads: 9364
+reads: 9598
 ---
 <strong>...avagy Korea vagy Finnország legyen a példa?</strong>
 

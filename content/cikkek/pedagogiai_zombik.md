@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/vizsga-2-w400.jpg
 coverAlt: 'Forrás: http://www.studentbeans.com/'
 coverTitle: 'Forrás: http://www.studentbeans.com/'
-reads: 20118
+reads: 21006
 ---
 <strong>Nahalka István írása</strong>
 

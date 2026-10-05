@@ -14,7 +14,7 @@ excerpt: >-
   adat-nyilvántartási és adatszolgáltatási rendszerrel rendelkezünk. Programunk
   törvényes keretek között zajlik, adataink nyilvánosak, az előírt
   minőségbiztosítást elvégezzük…
-reads: 9048
+reads: 9467
 ---
 <strong>Avagy demokráciamenedzsment oktatási terepen</strong>
 

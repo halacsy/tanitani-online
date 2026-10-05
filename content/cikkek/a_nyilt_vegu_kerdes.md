@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/nyitva.jpg
 coverAlt: 'Forrás: http://kdfsz.hu'
 coverTitle: 'Forrás: http://kdfsz.hu'
-reads: 17549
+reads: 18621
 ---
 <strong>Mit üzen a komplex instrukciós program a közoktatásnak? Knausz Imre előadása a XII. Miskolci Taní-tani Konferencián 2019. február 1-jén.</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   drámás előképzettséggel rendelkeznek, a foglalkozás dupla órát, 90 percet vett
   igénybe.
 coverImage: /sites/default/files/img_4599.jpg
-reads: 5331
+reads: 5895
 ---
 <strong>Kosztolányi Dezső A kulcs című novellájának feldolgozása. Tollár Ivett írása</strong>
 

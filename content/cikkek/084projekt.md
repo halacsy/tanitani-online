@@ -15,7 +15,7 @@ excerpt: >-
   mutatták be a projektpedagógia szempontjából modellértékűnek tekinthető
   intézményüket. Most további részleteket közlünk a Projektpedagógiai
   kerekasztal szövegéből.…
-reads: 9348
+reads: 9854
 ---
 <em><a href="/083projekt">Előző számunkban olvashatták</a> a cikk első részét, melyben a 2008. március 28-án megrendezett Projektpedagógiai kerekasztal című szakmai találkozó résztvevői mutatták be a projektpedagógia szempontjából modellértékűnek tekinthető intézményüket. Most további részleteket közlünk a Projektpedagógiai kerekasztal szövegéből. A projektpedagógia bevezetésének nehézségekről, illetve a közoktatásbeli adaptáció lehetőségeiről, feltételeiről beszélgetnek a meghívottak.</em><br><br>A rendezvényen Karlowits-Juhász Orchidea beszélgetőpartnerei voltak:
 

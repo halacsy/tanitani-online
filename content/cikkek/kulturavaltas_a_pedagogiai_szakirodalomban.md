@@ -11,7 +11,7 @@ excerpt: >-
   Lencse Máté recenziója Nagy Ádám (szerk., 2018): Nevelj jedit! – A képzelet
   pedagógiája . Athenaeum Kiadó, Budapest.
 coverImage: /sites/default/files/1458583_r0xi2lyn.jpg
-reads: 5929
+reads: 6295
 ---
 <strong>Lencse Máté recenziója</strong>
 

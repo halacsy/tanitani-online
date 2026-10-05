@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/ofoekonf_nov23_1-w400.jpg
 coverAlt: 'Szűcs Édua rajza. Forrás: http://www.osztalyfonok.hu/'
 coverTitle: 'Szűcs Édua rajza. Forrás: http://www.osztalyfonok.hu/'
-reads: 6184
+reads: 6400
 ---
 > A Kölöknet portál, a T-Tudok Tudásmenedzsment és Oktatáskutató Zrt, valamint az Osztályfőnökök Országos Egyesülete (OFOE) <em>Értjük egymást?</em> címmel rendezett tartalmas konferencia napot a <em>Van másik iskola </em> rendezvény keretei belül 2013. november 23-án.
 

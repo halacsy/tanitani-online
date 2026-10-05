@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/meltanyossag.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 20667
+reads: 22113
 ---
 <strong>L. Ritók Nóra írása</strong>
 

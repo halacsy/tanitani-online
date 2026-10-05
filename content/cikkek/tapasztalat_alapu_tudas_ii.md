@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/3d_learning.jpg
 coverAlt: 'Forrás: https://www.teacheracademy.eu/'
 coverTitle: 'Forrás: https://www.teacheracademy.eu/'
-reads: 3739
+reads: 4161
 ---
 <strong>Gyarmathy Éva és Kökényesi Imre írása</strong>
 

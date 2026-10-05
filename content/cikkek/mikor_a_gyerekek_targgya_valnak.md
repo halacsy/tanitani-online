@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/huther.jpg
 coverAlt: 'Gerald Hüther. Forrás: http://www.gerald-huether.de/'
 coverTitle: 'Gerald Hüther. Forrás: http://www.gerald-huether.de/'
-reads: 24285
+reads: 24842
 ---
 <strong>Tóth-Loesti Heidrun ismerteti Gerald Hüther előadását</strong>
 

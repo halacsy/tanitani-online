@@ -16,7 +16,7 @@ excerpt: >-
   vallásoktatás, nem voltak kötelező sportversenyek, nem volt egyáltalán
   versenyeztetés.
 coverImage: /sites/default/files/img_2058_420_0.jpg
-reads: 9534
+reads: 10025
 ---
 <strong>Fóti Péter írása</strong>
 

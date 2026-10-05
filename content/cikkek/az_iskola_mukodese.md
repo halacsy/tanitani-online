@@ -15,7 +15,7 @@ excerpt: >-
   hogy a vezetés mindenekelőtt érzelmi vállalkozás. A vezetésnek ez az
   elsődleges vetülete határozza meg az igazgató munkájának eredményességét,
   hiszen ha a vezető nem…
-reads: 19029
+reads: 19421
 ---
 <strong>– a capite foetet piscis –</strong>
 

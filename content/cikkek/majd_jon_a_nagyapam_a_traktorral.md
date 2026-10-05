@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/peschel5.jpg
 coverAlt: Falko Peschel
 coverTitle: Falko Peschel
-reads: 2575
+reads: 2842
 ---
 <strong>Fóti Péter írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/ferge_szemleltet.png
 coverAlt: Ferge József szemléltet a sármelléki találkozón
 coverTitle: Ferge József szemléltet a sármelléki találkozón
-reads: 3944
+reads: 4175
 ---
 <strong>Veterán ÁMK-sok találkozója Sármelléken. Trencsényi László írása</strong>
 

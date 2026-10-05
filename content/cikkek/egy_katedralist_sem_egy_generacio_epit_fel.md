@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/martancud.jpg
 coverAlt: 'Fotó: Trencsényi Imre'
 coverTitle: 'Fotó: Trencsényi Imre'
-reads: 2330
+reads: 2674
 ---
 <strong><span style="font-size: 12px;">...egy generáció épít fel.&nbsp;</span></strong> <strong>Egy dunántúli város kultúrájának megalapozása a néptánc erejével. Salamon Ferencné írása</strong>
 

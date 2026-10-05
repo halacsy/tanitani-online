@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/darvas_istvan.jpg
 coverAlt: Darvas István
 coverTitle: Darvas István
-reads: 2380
+reads: 2722
 ---
 <strong>Darvas István vezető rabbi megnyitója a budapesti Scheiber Iskolában rendezett könyvbemutatón&nbsp;</strong> <strong>2022. április 27-én</strong>
 

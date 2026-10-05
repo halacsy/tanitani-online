@@ -16,7 +16,7 @@ excerpt: >-
   közösség tagjainak tanácsait elolvasva elsősorban a gyakori, folyamatos,
   többirányú kommunikáció és visszajelzés tűnik a legfontosabbnak.
 coverImage: /sites/default/files/piar_0.jpg
-reads: 2163
+reads: 2428
 ---
 <strong>Megállapítások a nyitott kérdésekre adott válaszok alapján. Lázár László, Biró Fanni és Tóth-Szabó Veronika írása</strong>
 

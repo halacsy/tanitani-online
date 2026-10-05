@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/juhaszgy.jpg
 coverAlt: 'Forrás: http://jelesnapok.oszk.hu'
 coverTitle: 'Forrás: http://jelesnapok.oszk.hu'
-reads: 8689
+reads: 9076
 ---
 <strong>H. Tóth István írása</strong>
 

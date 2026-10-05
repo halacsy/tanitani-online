@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/szeszler_cimlap.jpg
 coverAlt: Csoportokban kicsik és nagyok
 coverTitle: Csoportokban kicsik és nagyok
-reads: 8067
+reads: 8344
 ---
 <strong>25 év alatt – az első helyre. Szeszler Anna írása</strong>
 

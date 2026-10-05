@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/csobanka_cimlap.jpg
 coverAlt: Henri de Toulouse-Lautrec festménye
 coverTitle: Henri de Toulouse-Lautrec festménye
-reads: 6871
+reads: 7189
 ---
 <strong>A célmegvalósulás lehetséges feltételei és módjai a kortárs táncban és kortárs képzőművészetben. Csobánka Zsuzsa Emese írása</strong>
 

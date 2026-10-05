@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/budaors_cimlap.jpg
 coverAlt: Munka a konyhakertben
 coverTitle: Munka a konyhakertben
-reads: 1829
+reads: 2099
 ---
 <strong>Újabb történetek a budaörsi Erzsébet Otthon pedagógiai hagyományaiból. </strong> <strong>Kálmánné Bánvölgyi Rozál írása</strong>
 

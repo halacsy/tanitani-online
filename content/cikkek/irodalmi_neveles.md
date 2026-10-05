@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/babits.jpg
 coverAlt: Babits Mihály
 coverTitle: Babits Mihály
-reads: 6825
+reads: 7175
 ---
 <strong>Bekezdések Babits fiatalkori esszéjének ürügyén</strong>
 

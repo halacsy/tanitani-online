@@ -10,7 +10,7 @@ tags:
   - óvoda
 excerpt: Suzana Guoth írása Mikor kell tehát elkezdeni? Egyértelműen 2-3 éves korban.
 coverImage: /sites/default/files/011-4-w400.jpg
-reads: 56030
+reads: 59565
 ---
 <strong>Suzana Guoth írása</strong>
 

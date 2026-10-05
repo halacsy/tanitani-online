@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/czenner_keptelenseg_0.jpg
 coverAlt: '19. századi tanterem Amerikában. Forrás: Wikimedia Commons'
 coverTitle: '19. századi tanterem Amerikában. Forrás: Wikimedia Commons'
-reads: 20574
+reads: 21676
 ---
 <strong>…a nyelvoktatásban. Czenner Júlia írása</strong>
 

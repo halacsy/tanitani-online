@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/takacsetel-dij.jpg
 coverAlt: tepa.hu
 coverTitle: tepa.hu
-reads: 3678
+reads: 4042
 ---
 <strong>...&nbsp;csendes főhősére emlékezünk.</strong> <strong>Csordásné Bölcsics Márta írása</strong>
 

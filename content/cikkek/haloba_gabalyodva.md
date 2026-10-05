@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/gabaly.jpeg
 coverAlt: Hálóba gabalyodva
 coverTitle: Hálóba gabalyodva
-reads: 27052
+reads: 27825
 ---
 <strong>A pedagógus esete a Facebookkal: előadás a Digitális pedagógus c. konferencián 2012. május 26-án</strong>
 

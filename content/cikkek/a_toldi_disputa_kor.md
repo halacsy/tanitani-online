@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/img_20150925_184547-1024x768_0.jpg
 coverAlt: Ráhangolódás
 coverTitle: Ráhangolódás
-reads: 6984
+reads: 7253
 ---
 <strong>Vitakultúra-fejlesztés hátrányos helyzetű fiatalokkal. Csík Orsolya és Marton Boglárka írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   össze is mosolygunk az óramegbeszélésen egymás közt - „hanyas vagy?” -
   kortárs-kollégák: ez itt valósággal Ványa Galcsenko esete az Igor és
   társaiból, Anton Makarenko könyvéből.
-reads: 9598
+reads: 9912
 ---
 > Nekem Janusz Korczak varsói árvaházának szabályjátékai jutnak eszembe. Vagy - össze is mosolygunk az óramegbeszélésen egymás közt - „hanyas vagy?” - kortárs-kollégák: ez itt valósággal Ványa Galcsenko esete az Igor és társaiból, Anton Makarenko könyvéből.
 

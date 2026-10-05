@@ -13,7 +13,7 @@ excerpt: >-
   valakire rákényszerítünk egy számára nem megfelelő vizsgát, ezzel akár
   borítékolhatjuk is a gyenge eredményt.
 coverImage: /sites/default/files/belepo-a-sikerhez_420.png
-reads: 7774
+reads: 7991
 ---
 <strong>Czenner Júlia írása arról, hogyan tehetnek sikeres nyelvvizsgát a különleges nyelvtanulók</strong>
 

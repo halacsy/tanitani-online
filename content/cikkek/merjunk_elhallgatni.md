@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/emmausz_490.jpg
 coverAlt: 'Janet Brooks-Gerloff: Emmausz'
 coverTitle: 'Janet Brooks-Gerloff: Emmausz'
-reads: 4966
+reads: 5315
 ---
 <strong>Molnár Cecília Sarolta előadása a XII. Miskolci Taní-tani Konferencián. Elhangzott 2019. február 1-jén.</strong>
 

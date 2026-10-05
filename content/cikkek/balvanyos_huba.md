@@ -14,7 +14,7 @@ excerpt: >-
   TÓK) egyetemi tanára, a Vizuális Nevelési Tanszék egykori vezetője, sokáig a
   Felsőoktatási Vizuális Nevelési Kollégium elnöke. Életmű-kiállítása augusztus
   végéig…
-reads: 19093
+reads: 19921
 ---
 > Hosszú szenvedés után augusztus 12-én 73 éves korában meghalt Bálványos Huba grafikusművész, művészetpedagógus, a Budapesti Tanítóképző Főiskola (majd ELTE TÓK) egyetemi tanára, a Vizuális Nevelési Tanszék egykori vezetője, sokáig a Felsőoktatási Vizuális Nevelési Kollégium elnöke. Életmű-kiállítása augusztus végéig látogatható Zebegényben, a Szőnyi István Emlékmúzeumban.
 

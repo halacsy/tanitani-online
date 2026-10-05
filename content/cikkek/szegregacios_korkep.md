@@ -11,7 +11,7 @@ excerpt: >-
   L. Ritók Nóra írása Szóval arra felé haladunk, a pedagógusok körében is, hogy
   a szegregációt lassan mindenki elfogadhatónak tartja.
 coverImage: /sites/default/files/szegregacios.jpg
-reads: 7119
+reads: 7503
 ---
 <strong>L. Ritók Nóra írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   a hátrányos helyzetű gyerekek e rendszerben való megjelenésének néhány általam
   fontosnak vélt összefüggésére. Tapasztalataimat saját szakértői munkámból,
   illetve a…
-reads: 25309
+reads: 26055
 ---
 A művészetoktatásról, annak jövőjéről sok szó esett az utóbbi időben. Az alábbiakban szeretnék rávilágítani a művészetoktatás jelenlegi helyzetének és a hátrányos helyzetű gyerekek e rendszerben való megjelenésének néhány általam fontosnak vélt összefüggésére.  Tapasztalataimat saját szakértői munkámból, illetve a berettyóújfalui központtal működő „Igazgyöngy” Alapfokú Művészetoktatási Intézményből merítettem, melynek igazgatója vagyok. Iskolánk profilja a képzőművészeti nevelés, így elsősorban e területen keresztül közelítem meg a témát.
 

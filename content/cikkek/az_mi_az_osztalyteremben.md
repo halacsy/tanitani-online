@@ -8,17 +8,14 @@ authorSlugs:
   - nagy-fruzsina
 date: '2026-07-09'
 tags:
-  - pedagógusok
-  - tankönyv
-  - tanulás
-  - pedagógus
+  - IKT
 excerpt: >-
   Az észt, dán és finn modell tanulságai. Apáti Balázs, Bessenyei István és Nagy
   Fruzsina írása Nem az MI a kérdés, hanem az iskola.
 coverImage: /sites/default/files/ai.png
 coverAlt: 'Forrás: https://www.ntnu.edu/'
 coverTitle: 'Forrás: https://www.ntnu.edu/'
-reads: 1518
+reads: 1520
 ---
 <strong><span style="font-size: 12px;">Az észt, dán és finn modell tanulságai. Apáti Balázs, Bessenyei István és Nagy Fruzsina írása</span></strong>
 

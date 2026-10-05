@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/statements_170933.jpg
 coverAlt: Kukorelly Endre
 coverTitle: Kukorelly Endre
-reads: 7243
+reads: 8227
 ---
 <strong>A gyermeki gondolkodás és nyelvhasználat&nbsp;Kukorelly Endre <em>Samunadrág </em>című verseskötetében. </strong> <b>Támba Renátó írása</b>
 

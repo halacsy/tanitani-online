@@ -11,7 +11,7 @@ excerpt: Lannert Judit írása Válasz Lencse Máté Tanoda? című írására.
 coverImage: /sites/default/files/debate.jpg
 coverAlt: 'Forrás: http://www.edulang.com/blog/l2-motivation/'
 coverTitle: 'Forrás: http://www.edulang.com/blog/l2-motivation/'
-reads: 31849
+reads: 33962
 ---
 <strong>Lannert Judit írása</strong>
 

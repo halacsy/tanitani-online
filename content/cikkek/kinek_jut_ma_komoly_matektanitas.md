@@ -6,17 +6,13 @@ authorSlugs:
   - weisz-agoston
 date: '2026-08-30'
 tags:
-  - tehetség
-  - nemzetközi
-  - felvételi
-  - pedagógia
+  - matematikatanítás
 excerpt: >-
   Weisz Ágoston írása Egy ember, aki két-három héten át néhányszor odaül a
   gyerek mellé, megnézi, pontosan hol csúszott el, és nem elmagyarázza még
   egyszer ugyanazt, hanem visszamegy odáig, ahol még biztos volt.
 coverImage: /sites/default/files/3-math.jpg
-coverAlt: Kinek jut ma komoly matektanítás?
-reads: 757
+reads: 760
 ---
 <strong>Weisz Ágoston írása</strong>
 

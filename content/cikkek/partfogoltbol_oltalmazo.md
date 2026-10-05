@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/nemeth_diszpraxia.jpg
 coverAlt: Fay Dunn a szerzővel
 coverTitle: Fay Dunn a szerzővel
-reads: 3337
+reads: 3585
 ---
 <strong>A diszpraxia szabta határokon át és vissza. Németh Tibor interjúja Fay Dunn-nal</strong>
 

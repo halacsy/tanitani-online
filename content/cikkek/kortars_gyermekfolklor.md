@@ -13,7 +13,7 @@ excerpt: >-
   „gyakorlat” a budai gyermekek játék- és szöveghasználatában, Néprajzi
   Értekezések 13., Magyar Néprajzi Társaság, Budapest, 2024, 348 pp.
 coverImage: /sites/default/files/piroska.jpg
-reads: 2063
+reads: 2374
 ---
 <strong>Trencsényi László hozzászólása a Kiss Áron Magyar Játéktársaságban rendezett könyvbemutatón</strong>
 

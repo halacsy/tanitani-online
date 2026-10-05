@@ -11,7 +11,7 @@ excerpt: >-
   Lencse Máté írása Válasz Lannert Judit Kölökneten megjelent Kellenek-e
   tanodák? című írására.
 coverImage: /sites/default/files/15241804_1701452416835285_2707595001053866008_n.jpg
-reads: 12706
+reads: 13318
 ---
 <strong>Lencse Máté írása</strong>
 

@@ -6,9 +6,7 @@ authorSlugs:
   - asztalos-gyorgy
 date: '2026-06-12'
 tags:
-  - egyházi iskolák
-  - szegregáció
-  - pedagógus
+  - oktatáspolitika
 excerpt: >-
   Asztalos György írása Az a hatalmas változás, ami az új kormány létrejöttével
   várható, sokunkban kérdéseket vethet fel. Mi lesz az előző, Magyar Péter által
@@ -16,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/little-white-church.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 2690
+reads: 2694
 ---
 <strong><span style="font-size: 12px;">Asztalos György írása</span></strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/teacher470.jpg
 coverAlt: Portfóliógyártás
 coverTitle: Portfóliógyártás
-reads: 46281
+reads: 47685
 ---
 <strong>Asztalos György írása</strong>
 

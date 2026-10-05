@@ -17,7 +17,7 @@ excerpt: >-
   általa megfogalmazott és oktatott andragógiai alapelveket és módszertani
   célkitűzéseket, ezáltal nem tud pozitív mintaként szolgálni a résztvevők
   számára.
-reads: 14643
+reads: 15195
 ---
 > Az egyik leglényegesebb feltevésem az volt, hogy az egyetemen folyó andragógusképzés gyakorlati megvalósítási módja több helyen nem követi az általa megfogalmazott és oktatott andragógiai alapelveket és módszertani célkitűzéseket, ezáltal nem tud pozitív mintaként szolgálni a résztvevők számára.
 

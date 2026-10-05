@@ -11,7 +11,7 @@ excerpt: >-
   Mentorálás a tanodában. Lencse Máté írása Bár több mint tíz éve tanodázom,
   továbbra is lenyűgöz, hogy mennyire sokfélék vagyunk.
 coverImage: /sites/default/files/53999535614_f564e34315_k.jpg
-reads: 1528
+reads: 1745
 ---
 <strong>Mentorálás a tanodában. Lencse Máté írása</strong>
 

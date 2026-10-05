@@ -14,7 +14,7 @@ excerpt: >-
   stílusban úgy fogalmazhatnánk meg, hogy: „Minden elveszett: micsoda nagyszerű
   kezdet!”
 coverImage: /sites/default/files/toutestperdu.png
-reads: 3333
+reads: 4006
 ---
 <strong>...ugyan már!&nbsp;Tóth Tamás Május írása. Korábbi változata elhangzott e Magyar Pedagógiai Társaság Az iskola jövője – Utópiák és disztópiák c. konferenciáján 2025. május 17-én.</strong>
 

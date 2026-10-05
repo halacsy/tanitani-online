@@ -9,7 +9,7 @@ tags:
   - szegregáció
   - értékelés
 excerpt: Válasz Knausz Imrének
-reads: 5813
+reads: 6017
 ---
 <strong>Válasz Knausz Imrének</strong><br><br>Vitánk az osztályzásról a <em>Taní-tani 2007/2.</em> számában jelent meg. Az osztályzás elleni érveimre nagyon kétélűen válaszoltál. Egyrészt örülsz, hogy valaki nálad radikálisabban követeli az osztályzás megszüntetését, másrészt azt mondod, hogy szükség van rá, mert az iskolarendszernek szelektálnia kell. Nem szólsz semmit arról a helyzetről, hogy egy nagyon centralizált állami iskolarendszerünk van, csupán annyit mondasz, hogy az iskolacsekk rendszere gyakorlatilag megvalósult nálunk, és a bevezetésnek negatív tapasztalati vannak.
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegyen.jpg
 coverAlt: 'Fotó: Sara Bjork / Flickr'
 coverTitle: 'Fotó: Sara Bjork / Flickr'
-reads: 3693
+reads: 4202
 ---
 <strong>Az érzelmi elakadások lélektana. Lubinszki Mária írása</strong>
 

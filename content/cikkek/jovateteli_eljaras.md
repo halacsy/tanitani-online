@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/cyberbully.jpg
 coverAlt: Cyberbullying
 coverTitle: Cyberbullying
-reads: 10684
+reads: 10924
 ---
 <strong>Jóvátételi eljárás egy iskolai zaklatási ügyben. Liska Márton és Szőcs Máté írása</strong>
 

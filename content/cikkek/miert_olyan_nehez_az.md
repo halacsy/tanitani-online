@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/miert_nehez_cimlap.jpg
 coverAlt: Az Igazgyöngy műhelyéből
 coverTitle: Az Igazgyöngy műhelyéből
-reads: 9359
+reads: 9682
 ---
 <strong>L. Ritók Nóra előadása a VII. Miskolci Taní-tani Konferencián 2014. február 7-én</strong>
 

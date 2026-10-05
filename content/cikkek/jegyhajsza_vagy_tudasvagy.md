@@ -6,9 +6,6 @@ authorSlugs:
   - guoth-suzana
 date: '2026-06-26'
 tags:
-  - nemzetközi
-  - pedagógus
-  - osztályozás
   - értékelés
 excerpt: >-
   Suzana Guoth írása A magyar közoktatás válaszút előtt áll. Ha továbbra is
@@ -18,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ellenorzo.jpg
 coverAlt: 'Forrás: https://retronom.hu/'
 coverTitle: 'Forrás: https://retronom.hu/'
-reads: 2572
+reads: 2577
 ---
 <strong><span style="font-size: 12px;">Suzana Guoth írása</span></strong>
 

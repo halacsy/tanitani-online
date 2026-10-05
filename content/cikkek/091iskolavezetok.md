@@ -10,7 +10,7 @@ tags:
   - külföld
   - intézményvezetés
 excerpt: ''
-reads: 11270
+reads: 11738
 ---
 <em>A Független Pedagógiai Intézet megalakulása óta részt vesz nemzetközi együttműködésekben. Az elmúlt évben fejeződött be az iskolakerülés megelőzését szolgáló COMENIUS-SOCRATES program, és 2008. decemberében kezdődött el egy - 16 ország együttműködésére épülő - új projekt az iskolavezetők munkájának korszerűsítése érdekében.</em><br><br><em>Az elkövetkezendő 3 évben eszmecseréken és vitákon keresztül arra keresik majd a választ, hogy milyen keretek között, milyen struktúrákban tudja egy adott iskola vezetése a lehető legjobban végezni tevékenységét, mely kívánalmaknak szükséges az iskolavezetőknek megfelelniük az Európai Unióban. A projekt nagyszerű lehetőséget nyújt majd a különböző országokban lévő munkakörülmények megismerésére, és az európai sokszínűségből eredő kölcsönös tapasztalatcserére, tanulásra.</em><br><br><em>A programról a Taní-tani hasábjain időről-időre tudósítunk. Az alábbiakban a nyitókonferencián elhangzottakból szemezgettünk, illetve szerkesztettünk egy kis ízelítőt. Felhívjuk olvasóink figyelmét arra, hogy a megváltozott körülményekre a különböző országok oktatási stratégiái hasonló válaszokat találtak. Ilyen az autonómia, az önfejlesztés, a vezetésmenedzsment-képzés. A magánintézmények súlya megnövekedett, ugyanakkor a központi ellenőrzés jelentősége is megnőtt.</em>
 

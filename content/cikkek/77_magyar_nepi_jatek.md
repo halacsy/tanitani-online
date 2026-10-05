@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/77_magyar_nepi_jatek.jpg
 coverAlt: 77 magyar népi játék
 coverTitle: 77 magyar népi játék
-reads: 5170
+reads: 5353
 ---
 <strong>Géczi-Laskai Judit könyvajánlója</strong>
 

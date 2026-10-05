@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/learning-new-english-words.jpg
 coverAlt: 'Forrás: http://englishharmony.com/'
 coverTitle: 'Forrás: http://englishharmony.com/'
-reads: 10678
+reads: 11091
 ---
 <strong>Suzana Guoth írása</strong>
 

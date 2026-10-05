@@ -6,9 +6,6 @@ authorSlugs:
   - rado-peter
 date: '2026-08-16'
 tags:
-  - pedagógusok
-  - érettségi
-  - egyházi iskolák
   - oktatáspolitika
 excerpt: >-
   Radó Péter írása A minisztérium vezetőitől senki sem várja, hogy kinevezésük
@@ -17,8 +14,7 @@ excerpt: >-
   decentralizált és a laikus szereplők bevonásán alapuló (társadalmasított)
   rendszerben…
 coverImage: /sites/default/files/ogym.jpeg.jpg
-coverAlt: Az első 100 nap
-reads: 7172
+reads: 7178
 ---
 <strong><span style="font-size: 12px;">Radó Péter írása</span></strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/igazgyongy.jpg
 coverAlt: A kép az Igazgyöngy műhelyében készült
 coverTitle: A kép az Igazgyöngy műhelyében készült
-reads: 10953
+reads: 11396
 ---
 <strong>L. Ritók Nóra írása</strong>
 

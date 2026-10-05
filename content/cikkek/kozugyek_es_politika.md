@@ -11,7 +11,7 @@ excerpt: 'Benkő Flóra írása Vita, vita, minél több vita.'
 coverImage: /sites/default/files/felvonulis_005.jpg
 coverAlt: 'fotó: Pivarnyik Balázs'
 coverTitle: 'fotó: Pivarnyik Balázs'
-reads: 6830
+reads: 7169
 ---
 <strong>Benkő Flóra írása</strong>
 

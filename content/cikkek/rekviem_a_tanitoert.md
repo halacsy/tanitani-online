@@ -13,7 +13,7 @@ excerpt: >-
   va prometre el mar). Spanyol filmdráma, 2023. Rendező: Patricia Font.
   Főszereplő: Enric Auquer.
 coverImage: /sites/default/files/a_tanar_aki_a_tengert_igerte.png
-reads: 1184
+reads: 1511
 ---
 <strong>Trencsényi László filmismertetése</strong>
 

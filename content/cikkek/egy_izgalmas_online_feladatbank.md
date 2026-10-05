@@ -14,7 +14,7 @@ excerpt: >-
   hatással lehet a tanítók és tanítójelöltek gondolkodására, a gyerekek egyéni
   szükségleteihez…
 coverImage: /sites/default/files/mappa_0.png
-reads: 3360
+reads: 3754
 ---
 <strong>…ami más, mint a többi. Szeszler Anna írása</strong>
 

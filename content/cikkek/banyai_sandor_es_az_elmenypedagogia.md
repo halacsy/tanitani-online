@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/banyai_sandor_kalap.jpg
 coverAlt: Bányai Sándor
 coverTitle: Bányai Sándor
-reads: 7912
+reads: 8324
 ---
 > Arra törekszem, hogy olyan helyzet hozzak létre, ami kimozdítja őket a jólismert komforthelyzetből.
 

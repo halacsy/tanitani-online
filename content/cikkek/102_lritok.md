@@ -14,7 +14,7 @@ excerpt: >-
   fenntartású iskola működik, mondjuk társulásban, és integrált oktatást valósít
   meg. Olyat, ahol sok a gondot jelentő, HHH, főleg cigány gyerek. És ahol van
   gyerek, bőven. Nem HHH…
-reads: 51428
+reads: 53315
 ---
 ## Egy HHH tanulóktól mentes iskola megszervezésének receptje.
 

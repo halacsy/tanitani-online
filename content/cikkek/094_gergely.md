@@ -14,7 +14,7 @@ excerpt: >-
   sikeres szülést levezető bába egy oázó kisfiút. Ez voltam én, a
   Korilly–Gergely házaspár harmadik gyermeke. Nézze, tanítóné asszony, milyen
   aranyos kisfiú, lelkendezett…
-reads: 8700
+reads: 8957
 ---
 > A második rész [itt olvasható](/102_gergely).
 

@@ -15,7 +15,7 @@ excerpt: >-
   politológia, ökológia) és normatív embertudományok (etika, filozófiai
   antropológia) egymásra épülése, ötvözete, szerves egysége. Másképpen
   fogalmazva: az Ember és…
-reads: 14336
+reads: 14866
 ---
 > A magyarországi modell lényege a komplexitás és multidiszciplinaritás, vagyis a leíró embertudományok (lélektan, szociológia, kulturális antropológia, politológia, ökológia) és normatív embertudományok (etika, filozófiai antropológia) egymásra épülése, ötvözete, szerves egysége. Másképpen fogalmazva: az Ember és társadalom működése a magyarországi modellben nem marad leíró, pragmatikus szinten, hanem erkölcsi és filozófiai nézőpontból reflektált, főképpen egy nem semleges, de nem is irányzatos, hanem egy nagyon sok mindenki számára elfogadható konszenzusos etika alapján. 
 

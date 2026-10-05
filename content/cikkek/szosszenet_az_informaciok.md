@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/holland_teszt.jpg
 coverAlt: 'Országos teszt Hollandiában. Forrás: http://www.rnw.nl/'
 coverTitle: 'Országos teszt Hollandiában. Forrás: http://www.rnw.nl/'
-reads: 5616
+reads: 5887
 ---
 <strong>Békés Anna írása</strong>
 

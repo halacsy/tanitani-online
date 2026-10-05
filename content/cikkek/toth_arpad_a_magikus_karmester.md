@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/toth_arpad.jpg
 coverAlt: Tóth Árpád
 coverTitle: Tóth Árpád
-reads: 884
+reads: 1253
 ---
 <b>Az interjút Warholik Zoltán készítette, elhangzott a Klubrádió Ötös – Kultúrcsütörtök c. műsorában 2025. október 2-án. A szereplők engedélyével adjuk közre a szerkesztett változatot.</b>
 

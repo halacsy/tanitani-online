@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/15th.century.classroom_3.jpg
 coverAlt: Középkori iskola
 coverTitle: Középkori iskola
-reads: 7239
+reads: 7597
 ---
 <strong>...a bácskai gyerekvilágban?</strong> <strong>Gazdag Emma írása</strong>
 

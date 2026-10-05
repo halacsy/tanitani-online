@@ -16,7 +16,7 @@ excerpt: >-
   olvasási és szövegértési képességeivel olyan komoly gond van, ami az ott folyó
   munkát igencsak megnehezíti, sok esetben el is lehetetleníti. Az
   olvasási-szövegértési…
-reads: 12678
+reads: 13016
 ---
 Hazai szakiskoláinkban nyitott füllel és nyitott szívvel járva ma már nem lehet az ott tanító pedagógusok panaszaiból nem kihallani, hogy tanulóik olvasási és szövegértési képességeivel olyan komoly gond van, ami az ott folyó munkát igencsak megnehezíti, sok esetben el is lehetetleníti. Az olvasási-szövegértési nehézségekre vonatkozó megállapítások pedagógiai közhelyként kerültek be a tanárok, a média és a mindennapok beszélgetéseibe.
 

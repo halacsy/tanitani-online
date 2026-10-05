@@ -674,7 +674,7 @@
   {
     "id": 755,
     "name": "Csizmárné Gede Erika Judit",
-    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tÓvodapedagógus, köznevelési és felnőttképzési szakember, a Wesley János Lelkészképző Főiskola Valláspedagógiai Doktori Iskolájának PhD-hallgatója vagyok. Kutatási területem a fogyatékosság teológiai és pedagógiai értelmezése a középkori keresztény Európában, különös tekintettel az emberképre és a nevelési felelősség kérdéseire. Szakmai érdeklődésem kiterjed továbbá az óvodai nevelés etikai dilemmáira és a technológiai innovációk pedagógiai értelmezésére is.</div>\r\n",
+    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tTanársegéd vagyok a Semmelweis Egyetem Pető András Karán, továbbá óvodapedagógus, köznevelési és felnőttképzési szakember. A Wesley Theológiai és Valláspedagógiai Doktori Iskolájának végzős PhD-hallgatója vagyok. Kutatási területem a fogyatékosság teológiai és pedagógiai értelmezése a középkori keresztény Európában, különös tekintettel az emberképre és a nevelési felelősség kérdéseire. Szakmai érdeklődésem kiterjed továbbá az óvodai nevelés etikai dilemmáira és a technológiai innovációk pedagógiai értelmezésére is.</div>\r\n",
     "weight": 0,
     "slug": "csizmarne-gede-erika-judit",
     "articleCount": 7
@@ -882,7 +882,7 @@
   {
     "id": 923,
     "name": "Deák Réka",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p class=\"rtejustify\">Gyógypedagógus vagyok és mentálhigiénés szakember. Pályám kezdete óta a civil szférában dolgozom, hol a szociális ellátás területéhez, hol az oktatáshoz kapcsolódva. Érdeklődésem középpontjában az áll, hogy mi történik az emberekkel egy rendszerben, hogyan alakul a hatalomgyakorlás és kiszolgáltatottság viszonya, és hogyan lehet úgy működtetni egy közösséget, hogy abban minden szereplő jól lehessen.</p>\r\n",
     "weight": 0,
     "slug": "deak-reka",
     "articleCount": 1
@@ -898,7 +898,7 @@
   {
     "id": 599,
     "name": "Dobos Orsolya",
-    "descriptionHtml": "<p class=\"rtejustify\"><span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">A Rogers &Oacute;voda &eacute;s Iskola munkat&aacute;rsa, az Alap&iacute;tv&aacute;nyi &eacute;s Mag&aacute;niskol&aacute;k Egyes&uuml;lete alternat&iacute;v tagozat&aacute;nak vezetője.</span></p>\r\n",
+    "descriptionHtml": "<p class=\"rtejustify\">Az Alapítványi és Magániskolák és -óvodák Egyesülete társelnöke vagyok, tanügyigazgatási szakértő, neveléstudományi PhD-val rendelkezem.</p>\r\n",
     "weight": 0,
     "slug": "dobos-orsolya",
     "articleCount": 2
@@ -1200,6 +1200,14 @@
     "articleCount": 1
   },
   {
+    "id": 921,
+    "name": "Flaskárné Hajdu Rita",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "flaskarne-hajdu-rita",
+    "articleCount": 0
+  },
+  {
     "id": 346,
     "name": "Fodor Anna",
     "descriptionHtml": "Az ELTE Tanító- és Óvóképző Karán végeztem tanító szakon 2009-ben vizuális nevelés műveltségterületen, majd a Pedagógiai és Pszichológiai Karra mentem andragógia MA-ra, melyet 2011-ben fejeztem be. Így foglalkoztat a pedagógia és a felnőttek képzése is. Tudományos diákköri konferencián balkezesek írásnehézségeiből írtam dolgozatomat. Jelenleg napközis tanítóként dolgozom.",
@@ -1293,7 +1301,7 @@
     "descriptionHtml": "<p>Budapesten születtem 1956-ban. 1990 óta élek Bécsben, feleségemmel és fiammal. Fiam születése (1999) után fordultam ismét pedagógiai kérdések felé, folytatva azt, amit 1987 és 1990 között a OPI Iskolakutatási Osztályán csináltam: olvasni, gondolkodni, írni arról, hogy mik a hibái a mai társadalomnak, nevelésnek, iskolának.</p>\r\n<p><a href=\"https://www.foti-peter.hu/publikacioim/\">Publikációim jegyzéke</a></p>\r\n",
     "weight": 0,
     "slug": "foti-peter",
-    "articleCount": 47
+    "articleCount": 48
   },
   {
     "id": 53,
@@ -1562,7 +1570,7 @@
   {
     "id": 712,
     "name": "Géczi-Laskai Judit",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p class=\"rtejustify\">Tanító, rajz/vizuális kultúra tanár, szakvizsgázott közoktatási vezető, szaktanácsadó mesterpedagógus vagyok. 1992 óta tanítok, a hazai iskolafokozatok mindegyikében van tapasztalatom. Jelenleg Budapesten, a Kőbányai Keresztury Dezső Általános Iskola igazgató helyettese és a Miskolci Egyetem Tanárképző Intézetének adjunktusa vagyok, ahol a tanítóképzésben a vizuális kultúra és a technika és tervezés tárgykörű tantárgyakat tanítom. Neveléstudományi doktori fokozatom az ELTE PPK-n 2013-ban szereztem. Kutatásaim és kedvelt témaköreim a néphagyomány-ismeret, kézművesség, művészetpedagógia és a gyakorlatorientált vizuális nevelés.</p>\r\n",
     "weight": 0,
     "slug": "geczi-laskai-judit",
     "articleCount": 2
@@ -1722,7 +1730,7 @@
   {
     "id": 912,
     "name": "Hollóné Baski Nikoletta",
-    "descriptionHtml": "",
+    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tPedagógus vagyok, intézményvezető és a Wesley János&nbsp;<span style=\"font-size: 12px;\">Lelkészképző Főiskola Doktori Iskolájának doktorandusza. Kutatási területem az autizmussal&nbsp;</span><span style=\"font-size: 12px;\">élő személyek támogatása, az inkluzív pedagógia, valamint a vallás és az autizmus kapcsolata.</span></div>\r\n",
     "weight": 0,
     "slug": "hollone-baski-nikoletta",
     "articleCount": 1
@@ -1890,7 +1898,7 @@
   {
     "id": 916,
     "name": "Jankovics Adrienn",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p class=\"rtejustify\">Óvodapedagógus vagyok. Munkámban a gyermekek megfigyelésére, kezdeményezéseire és önálló felfedezésére épülő pedagógiai szemléletet keresem és gyakorlom. Különösen foglalkoztat, hogyan válhat az óvodapedagógus irányítóból egyre inkább figyelő, értelmező és támogató társsá a gyermekek tanulási folyamataiban.</p>\r\n",
     "weight": 0,
     "slug": "jankovics-adrienn",
     "articleCount": 1
@@ -2018,7 +2026,7 @@
   {
     "id": 917,
     "name": "Kabdebó Ferenc",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p>Közgazdász-tanárként végeztem 1985-ben, majd 1988-ban szereztem történelem szakos középiskolai tanári végzettséget. Tanítottam közgazdasági szakközépiskolában, \"elit\" gimnáziumban és alapítványi középiskolában, illetve igazgatóként is tevékenykedtem 10 évet.</p>\r\n<p>Az elmúlt néhány évben sok száz kollégával cserélhettük ki tapasztalatainkat az általam tartott, de a Pénziránytű Alapítvány által szervezett szakmódszertani továbbképzéseken a pénzügyi tudatosság témakörében.</p>\r\n",
     "weight": 0,
     "slug": "kabdebo-ferenc",
     "articleCount": 1
@@ -2050,7 +2058,7 @@
   {
     "id": 919,
     "name": "Kapusi Angéla",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p class=\"rtejustify\">1986-ban születtem, Miskolcon élek. Szobrászként végeztem, majd a Miskolci Egyetemen magyar szakos bölcsész és magyar-történelem szakos tanárként szereztem diplomát. Ezt követően ösztöndíjas PhD-hallgató voltam, doktori értekezésem 2018-ban védtem meg. Jelenleg a Miskolci Egyetem BTK Tanárképző Intézetének adjunktusa vagyok, emellett egy miskolci szakközépiskolában dolgozom óraadó tanárként. Főbb kutatási és érdeklődési területeim: klasszikus magyar irodalom, gyermek- és ifjúsági irodalom, magyartanítás módszertana, irodalmi nevelés és művészetpedagógia.</p>\r\n",
     "weight": 0,
     "slug": "kapusi-angela",
     "articleCount": 1
@@ -2114,7 +2122,7 @@
   {
     "id": 920,
     "name": "Kelemen Judit",
-    "descriptionHtml": "",
+    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tTanulmányaim a Liszt Ferenc Zeneművészeti Főiskola Zeneiskolai Tanárképző Intézet Miskolci Tagozatán (zeneiskolai zeneelmélet- és szolfézstanár), a Liszt Ferenc Zeneművészeti Főiskola Iskolai énektanárképző kiegészítő szakán, valamint a Liszt Ferenc Zeneművészeti Egyetem iskolai ének-zenetanár, karvezető szakán végeztem.&nbsp;<span style=\"font-size: 12px;\">Doktori fokozatom (DLA, előadó-művészet, karvezetés) a Liszt Ferenc Zeneművészeti Egyetemen, habilitációm az Eszterházy Károly Egyetem Neveléstudományi Doktori&nbsp;</span><span style=\"font-size: 12px;\">Iskolájában szereztem. 1988. november 1. – 2023. augusztus 31. közt a Sárospataki Tanítóképző Főiskola és jogutód intézményei (2023-ban Tokaj-Hegyalja Egyetem) oktatója, tanszékvezetője, dékánja, főigazgatója és rektorhelyettese voltam. 2023. szeptember 1-től a Miskolci Egyetem Bartók Béla Zeneművészeti Kar, valamint a Bölcsészet- és Társadalomtudományi Kar oktatója, 2025-től tanszékvezető, a tanító alapszak szakfelelőse vagyok. Kutatási területem az ének-zenetanításhoz kötődően zenepedagógia és módszertan,&nbsp;</span><span style=\"font-size: 12px;\">de neveléstörténeti és művelődéstörténetei tanulmányaim is készültek.</span></div>\r\n",
     "weight": 0,
     "slug": "kelemen-judit",
     "articleCount": 1
@@ -2162,7 +2170,7 @@
   {
     "id": 914,
     "name": "Kertai Csenger",
-    "descriptionHtml": "",
+    "descriptionHtml": "<p class=\"rtejustify\">Kertai Csenger vagyok, író és tanár, 1995-ben születtem Budapesten. Idén ősztől a Szent II. János Pál Iskolaközpont egy ötödikes osztályának leszek osztályfőnöke.</p>\r\n",
     "weight": 0,
     "slug": "kertai-csenger",
     "articleCount": 1
@@ -3122,7 +3130,7 @@
   {
     "id": 889,
     "name": "Nagy Fruzsina",
-    "descriptionHtml": "<p class=\"rtejustify\">Az Eszterházy Károly Katolikus Egyetem elsőéves, osztatlan tanárszakos hallgatója vagyok (angol nyelv és kultúra tanára – német nyelv és kultúra tanára). Már gyermekkorom óta vonzódom a nyelvekhez és a különböző kultúrákhoz, és mindig is arra törekedtem, hogy ezt a kíváncsiságot és szeretetet másokkal is megoszthassam. A pedagóguspálya számomra a legtermészetesebb módja annak, hogy ezt megtehessem.</p>\r\n<p class=\"rtejustify\">A nyelvtanulás mellett a tudományos írások világában is érdekelt vagyok. Az egyetem által szervezett, középiskolásoknak szóló Tehetségútlevél Pedagógia Szekcióban országos első helyezést értem el. A publikálás lehetősége új utakat nyitott számomra, és azóta is számos témakörben érdeklődöm, többek között a generációkutatás, a digitalizáció és a modernkori tanulási környezet kérdései iránt. Bízom benne, hogy leendő kutatási eredményeim nemcsak a saját fejlődésemet szolgálják, hanem a jövő generációjának tanulását és fejlődését is elősegítik majd.</p>\r\n",
+    "descriptionHtml": "<p class=\"rtejustify\">Az Eszterházy Károly Katolikus Egyetem osztatlan tanárszakos hallgatója vagyok (angol nyelv és kultúra tanára – német nyelv és kultúra tanára). Már gyermekkorom óta vonzódom a nyelvekhez és a különböző kultúrákhoz, és mindig is arra törekedtem, hogy ezt a kíváncsiságot és szeretetet másokkal is megoszthassam. A pedagóguspálya számomra a legtermészetesebb módja annak, hogy ezt megtehessem.</p>\r\n<p class=\"rtejustify\">A nyelvtanulás mellett a tudományos írások világában is érdekelt vagyok. Az egyetem által szervezett, középiskolásoknak szóló Tehetségútlevél Pedagógia Szekcióban országos első helyezést értem el. A publikálás lehetősége új utakat nyitott számomra, és azóta is számos témakörben érdeklődöm, többek között a generációkutatás, a digitalizáció és a modernkori tanulási környezet kérdései iránt. Bízom benne, hogy leendő kutatási eredményeim nemcsak a saját fejlődésemet szolgálják, hanem a jövő generációjának tanulását és fejlődését is elősegítik majd.</p>\r\n",
     "weight": 0,
     "slug": "nagy-fruzsina",
     "articleCount": 4
@@ -3810,7 +3818,7 @@
   {
     "id": 904,
     "name": "Siposné Varga Edit",
-    "descriptionHtml": "",
+    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tSiposné Varga Edit vagyok, fagottművész, ének-zene tanár, mesterpedagógus és köznevelési intézményvezető. Szakmai pályámat a zene, a pedagógia és az intézményfejlesztés metszéspontján élem meg: művészként az értő befogadás, pedagógusként a tanulói élmény, vezetőként pedig a közösségben megvalósuló fejlődés lehetősége foglalkoztat. Több éve dolgozom a „Mezítlábas opera az iskolában” programon, amelyben az opera nem távoli, elit műfajként, hanem közös alkotófolyamatként és iskolai közösségformáló erőként jelenik meg. Jelenlegi szakmai érdeklődésem középpontjában az áll, hogyan válhat a művészeti nevelés az iskolai tanulás, az együttműködés és a kulturális részvétel élő terévé.</div>\r\n",
     "weight": 0,
     "slug": "siposne-varga-edit",
     "articleCount": 1
@@ -3886,6 +3894,14 @@
     "weight": 0,
     "slug": "sulak-tunde",
     "articleCount": 1
+  },
+  {
+    "id": 909,
+    "name": "Suzana Guoth",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "suzana-guoth",
+    "articleCount": 0
   },
   {
     "id": 684,
@@ -4882,7 +4898,7 @@
   {
     "id": 918,
     "name": "Weisz Ágoston",
-    "descriptionHtml": "",
+    "descriptionHtml": "<div id=\"cke_pastebin\">\r\n\tMatematikus vagyok. Tizenöt éve tanítok gyerekeket matematikára és programozásra kis csoportokban; napközben a Google-nél dolgozom vezető kutatóként, a Gemini generatív média csoportjában. Érintett vagyok a témában: <a href=\"http://alphacademy.hu\">az online iskola, amelyet vezetek</a>, fizetős szolgáltatás – az esszében ezért írok a saját munkánk korlátairól is.</div>\r\n",
     "weight": 0,
     "slug": "weisz-agoston",
     "articleCount": 1

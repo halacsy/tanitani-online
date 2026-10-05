@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tolerancia.png
 coverAlt: 'Forrás: http://flickr.com'
 coverTitle: 'Forrás: http://flickr.com'
-reads: 11761
+reads: 12112
 ---
 <strong>Tolerancia a társadalomban. Nagy Zoltán írása</strong>
 

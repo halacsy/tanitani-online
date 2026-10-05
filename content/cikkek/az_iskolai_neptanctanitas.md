@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Karcagi Gyuláné egykori tanítványával, Fekete Katalinnal. Kezében a
   gyémántdiploma.
-reads: 6781
+reads: 7164
 ---
 <strong>„A jó táncost a szíve teszi, nem a betanult lépések” (Thomas Hardy). Riba Katalin interjúja Karcagi Gyuláné néptáncpedagógussal</strong>
 

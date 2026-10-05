@@ -13,7 +13,7 @@ excerpt: >-
   emlékezést tenni dr. Kálmán Attilára, azokkal a viccekkel, amik átszőtték a
   tanítását...
 coverImage: /sites/default/files/kalman_attila_420.jpg
-reads: 6863
+reads: 7097
 ---
 <strong>Kovács Ágota írása dr. Kálmán Attila emlékére</strong>
 

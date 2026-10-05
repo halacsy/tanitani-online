@@ -14,7 +14,7 @@ excerpt: >-
   egymást. Meg kell kímélnünk a tehetséges embert – ki egész energiáját szellemi
   és erkölcsi…
 coverImage: /sites/default/files/sasok.jpg
-reads: 32180
+reads: 33065
 ---
 <strong>…hogyan kell a sasnak repülnie.</strong> <strong> Gyarmathy Éva írása</strong>
 

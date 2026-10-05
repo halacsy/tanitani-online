@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/regvoltkepek.blogspot.hu-w470.jpg
 coverAlt: 'Forrás: regvoltkepek.blogspot.hu'
 coverTitle: 'Forrás: regvoltkepek.blogspot.hu'
-reads: 12618
+reads: 13050
 ---
 <strong>Adalékok a kérdés felvetéséhez. Knausz Imre írása</strong>
 

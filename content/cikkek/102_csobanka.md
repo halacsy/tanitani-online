@@ -13,7 +13,7 @@ excerpt: >-
   irodalomtanítás két felfogása közül az egyik a
   kánon-kronológia-irodalomtörténet elvét állítja a középpontba, a másik a
   problémacentrikusság-képeségfejlesztés-egymásmellettiség alapján szerveződik.
-reads: 15876
+reads: 16254
 ---
 <strong><span style="font-size: 16px;">Intertextualitás és szexualitás a kortárs versekben a magyarórán</span></strong><br><br>Az irodalomtanítás két felfogása közül az egyik a <em>kánon-kronológia-irodalomtörténet</em> elvét állítja a középpontba, a másik a <em>problémacentrikusság-képeségfejlesztés-egymásmellettiség</em> alapján szerveződik.
 

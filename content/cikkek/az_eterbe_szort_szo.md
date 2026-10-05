@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/perhiniakm.jpg
 coverAlt: Perhiniák Márton és Németh Tibor
 coverTitle: Perhiniák Márton és Németh Tibor
-reads: 5756
+reads: 5987
 ---
 > Perhiniák Márton útja a zongoratermen és a mérnökképzőn keresztül vezetett az oktatáshoz. Tanár és diák ma már új közlésformában partner, melynek alapja a megosztás.
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/800px-summerhillschool.jpg
 coverAlt: 'Summerhill. Forrás: Wikipédia'
 coverTitle: 'Summerhill. Forrás: Wikipédia'
-reads: 13109
+reads: 13612
 ---
 <strong>&nbsp;– (majdnem) végtelen játék</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/nyitott_iskola.jpg
 coverAlt: Nyitott iskola – tanuló társadalom
 coverTitle: Nyitott iskola – tanuló társadalom
-reads: 7314
+reads: 7586
 ---
 > Falus Katalin – Vajnai Viktória (szerk.): Nyitott iskola: modellek és jó gyakorlatok. Oktatáskutató és Fejlesztő Intézet, Budapest, 2012. Gazdag Emma recenziója
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ludnikne_cimlap.jpg
 coverAlt: 'Forrás: https://www.freepik.com/'
 coverTitle: 'Forrás: https://www.freepik.com/'
-reads: 2085
+reads: 2457
 ---
 <strong>Beszélgetés egy gyakorló pedagógussal az elmúlt évek változásainak hatásáról. Ludnikné Pálfi Dorina írása</strong>
 

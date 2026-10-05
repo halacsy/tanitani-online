@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/az_irodalomtanitas_modszertana_1-2_0.jpeg
 coverAlt: Az irodalomtanítás módszertana
 coverTitle: Az irodalomtanítás módszertana
-reads: 2320
+reads: 2644
 ---
 <strong>Oroszlán Anikó recenziója</strong>
 

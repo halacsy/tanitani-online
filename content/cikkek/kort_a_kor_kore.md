@@ -15,7 +15,7 @@ excerpt: >-
   cél volt, a növendékeknek családtagjaikkal való kapcsolattartását a lehető
   legteljesebben korlátozták, anyanyelvük használatát tiltották, ősi
   kultúrájuktól igyekeztek…
-reads: 18648
+reads: 19395
 ---
 > A vizsgálat alapján megállapítást nyert, hogy mivel az iskolákban az őslakos gyermekek eredeti kultúrájának tudatos és hatékony megsemmisítése elsőrendű cél volt, a növendékeknek családtagjaikkal való kapcsolattartását a lehető legteljesebben korlátozták, anyanyelvük használatát tiltották, ősi kultúrájuktól igyekeztek őket minél inkább elidegeníteni. Fény derült arra is, hogy a szexuális abúzus hétköznapi dolognak számított a legtöbb oktatási intézményben...
 

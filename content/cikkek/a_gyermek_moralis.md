@@ -13,7 +13,7 @@ excerpt: >-
   szabadsága van, akkor ebben benne van annak lehetősége is, hogy rosszul fog
   választani. A rossz választásának lehetősége azonban szükséges ahhoz, hogy
   valaki megtanuljon (jól) választani.
-reads: 12753
+reads: 19795
 ---
 > A demokratikus-szabad pedagógia alapelve az, hogy ha valakinek választási szabadsága van, akkor ebben benne van annak lehetősége is, hogy rosszul fog választani. A rossz választásának lehetősége azonban szükséges ahhoz, hogy valaki megtanuljon (jól) választani.
 

@@ -16,7 +16,7 @@ excerpt: >-
   magát, hanem a XX. század expresszionista költői kifejezésmódját alkalmazta.
   Igenis, tette ezt akkor, ha joggal vélelmezzük: nem igen olvasott ilyen
   szövegeket. De…
-reads: 16864
+reads: 17497
 ---
 <img alt="Trencsényi László" src="/sites/default/files/trencsenyi_portre.jpg" style="width: 250px; height: 208px; ">
 

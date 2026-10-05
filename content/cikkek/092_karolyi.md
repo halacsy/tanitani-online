@@ -14,7 +14,7 @@ excerpt: >-
   tudósítson. A legutóbbi alkalommal a számítógépes játékok világába nyerhettünk
   bepillantást. Akkor a tizennégy éves Bence volt az idegenvezetőnk, ő mesélt az
   egyes…
-reads: 11296
+reads: 11637
 ---
 Rovatunk arra vállalkozott, hogy az ifjúsági kultúra gyakran a kívülállók számára is szembetűnő, ám esetleg csak felületesen ismert vidékeiről tudósítson. A legutóbbi alkalommal a számítógépes játékok világába nyerhettünk bepillantást. Akkor a tizennégy éves Bence volt az idegenvezetőnk, ő mesélt az egyes játéktípusokról, arról, miben rejlik az általa kedvelt játékok vonzereje, mitől lesz valaki jó játékos, és mi mindent lehet a különféle játékokon keresztül tanulni. Az alábbiakban kevésbé elfogult forrásból (talán stílszerűnek nevezhető módon) jobbára a wikipedia vonatkozó szócikkeire támaszkodva általánosabb áttekintést igyekszünk nyújtani a számítógépes és videojátékok történetéről, fajtáiról, kísérőjelenségeiről.
 

@@ -13,7 +13,7 @@ excerpt: >-
   különböznek a jobbkezesektől, hogy ők a bal kezükkel írnak, vágnak, fogják a
   kanalat. Ennél azonban nagyobb a különbség; az írásban pedig különösen oda
   kell figyelni ezekre a különbségekre.
-reads: 16283
+reads: 16573
 ---
 > Balkezes? Jobbkezes? Sokan úgy gondolják, hogy a balkezesek annyiban különböznek a jobbkezesektől, hogy ők a bal kezükkel írnak, vágnak, fogják a kanalat. Ennél azonban nagyobb a különbség; az írásban pedig különösen oda kell figyelni ezekre a különbségekre.
 

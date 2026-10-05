@@ -15,7 +15,7 @@ excerpt: >-
   megoldása helyett váltani: az élet nagy kérdéseiről, erkölcsről és
   erkölcstelenségről, becsületről-becstelenségről,
   felelősségről-felelőtlenségről, szabályról, törvényről…
-reads: 6062
+reads: 6300
 ---
 > Talán a csapda nagysága sem mérhető fel, amelybe a maturandusok akaratukon kívül beleestek. Vajon volt-e idejük mérlegelni, a matematikafeladatok megoldása helyett váltani: az élet nagy kérdéseiről, erkölcsről és erkölcstelenségről, becsületről-becstelenségről, felelősségről-felelőtlenségről, szabályról, törvényről, önállóságról gondolkodniuk?
 

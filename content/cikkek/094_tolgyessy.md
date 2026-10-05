@@ -13,7 +13,7 @@ excerpt: >-
   gyerekcsoportokkal. Magyarországon már a 70-es évektől kezdve a színjátszók
   felkészítésekor a próbafolyamat részeként használtak dramatikus elemeket
   elsősorban csehszlovák tapasztalatokat…
-reads: 35239
+reads: 35809
 ---
 A drámapedagógia első látásra újkeletű jelenségnek tűnik. Nagyasszonya, Dorothy Heathcote az 1960-as években kezdett dolgozni angol gyerekcsoportokkal. Magyarországon már a 70-es évektől kezdve a színjátszók felkészítésekor a próbafolyamat részeként használtak dramatikus elemeket elsősorban csehszlovák tapasztalatokat követve. Mezei Éva, Gabnai Katalin, Debreczeni Tibor az első hőskorszak legfontosabb alakjai. A magyar gyermekszínjátszás fénykorában Gabnai Katalin nyomdokain haladva Szakall Judit kidolgozta az ún. életút-játékot, amely a gyermekek élettapasztalatából vett improvizációkra épít, és csiszolófázisok révén hoz létre színházi előadást. 1988-ban megalakult a Magyar Drámapedagógiai Társaság, amely 1991-től adja ki szaklapját, Drámapedagógiai Magazint (DPM). Új korszak kezdődött 1991 nyarán, amikor egy angol drámapedagógus – David Davis – tartott Magyarországon egy kurzust, amely elindította egyrészt az angol drámapedagógia magyarországi elterjedését, másrészt a magyar drámapedagógia öntudatra ébredését: megkülönböztetve magát a gyermekszínjátszástól tanórai szerepet kért magának, ahol a résztvevők már maguknak játszanak, és nem egy nézőknek szánt darabra készülnek.
 

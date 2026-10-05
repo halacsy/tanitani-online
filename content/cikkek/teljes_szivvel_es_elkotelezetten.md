@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/somfai_tiborne.png
 coverAlt: Somfai Tiborné
 coverTitle: Somfai Tiborné
-reads: 1703
+reads: 2085
 ---
 <strong><span style="font-size: 1em;">"Mivel nekünk nem volt, a gyerekek kedvéért mindent megcsináltam". Életútinterjú a 93 éves Somfai Tiborné Elvira nénivel. Az interjút készítette: Nagy Fruzsina</span></strong>
 

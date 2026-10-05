@@ -15,7 +15,7 @@ excerpt: >-
   következménye az lesz, hogy szakképzettség nélkül a munkaerő-piaci
   beilleszkedésük, foglalkoztatásuk gyakorlatilag lehetetlenné válik. A fiatalok
   iskolából történő kimaradása…
-reads: 18109
+reads: 18581
 ---
 Magyarországon sok fiatal a tankötelezettségi kor vége előtt kimarad az általános iskolából, vagy a középfokú oktatásból. Ennek az egyik súlyos következménye az lesz, hogy szakképzettség nélkül a munkaerő-piaci beilleszkedésük, foglalkoztatásuk gyakorlatilag lehetetlenné válik. A fiatalok iskolából történő kimaradása elsősorban hátrányos szociális körülményeikből adódik. Ez a sokszor halmozottan hátrányos helyzet a képzetlenség és az alacsony fokú iskolázottság következtében tovább romlik, és ez mind az egyént, mind a családot tragikus élethelyzetekbe kényszeríti.  E tanulmány ehhez a közismert problémát kívánja az újabb kutatások eredményeivel tovább árnyalni két, az elmúlt évben folytatott kutatás egyes eredményeinek a felhasználásával.
 

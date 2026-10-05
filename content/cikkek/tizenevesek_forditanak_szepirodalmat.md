@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/onich110_medium.jpg
 coverAlt: A világ tíz égtája
 coverTitle: A világ tíz égtája
-reads: 3899
+reads: 4076
 ---
 <strong>Jerzy Celichowski írása</strong>
 

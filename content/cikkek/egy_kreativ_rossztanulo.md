@@ -15,7 +15,7 @@ excerpt: >-
   szeret-e olvasni, illetve, hogy szokott-e. Az volt a válasza, hogy nagyon
   szeret olvasni, és hetente átlagban elolvas egy regényt, csak nem azt,
   amelyiket a tanár úr megkövetel…
-reads: 14182
+reads: 14783
 ---
 > Egy alkalommal megkérdeztem tőle, hogy miért nem olvassa el a kötelező irodalmat. Azt mondta, hogy azért, mert az nem fontos. Kérdeztem, hogy szeret-e olvasni, illetve, hogy szokott-e. Az volt a válasza, hogy nagyon szeret olvasni, és hetente átlagban elolvas egy regényt, csak nem azt, amelyiket a tanár úr megkövetel, hanem egy másikat.
 

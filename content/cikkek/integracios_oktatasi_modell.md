@@ -14,7 +14,7 @@ excerpt: >-
   kezdeményezőkészségét, megnyugtatja a szülőt, tapasztalatokhoz jutatja a
   gyereket, és igyekszik örömtelivé tenni a tanulási folyamatot.
 coverImage: /sites/default/files/cimlap_1.jpg
-reads: 7980
+reads: 8289
 ---
 <strong>…egy Balaton-parti középiskolában. Érsek-Kovács Adrienn és Mézes József írása</strong>
 

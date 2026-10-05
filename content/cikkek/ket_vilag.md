@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/buborekok.jpg
 coverAlt: Gyermekrajz az Igazgyöngy műhelyéből
 coverTitle: Gyermekrajz az Igazgyöngy műhelyéből
-reads: 22819
+reads: 23859
 ---
 <strong>L. Ritók Nóra az elmúlt évről</strong>
 

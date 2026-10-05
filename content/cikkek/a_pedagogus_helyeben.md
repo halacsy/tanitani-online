@@ -14,7 +14,7 @@ excerpt: >-
   órán, mint másokra, ez általánosan igaz. Viszont mindegyik gyerek máshogy
   halad az anyaggal, van, aki lassabban, mások gyorsabban. Sőt, nyilván ki
   tudnánk szűrni…
-reads: 6763
+reads: 7044
 ---
 > Senki sem tökéletes, minden gyereknek másfajta igényei vannak, más nehézségei, ennek a kislánynak is megvan a sajátja. Igen, többet kell odafigyelnem rá az órán, mint másokra, ez általánosan igaz. Viszont mindegyik gyerek máshogy halad az anyaggal, van, aki lassabban, mások gyorsabban. Sőt, nyilván ki tudnánk szűrni mondjuk azt, aki a legjobban olvas. Akkor az összes többi gyerek probléma? Nem. 
 

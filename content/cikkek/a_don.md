@@ -6,8 +6,8 @@ authorSlugs:
   - mann-daniel
 date: '2026-07-15'
 tags:
-  - felvételi
-  - színház
+  - örökség
+  - pedagógus
 excerpt: >-
   Mann Dániel írása Verasztó Lajosról Ott volt az arcán minden, és a testével is
   megjelenítette a viszonyát a tartalomhoz, amivel dolgozott. Akár unhatta volna
@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/mann_veraszto.jpg
 coverAlt: Verasztó Lajos (jobbra) és a szerző
 coverTitle: Verasztó Lajos (jobbra) és a szerző
-reads: 1732
+reads: 1735
 ---
 <strong>Mann Dániel írása Verasztó Lajosról</strong>
 

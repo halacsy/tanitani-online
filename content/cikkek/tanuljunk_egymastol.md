@@ -15,7 +15,7 @@ excerpt: >-
   volt a projektünk neve, hogy gyerekszoba, célja pedig az, hogy tényleg egy
   gyerekszobaként funkcionáljon, hogy oda tudjanak jönni játszani a gyerekek,
   szervezett…
-reads: 10109
+reads: 10537
 ---
 <strong>Sikó Dórával, az Önkéntes Interkulturális Pedagógiai Munkacsoport vezetőjével Lencse Máté beszélgetett.</strong>
 

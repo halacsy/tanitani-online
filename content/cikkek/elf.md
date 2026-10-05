@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/elf.jpg
 coverAlt: 'Elf. Forrás: https://gizmodo.com'
 coverTitle: 'Elf. Forrás: https://gizmodo.com'
-reads: 6018
+reads: 6350
 ---
 <strong>Alexovics Ingrid&nbsp;előadása a XI. Miskolci Taní-tani Konferencián, 2018. február 2-án.</strong>
 

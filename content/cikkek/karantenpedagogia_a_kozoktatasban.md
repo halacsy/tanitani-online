@@ -12,7 +12,7 @@ excerpt: >-
   Tölgyessy Zsuzsanna írása Képzavarral kezdeném: a karantén sötétsége,
   félelmekkel teli bizonytalansága vajon képes-e fényt mutatni a jövőbe?
 coverImage: /sites/default/files/online_0.jpg
-reads: 3730
+reads: 3963
 ---
 <strong>Tölgyessy Zsuzsanna írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/gloviczki_zoltan2.jpg
 coverAlt: Gloviczki Zoltán
 coverTitle: Gloviczki Zoltán
-reads: 902
+reads: 1373
 ---
 <strong>Körkérdés az oktatásról 3.</strong>
 

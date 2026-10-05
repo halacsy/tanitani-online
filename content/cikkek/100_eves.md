@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/14037-w400.jpg
 coverAlt: 'Forrás: fortepan.hu'
 coverTitle: 'Forrás: fortepan.hu'
-reads: 7139
+reads: 7392
 ---
 <strong>Nemes Lipót A mozgófényképek és a gyermek című írásáról</strong>
 

@@ -10,7 +10,7 @@ tags:
   - pedagógusok
   - tanár-diák viszony
 excerpt: ''
-reads: 7324
+reads: 7621
 ---
 > A sikeres oktatási folyamat 3 lényegi összetevőre redukálható. Az egyik a diák, aki egyszerre „alapanyag” és célközönség; a másik a tanár, aki információt ad át és utat mutat; a harmadik a szervezet, amely keretet ad kettőjük találkozásának. Ha feszültség érezhető, az azt mutatja, hogy a három elem közti egyensúly megbomlott: az egyikben valami változás történt, vagy éppen most megy végbe, amitől megváltozott a másik kettőhöz való viszonya.
 

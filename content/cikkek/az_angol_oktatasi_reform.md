@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/wm_angol_cimlap.jpg
 coverAlt: 'Forrás: https://misslottsenglish.wordpress.com'
 coverTitle: 'Forrás: https://misslottsenglish.wordpress.com'
-reads: 9937
+reads: 10600
 ---
 <strong>Wilhelm Móni írása</strong>
 

@@ -12,7 +12,7 @@ excerpt: >-
   tanítására is, melyekkel nő a diákok problémamegoldó képessége, a tervezésük
   tudatossága, fejlődik a problémaérzékenységük és a kreativitásuk.
 coverImage: /sites/default/files/img025.jpg
-reads: 9451
+reads: 9950
 ---
 <strong>Virágos Erzsébet írása</strong>
 

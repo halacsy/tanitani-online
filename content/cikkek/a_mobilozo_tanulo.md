@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/forras_neteducatio.hu_.jpg
 coverAlt: 'Forrás: neteducatio.hu'
 coverTitle: 'Forrás: neteducatio.hu'
-reads: 5772
+reads: 6020
 ---
 <strong>Bene Viktória könyvismertetése</strong>
 

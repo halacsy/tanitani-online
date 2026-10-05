@@ -8,7 +8,7 @@ date: '2010-03-13'
 tags:
   - művészetpedagógia
 excerpt: ''
-reads: 7445
+reads: 7735
 ---
 <em>A néptánc-pedagógia voltaképpen hűséges kísérője a magyar pedagógia megújulási korszakainak. Nemcsak Kodály szellemisége – a modernizáció és a hagyomány egységességét illetően –, de a népi kollégiumok, a 60-as évek reformjai, kísérletei, a táncházmozgalom mind-mind egyenes úton vezettek a NAT-ba foglalt diadalig, majd megannyi görönggyel kikövezett, de járható út a helyi tantervekig, a művészeti iskolák új tanszakjaiig.</em>
 

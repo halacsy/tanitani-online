@@ -9,7 +9,7 @@ tags:
   - nevelés
 excerpt: Godó Bianka interjúja Így volt teljes az életem.
 coverImage: /sites/default/files/interjuu.jpg
-reads: 6260
+reads: 6585
 ---
 <strong>Godó Bianka interjúja</strong>
 

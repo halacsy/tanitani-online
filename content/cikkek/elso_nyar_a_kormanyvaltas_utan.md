@@ -6,9 +6,6 @@ authorSlugs:
   - dobos-orsolya
 date: '2026-09-02'
 tags:
-  - szülők
-  - pedagógusok
-  - egyházi iskolák
   - magániskolák
 excerpt: >-
   Az újraépülő oktatásirányítás és a nem állami, nem egyházi iskolák valósága.
@@ -17,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/iskola_0.jpg
 coverAlt: 'Forrás: https://www.magnific.com/'
 coverTitle: 'Forrás: https://www.magnific.com/'
-reads: 1453
+reads: 1455
 ---
 <strong>Az újraépülő oktatásirányítás és a nem állami, nem egyházi iskolák valósága.&nbsp;<span style="font-size: 1em;">Dobos Orsolya írása</span></strong>
 

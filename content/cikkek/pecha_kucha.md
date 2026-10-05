@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/pkn_banner_december.jpg
 coverAlt: Pecha Kucha Night plakátja
 coverTitle: Pecha Kucha Night plakátja
-reads: 8754
+reads: 9187
 ---
 <strong>A buli, ahol tanulni lehet</strong>
 

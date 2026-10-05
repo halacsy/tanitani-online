@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/munkakozben.jpg
 coverAlt: Az Igazgyöngy Alapfokú Művészetoktatási Intézmény gyakorlatából
 coverTitle: Az Igazgyöngy Alapfokú Művészetoktatási Intézmény gyakorlatából
-reads: 16270
+reads: 16969
 ---
 > Pedig a szociális kompetenciák – alkalmazkodás, együttműködés, bizalom a másik iránt, önbecsülés, pozitív énkép, tolerancia, szolidaritás, kommunikáció – hiánya egyre jobban érzékelhető a társadalomban.
 

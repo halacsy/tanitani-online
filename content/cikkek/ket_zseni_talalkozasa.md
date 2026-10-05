@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/hilfield7_420.jpg
 coverAlt: A Little Commonwealth épülete körüli mező
 coverTitle: A Little Commonwealth épülete körüli mező
-reads: 6233
+reads: 6583
 ---
 <strong>Miskolczy Zsuzsa írása A. S. Neill <em>Egy iskolamester kétségek</em> között című könyvéről</strong>
 

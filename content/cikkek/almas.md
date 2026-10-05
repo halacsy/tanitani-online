@@ -16,7 +16,7 @@ excerpt: >-
   kivételével a többiektől semmi jóra nem lehet számítani, mert a focistákon és
   az ufókon kívül más iránt nem igazán mutattak érdeklődést. Ebben az volt a
   tragikus, hogy…
-reads: 7217
+reads: 7455
 ---
 > A fiúk természetesen már első este átlopakodtak hozzánk, de egyedül Rony ügye alakult biztatóan, Ádival. Beszélgetés közben fölmértük, hogy Gáló és Ádi kivételével a többiektől semmi jóra nem lehet számítani, mert a focistákon és az ufókon kívül más iránt nem igazán mutattak érdeklődést. Ebben az volt a tragikus, hogy Kovi is ez utóbbi kategóriába tartozott, Gáló pedig másod-unokatestvérként számításba se jöhetett. Az első este egyébként ténylegesen tragédiába torkollt, Gáló telebeszélte Cséká fejét különféle rémtörténetekkel, így Cséká aludni sem bírt, annyira félt, egész éjjel azt hajtogatta, hogy jönnek értünk. Mármint az ufók. 
 

@@ -12,7 +12,7 @@ excerpt: >-
   viszály, az elégedetlenség belső tűzfészkei helyezkednek el, a másikban az
   „iskolabéke".
 coverImage: /sites/default/files/nelkuluk.jpg
-reads: 2085
+reads: 2382
 ---
 <strong>Trencsényi László írása</strong>
 

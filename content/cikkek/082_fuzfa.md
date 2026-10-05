@@ -13,7 +13,7 @@ excerpt: >-
   irodalomtörténész Koltón 2007 őszén a Szeptember végén című Petőfi-vers
   születésének 160. évfordulója alkalmából rendezett tudományos konferencia
   zárszavában. A Szeptember végén…
-reads: 16162
+reads: 16621
 ---
 „Az a kérdés, hogy egyáltalán mit kezdjünk a kultúrával, mit kezdjünk a költészettel a harmadik évezredben?” – fogalmazott Margócsy István irodalomtörténész Koltón 2007 őszén a <em>Szeptember végén </em> című Petőfi-vers születésének 160. évfordulója alkalmából rendezett tudományos konferencia zárszavában.<fn>A <i>Szeptember végén</i>-konferenciát és a belőle készült könyv kiadását (Savaria University Press, 2008) az (akkor még) Berzsenyi Dániel Főiskola (ma: Nyugat-magyarországi Egyetem) Tudományos Bizottsága, a Babeş–Bolyai Egyetem Szatmárnémeti Kihelyezett Tagozata, a szatmárnémeti Pro Magister Társaság és Vas Megye Közgyűlése támogatta.</fn>
 

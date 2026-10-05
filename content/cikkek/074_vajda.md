@@ -13,7 +13,7 @@ excerpt: >-
   fejezetére. E kérdésben magam is meglehetősen kritikus vagyok, de más okokból.
   Ezek kifejtésére máshol fogok sort keríteni.[/fn] Fóti Pétert minden bizonnyal
   világjobbító…
-reads: 8434
+reads: 8894
 ---
 <strong>Válasz Fóti Péter “Egy radikális iskolareform körvonalai” című írására</strong>[fn]Ebben az írásban nem reagálok Fóti Péter írásának tesztekkel kapcsolatos fejezetére. E kérdésben magam is meglehetősen kritikus vagyok, de más okokból. Ezek kifejtésére máshol fogok sort keríteni.[/fn]
 

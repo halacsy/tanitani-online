@@ -15,7 +15,7 @@ excerpt: >-
   valakinek nem lesz humora, akkor az iskola lehúzhatja a redőnyt. Ha egy
   iskola, nem olyan…
 coverImage: /sites/default/files/miskolczy_01.jpg
-reads: 8543
+reads: 9048
 ---
 <strong>Miskolczy Zsuzsa írása A. S. Neill <em>Egy iskolamester naplója</em> című könyvéről, amely idén 100 éves</strong>
 

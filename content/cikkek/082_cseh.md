@@ -15,7 +15,7 @@ excerpt: >-
   mindannyiunk számára. Vajon a tanulók azért járnak iskolába, hogy az általunk
   kínált ismereteket, a tudást annak rendje és módja szerint átvegyék tőlünk?
   Nem ezt tapasztaljuk…
-reads: 36786
+reads: 37508
 ---
 <em>Mit gondolunk mi pedagógusok arról, mi a feladatunk az iskolában? Abban egyetérthetünk, hogy a tudás átadása alapvető értékként jelenik meg mindannyiunk számára. Vajon a tanulók azért járnak iskolába, hogy az általunk kínált ismereteket, a tudást annak rendje és módja szerint átvegyék tőlünk? Nem ezt tapasztaljuk mindig a mindennapjainkban. Elgondolkodtunk azon, hogy mi lehet az elutasítás vagy a figyelmetlenség, esetleg érdektelenség mögött? A motivációk jelentős gyengülése és a lemaradások mivel magyarázhatók? Szülői háttérrel, a tanuló személyiségével, talán a pedagógusi szakértelem hiányával? Minden változik – és mi változtatunk a szemléletünkön, a tananyag szerkezetén, a jól beváltnak gondolt módszereinken? Ki mondja meg, hogyan tegyük? Kíváncsiak vagyunk arra, hogy mi vezethet egy sikeresebb, hatékonyabb, tervezhetőbb jövő felé?</em>
 

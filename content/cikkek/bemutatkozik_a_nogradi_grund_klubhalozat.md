@@ -14,7 +14,7 @@ excerpt: >-
   alábbi tudósítás a hálózat nógrádi közösségét mutatja be hitelesen. Ajánljuk
   az olvasó figyelmébe.
 coverImage: /sites/default/files/nogradi2.jpg
-reads: 44182
+reads: 44447
 ---
 > Az úttörőmozgalom jubileumára írt [cikkünk kapcsán](/szuletesnapi_nekrolog) többen érdeklődtek az írásban emlegetett „utódszervezet”, a Grund Klubhálózat működése iránt. Az alábbi tudósítás  a hálózat nógrádi közösségét mutatja be hitelesen. Ajánljuk az olvasó figyelmébe.
 

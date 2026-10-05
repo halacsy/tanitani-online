@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyorgyfalvay_katalin.jpg
 coverAlt: Györgyfalvay Katalin
 coverTitle: Györgyfalvay Katalin
-reads: 3223
+reads: 3565
 ---
 <strong>Györgyfalvay Katalin emléke. Mihályi József írása</strong>
 

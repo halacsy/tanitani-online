@@ -11,7 +11,7 @@ excerpt: >-
   Törzsök Károlyné írása Mivel én a teljes életet akartam megélni, vállaltam a
   dolgozó, a közéleti és az anyai szerepet is.
 coverImage: /sites/default/files/babi.jpg
-reads: 2462
+reads: 2831
 ---
 <strong>Törzsök Károlyné írása</strong>
 

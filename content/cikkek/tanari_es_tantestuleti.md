@@ -15,7 +15,7 @@ excerpt: >-
   amely a közösen végzett szellemi és pedagógiai munka alapja. A szervezett és
   rendszeres közös tevékenység, a demokratikus döntéshozatal és
   felelősségvállalás fejleszti a…
-reads: 20475
+reads: 21487
 ---
 <strong>Elhangzott az V. Miskolci Taní-tani Konferencián (2012. február 3.)</strong>
 

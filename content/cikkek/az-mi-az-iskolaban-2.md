@@ -15,7 +15,7 @@ excerpt: >-
   a fókusz a lehetőségeken volt: hogyan képes a mesterséges intelligencia
   differenciálni…
 coverImage: /sites/default/files/aischool_0.jpg
-reads: 1218
+reads: 1959
 ---
 <strong>Az MI és a NAT viszonya: adaptivitás a központi tanterv keretei között. Bessenyei István és Apáti Balázs írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   gyógyszerész, rendőr vagy a logikus tudást nélkülöző jobboldali történészek,
   irodalmárok…
 coverImage: /sites/default/files/freepik_copy.jpg
-reads: 5402
+reads: 6704
 ---
 <strong>Az iskola és a pedagógusi szakma jövője. Lannert Judit írása</strong>
 

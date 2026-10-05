@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/varga.jpg
 coverAlt: Varga Károly
 coverTitle: Varga Károly
-reads: 2550
+reads: 2811
 ---
 <strong>A rádiózás igaz doyenje, Varga Károly rádiós zenei nevelő 95 éves. Morva Péter írása</strong>
 

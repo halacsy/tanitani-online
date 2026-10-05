@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/ablak.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 11917
+reads: 12382
 ---
 <strong>...és hátrányos helyzet</strong>
 

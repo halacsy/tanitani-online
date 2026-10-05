@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/danitornya2_420.jpg
 coverAlt: Dani tornya
 coverTitle: Dani tornya
-reads: 12087
+reads: 12341
 ---
 <strong>Dr. Gyarmathy Éva írása</strong>
 

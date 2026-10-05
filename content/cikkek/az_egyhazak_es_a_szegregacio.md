@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/anker_die_dorfschule.jpg
 coverAlt: 'A képen Albert Anker: A falusi iskola. Forrás: https://www.meisterdrucke.hu/'
 coverTitle: 'A képen Albert Anker: A falusi iskola. Forrás: https://www.meisterdrucke.hu/'
-reads: 1467
+reads: 2034
 ---
 <strong><span style="font-size: 1em;">L. Ritók Nóra írása</span></strong>
 

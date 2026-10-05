@@ -13,7 +13,7 @@ excerpt: >-
   részt a körülöttük lévő világ alakításában, és mind gondolkodásban, mind
   cselekvésben szolidárisak legyenek, kritikusan gondolkozzanak.
 coverImage: /sites/default/files/tg113506.jpg
-reads: 3532
+reads: 3921
 ---
 <strong>Hol tart Magyarországon a globális nevelés?&nbsp;Bán Dávid írása</strong>
 

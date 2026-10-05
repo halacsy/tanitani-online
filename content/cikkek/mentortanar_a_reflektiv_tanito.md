@@ -11,7 +11,7 @@ excerpt: >-
   Németh Tibor írása Az oktatás hatékonyságát befolyásoló legfontosabb tényező a
   tanári munka minősége.
 coverImage: /sites/default/files/mentortanar.jpg
-reads: 4632
+reads: 4972
 ---
 <strong>Németh Tibor írása</strong>
 

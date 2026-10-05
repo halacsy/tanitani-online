@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/nahalka_szegregacio_cimlap.jpg
 coverAlt: 'Forrás: http://szuveren.hu/jog/menthetetlen-szegregacio'
 coverTitle: 'Forrás: http://szuveren.hu/jog/menthetetlen-szegregacio'
-reads: 12331
+reads: 12804
 ---
 <strong>…fogalmának értelmezése kapcsán. Nahalka István írása</strong>
 

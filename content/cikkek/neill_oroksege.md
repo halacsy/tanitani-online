@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/neill_0.jpg
 coverAlt: A. S. Neill. John Walmsley felvétele.
 coverTitle: A. S. Neill. John Walmsley felvétele.
-reads: 11412
+reads: 11904
 ---
 <strong>Megjegyzések A. S. Neill halálának 40. évfordulóján.</strong>
 

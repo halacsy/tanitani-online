@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/homalyos.jpg
 coverAlt: 'Forrás: https://www.thisismoney.co.uk/'
 coverTitle: 'Forrás: https://www.thisismoney.co.uk/'
-reads: 3068
+reads: 3611
 ---
 <strong>Bessenyei István megjegyzései Knausz Imre tanulmányához</strong>
 

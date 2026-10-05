@@ -9,7 +9,7 @@ tags:
   - szorongás
   - értékelés
 excerpt: ''
-reads: 21058
+reads: 21663
 ---
 <em>„Az egészség állapotát, melyet tévesen szüntelenül érzett jóllétnek vélünk, az életerő apró akadályoztatásai teszik, egyetemben a közéjük vegyült kedvezésekkel; hisz a mondott állapot nem másból áll, mint szünetekkel (az örökké közbe iktatódó fájdalom szüneteivel) egymásra következő kellemes érzetekből. A fájdalom a ténykedésre serkentő fullánk, s csak a ténykedésben érzékeljük életünket; a fájdalom nélkül élettelenség köszöntene ránk.”</em>
 

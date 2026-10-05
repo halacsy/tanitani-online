@@ -16,7 +16,7 @@ excerpt: >-
   Végigolvasva a szöveget, mintha 8 évet ugrottunk volna vissza az időben.
   Egészen pontosan a…
 coverImage: /sites/default/files/christmas-3013762_640.jpg
-reads: 12171
+reads: 12812
 ---
 <strong>Nyílt levél Forgács Istvánnak. Lévai Julianna és Szabó Anna írása</strong>
 

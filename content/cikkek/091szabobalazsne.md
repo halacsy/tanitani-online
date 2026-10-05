@@ -14,7 +14,7 @@ excerpt: >-
   Kőbányára a diákotthonba, nem ismerem a fővárost. Tele vagyok szorongással,
   félelemmel. Kihez fordulhatok? Kitől kérhetek útbaigazítást? Riadtan
   álldogálok, és ekkor a…
-reads: 7974
+reads: 8251
 ---
 1954\. augusztus utolsó napja.<br><br><img alt="kép1" src="/sites/default/files/berhidi7.jpg" style="width: 343px; height: 458px; float: left; margin-left: 10px; margin-right: 10px;">Háromszáz kilométeres utazás után megérkezem a fővárosi középiskolába, ahol másnap kezdődik az új tanév. El kell jutnom Kőbányára a diákotthonba, nem ismerem a fővárost. Tele vagyok szorongással, félelemmel. Kihez fordulhatok? Kitől kérhetek útbaigazítást? Riadtan álldogálok, és ekkor a lépcsőn álló csoportból elindul felém egy fiatal nő, és ezt kérdezi: „Kislány, honnan jöttél?” „Büdszentmihályról” – válaszolok. „Ki kísért el?” „Senki, egyedül jöttem.” „Jesszusom, ilyen messziről egyedül? Pécsi lányok, – kiált egy csivitelő csoport felé – hogy mentek ki Kőbányára?” „Taxival, Joli néni.” „Ezt a lányt vigyétek magatokkal!” „Sokan vagyunk egy kocsira” – szabódnak a lányok. „Nem baj, húzódjatok összébb, el ne hagyjátok őt!” – hangzik az ellentmondást nem tűrő tanári parancs. Oldódik a feszültség, elszáll a félelmem. Már nem vagyok egyedül ebben a nagy városban, mellém állt Berhidi Jolán tanárnő.<br> 
 

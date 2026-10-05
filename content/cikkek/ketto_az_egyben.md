@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/eke_rigo_fann_cimlap.jpg
 coverAlt: Eke-Rigó Fanni rajza
 coverTitle: Eke-Rigó Fanni rajza
-reads: 8625
+reads: 8955
 ---
 <strong>NAT és gyerekközpontúság a vizuális nevelésben. L. Ritók Nóra írása</strong>
 

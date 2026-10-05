@@ -10,7 +10,7 @@ tags:
   - multikulturális nevelés
 excerpt: Németh Tibor írása A réunioni iskolák továbbra is a múlt örökségét nyögik.
 coverImage: /sites/default/files/reunion_cimlap.jpg
-reads: 5828
+reads: 6245
 ---
 <strong>Németh Tibor írása</strong>
 

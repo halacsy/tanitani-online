@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/igazgyongy_0.jpg
 coverAlt: 'Toldi Tanoda. Forrás: https://igazgyongyalapitvany.hu'
 coverTitle: 'Toldi Tanoda. Forrás: https://igazgyongyalapitvany.hu'
-reads: 6738
+reads: 7188
 ---
 <strong>L. Ritók Nóra írása</strong>
 

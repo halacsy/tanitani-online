@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kulcsar_cimlap_0.jpg
 coverAlt: A Pesthidegkúti Waldorf Iskola
 coverTitle: A Pesthidegkúti Waldorf Iskola
-reads: 9114
+reads: 9489
 ---
 <strong>Kulcsár Gáborral, a 25 éves Pesthidegkúti Waldorf Iskola képviselőjével Pajorné Kugelbauer Ida beszélgetett</strong>
 

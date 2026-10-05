@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/barany_zoltan.jpg
 coverAlt: Bárány Zoltán
 coverTitle: Bárány Zoltán
-reads: 1669
+reads: 2054
 ---
 <strong>Bárány Zoltán monor-nagytemplomi református lelkipásztor emlékező beszéde a holokauszt 80. évfordulója alkalmából Monoron 2024. július 12-én</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   egységgé állnak össze. A most következő, régen érlelődő gondolatokat egy –
   valaha hozzám közel álló – nemzedéktársam halálhíre hívta elő. Nem ő az első,
   aki a halálba itta…
-reads: 6749
+reads: 7046
 ---
 (Évek, hónapok, évtizedek során raktározódnak mondatok-gondolatok valahol hátul, az agyban, és várakoznak. Aztán újra előkerülnek, és többé-kevésbé egységgé állnak össze. A most következő, régen érlelődő gondolatokat egy – valaha hozzám közel álló – nemzedéktársam halálhíre hívta elő. Nem ő az első, aki a halálba itta magát közülünk – alig 50 évesen. Szeretném, ha kiderülne, hogy rosszul látom magunkat. Ugyanakkor Te, aki a nemzedékemhez tartozol és ezt olvasod, de nem érzed magadra vonatkozónak, kérlek, ne sértődj meg. Nem szeretnék általánosítani, de nem tudom nem elmondani, hogy látok bizonyos törvényszerűségeket. Ezért mondhatnám azt is: „akinek nem inge, ne vegye magára” – de inkább így mondom: ha megbántana valamelyik állítás, vedd úgy, hogy csak magamról beszélek, vagy csak én látom így magunkat, a tévedés jogának fenntartásával.)<br> 
 

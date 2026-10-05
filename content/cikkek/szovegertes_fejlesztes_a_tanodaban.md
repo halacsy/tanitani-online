@@ -13,7 +13,7 @@ excerpt: >-
   fejletlensége miatt a tanulók egy része nem élhet át sikerélményt a tanulás
   során...
 coverImage: /sites/default/files/szovegertes_kep.jpg
-reads: 8362
+reads: 8824
 ---
 <strong>Lehetőségek és nehézségek. Fejes József Balázs írása</strong>
 

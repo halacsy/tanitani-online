@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   Jan Joest of Kalkar: A Gyermek Krisztus imádata (1515 körül) Forrás:
   https://www.metmuseum.org/
-reads: 5565
+reads: 6150
 ---
 <strong>Csizmárné Gede Erika Judit írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   emberek. De az ilyen helyzetben lévők között is vannak tehetségesek, akik
   többre hivatottak. Nekik segíteni kell, hogy ki tudjanak törni, hogy
   lehetőséget kapjanak egy jobb…
-reads: 11614
+reads: 11975
 ---
 <em>A szerzők pedagógia alapképzési szakos egyetemi hallgatók.</em>
 

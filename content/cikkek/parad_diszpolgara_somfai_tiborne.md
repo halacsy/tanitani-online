@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/elvira_neni.jpg
 coverAlt: Somfai Tiborné
 coverTitle: Somfai Tiborné
-reads: 3005
+reads: 3357
 ---
 <strong>…Elvira néni. Sós Tamás írása</strong>
 

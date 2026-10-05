@@ -17,7 +17,7 @@ excerpt: >-
   munkáját magas szinten értő, könnyedén tanító, akkor ez a gyerekek
   viselkedésében, teljesítményében mérhető. Észrevehető eredmény lesz, hogy a
   gyerek nem fog késni, hiányozni…
-reads: 15494
+reads: 15975
 ---
 <strong>Kovácsné Nagy Emesével, a hejőkeresztúri IV. Béla Általános Iskola igazgatójával Knausz Imre beszélgetett</strong>
 

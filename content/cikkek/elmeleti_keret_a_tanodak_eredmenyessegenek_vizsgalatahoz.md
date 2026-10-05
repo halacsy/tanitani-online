@@ -14,7 +14,7 @@ excerpt: >-
   helyzetű, tanulásban segítségre szoruló fiataloknak, amely önsegítő
   (self-help) szemléletű kortársi közösséget hozhat létre.
 coverImage: /sites/default/files/1509211_916022118420277_402167688833515777_n.jpg
-reads: 6807
+reads: 7147
 ---
 <strong>...&nbsp;a tanodák eredményességének vizsgálatához.</strong> <strong>Vámos Krisztina írása</strong>
 

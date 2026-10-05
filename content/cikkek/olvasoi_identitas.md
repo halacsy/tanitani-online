@@ -9,10 +9,7 @@ authorSlugs:
   - molnar-balazs
 date: '2026-09-08'
 tags:
-  - pedagógusok
-  - nevelés
-  - szülők
-  - pedagóguspálya
+  - pedagógusképzés
 excerpt: >-
   A leendő tanárok olvasási attitűdjének vizsgálata. Géczi-Laskai Judit, Kapusi
   Angéla, Kelemen Judit és Molnár Balázs írása A nem megfelelően közvetített
@@ -22,7 +19,7 @@ excerpt: >-
 coverImage: /sites/default/files/reader.jpg
 coverAlt: 'Harold Knight festménye. Forrás: https://artuk.org/'
 coverTitle: 'Harold Knight festménye. Forrás: https://artuk.org/'
-reads: 554
+reads: 561
 ---
 <strong><span style="font-size: 12px;">A leendő tanárok olvasási attitűdjének vizsgálata. Géczi-Laskai Judit, Kapusi Angéla, Kelemen Judit és Molnár Balázs írása</span></strong>
 
@@ -92,7 +89,7 @@ Fenyő D. György 2017. A kötelező olvasmányok problémaköre. In: Hansági �
 
 Fenyő D. György 2022. <em>Az irodalomtanítás módszertana: Éthosz és praktikák</em>. Tea Kiadó. Budapest.
 
-Sipos Zsóka 2019. [Gyenge olvasási képesség és pedagógiai relevanciái](https://www.anyanyelv-pedagogia.hu/img/keptar/2019_4/Anyp_XII_2019_4_1.pdf%20). <em>Anyanyelv-pedagógia.</em> 12. évf. 4. sz. 5–20.
+Sipos Zsóka 2019. [Gyenge olvasási képesség és pedagógiai relevanciái](<https://www.anyanyelv-pedagogia.hu/img/keptar/2019_4/Anyp_XII_2019_4_1.pdf >). <em>Anyanyelv-pedagógia.</em> 12. évf. 4. sz. 5–20.
 
 W1 = [Nemzeti alaptanterv](https://magyarkozlony.hu/dokumentumok/3288b6548a740b9c8daf918a399a0bed1985db0f/megtekintes). Magyar Közlöny. 2020. évi 17. sz. 290–446.
 

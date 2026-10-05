@@ -16,7 +16,7 @@ excerpt: >-
   találkozom az elkövetkező években. Augusztus 24-e volt. Forrón perzselt a New
   York-i nyár, engem pedig kevesebb, mint egy hét választott el az első
   iskolaévem megkezdésétől.…
-reads: 19587
+reads: 20204
 ---
 Az egész négy éve kezdődött.<br><br>Amikor felszálltam a Budapest – New York közvetlen Malév járatra, még nem sejthettem, hogy életem legtöbb kihívásával találkozom az elkövetkező években.<br><br>Augusztus 24-e volt. Forrón perzselt a New York-i nyár, engem pedig kevesebb, mint egy hét választott el az első iskolaévem megkezdésétől. Három nap és 10-20 interjú után ajánlatot kaptam egy felső tagozatos (middle school) matematikatanári állás betöltésére. Már két nappal az iskolakezdés előtt megmutatták a termem. Az ajtaján Vacancy (betöltendö) felirat filctollal áthúzva, mellette a nevem kisbetűvel: vadas, Math, 708. az utóbbi az osztályom száma.
 

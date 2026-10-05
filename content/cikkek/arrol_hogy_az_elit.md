@@ -16,7 +16,7 @@ excerpt: >-
   / várunk el idegen nyelvi kommunikációt a középiskolásoktól, ha idegen nyelven
   csak nyelvszakos tanáraik kommunikációképesek? A legrosszabb történik, ami
   csak lehetséges: nem nyújtunk mintát a diákok számára. Nagyon egyszerűsítve a…
-reads: 15444
+reads: 16046
 ---
 <strong>Csapongás <a href="http://www.nyest.hu/hirek/az-elitiskolak-tanuloi-is-kiszorulhatnak-a-felsooktatasbol">a Nyelv és Tudomány cikkének</a> apropóján</strong>
 

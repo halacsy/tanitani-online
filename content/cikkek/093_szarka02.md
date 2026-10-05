@@ -12,7 +12,7 @@ tags:
   - önkéntesség
   - neveléstörténet
 excerpt: ''
-reads: 7692
+reads: 7997
 ---
 Hiánypótló tanulmánygyűjteményt állított össze Trencsényi László, amely nem csupán alapos elméleti, feltáró, visszaemlékezésszerű dokumentációk sora, hanem mélyinterjúkon nyugvó empirikus kutatások eredményeit is tartalmazó kötet. Felépítése, az egymást követő huszonegy tanulmány egy „fejlődési” ívet alkot. Többeknek egy mára már kissé emlékké fakult témakör jelenti Jorgosz jelentéseinek kiindulási alapját és tulajdonképpen az egyes részeken végiggyűrűző fókuszpontját, azaz az úttörő- és cserkészmozgalmak, az 1960–1990-es évek közötti időszak pedagógiai, pedagógusi szerepvállalásait a középiskolások közösségépítő és személyiségfejlesztő (sokszor önkéntes) munkájában. Gondolatmenete a Gáspár László-féle munkaiskola modelljétől a különböző kísérleti iskolákon át a középiskolásokért „harcba szálló” hazai és szlovák kulturális műhelyeken keresztül vezet egészen a gyermekvilág, gyermekkultúra érdekeinek képviseletéig nem egyszer éles kritikai fricskával világítva rá jelen korunk deficitjeire.
 

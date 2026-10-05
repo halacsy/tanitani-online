@@ -13,7 +13,7 @@ excerpt: >-
   hátrányos helyzetűek aránya, akik között bizony előfordul, hogy még a
   nyomhagyás örömét sem élték át azokkal az eszközökkel, amelyeket használunk.
 coverImage: /sites/default/files/gondolatok_cimlap.jpg
-reads: 3201
+reads: 3421
 ---
 <strong>...és a vizuális nevelésről. L. Ritók Nóra írása</strong>
 

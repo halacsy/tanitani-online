@@ -11,7 +11,7 @@ excerpt: >-
   Simon Mária írása Janusz Korczak: Gettónapló. Budapest, 2017, KUK Könyv és
   Kávé Kft.
 coverImage: /sites/default/files/korczak.jpg
-reads: 5298
+reads: 5758
 ---
 <strong>Simon Mária írása</strong>
 

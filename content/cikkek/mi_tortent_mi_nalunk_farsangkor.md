@@ -13,7 +13,7 @@ excerpt: >-
   Körömi Gábor, Szabó Zsófia és Tóth Zsuzsa Judit írása. Művészeti iskolás
   csoportok farsangja Csepelen 2015. február 16-án.
 coverImage: /sites/default/files/p1490958.jpg
-reads: 5700
+reads: 5998
 ---
 <strong>Körömi Gábor, Szabó Zsófia és Tóth Zsuzsa Judit írása.</strong>
 

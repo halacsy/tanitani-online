@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/nemeth_foldine.jpg
 coverAlt: Földiné Szűcs Krisztina és Németh Tibor
 coverTitle: Földiné Szűcs Krisztina és Németh Tibor
-reads: 2342
+reads: 2607
 ---
 <strong><span style="font-size: 1em;">Németh Tibor interjúja Földiné Szűcs Krisztinával</span></strong>
 

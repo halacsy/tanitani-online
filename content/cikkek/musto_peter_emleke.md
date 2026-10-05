@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/musto.jpg
 coverAlt: 'Forrás: https://jezsuitakiado.hu/'
 coverTitle: 'Forrás: https://jezsuitakiado.hu/'
-reads: 1787
+reads: 2113
 ---
 <strong>Kardos Ferenc interjúja 2021-ből</strong>
 

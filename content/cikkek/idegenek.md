@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/adolescence.jpg
 coverAlt: 'Forrás: https://theplaylist.net/'
 coverTitle: 'Forrás: https://theplaylist.net/'
-reads: 1444
+reads: 1748
 ---
 <strong>Alexovics Ingrid filmismertetője</strong>
 

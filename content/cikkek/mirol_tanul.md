@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/alexovics_holokauszt_cimlap.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 8047
+reads: 8353
 ---
 <strong>Alexovics Ingrid előadása. Elhangzott a VIII. Miskolci Taní-tani Konferencián 2015. január 30-án</strong>
 

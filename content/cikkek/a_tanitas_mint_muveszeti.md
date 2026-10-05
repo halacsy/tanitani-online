@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiskonyv.jpg
 coverAlt: Kis könyv a vizuális művészeti nevelésről
 coverTitle: Kis könyv a vizuális művészeti nevelésről
-reads: 6332
+reads: 6602
 ---
 <strong>A tanítás mint művészeti alkotótevékenység</strong>
 

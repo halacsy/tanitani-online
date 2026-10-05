@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/903728_632700513422140_1783175474_o.jpg
 coverAlt: Váradi István
 coverTitle: Váradi István
-reads: 6563
+reads: 6803
 ---
 > Április 6-án a Garabonciás Együttes 25. születésnapja alkalmából rendezett előadás keretében vehette át a Magyar Pedagógiai Társaság Mozgalompedagógiai Szakosztálya által adományozott Vasvári-diplomát Váradi István, az együttes alapítója.
 

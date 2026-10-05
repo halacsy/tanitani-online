@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/csontvary_maria_0.jpg
 coverAlt: 'Csontváry Kosztka Tivadar: Mária kútja Názáretben. Részlet'
 coverTitle: 'Csontváry Kosztka Tivadar: Mária kútja Názáretben. Részlet'
-reads: 1100
+reads: 1367
 ---
 <strong>Gloviczki Zoltán előadása elhangzott a Magyar Pedagógiai Társaság Az iskola jövője – Utópiák és disztópiák c. konferenciáján 2025. május 16-án.</strong>
 

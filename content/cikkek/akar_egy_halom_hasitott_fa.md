@@ -14,7 +14,7 @@ excerpt: >-
   gyerekeknek. Nagyobb baj, hogy nem tudatosodik: ezzel még az is veszít, aki
   látszólag jól…
 coverImage: /sites/default/files/felveteli.jpg
-reads: 10170
+reads: 10666
 ---
 <strong>A felvételik utánérzése. Kerényi Mari írása</strong>
 

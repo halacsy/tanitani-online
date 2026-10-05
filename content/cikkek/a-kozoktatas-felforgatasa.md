@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/felforgatokonyv_hang.hu_.jpg
 coverAlt: 'Forrás: Magyar Hang'
 coverTitle: 'Forrás: Magyar Hang'
-reads: 2151
+reads: 3335
 ---
 <strong>Knausz Imre a Felforgatókönyv közoktatási fejezetéről</strong>
 

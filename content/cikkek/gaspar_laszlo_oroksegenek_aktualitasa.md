@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/22014662_1382276021870587_2044741141_n.png
 coverAlt: A Gulyás-fivérek (Balázs Béla Stúdió) Kísérleti iskola c. filmjéből
 coverTitle: A Gulyás-fivérek (Balázs Béla Stúdió) Kísérleti iskola c. filmjéből
-reads: 3941
+reads: 4194
 ---
 <strong>Kovács Sándor előadása</strong>
 

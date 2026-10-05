@@ -16,7 +16,7 @@ excerpt: >-
   attól változik meg – ha egyáltalán –, hogy egy-két fontos ember egy-két fontos
   döntést hoz, hanem ezernyi ember apró kezdeményezéseitől. Hogy a történelem –
   a…
-reads: 14504
+reads: 15115
 ---
 > Trencsényi makacs memóriája nem egyszerűen lelki adottság és technika. Sokkal inkább világnézet. Ő ugyanis tudja, amit sokszor elfelejtünk, hogy a világ nem attól változik meg – ha egyáltalán –, hogy egy-két fontos ember egy-két fontos döntést hoz, hanem ezernyi ember apró kezdeményezéseitől. Hogy a történelem – a neveléstörténet? – folyamát apró erek és patakok táplálják, és azt hiszem, rosszul érezné magát, ha egy is közülük figyelmen kívül maradna.
 

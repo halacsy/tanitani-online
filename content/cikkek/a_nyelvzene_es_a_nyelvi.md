@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/torpegem.jpg
 coverAlt: 'Törpegém. Fotó: Kalafut Péter. Forrás: http://pozitivnap.hu/'
 coverTitle: 'Törpegém. Fotó: Kalafut Péter. Forrás: http://pozitivnap.hu/'
-reads: 11097
+reads: 11613
 ---
 <strong>H. Tóth István írása</strong>
 

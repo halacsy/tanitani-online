@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/rtegek.jpg
 coverAlt: Rétegek
 coverTitle: Rétegek
-reads: 3412
+reads: 3728
 ---
 <strong>Műhelykonferencia a váci Apor Vilmos Katolikus Főiskolán 2019. április 12-én. Csémi Lili és Tarcsay Anita írása</strong>
 

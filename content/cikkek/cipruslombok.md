@@ -20,7 +20,7 @@ excerpt: >-
 coverImage: /sites/default/files/kelemen-elemer.jpg
 coverAlt: 'Forrás: https://www.tok.elte.hu/'
 coverTitle: 'Forrás: https://www.tok.elte.hu/'
-reads: 2487
+reads: 2924
 ---
 <strong>Kelemen Elemér (1937–2022) emlékére</strong>
 

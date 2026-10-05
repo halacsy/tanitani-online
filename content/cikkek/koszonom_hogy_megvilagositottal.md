@@ -13,7 +13,7 @@ excerpt: >-
   Praw Dziecka, Warszawa, 2018. (Janusz Korczak: Egyedül Istennel – Azok imája,
   akik nem imádkoznak)
 coverImage: /sites/default/files/samnasam.png
-reads: 1617
+reads: 1867
 ---
 <strong>Bogdán Péter írása egy hazánkban nem ismert Korczak-könyvről</strong>
 

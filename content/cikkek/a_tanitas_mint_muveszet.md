@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/magdi_neni_jobb-w400.jpg
 coverAlt: Magdi néni
 coverTitle: Magdi néni
-reads: 11558
+reads: 11804
 ---
 <strong>Szarka-Bögös Réka interjúja Frittmann Lászlóné Magdi nénivel 2013. október 23-án</strong>
 

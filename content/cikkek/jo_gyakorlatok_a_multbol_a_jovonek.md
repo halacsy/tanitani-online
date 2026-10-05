@@ -19,7 +19,7 @@ excerpt: >-
 coverImage: /sites/default/files/lollbach_emma.jpg
 coverAlt: Löllbach Emma
 coverTitle: Löllbach Emma
-reads: 7989
+reads: 8340
 ---
 <strong>Benkő Zsuzsanna írása a&nbsp;130 évvel ezelőtt született Domokosné Löllbach Emma reformpedagógus emlékére</strong>
 

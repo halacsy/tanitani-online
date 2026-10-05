@@ -12,7 +12,7 @@ excerpt: >-
   Radó Péter írása A szelekció felerősíti a hátrányok hatását, az integráció
   lecsökkenti. Ez ilyen egyszerű.
 coverImage: /sites/default/files/right-2620946_640.jpg
-reads: 9907
+reads: 10600
 ---
 <strong>Radó Péter írása</strong>
 

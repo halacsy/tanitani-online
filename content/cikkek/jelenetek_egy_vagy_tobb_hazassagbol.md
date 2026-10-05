@@ -11,7 +11,7 @@ excerpt: >-
   avagy tiszakécskei színjátszók Kecskeméten. Trencsényi László írása Dübörgő
   taps a siker jele.
 coverImage: /sites/default/files/image001_0.jpg
-reads: 3339
+reads: 3556
 ---
 <strong>avagy tiszakécskei színjátszók Kecskeméten. Trencsényi László írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kutatopontok.png
 coverAlt: Kutatópontok
 coverTitle: Kutatópontok
-reads: 1101
+reads: 1395
 ---
 <strong>Amikor a magyar nyelv többféleképpen szól. Pintér Lilla írása <em>A magyar nyelv a Kárpát-medencében</em> c. kiállításról</strong>
 

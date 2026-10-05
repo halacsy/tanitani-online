@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/74_0.jpg
 coverAlt: 'A kép forrása: https://www.schofieldandsims.co.uk/'
 coverTitle: 'A kép forrása: https://www.schofieldandsims.co.uk/'
-reads: 2040
+reads: 2367
 ---
 <strong>Knausz Imre írása.&nbsp;<span style="font-size: 1em;">Elhangzott Debrecenben, az Országos Neveléstudományi Konferencián 2024. október 25-én.</span></strong>
 

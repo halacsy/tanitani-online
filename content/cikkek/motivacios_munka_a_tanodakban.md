@@ -15,7 +15,7 @@ excerpt: >-
   arra, hogy felfedezzék saját erőforrásaikat, fejlődjenek, és megéljék az
   odatartozás élményét.
 coverImage: /sites/default/files/tanoda.jpg
-reads: 1056
+reads: 1379
 ---
 <strong>Fazekas Elek írása</strong>
 

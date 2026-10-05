@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/baltazar_cimlapra_0.jpg
 coverAlt: Jelenet Az üstökös c. előadásból
 coverTitle: Jelenet Az üstökös c. előadásból
-reads: 3309
+reads: 3597
 ---
 <strong>Puskás Panni beszélget Marton Évával, az Arany János Gimnázium pedagógusával</strong>
 

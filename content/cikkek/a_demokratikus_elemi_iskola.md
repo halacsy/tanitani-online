@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/osztalyterem.jpg
 coverAlt: 'Forrás: http://journey2finland.blogspot.com'
 coverTitle: 'Forrás: http://journey2finland.blogspot.com'
-reads: 5758
+reads: 6245
 ---
 <strong>Egy módszertani szakember megjegyzései</strong>. <strong>Erika Brinkmann írása</strong>
 

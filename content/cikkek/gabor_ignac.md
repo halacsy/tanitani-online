@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/gabor_marianne_kepe.jpg
 coverAlt: Gábor Marianne képe
 coverTitle: Gábor Marianne képe
-reads: 5279
+reads: 5515
 ---
 <strong>Mártírhalálának 71. évfordulójára. Kiss Hajnal írása</strong>
 

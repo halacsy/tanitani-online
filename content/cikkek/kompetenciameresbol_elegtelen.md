@@ -13,7 +13,7 @@ excerpt: >-
   Remélem sikerült láttatnom, hogy miért „érdemes osztályozni” a
   kompetenciamérést, és miért „nem érdemes” ezt beírni a naplóba.
 coverImage: /sites/default/files/measuring.jpg
-reads: 1689
+reads: 2103
 ---
 <strong style="font-size: 1em;">Jó-e nekünk, ha kompetenciaméréseket osztályozzák? Asztalos György írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   szocializációs körülmények függvényében. Takács Etel Alapítvány, Budapest,
   2019.
 coverImage: /sites/default/files/boritok.png
-reads: 2933
+reads: 3181
 ---
 <strong>Szabolcs Éva recenziói a Takács Etel Alapítvány köteteiről</strong>
 

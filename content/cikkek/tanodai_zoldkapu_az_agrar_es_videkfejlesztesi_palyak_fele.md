@@ -7,9 +7,7 @@ authorSlugs:
 date: '2026-06-06'
 tags:
   - tanoda
-  - pályaorientáció
-  - tanulás
-  - felsőoktatás
+  - hátrányos helyzet
 excerpt: >-
   …az agrár és vidékfejlesztési pályák felé. Balogh Gyula írása A tét világos:
   ha a vidéki fiatalok kimaradnak a jövő agrár- és zöldgazdasági tudásából, a
@@ -19,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanodasok01.png
 coverAlt: Tanodások. A szerző felvétele
 coverTitle: Tanodások. A szerző felvétele
-reads: 1543
+reads: 1545
 ---
 <strong><span style="font-size: 12px;">…az agrár és vidékfejlesztési pályák felé. Balogh Gyula írása</span></strong>
 

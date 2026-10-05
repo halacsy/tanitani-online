@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/img_0692.jpg
 coverAlt: dr. Sótonyi Sándor
 coverTitle: dr. Sótonyi Sándor
-reads: 1943
+reads: 2261
 ---
 <strong>A barát, Dr. Riez Ferenc búcsúbeszéde 2022. október 28-án Kaposváron, a Keleti temetőben</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/cimszavak2_1.jpg
 coverAlt: 'Forrás: shutterstock.com'
 coverTitle: 'Forrás: shutterstock.com'
-reads: 2098
+reads: 2642
 ---
 <strong>Bessenyei István írása</strong>
 

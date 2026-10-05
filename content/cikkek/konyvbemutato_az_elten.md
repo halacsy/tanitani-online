@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/torokszentmiklos_470.jpg
 coverAlt: A "Törökszentmiklós-csomag"
 coverTitle: A "Törökszentmiklós-csomag"
-reads: 5255
+reads: 5413
 ---
 > Az ELTE Bölcsészettudományi Kar Történettudományi Tanszékének könyvtárában Helytörténet az oktatásban címmel került sor konferenciára.
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/graf_zsuzsa.jpg
 coverAlt: Gráf Zsuzsanna
 coverTitle: Gráf Zsuzsanna
-reads: 943
+reads: 1207
 ---
 <b>Uzsalyi Bence interjúja Gráf Zsuzsával, az Angelica Leánykar vezetőjével. Elhangzott a Bartók Rádióban 2025. január 5-én. Szerkesztett változat</b>
 

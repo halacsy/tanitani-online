@@ -11,7 +11,7 @@ excerpt: >-
   Lőrincz Andrea írása Rossz emberből van már elég, de a jó emberből még több
   kell erre a világra.
 coverImage: /sites/default/files/chaplin_0.png
-reads: 5010
+reads: 5350
 ---
 <strong>Lőrincz Andrea írása</strong>
 

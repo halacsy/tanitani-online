@@ -14,7 +14,7 @@ excerpt: >-
   lélek nélkül kiadott feladatként, pedagógiai tevékenységet, tanácsot, segítést
   mellőzve készítették a gyerekek. És az is, hogy évek óta így készítik a
   rajzaikat. És ott…
-reads: 8672
+reads: 8905
 ---
 <strong>…rajzpályázatokról, vizuális nevelésről</strong>
 

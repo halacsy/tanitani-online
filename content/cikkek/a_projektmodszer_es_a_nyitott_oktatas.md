@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/peschel_1.jpg
 coverAlt: 'A kép forrása: https://serc.carleton.edu/'
 coverTitle: 'A kép forrása: https://serc.carleton.edu/'
-reads: 6188
+reads: 6596
 ---
 <strong>Falko Peschel írása. Fordította: Fóti Péter, Herbert Dóra, korrigálta: Herbert Dóra, Vikukel Zsuzsa.</strong>
 

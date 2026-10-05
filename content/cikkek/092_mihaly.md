@@ -13,7 +13,7 @@ excerpt: >-
   van.” Csíkszentmihályi Mihály Mostanában egyre több szó esik az ember
   alkotóképességéről. Ennek fontosságáról és hiányáról az egyes ember és az
   egész társadalom…
-reads: 9783
+reads: 10073
 ---
 <em>„A kreatív egyéniség arról ismerszik meg, hogy célja elérése érdekében képes szinte bármely szituációhoz&nbsp; alkalmazkodni, és bármivel boldogul, ami kéznél van.”<br>Csíkszentmihályi Mihály</em>
 

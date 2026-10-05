@@ -13,7 +13,7 @@ excerpt: >-
   szöveg megjelent L. Ritók Nóra blogján . Főmunkatársunk beszédét a rendkívüli
   helyztere való tekintettel közöljük újra.
 coverImage: /sites/default/files/hosok_tere.jpg
-reads: 5514
+reads: 5731
 ---
 <strong>L. Ritók Nóra beszéde 2017. április 12-én a a Hősök terén a&nbsp;<em style="padding: 0px; margin: 0px; outline: none;">Hősök Vétója – Heroes’ Veto</em>&nbsp;címet viselő tüntetésen, amit a civiltörvény ellen szerveztek.</strong>
 

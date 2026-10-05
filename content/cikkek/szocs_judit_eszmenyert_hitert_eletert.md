@@ -12,7 +12,7 @@ excerpt: 'Hatvani Istvánné ismerteti Szőcs Judit könyvét Exit Kiadó, Koloz
 coverImage: /sites/default/files/szocs_judit.jpg
 coverAlt: 'Szőcs Judit: Eszményért, hitért, életért'
 coverTitle: 'Szőcs Judit: Eszményért, hitért, életért'
-reads: 1733
+reads: 2116
 ---
 <strong>Hatvani Istvánné ismerteti Szőcs Judit könyvét</strong>
 

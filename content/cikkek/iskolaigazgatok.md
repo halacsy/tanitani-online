@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ritok_nora_tuntetes.jpg
 coverAlt: 'Forrás: hvg.hu'
 coverTitle: 'Forrás: hvg.hu'
-reads: 9740
+reads: 10099
 ---
 <strong>L. Ritók Nóra írása</strong>
 

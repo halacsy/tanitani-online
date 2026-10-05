@@ -14,7 +14,7 @@ excerpt: >-
   az iskola tetőterének galériájában. Az érdeklődőbb diákok közül egy kisebb
   csoport részt is vehet a kiállítások rendezésében, elmehet a művész műtermébe,
   és betekintést…
-reads: 14982
+reads: 15343
 ---
 > Évente 3-4 alkalommal neves művész, művészettörténész, író (köztük Szűts Miklós festőművész, Parti Nagy Lajos író, költő) nyit meg kortárs kiállítást az iskola tetőterének galériájában. Az érdeklődőbb diákok közül egy kisebb csoport részt is vehet a kiállítások rendezésében, elmehet a művész műtermébe, és betekintést nyerhet abba, hogy hogyan válogat össze egy kiállítást egy műértő.
 

@@ -12,7 +12,7 @@ excerpt: >-
   játék legelemibb dilemmája a rövid távú taktika és a hosszú távú stratégia
   közti választás.
 coverImage: /sites/default/files/pic3718275.jpg
-reads: 7251
+reads: 7621
 ---
 <strong>Játékfilozófiai elemzés. Aczél Zoltán írása</strong>
 

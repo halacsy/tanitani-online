@@ -15,7 +15,7 @@ excerpt: >-
   És mégis azon a lányon jár az eszem, aki a héten megszült, 14 évesen. Meg a
   másikon, aki 12 évesen az orrom előtt prostituálódik. Meg azon a fiún, akinek
   az anyja…
-reads: 28461
+reads: 29682
 ---
 > Furcsa például, hogy a héten gondolhatnék arra a fiúra, aki Japánban aranyérmet nyert nálunk. Vagy arra a kislányra, aki Ausztráliában első lett. És mégis azon a lányon jár az eszem, aki a héten megszült, 14 évesen. Meg a másikon, aki 12 évesen az orrom előtt prostituálódik. Meg azon a fiún, akinek az anyja pszichiátriai intézetben van, a nevelőanyja külföldre került (vitték), és magántanulóként gondozza öt kisebb testvérét, míg az apja megpróbál pénzt keresni. Hogy legyen cementre is, mert a konyhájukban a patkány felfúrt, és félő, hogy megmarja a kicsiket…
 

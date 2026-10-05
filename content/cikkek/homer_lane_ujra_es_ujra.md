@@ -6,10 +6,7 @@ authorSlugs:
   - foti-peter
 date: '2026-07-21'
 tags:
-  - közösség
-  - pedagógusok
-  - pedagógia
-  - nevelés
+  - szabad nevelés
 excerpt: >-
   Fóti Péter írása „Homer Lane volt az, akitől a summerhilli önkormányzat
   ötletét kaptam” – írta A. S. Neill. Ez a mondat önmagában is jelzi Lane
@@ -19,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/homer_lane_nagy.jpeg
 coverAlt: Homer Lane
 coverTitle: Homer Lane
-reads: 930
+reads: 932
 ---
 <strong><span style="font-size: 12px;">Fóti Péter írása</span></strong>
 

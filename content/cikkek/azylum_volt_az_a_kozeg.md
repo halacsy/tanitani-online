@@ -6,9 +6,7 @@ authorSlugs:
   - lorinc-laszlo
 date: '2026-08-14'
 tags:
-  - színház
-  - pedagógus
-  - előadás
+  - örökség
 excerpt: >-
   Lőrinc László beszéde Misley Judit temetésén 2026. augusztus 13-án No, a
   vállvonogatás és közöny, ez volt az, amit te nem ismertél soha. És ha jogos
@@ -17,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/740152964_1028703996209718_3789922429348467337_n.jpg
 coverAlt: 'Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete'
 coverTitle: 'Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete'
-reads: 1096
+reads: 1099
 ---
 <strong>Lőrinc László beszéde Misley Judit temetésén 2026. augusztus 13-án</strong>
 
@@ -25,7 +23,7 @@ reads: 1096
 
 Olyan emberek gyűltek ide, akik mind szerették Misley Juditot. És mindannyiunk valamit őriz belőle, mindenki valami mást. Hadd éljek hát a feltevéssel, hogy ezekből ő itt most összeáll virtuálisan, és akkor beszélhetek őhozzá. Hozzád. 
 
-Már az AKG kitalálása előtt a Raktár utcai épületben tanítottál általános iskolásokat. Onnan hozhattad szokatlan nevedet: Misi <em>néni</em>.[1](#footnote1_n8u3hrt "Valójában onnan legfeljebb a néni elnevezés jön, a Misi néni elnevezés a Horn György vezette Rákóczi Gimnáziumból ered, ahol utána klubvezető tanár volt. Hornnal együtt jött aztán az AKG-ba.") És ez csak a leglényegtelenebb eltérésed az AKG-szokványostól. Egy örök másképp viselkedő és másképp gondolkodó voltál. De nem, nem a magát gyerekközpontúnak definiáló iskola <em>ellen</em> gondolkodtál másképp, hanem éppen ezt a definíciót vasaltad be rajtunk, az idejáró gyerekek <em>érdekében</em>. Ezért voltál nehéz ember, aki sokszor hadakoztál, ha rossz feladattal küldtünk föl diákot, vagy ha közönyösen vonogattuk a vállunkat a munkacsend, a dolgozatírók felügyelete, a fűtés, a beázás, a számítógépek lassúsága, vagy a könyvtár-összetöpörítés ügyében. No, a vállvonogatás és közöny, ez volt az, amit te nem ismertél soha. És ha jogos haragodban a telefonhoz folyamodtál, már tárcsázás közben szinte szétesett a készülék. 
+Már az AKG kitalálása előtt a Raktár utcai épületben tanítottál általános iskolásokat. Onnan hozhattad szokatlan nevedet: Misi <em>néni</em>.[fn]Valójában onnan legfeljebb a néni elnevezés jön, a Misi néni elnevezés a Horn György vezette Rákóczi Gimnáziumból ered, ahol utána klubvezető tanár volt. Hornnal együtt jött aztán az AKG-ba.[/fn] És ez csak a leglényegtelenebb eltérésed az AKG-szokványostól. Egy örök másképp viselkedő és másképp gondolkodó voltál. De nem, nem a magát gyerekközpontúnak definiáló iskola <em>ellen</em> gondolkodtál másképp, hanem éppen ezt a definíciót vasaltad be rajtunk, az idejáró gyerekek <em>érdekében</em>. Ezért voltál nehéz ember, aki sokszor hadakoztál, ha rossz feladattal küldtünk föl diákot, vagy ha közönyösen vonogattuk a vállunkat a munkacsend, a dolgozatírók felügyelete, a fűtés, a beázás, a számítógépek lassúsága, vagy a könyvtár-összetöpörítés ügyében. No, a vállvonogatás és közöny, ez volt az, amit te nem ismertél soha. És ha jogos haragodban a telefonhoz folyamodtál, már tárcsázás közben szinte szétesett a készülék. 
 
 De ennek az igényességnek nemcsak a diákok, hanem mi kollégák is haszonélvezői voltunk. Mindenkinek megvannak rólad a maga örzőangyalos történetei, hadd beszéljek a magaméról, majd ezt bárki beszorozhatja a jelenlévők, érintettek létszámával. 
 
@@ -47,6 +45,4 @@ Egy másik egykori diák, Vidák Rózsa azt írja:
 
 Szép, megindító szövegében elmondja, hogyan figyeltél mindenkire, „nem csak a … népszerű arcokra”, hogyan óvtad olvasóidat még a huzattól is, milyen fantasztikus erdélyi utat szerveztél a könyvtári feladványok megoldóinak. Hadd idézzek egyetlen rövid mondatot: <em>„A ballagáson csak a könyvtárban sírtam.”</em>
 
-Mondanám, nyugodj békében. De hát ezt a kívánságot nem a te vibráló lényednek találták ki. Azt kívánom inkább, hogy odaát is legyen sok izgalmas nyugtalanság körötted, legyen kivel vitázni, beszélgetni, legyen kinek segíteni, ha lehetséges, és szeressenek odaát is annyian és annyira, mint ideát. 
-
-<ul class="footnotes"><li class="footnote" id="footnote1_n8u3hrt"><a class="footnote-label" href="#footnoteref1_n8u3hrt">1.</a> Valójában onnan legfeljebb a néni elnevezés jön, a Misi néni elnevezés a Horn György vezette Rákóczi Gimnáziumból ered, ahol utána klubvezető tanár volt. Hornnal együtt jött aztán az AKG-ba.</li></ul>
+Mondanám, nyugodj békében. De hát ezt a kívánságot nem a te vibráló lényednek találták ki. Azt kívánom inkább, hogy odaát is legyen sok izgalmas nyugtalanság körötted, legyen kivel vitázni, beszélgetni, legyen kinek segíteni, ha lehetséges, és szeressenek odaát is annyian és annyira, mint ideát.

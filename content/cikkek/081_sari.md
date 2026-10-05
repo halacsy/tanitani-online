@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   W. Barna Erika beszélgetőpartnere dr. Sári László tibetológus, a Kossuth Rádió
   szerkesztője.
-reads: 7893
+reads: 8165
 ---
 <em><strong>W. Barna Erika beszélgetőpartnere dr. Sári László tibetológus, a Kossuth Rádió szerkesztője.</strong></em>
 

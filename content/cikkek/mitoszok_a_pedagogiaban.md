@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/asztalos_borito.jpg
 coverAlt: 'Forrás: https://www.britanniait.co.uk'
 coverTitle: 'Forrás: https://www.britanniait.co.uk'
-reads: 13775
+reads: 14394
 ---
 <strong>Asztalos György írása</strong>
 

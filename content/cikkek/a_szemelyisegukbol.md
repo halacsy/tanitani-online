@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/budai3-w470.jpg
 coverAlt: Budai Sándor
 coverTitle: Budai Sándor
-reads: 9422
+reads: 9731
 ---
 <strong>"A személyiségükből adnak minden nap a tanárok a gyerekeknek." Budai Sándorral, az abaújkéri <a href="http://www.wesley.hu/tarsintezmeny/wesley-janos-tobbcelu-intezmeny-abaujker">Wesley János Többcélú Intézmény</a> igazgatójával Knausz Imre beszélgetett</strong>
 

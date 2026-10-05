@@ -6,10 +6,7 @@ authorSlugs:
   - foti-peter
 date: '2026-08-02'
 tags:
-  - nevelés
-  - tanulás
-  - demokratikus nevelés
-  - pedagógus
+  - szabad nevelés
 excerpt: >-
   George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása A mai
   pedagógiai viták gyakran az empátia és a következetesség szembeállításáról
@@ -17,8 +14,7 @@ excerpt: >-
   szerint ez hamis dilemma. A valódi igazságosság éppen abból születik, hogy
   előbb megpróbáljuk…
 coverImage: /sites/default/files/dennison.jpg
-coverAlt: Igazságosság és empátia
-reads: 1815
+reads: 1817
 ---
 <strong>George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása</strong>
 

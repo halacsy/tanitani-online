@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/glonczidzsenifer-w400.jpg
 coverAlt: Glonczi Dzsenifer rajza
 coverTitle: Glonczi Dzsenifer rajza
-reads: 9666
+reads: 10014
 ---
 <strong>Látványközpontúság vagy élményközpontúság?</strong>
 
