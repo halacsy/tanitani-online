@@ -21,23 +21,20 @@ export default async function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-gradient-to-br from-brand to-[#0F3460] text-white px-6 py-16 md:py-24">
-        <div className="max-w-7xl mx-auto">
-          <div className="max-w-2xl">
-            <div className="inline-block font-sans text-xs font-medium tracking-widest uppercase bg-white/15 text-white/85 px-3 py-1 rounded-full mb-6">
-              Alapítva 1996-ban
-            </div>
-            <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-5">
-              A szabad pedagógiai gondolkodás fóruma
+      <section className="bg-cream px-4 py-8 sm:px-6 sm:py-12 md:py-16">
+        <div className="mx-auto max-w-7xl border-y-2 border-charcoal py-1">
+          <div className="border-y border-line px-4 py-10 text-center sm:py-14 md:py-20">
+            <h1 className="font-display text-5xl font-semibold leading-tight tracking-tight text-charcoal sm:text-6xl md:text-7xl lg:text-8xl">
+              Taní-tani Online
             </h1>
-            <p className="font-body text-base md:text-lg leading-relaxed text-white/85 mb-8 max-w-xl">
-              Hosszú formátumú esszék, elemzések és reflexiók pedagógusoknak. Alternatív oktatás, oktatáspolitika, inklúzió, nevelésfilozófia – {articles.length.toLocaleString('hu-HU')} cikk az archívumban.
+            <p className="mx-auto mt-5 max-w-2xl font-body text-base italic text-charcoal sm:text-lg md:text-xl">
+              A szabad pedagógiai gondolkodás fóruma
             </p>
-            <div className="flex flex-wrap gap-3">
-              <Link href="/cikkek" className="btn-primary !bg-white !text-brand">
-                Összes cikk →
+            <div className="mt-8 flex flex-wrap justify-center gap-3">
+              <Link href="/cikkek" className="btn-primary">
+                Archívum →
               </Link>
-              <Link href="/temakorok" className="btn-outline !border-white/50 !text-white hover:!bg-white/10">
+              <Link href="/temakorok" className="btn-outline">
                 Témakörök
               </Link>
             </div>
@@ -61,7 +58,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-6 py-10 md:py-14">
+      <div className="editorial-home max-w-7xl mx-auto px-6 py-10 md:py-14">
 
         {/* Featured */}
         {featured && (
@@ -116,7 +113,7 @@ export default async function HomePage() {
                   href={`/szerzok/${author.slug}`}
                   className="block"
                 >
-                  <div className="card-lift bg-white border border-line rounded-xl p-4 flex flex-col items-center text-center gap-2.5">
+                  <div className="card-lift bg-white border border-line p-4 flex flex-col items-center text-center gap-2.5">
                     {author.photo ? (
                       <Image
                         src={author.photo}
@@ -142,7 +139,7 @@ export default async function HomePage() {
         )}
 
         {/* About strip */}
-        <section className="bg-brand-light rounded-2xl p-6 md:p-10 flex flex-col sm:flex-row items-start sm:items-center gap-6">
+        <section className="border-y-2 border-charcoal bg-white p-6 md:p-10 flex flex-col sm:flex-row items-start sm:items-center gap-6">
           <div className="flex-1">
             <h2 className="font-display text-2xl font-bold text-brand mb-3">A Taní-tani Online-ról</h2>
             <p className="font-body text-base leading-relaxed text-charcoal max-w-2xl">

@@ -226,7 +226,7 @@
                 { className: 'breadcrumbs' },
                 h('span', {}, 'Kezdőlap'),
                 h('b', {}, '›'),
-                h('span', {}, 'Cikkek'),
+                h('span', {}, 'Archívum'),
               ),
               tags.length
                 ? h(

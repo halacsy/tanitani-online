@@ -3,7 +3,7 @@ import ArticleArchive, { ARTICLES_PER_PAGE } from '../components/ArticleArchive'
 import Link from 'next/link'
 
 export const metadata = {
-  title: 'Cikkek',
+  title: 'Archívum',
   description: 'A Taní-tani Online teljes, kereshető cikkarchívuma 2008-tól napjainkig.',
 }
 
