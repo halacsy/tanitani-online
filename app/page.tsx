@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import Link from 'next/link'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import { getAllAuthors } from '@/lib/authors'
@@ -49,7 +50,7 @@ export default async function HomePage() {
           {tags.map(tag => (
             <Link
               key={tag}
-              href={`/temakorok/${encodeURIComponent(tag)}`}
+              href={tagHref(tag)}
               className="font-sans text-xs whitespace-nowrap text-brand px-2.5 py-1 rounded-full border border-brand-light bg-brand-light hover:bg-brand hover:text-white transition-colors"
             >
               {tag}

@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import type { MetadataRoute } from 'next'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import { getAllAuthors } from '@/lib/authors'
@@ -54,7 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     })),
     ...getAllTags().map(tag => ({
-      url: absolute(`/temakorok/${encodeURIComponent(tag)}`),
+      url: absolute(tagHref(tag)),
       lastModified: latest,
       changeFrequency: 'monthly' as const,
       priority: 0.5,

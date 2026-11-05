@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import Link from 'next/link'
 import navigation from '@/public/navigation.json'
 
@@ -50,7 +51,7 @@ export default function Footer() {
               {tagLinks.map(tag => (
                 <Link
                   key={tag}
-                  href={`/temakorok/${encodeURIComponent(tag)}`}
+                  href={tagHref(tag)}
                   className="font-sans text-xs bg-white/10 text-white/75 hover:bg-white/20 transition-colors px-2.5 py-0.5 rounded-full"
                 >
                   {tag}

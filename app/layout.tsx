@@ -3,6 +3,7 @@ import './globals.css'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 import Analytics from './components/Analytics'
+import FeedbackLink from './components/FeedbackLink'
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from '@/lib/site'
 
 export const metadata: Metadata = {
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <Nav />
         <main className="flex-1">{children}</main>
+        <FeedbackLink />
         <Footer />
         <Analytics />
       </body>

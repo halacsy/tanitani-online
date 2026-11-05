@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import { notFound } from 'next/navigation'
 import { getAllAuthors, getAuthorBySlug } from '@/lib/authors'
 import { getArticlesByAuthorSlug } from '@/lib/content'
@@ -81,7 +82,7 @@ export default async function SzerzoPage({ params }: Props) {
                 {topTags.length > 0 && (
                   <div className="flex flex-wrap gap-1.5">
                     {topTags.map(tag => (
-                      <Link key={tag} href={`/temakorok/${encodeURIComponent(tag)}`} className="tag-pill">{tag}</Link>
+                      <Link key={tag} href={tagHref(tag)} className="tag-pill">{tag}</Link>
                     ))}
                   </div>
                 )}

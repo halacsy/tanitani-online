@@ -1,5 +1,7 @@
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import { getAllTags, getArticlesByTag } from '@/lib/content'
+import { slugify } from '@/lib/slug.mjs'
+import { findTagName, tagHref } from '@/lib/tags.mjs'
 import ArticleCard from '../../components/ArticleCard'
 import Link from 'next/link'
 import type { Metadata } from 'next'
@@ -9,17 +11,26 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return getAllTags().map(tag => ({ tag: encodeURIComponent(tag) }))
+  return getAllTags().map(tag => ({ tag: slugify(tag) }))
+}
+
+function resolveTag(value: string): string {
+  return findTagName(getAllTags(), value) ?? notFound()
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { tag } = await params
-  return { title: decodeURIComponent(tag) }
+  const name = resolveTag(tag)
+  return {
+    title: name,
+    alternates: { canonical: tagHref(name) },
+  }
 }
 
 export default async function TagPage({ params }: Props) {
   const { tag } = await params
-  const decoded = decodeURIComponent(tag)
+  const decoded = resolveTag(tag)
+  if (tag !== slugify(decoded)) permanentRedirect(tagHref(decoded))
   const articles = getArticlesByTag(decoded)
 
   if (articles.length === 0) notFound()

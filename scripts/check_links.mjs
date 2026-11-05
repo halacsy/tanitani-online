@@ -19,10 +19,14 @@
 
 import { spawn } from 'node:child_process'
 import { setTimeout as delay } from 'node:timers/promises'
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from 'node:fs'
+import assert from 'node:assert/strict'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { LinkChecker } from 'linkinator'
+import { Parser } from 'htmlparser2'
+import { isCanonicalSlug } from '../lib/slug.mjs'
+import { tagHref } from '../lib/tags.mjs'
 
 const args = process.argv.slice(2)
 const skipBuild = args.includes('--no-build')
@@ -68,6 +72,32 @@ async function main() {
     await run('npx', ['next', 'build'])
   }
 
+  // Check the build artifacts before runtime rendering can mask an encoding bug.
+  const topicsDir = path.join(scriptDir, '..', '.next', 'server', 'app', 'temakorok')
+  const topics = readdirSync(topicsDir).filter(file => file.endsWith('.html'))
+  const topicNames = []
+  assert(topics.length > 0, 'No statically generated topic pages')
+  for (const file of topics) {
+    const slug = file.slice(0, -5)
+    assert(isCanonicalSlug(slug), `Non-ASCII topic URL: ${file}`)
+    let inHeading = false
+    let heading = ''
+    let canonical = ''
+    const parser = new Parser({
+      onopentag(name, attributes) {
+        if (name === 'h1') inHeading = true
+        if (name === 'link' && attributes.rel === 'canonical') canonical = attributes.href
+      },
+      ontext(text) { if (inHeading) heading += text },
+      onclosetag(name) { if (name === 'h1') inHeading = false },
+    })
+    parser.end(readFileSync(path.join(topicsDir, file), 'utf-8'))
+    assert.equal(tagHref(heading), `/temakorok/${slug}`, `Topic heading encoding: ${file}`)
+    assert.equal(new URL(canonical).pathname, tagHref(heading), `Topic canonical URL: ${file}`)
+    topicNames.push(heading)
+  }
+  console.log(`Témakörök: ${topics.length} statikus oldalcím ellenőrizve.`)
+
   console.log(`Helyi szerver indítása a(z) ${port} porton...`)
   const server = spawn('npx', ['next', 'start', '-p', String(port)], {
     stdio: 'inherit',
@@ -77,6 +107,21 @@ async function main() {
   let exitCode = 0
   try {
     await waitForServer(origin)
+
+    for (const name of topicNames) {
+      const canonical = tagHref(name)
+      const page = await fetch(`${origin}${canonical}`, { redirect: 'manual' })
+      assert.equal(page.status, 200, `Canonical topic URL: ${canonical}`)
+      const encoded = encodeURIComponent(name)
+      for (const value of new Set([encoded, encodeURIComponent(encoded)])) {
+        const legacy = `/temakorok/${value}`
+        if (legacy === canonical) continue
+        const response = await fetch(`${origin}${legacy}`, { redirect: 'manual' })
+        assert.equal(response.status, 308, `Legacy topic redirect: ${legacy}`)
+        assert.equal(new URL(response.headers.get('location'), origin).pathname, canonical)
+      }
+    }
+    console.log('A régi témakör-URL-ek állandó átirányítása rendben.')
 
     console.log(`Belső hivatkozások bejárása innen: ${origin} ...`)
     const checker = new LinkChecker()

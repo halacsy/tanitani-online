@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import { notFound, permanentRedirect } from 'next/navigation'
 import { getAllArticles, getArticleBySlug, readingTime, getArticlesByAuthorSlug } from '@/lib/content'
 import { getAuthorBySlug } from '@/lib/authors'
@@ -131,7 +132,7 @@ export default async function ArticlePage({ params }: Props) {
           {/* Tags */}
           <div className="flex flex-wrap gap-1.5 mb-4">
             {article.tags.map(tag => (
-              <Link key={tag} href={`/temakorok/${encodeURIComponent(tag)}`} className="tag-pill">{tag}</Link>
+              <Link key={tag} href={tagHref(tag)} className="tag-pill">{tag}</Link>
             ))}
           </div>
 

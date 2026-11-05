@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import Link from 'next/link'
 
@@ -25,7 +26,7 @@ export default async function TemakorokPage() {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {tagCounts.map(({ tag, count }) => (
-          <Link key={tag} href={`/temakorok/${encodeURIComponent(tag)}`}>
+          <Link key={tag} href={tagHref(tag)}>
             <div className="card-lift bg-white rounded-xl border border-line px-5 py-4 flex justify-between items-center">
               <span className="font-display text-base font-semibold text-charcoal">{tag}</span>
               <span className="font-sans text-xs font-medium bg-brand-light text-brand px-2.5 py-0.5 rounded-full">

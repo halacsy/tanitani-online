@@ -1,3 +1,4 @@
+import { tagHref } from '@/lib/tags.mjs'
 import { getAllArticles, getAllTags } from '@/lib/content'
 import ArticleArchive, { ARTICLES_PER_PAGE } from '../components/ArticleArchive'
 import Link from 'next/link'
@@ -30,7 +31,7 @@ export default function CikkekPage() {
         {tags.map(tag => (
           <Link
             key={tag}
-            href={`/temakorok/${encodeURIComponent(tag)}`}
+            href={tagHref(tag)}
             className="font-sans text-sm px-3 py-1 rounded-full border-[1.5px] border-line text-charcoal bg-white hover:border-brand hover:text-brand transition-colors"
           >
             {tag}
