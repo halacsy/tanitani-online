@@ -13,6 +13,7 @@ export function generateStaticParams() {
 
 export default async function LegacyBookRoute({ params }: Props) {
   const { legacy } = await params
+  if (legacy === '1') redirect('/konyvek')
   const page = getArchivePageBySlug(`konyvek/${legacy}`)
   if (page) redirect(`/archivum/${page.slug}`)
   notFound()

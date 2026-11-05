@@ -146,7 +146,7 @@ function editorialDate(value: unknown, fallback?: string): string {
   return isoDate ?? new Date().toISOString().slice(0, 10)
 }
 
-function sanitizeEditorialHtml(value: string): string {
+export function sanitizeEditorialHtml(value: string): string {
   let cleaned = value
   for (const origin of [
     'https://www.tani-tani.info',

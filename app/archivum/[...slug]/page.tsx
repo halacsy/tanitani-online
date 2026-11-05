@@ -1,5 +1,6 @@
 import { notFound, redirect } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { getAllArchivePages, getArchivePageBySlug, getCurrentPageHref } from '@/lib/pages'
 
@@ -43,6 +44,29 @@ export default async function ArchivedPage({ params }: Props) {
         className="prose prose-lg max-w-none imported-html"
         dangerouslySetInnerHTML={{ __html: page.bodyHtml }}
       />
+      {page.editors && (
+        <section className="mt-10" aria-labelledby="editorial-team-title">
+          <h2 id="editorial-team-title" className="font-display text-2xl font-semibold text-charcoal mb-5">A szerkesztőség</h2>
+          <div className="grid sm:grid-cols-2 gap-4">
+            {page.editors.map((person, index) => {
+              const content = (
+                <>
+                  {person.photo && <Image src={person.photo} alt="" width={85} height={85} className="h-[85px] w-[85px] shrink-0 rounded-full object-cover" />}
+                  <span className="min-w-0">
+                    <span className="block font-semibold text-charcoal">{person.name}</span>
+                    <span className="block text-sm text-muted">{person.role}</span>
+                  </span>
+                </>
+              )
+              const className = 'flex items-center gap-4 rounded-xl border border-line bg-white p-4 font-sans'
+              return person.authorSlug
+                ? <Link key={person.authorSlug} href={`/szerzok/${person.authorSlug}`} className={`${className} hover:border-brand`}>{content}</Link>
+                : <div key={`${person.name}-${index}`} className={className}>{content}</div>
+            })}
+          </div>
+        </section>
+      )}
+      {page.closingHtml && <article className="prose prose-lg max-w-none imported-html mt-8" dangerouslySetInnerHTML={{ __html: page.closingHtml }} />}
       <div className="mt-10 pt-6 border-t border-line">
         <Link href="/" className="font-sans text-sm text-brand hover:underline">← Kezdőlap</Link>
       </div>

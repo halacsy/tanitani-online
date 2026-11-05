@@ -3,7 +3,7 @@
     { "href": "/cikkek", "label": "Archívum" },
     { "href": "/temakorok", "label": "Témakörök" },
     { "href": "/szerzokrol", "label": "Szerzők" },
-    { "href": "/archivum/konyvek/1", "label": "Könyvek" },
+    { "href": "/konyvek", "label": "Könyvek" },
     { "href": "/archivum/szerzoinknek", "label": "Szerzői útmutató" }
   ],
   "newsletter": { "href": "https://tani-tani.us11.list-manage.com/subscribe?u=545631adae2bb3a3844dd4f11&id=ac6071c71b", "label": "Hírlevél-feliratkozás" },

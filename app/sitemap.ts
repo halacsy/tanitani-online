@@ -24,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: absolute('/temakorok'), lastModified: latest, changeFrequency: 'monthly', priority: 0.7 },
     { url: absolute('/szerzokrol'), lastModified: latest, changeFrequency: 'monthly', priority: 0.7 },
     { url: absolute('/rolunk'), lastModified: latest, changeFrequency: 'yearly', priority: 0.5 },
+    { url: absolute('/konyvek'), changeFrequency: 'monthly', priority: 0.6 },
     ...['/folyoirat', '/folyoirat/rovatok', '/fomunkatarsaink'].map(path => ({ url: absolute(path), changeFrequency: 'yearly' as const, priority: 0.5 })),
   ]
 

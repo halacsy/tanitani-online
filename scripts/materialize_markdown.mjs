@@ -319,5 +319,5 @@ if (import.meta.url === `file://${process.argv[1]}`) main()
 
 export {
   migratedDir, migratedArticleDir, articleDir, authorDir,
-  readJson, articleContent, authorContent, matchExistingArticles,
+  readJson, articleContent, authorContent, matchExistingArticles, htmlToMarkdown,
 }

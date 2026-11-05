@@ -311,6 +311,63 @@
     },
   })
 
+  var PagePreview = createClass({
+    render: function () {
+      var props = this.props
+      var editors = list(field(props.entry, 'editors', []))
+      return h(
+        'div',
+        { className: 'site-preview' },
+        nav(),
+        h(
+          'main',
+          { className: 'page-preview' },
+          h('h1', {}, field(props.entry, 'title', '')),
+          h('article', { className: 'article-prose imported-html' }, props.widgetFor('body')),
+          editors.length
+            ? h('section', { className: 'page-team' },
+                h('h2', {}, 'A szerkesztőség'),
+                h('div', { className: 'page-team-grid' }, editors.map(function (editor, index) {
+                  var get = function (key) { return typeof editor.get === 'function' ? editor.get(key) : editor[key] }
+                  var photo = assetUrl(props.getAsset, get('photo'))
+                  return h('div', { key: index, className: 'page-team-person' },
+                    photo ? h('img', { src: photo, alt: '' }) : null,
+                    h('div', {}, h('strong', {}, get('name')), h('span', {}, get('role'))),
+                  )
+                })),
+              )
+            : null,
+          editors.length ? h('article', { className: 'article-prose imported-html page-closing' }, props.widgetFor('closing')) : null,
+        ),
+        footer(),
+      )
+    },
+  })
+
+  var BookPreview = createClass({
+    render: function () {
+      var props = this.props
+      var links = list(field(props.entry, 'links', []))
+      var cover = assetUrl(props.getAsset, field(props.entry, 'cover', ''))
+      return h('div', { className: 'site-preview' }, nav(),
+        h('main', { className: 'page-preview' },
+          h('div', { className: 'book-preview' },
+            cover ? h('img', { src: cover, alt: '' }) : null,
+            h('div', {},
+              h('h1', {}, field(props.entry, 'title', '')),
+              h('p', {}, field(props.entry, 'creators', '')),
+              h('p', {}, field(props.entry, 'publication', '')),
+              h('div', { className: 'book-preview-links' }, links.map(function (link, index) {
+                var get = function (key) { return typeof link.get === 'function' ? link.get(key) : link[key] }
+                return h('a', { key: index, href: get('url') }, get('label'))
+              })),
+              h('article', { className: 'article-prose imported-html' }, props.widgetFor('description')),
+            ),
+          ),
+        ), footer())
+    },
+  })
+
   // Elválasztóvonal (#10): a Decap markdown eszköztár nincs igazítás-,
   // betűméret- vagy behúzásgombbal bővítve, de a szemantikus elválasztóvonal
   // (Markdown "---") a "+" beszúrás menüből elérhető.
@@ -332,4 +389,6 @@
 
   CMS.registerPreviewStyle('/admin/preview.css')
   CMS.registerPreviewTemplate('cikkek', ArticlePreview)
+  CMS.registerPreviewTemplate('oldalak', PagePreview)
+  CMS.registerPreviewTemplate('konyvek', BookPreview)
 })()
