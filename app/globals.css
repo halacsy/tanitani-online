@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+.editorial-home .card-lift,
+.editorial-home .tag-pill {
+  border-radius: 0;
+}
+
 /* ── Custom design tokens ─────────────────────────────────────────────── */
 @theme {
   --font-display: "Playfair Display", Georgia, serif;

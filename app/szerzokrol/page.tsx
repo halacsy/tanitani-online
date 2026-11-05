@@ -30,7 +30,7 @@ export default async function SzerzokrolPage() {
       count: slugStats.get(a.slug)?.count ?? 0,
       tags: Array.from(slugStats.get(a.slug)?.tags ?? []).slice(0, 3),
     }))
-    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, 'hu'))
+    .sort((a, b) => a.name.localeCompare(b.name, 'hu'))
 
   return (
     <>

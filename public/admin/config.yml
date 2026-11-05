@@ -7,6 +7,9 @@ backend:
   # Publikáláskor egyetlen commit kerüljön a main ágra.
   squash_merges: true
 
+# A helyi decap-server csak localhoston kapcsolódik; productionben a GitHub backend marad.
+local_backend: true
+
 # Piszkozatmentés és szerkesztői publikálási folyamat (#13).
 # A mentés nem a main ágra ír, hanem a "cms/<gyűjtemény>/<slug>" ágra és egy
 # pull requestre. A production oldal csak a publikálás (merge) után változik.
@@ -29,6 +32,93 @@ slug:
   sanitize_replacement: "-"
 
 collections:
+  - name: oldalak
+    label: Oldalak
+    label_singular: Oldal
+    media_folder: public/images/oldalak
+    public_folder: /images/oldalak
+    files:
+      - label: Szerzői útmutató
+        name: szerzoinknek
+        file: content/oldalak/szerzoinknek.md
+        preview_path: /archivum/szerzoinknek
+        fields:
+          - { label: Cím, name: title, widget: string }
+          - { label: Történeti azonosító, name: migratedId, widget: hidden, default: 405 }
+          - { label: Oldal szövege, name: body, widget: markdown }
+      - label: Könyvek bevezetője
+        name: konyvek
+        file: content/oldalak/konyvek-bevezeto.md
+        preview_path: /konyvek
+        fields:
+          - { label: Cím, name: title, widget: string }
+          - { label: Bevezető, name: body, widget: markdown }
+      - label: Kapcsolat
+        name: kapcsolat
+        file: content/oldalak/kapcsolat.md
+        preview_path: /archivum/kapcsolat_
+        fields:
+          - { label: Cím, name: title, widget: string }
+          - { label: Történeti azonosító, name: migratedId, widget: hidden, default: 221 }
+          - { label: Oldal szövege, name: body, widget: markdown }
+      - label: Impresszum
+        name: impresszum
+        file: content/oldalak/impresszum.md
+        preview_path: /archivum/impresszum
+        fields:
+          - { label: Cím, name: title, widget: string }
+          - { label: Történeti azonosító, name: migratedId, widget: hidden, default: 2 }
+          - { label: Bevezető, name: body, widget: markdown }
+          - label: A szerkesztőség
+            name: editors
+            widget: list
+            fields:
+              - label: Szerzői profil
+                name: authorSlug
+                widget: relation
+                collection: szerzok
+                search_fields: [name]
+                value_field: "{{slug}}"
+                display_fields: [name]
+                required: false
+              - { label: Név, name: name, widget: string }
+              - { label: Feladat, name: role, widget: string }
+              - { label: Fotó, name: photo, widget: image, required: false }
+          - { label: Záró szöveg, name: closing, widget: markdown }
+      - label: Jogi nyilatkozat
+        name: jogi_nyilatkozat
+        file: content/oldalak/jogi-nyilatkozat.md
+        preview_path: /archivum/jogi_nyilatkozat
+        fields:
+          - { label: Cím, name: title, widget: string }
+          - { label: Történeti azonosító, name: migratedId, widget: hidden, default: 590 }
+          - { label: Oldal szövege, name: body, widget: markdown }
+
+  - name: konyvek
+    label: Könyvek
+    label_singular: Könyv
+    folder: content/konyvek
+    create: true
+    extension: yml
+    format: yaml
+    slug: "{{slug}}"
+    media_folder: public/images/konyvek
+    public_folder: /images/konyvek
+    preview_path: /konyvek#{{slug}}
+    fields:
+      - { label: Cím, name: title, widget: string }
+      - { label: Szerzők és szerkesztők, name: creators, widget: string }
+      - { label: Kiadási adatok, name: publication, widget: string }
+      - { label: Borító, name: cover, widget: image }
+      - { label: Sorrend, name: order, widget: number, value_type: int, min: 1 }
+      - label: Letöltések és előnézetek
+        name: links
+        widget: list
+        fields:
+          - { label: Felirat, name: label, widget: string }
+          - { label: Webcím, name: url, widget: string }
+      - { label: Leírás, name: description, widget: markdown }
+
   - name: cikkek
     label: Cikkek
     label_singular: Cikk
@@ -121,6 +211,7 @@ collections:
           docs/cikk-szoveg-formazasa.md.
         editor_components:
           - image
+          - code-block
           - horizontal-rule
         buttons:
           - bold
@@ -130,7 +221,6 @@ collections:
           - heading-two
           - heading-three
           - quote
-          - code-block
           - bulleted-list
           - numbered-list
 

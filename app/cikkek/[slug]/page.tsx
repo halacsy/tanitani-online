@@ -125,7 +125,7 @@ export default async function ArticlePage({ params }: Props) {
           <div className="flex gap-1.5 items-center mb-5 font-sans text-xs text-muted">
             <Link href="/" className="hover:text-brand transition-colors">Kezdőlap</Link>
             <span className="text-line">›</span>
-            <Link href="/cikkek" className="hover:text-brand transition-colors">Cikkek</Link>
+            <Link href="/cikkek" className="hover:text-brand transition-colors">Archívum</Link>
           </div>
 
           {/* Tags */}

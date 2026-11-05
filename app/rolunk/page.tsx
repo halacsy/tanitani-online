@@ -30,7 +30,7 @@ export default function RolunkPage() {
 
         <h2>A Taní-tani Könyvek</h2>
         <p>
-          A szerkesztőség saját könyvkiadói tevékenységet is folytat: a <Link href="/archivum/konyvek/1">Taní-tani Könyvek</Link> sorozat kötetei szabadon hozzáférhetők – „szabad írás – szabad hozzáférés” alapon.
+          A szerkesztőség saját könyvkiadói tevékenységet is folytat: a <Link href="/konyvek">Taní-tani Könyvek</Link> sorozat kötetei szabadon hozzáférhetők – „szabad írás – szabad hozzáférés” alapon.
         </p>
 
         <h2>Kapcsolat</h2>

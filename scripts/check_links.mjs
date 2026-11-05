@@ -97,7 +97,25 @@ async function main() {
       linksToSkip: [`^(?!${origin}).*$`],
     })
 
-    const broken = result.links.filter(link => link.state === 'BROKEN')
+    // A nagy archívum bejárásakor a szerver időnként megszakít egy párhuzamos
+    // kérést; a Linkinator ezt 0 státusszal jelzi. Az ilyen belső URL-t külön
+    // újra lekérjük, hogy egy átmeneti hálózati hiba ne legyen hibás link.
+    const broken = []
+    for (const link of result.links.filter(link => link.state === 'BROKEN')) {
+      if (link.status === 0 && link.url.startsWith(origin)) {
+        let recovered = false
+        for (let attempt = 0; attempt < 3 && !recovered; attempt++) {
+          try {
+            const response = await fetch(link.url, { signal: AbortSignal.timeout(15000) })
+            recovered = response.ok
+          } catch {
+            // A következő próbálkozás még kezelheti az átmeneti hibát.
+          }
+        }
+        if (recovered) continue
+      }
+      broken.push(link)
+    }
     const newBroken = broken.filter(link => !knownBroken.has(normalize(link.url)))
     const known = broken.filter(link => knownBroken.has(normalize(link.url)))
 
