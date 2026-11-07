@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/herndon3.jpg
 coverAlt: James Herndon tanít
 coverTitle: James Herndon tanít
-reads: 7397
+reads: 7503
 ---
 <strong>...avagy tanárok egy új világban</strong>
 

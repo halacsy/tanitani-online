@@ -13,7 +13,7 @@ excerpt: >-
   fejlesztésére a Szent István Egyetem Gyakorló Sport Általános Iskola és
   Gimnáziumban
 coverImage: /sites/default/files/ke_01_400.jpg
-reads: 7538
+reads: 7653
 ---
 <strong>Kugler Erika írása</strong>
 

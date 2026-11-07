@@ -16,7 +16,7 @@ excerpt: >-
   nevelési módszerről. Aztán feladom. Maradunk (talán), mint ahogy korábban
   írtam, egy lábjegyzet a szakirodalomban. Mint az integrációt a művészeti
   neveléssel sikeresen ötvöző…
-reads: 119128
+reads: 120975
 ---
 > Még szeptemberben elmegyek Londonba, egy nemzetközi konferenciára, ahová hívtak, hogy beszámoljak a módszereink sikeréről. Mint magyar vizuális nevelési módszerről. Aztán feladom. Maradunk (talán), mint ahogy korábban írtam, egy lábjegyzet a szakirodalomban. Mint az integrációt a művészeti neveléssel sikeresen ötvöző művészeti iskola.
 >

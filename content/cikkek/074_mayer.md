@@ -12,7 +12,7 @@ excerpt: >-
   természeti törvényeit! Ismerd meg saját tanítási szokásaid és stílusod!
   Használj változatos és megfelelő eszközöket! Teremts megfelelő tanulási
   környezetet!
-reads: 14952
+reads: 15062
 ---
 ## Mindenekelőtt: A RECEPT
 

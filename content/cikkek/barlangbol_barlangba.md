@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/allegory_of_the_cave.jpg
 coverAlt: 'Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/'
 coverTitle: 'Be Boggs rajza. Forrás: https://www.zocalopublicsquare.org/'
-reads: 868
+reads: 1211
 ---
 <strong>A 21. századi gyermek, az iskola és a szabadság új kérdése. Németh Gábor írása</strong>
 

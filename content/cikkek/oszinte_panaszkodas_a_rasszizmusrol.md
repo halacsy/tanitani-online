@@ -11,7 +11,7 @@ excerpt: >-
   Imre Katalin írása Miért is gondolkodnék azon, hogy mi helyes és mi nem az?
   Miért akarnám én mérlegelni azt, hogy mi mivel függ össze és mivel nem?
 coverImage: /sites/default/files/diversity.jpg
-reads: 4683
+reads: 4787
 ---
 <strong>Imre Katalin írása</strong>
 

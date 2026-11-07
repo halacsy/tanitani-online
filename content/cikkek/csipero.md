@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/fcsg-borito2023.jpg
 coverAlt: A Farkas Gábor-emlékkötet borítója
 coverTitle: A Farkas Gábor-emlékkötet borítója
-reads: 852
+reads: 934
 ---
 <strong>Kriston Vízi József írása</strong>
 

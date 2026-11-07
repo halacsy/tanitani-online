@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/mann_veraszto.jpg
 coverAlt: Verasztó Lajos (jobbra) és a szerző
 coverTitle: Verasztó Lajos (jobbra) és a szerző
-reads: 1735
+reads: 1937
 ---
 <strong>Mann Dániel írása Verasztó Lajosról</strong>
 

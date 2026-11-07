@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencs0.png
 coverAlt: 'Sárkányszelídítő. Forrás: Wikimedia Commons'
 coverTitle: 'Sárkányszelídítő. Forrás: Wikimedia Commons'
-reads: 8339
+reads: 8456
 ---
 <strong>…a XX. század végének meseirodalmában. Trencsényi László írása</strong>
 

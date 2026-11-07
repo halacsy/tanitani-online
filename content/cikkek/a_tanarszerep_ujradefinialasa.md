@@ -12,7 +12,7 @@ excerpt: >-
   …avagy miért kell változnunk, milyenné kell válnunk? Ludnikné Pálfi Dorina és
   Molnár Balázs írása A digitális bennszülöttek köztünk élnek.
 coverImage: /sites/default/files/digitalis.png
-reads: 1140
+reads: 1285
 ---
 <strong><span style="font-size: 12px;">…avagy miért kell változnunk, milyenné kell válnunk? Ludnikné Pálfi Dorina és Molnár Balázs írása</span></strong>
 

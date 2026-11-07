@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/burattino_cimlap_0.jpg
 coverAlt: 'Tanulói munka a Burattino műhelyéból. Forrás: https://www.burattino.hu/'
 coverTitle: 'Tanulói munka a Burattino műhelyéból. Forrás: https://www.burattino.hu/'
-reads: 2126
+reads: 2214
 ---
 <strong>Müller Péter Sziámi írása a 30 éves Burattino Iskoláról</strong>
 

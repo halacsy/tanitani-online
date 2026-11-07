@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/borsodi.jpeg
 coverAlt: 'A kép forrása: https://erasmusplusz.hu/'
 coverTitle: 'A kép forrása: https://erasmusplusz.hu/'
-reads: 1616
+reads: 1700
 ---
 <strong>Borsodi Csilla Noémi írása</strong>
 

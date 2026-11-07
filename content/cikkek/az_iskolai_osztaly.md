@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/osztaly-w400.jpg
 coverAlt: Iskolai osztály Budapesten az 50-es évek végén (magántulajdon)
 coverTitle: Iskolai osztály Budapesten az 50-es évek végén (magántulajdon)
-reads: 11913
+reads: 12007
 ---
 <strong>Hierarchikus csoport vagy demokratikus közösség?</strong>
 

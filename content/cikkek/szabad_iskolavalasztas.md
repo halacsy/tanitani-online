@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegregacio.jpg
 coverAlt: 'Forrás: http://www.chicagoreader.com/'
 coverTitle: 'Forrás: http://www.chicagoreader.com/'
-reads: 24165
+reads: 24560
 ---
 <strong>L. Ritók Nóra írása</strong>
 

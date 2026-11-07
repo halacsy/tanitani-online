@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/janos_vitez.jpg
 coverAlt: 'Jankovics Marcell 1973-as filmjéből. Forrás: Imdb'
 coverTitle: 'Jankovics Marcell 1973-as filmjéből. Forrás: Imdb'
-reads: 6204
+reads: 6311
 ---
 <strong>Tollár Ivett óravázlata</strong>
 

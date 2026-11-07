@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/underground_cimlap.jpg
 coverAlt: 'Forrás: https://www.freepik.com/'
 coverTitle: 'Forrás: https://www.freepik.com/'
-reads: 1521
+reads: 1611
 ---
 <strong>Kerényi Mari írása</strong>
 

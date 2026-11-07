@@ -14,7 +14,7 @@ excerpt: >-
   kergethessük a labdát, utánozhassuk Sárosiékat s közelünkben
   Wirsinger/Várszegi Gyusziékat, Tullnerékat, a Reménység csillagait. Nem
   győztem csodálni „Tuli” sportszerű…
-reads: 7849
+reads: 7952
 ---
 > Az első rész [itt olvasható.](/094_gergely)
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/korencsi_cimlap.jpg
 coverAlt: Párducpompa
 coverTitle: Párducpompa
-reads: 8269
+reads: 8370
 ---
 <strong>A fekete pedagógia jelenségvilága Tóth Krisztina egyik tárcanovellájában. Korencsi Krisztina írása</strong>
 

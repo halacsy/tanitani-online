@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/erdelyi_gabor_0.jpg
 coverAlt: 'Erdélyi Gábor. Forrás: https://napkeletnepe.hu/'
 coverTitle: 'Erdélyi Gábor. Forrás: https://napkeletnepe.hu/'
-reads: 3768
+reads: 3847
 ---
 Erdélyi Gábor (1920–1996)
 

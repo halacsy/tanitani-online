@@ -12,7 +12,7 @@ excerpt: >-
   Wilhelm Móni írása Mert, kérdem én, miért kap nagyobb hangsúlyt egy tantárgy?
   Miért „ér többet” az egyik tantárgy, mint a másik?
 coverImage: /sites/default/files/wilhelm.jpg
-reads: 6072
+reads: 6576
 ---
 <strong>Wilhelm Móni írása</strong>
 

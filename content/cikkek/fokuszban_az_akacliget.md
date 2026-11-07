@@ -13,7 +13,7 @@ excerpt: >-
   kötet a cigányok legkisebb magyarországi csoportjával foglalkozik, a
   beásokkal.
 coverImage: /sites/default/files/cimlapra_akacliget.jpeg
-reads: 2957
+reads: 3054
 ---
 <strong>Bohán Mariann recenziója az Orsós Anna által szerkesztett <em>Fókuszban az Akácliget – Egy elfeledett cigánytelep története</em> című tanulmánykötetről</strong>
 

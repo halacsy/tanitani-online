@@ -13,7 +13,7 @@ excerpt: >-
   ezekre a vágyakra a nevelés, személyiségfejlesztés, szocializáció
   folyamatában?
 coverImage: /sites/default/files/spongyabob.jpg
-reads: 5840
+reads: 5921
 ---
 <strong>Karlowits-Juhász Orchidea gondolatai egy példaképkutatás kapcsán</strong>
 

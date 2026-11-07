@@ -13,7 +13,7 @@ excerpt: >-
   ötvenen jelen, de biztosan tudom, ha nem ez a helyzet, tömegek búcsúztak volna
   tőle.
 coverImage: /sites/default/files/bodoczky.jpg
-reads: 3524
+reads: 3626
 ---
 <strong>Október 26-án halt meg Bodóczky István. L. Ritók Nóra búcsúztatja.</strong>
 

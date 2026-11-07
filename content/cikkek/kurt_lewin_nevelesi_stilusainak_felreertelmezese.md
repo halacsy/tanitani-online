@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/gal_cimlap.jpg
 coverAlt: 'Fotó: Juhász Orchidea'
 coverTitle: 'Fotó: Juhász Orchidea'
-reads: 10400
+reads: 10794
 ---
 <strong>…(félre)értelmezése. Gál Tamás írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/karlocai.jpg
 coverAlt: Karlócai Marianne
 coverTitle: Karlócai Marianne
-reads: 2557
+reads: 2636
 ---
 <strong>Karlócai Marianne-ra Györgyi Erzsébet emlékezik.<br></strong>
 

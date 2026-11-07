@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/robert-doisneau.jpg
 coverAlt: Robert Doisneau fotográfiája
 coverTitle: Robert Doisneau fotográfiája
-reads: 6191
+reads: 6273
 ---
 <strong>Újabb adalékok a kompetenciafogalom differenciáltabb értelmezéséhez. Knausz Imre írása</strong>
 

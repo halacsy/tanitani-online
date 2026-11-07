@@ -14,7 +14,7 @@ excerpt: >-
   gyerek (dalta), maga az oktatás pedig dajkaság (aiteaochas) volt. (Pearse
   1916:6)
 coverImage: /sites/default/files/falfestmny_belfastbl.jpg
-reads: 9633
+reads: 9710
 ---
 <strong>Németh Tibor írása</strong>
 

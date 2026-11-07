@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/makai_eva.png
 coverAlt: Makai Éva
 coverTitle: Makai Éva
-reads: 6669
+reads: 6737
 ---
 <strong>...a pedagógia poroszos útjain. Egy tanár feljegyzései</strong>
 

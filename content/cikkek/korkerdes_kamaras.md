@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kamaras-istvan1.jpg
 coverAlt: 'Kamarás István. A kép forrása: https://cornandsoda.com/'
 coverTitle: 'Kamarás István. A kép forrása: https://cornandsoda.com/'
-reads: 1669
+reads: 1854
 ---
 <strong>Körkérdés az oktatásról 16.</strong>
 

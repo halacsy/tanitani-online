@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiberter_0.jpg
 coverAlt: 'Forrás: https://www.nicepng.com/'
 coverTitle: 'Forrás: https://www.nicepng.com/'
-reads: 2908
+reads: 3034
 ---
 <strong>Bessenyei István szatírája</strong>
 

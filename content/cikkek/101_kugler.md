@@ -14,7 +14,7 @@ excerpt: >-
   de a KÉPzőművészek csak néznek és hallgatnak. Ha beszélnek, akkor is csak KÉPi
   metaforákban, és csodálják a nyelv azon csodálatos KÉPességét, milyen
   KÉPszerű. Igen…
-reads: 14730
+reads: 14831
 ---
 ## A rajztanár dilemmája
 

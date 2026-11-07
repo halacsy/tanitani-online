@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/joo_julianna.jpg
 coverAlt: A szerző
 coverTitle: A szerző
-reads: 7755
+reads: 7846
 ---
 <strong>Joó Julianna írása</strong>
 

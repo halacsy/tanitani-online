@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ellenorzo.jpg
 coverAlt: 'Forrás: https://retronom.hu/'
 coverTitle: 'Forrás: https://retronom.hu/'
-reads: 2577
+reads: 2850
 ---
 <strong><span style="font-size: 12px;">Suzana Guoth írása</span></strong>
 

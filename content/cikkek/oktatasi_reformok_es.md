@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hokusai.jpg
 coverAlt: A nagy hullám Kanagavánál. Hokuszai metszete
 coverTitle: A nagy hullám Kanagavánál. Hokuszai metszete
-reads: 7221
+reads: 7324
 ---
 <strong>Radó Péter írása</strong>
 

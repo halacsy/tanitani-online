@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/leveleki_cimlap.jpg
 coverAlt: 'Forrás: luah.hu'
 coverTitle: 'Forrás: luah.hu'
-reads: 4780
+reads: 4895
 ---
 <strong>Körömi Gábor könyvismertetése</strong>
 

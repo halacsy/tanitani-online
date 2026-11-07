@@ -16,7 +16,7 @@ excerpt: >-
   értelmezését is. Ez ügyben ha nem is vitán felüli az elhatárolódás az
   inklúziótól vagy a komprehenzivitástól, mégiscsak megpróbálkoztak a dologgal.
   Számomra különösen…
-reads: 8125
+reads: 8222
 ---
 > A „kvartett” munkássága és a kutatás, s így a kötet azért is fontos, mert segíti a hasonló diskurzusok hasonlóságainak és különbségtételeinek értelmezését is. Ez ügyben ha nem is vitán felüli az elhatárolódás az inklúziótól vagy a komprehenzivitástól, mégiscsak megpróbálkoztak a dologgal. Számomra különösen rokonszenves éppen a <em>„kategóriákon való”</em> felülemelkedés ideológiája miatt az <em>„adaptív”</em> jelző. Úgy látom: ebben a jelzőben megtalálták a jól megragadható lényeget – a különböző irányzatok releváns megnevezését.
 

@@ -9,7 +9,7 @@ tags:
   - pedagógusképzés
   - kooperatív tanulás
 excerpt: Kooperatív tanulás az egyetemen
-reads: 11243
+reads: 11328
 ---
 <strong>Kooperatív tanulás az egyetemen</strong>
 

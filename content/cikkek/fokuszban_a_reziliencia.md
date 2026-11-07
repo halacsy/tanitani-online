@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/reziliencia.jpg
 coverAlt: 'Forrás: http://thecasualobserver.co.za'
 coverTitle: 'Forrás: http://thecasualobserver.co.za'
-reads: 10879
+reads: 10987
 ---
 <strong>...avagy hogyan működik a</strong> <strong>pszichológiai immunrendszerünk? Kramarics Rita írása</strong>
 

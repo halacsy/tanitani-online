@@ -12,7 +12,7 @@ excerpt: >-
   Alternatív leckék. Innovatív pedagógiai eszközök a hátrányos helyzetű gyerekek
   fejlődéséért. Demokratikus Ifjúságért Alapítvány, Budapest, 2016.
 coverImage: /sites/default/files/cimlap.png
-reads: 6045
+reads: 6115
 ---
 <strong>Alternatív leckék. Kerényi Máté recenziója</strong>
 

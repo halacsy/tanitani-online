@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/inkluzio.jpg
 coverAlt: 'Török Flóra, Bokor Györgyi és Élő Fruzsina'
 coverTitle: 'Török Flóra, Bokor Györgyi és Élő Fruzsina'
-reads: 2892
+reads: 2965
 ---
 <strong>Akadálymentesítés fejben és térben. Halász Dóra Vera interjúja</strong>
 

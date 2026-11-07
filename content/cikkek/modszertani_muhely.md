@@ -13,7 +13,7 @@ excerpt: >-
   módszerek alkalmazásában nagyobb erőt képvisel, így valószínűbb a gyakorlatban
   történő alkalmazás.
 coverImage: /sites/default/files/helpinghand.jpg
-reads: 9859
+reads: 10079
 ---
 <strong>…és online egyetem a pedagógusképzésben. Gyarmathy Éva írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   lényegében terepmunka, a mindennapi pedagógiai gyakorlatban sok esetben
   résztvevő megfigyelőként mozgok.
 coverImage: /sites/default/files/jigsaw.jpg
-reads: 2167
+reads: 2251
 ---
 <strong>Párhuzamok egy kutatótanári pályázat nyomán. Simon Zoltán írása</strong>
 

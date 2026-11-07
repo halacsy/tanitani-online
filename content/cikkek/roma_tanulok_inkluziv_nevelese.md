@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/bcsn_03.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 8923
+reads: 9068
 ---
 <strong>Borsodi Csilla Noémi írása szakiskolai sikerekről</strong>
 

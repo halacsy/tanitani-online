@@ -13,7 +13,7 @@ excerpt: >-
   folyamat, amelyben az önkéntes, a gyerek és a tanoda közössége kölcsönösen
   formálják egymást.
 coverImage: /sites/default/files/img_20251013_133934.jpg
-reads: 1042
+reads: 1120
 ---
 <strong>...és társadalmi beágyazódás a tanodákban. Fazekas Elek írása</strong>
 

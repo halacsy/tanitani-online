@@ -9,7 +9,7 @@ tags:
   - kis történet
   - fekete pedagógia
 excerpt: Részlet a 12 év című készülő könyvből
-reads: 10755
+reads: 10885
 ---
 ## Részlet a 12 év című készülő könyvből
 

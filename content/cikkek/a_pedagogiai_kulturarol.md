@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A Hargita megyei diákok karikatúraversenyének győztes alkotása. Kercsó Anna
   rajza. Forrás: http://www.szekelyhon.ro/
-reads: 22060
+reads: 22335
 ---
 <strong>Knausz Imre írása</strong>
 

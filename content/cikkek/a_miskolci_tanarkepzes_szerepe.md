@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/megazin.uni-miskolc.hu_.jpg
 coverAlt: 'Forrás: megazin.uni-miskolc.hu'
 coverTitle: 'Forrás: megazin.uni-miskolc.hu'
-reads: 4263
+reads: 4349
 ---
 <strong>…a cigányság integrációjában. Horváth Zita és Rada János írása</strong>
 

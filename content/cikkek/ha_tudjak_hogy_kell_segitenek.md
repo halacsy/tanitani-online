@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/demeter.jpg
 coverAlt: A Démétér Ház
 coverTitle: A Démétér Ház
-reads: 2658
+reads: 2745
 ---
 <strong>Sedlák Gabriellával, a Démétér Ház vezetőjével Gaál Ildikó készített interjút. Elhangzott a Klubrádióban 2022. december 29-én. Trencsényi László által szerkesztett szöveg.</strong>
 

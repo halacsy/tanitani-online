@@ -12,7 +12,7 @@ excerpt: >-
   Előadásként elhangzott a X. Tantárgy-pedagógiai Nemzetközi Tudományos
   Konferencián Baján, az Eötvös József Főiskolán 2019. április 11-én.
 coverImage: /sites/default/files/war.jpg
-reads: 11774
+reads: 12038
 ---
 <strong>Felszámolható-e a történelemtanítás nemi egyoldalúsága? Knausz Imre írása</strong>
 

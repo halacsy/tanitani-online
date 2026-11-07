@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/roma_tanulok.jpg
 coverAlt: 'Forrás: http://komaromonline.sk/'
 coverTitle: 'Forrás: http://komaromonline.sk/'
-reads: 4106
+reads: 4308
 ---
 <strong>Molnár István Gábor írása</strong>
 

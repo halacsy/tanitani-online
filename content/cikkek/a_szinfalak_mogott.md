@@ -13,7 +13,7 @@ excerpt: >-
   legyen a mentortanárnak szakvizsgája, elhivatott, innovatív szemléletű legyen,
   támogató, kedves.
 coverImage: /sites/default/files/gyakorlatszerv.jpg
-reads: 1370
+reads: 1450
 ---
 <strong>Gyakorlatszervezés a Miskolci Egyetemen.&nbsp;Ludnikné Pálfi Dorina írása</strong>
 

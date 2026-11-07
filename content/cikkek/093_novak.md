@@ -11,7 +11,7 @@ tags:
   - művészetpedagógia
   - drámapedagógia
 excerpt: Szemléletváltás a gyerekszínházakban
-reads: 10056
+reads: 10172
 ---
 ## Szemléletváltás a gyerekszínházakban
 

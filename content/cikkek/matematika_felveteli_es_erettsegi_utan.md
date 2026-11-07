@@ -13,7 +13,7 @@ excerpt: >-
   Németh Anna írása Szükségesnek érezném egy olyan kutatás megvalósítását, amely
   a matematikaórán folyó munkát elemezné.
 coverImage: /sites/default/files/erettsegi.jpg
-reads: 1712
+reads: 1791
 ---
 <strong>Németh Anna írása</strong>
 

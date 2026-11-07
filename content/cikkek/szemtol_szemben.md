@@ -13,7 +13,7 @@ excerpt: >-
   Beszélgetés a vakokról Hoffmann Ritával És Flamich Máriával Lejegyezte a
   beszélgetés moderátoraként Trencsényi László.
 coverImage: /sites/default/files/szemtol_szemben.jpg
-reads: 3972
+reads: 4080
 ---
 <strong>Beszélgetés a vakokról Hoffmann Ritával És Flamich Máriával</strong>
 

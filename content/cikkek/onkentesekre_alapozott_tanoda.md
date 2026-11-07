@@ -15,7 +15,7 @@ excerpt: >-
   hasznosíthatnak munkájuk során. Tette ezt elsősorban arra a három éves
   tapasztalatra építve, ahol egy…
 coverImage: /sites/default/files/cimlap.jpg
-reads: 7253
+reads: 7341
 ---
 <strong>Lencse Máté írása</strong>
 

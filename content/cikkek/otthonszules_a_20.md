@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/omassa.jpg
 coverAlt: 'Ómassa télen. Fotó: ériimi. Forrás: Panoramio.'
 coverTitle: 'Ómassa télen. Fotó: ériimi. Forrás: Panoramio.'
-reads: 6010
+reads: 6116
 ---
 <strong>...a 20. század elején Magyarországon egy Miskolc melletti elzárt közösségben</strong>
 

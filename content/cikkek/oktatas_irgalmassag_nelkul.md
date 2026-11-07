@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/wall.jpg
 coverAlt: A Pink Floyd The Wall c. filmből
 coverTitle: A Pink Floyd The Wall c. filmből
-reads: 9149
+reads: 9241
 ---
 <strong>Eldologiasodás, előítélet, elveszettség az iskolában. Knausz Imre írása</strong>
 

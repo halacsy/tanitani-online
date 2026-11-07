@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/gimnaziumi_tanar.jpg
 coverAlt: 'Forrás: https://news.gsu.edu/'
 coverTitle: 'Forrás: https://news.gsu.edu/'
-reads: 21627
+reads: 21741
 ---
 <strong>Csákány Ágnes írása</strong>
 

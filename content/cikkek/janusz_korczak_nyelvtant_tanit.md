@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/korczak_szalon.jpg
 coverAlt: 'Janusz Korczak: A szalon gyermeke'
 coverTitle: 'Janusz Korczak: A szalon gyermeke'
-reads: 1737
+reads: 1827
 ---
 <strong>…a varsói proletárgyerekeknek</strong>
 

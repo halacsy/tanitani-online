@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/mihaly_otto.jpg
 coverAlt: Mihály Ottó
 coverTitle: Mihály Ottó
-reads: 6220
+reads: 6422
 ---
 <strong>A 80 éves Mihály Ottó köszöntésére. Szüdi János írása</strong>
 

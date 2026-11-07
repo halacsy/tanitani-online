@@ -10,7 +10,7 @@ tags:
   - érettségi
   - középiskola
 excerpt: ''
-reads: 10130
+reads: 10239
 ---
 ## Személyes tájékoztató, összefoglaló és elemzés az írásbeliről
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyermekjogok.png
 coverAlt: 'Forrás: http://www.ifjusagi-lelkisegely.hu/'
 coverTitle: 'Forrás: http://www.ifjusagi-lelkisegely.hu/'
-reads: 2891
+reads: 2966
 ---
 <strong>Simon Mária írása</strong>
 

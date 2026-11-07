@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/numbers.jpg
 coverAlt: 'Forrás: http://fiestatoystore.com/'
 coverTitle: 'Forrás: http://fiestatoystore.com/'
-reads: 12267
+reads: 12381
 ---
 <strong>…a XVI. századtól napjainkig. Köves Gabriella írása</strong>
 

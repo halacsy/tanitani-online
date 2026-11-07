@@ -14,7 +14,7 @@ excerpt: >-
   válaszaim. A Taní-tani Online nyitott arra, hogy mások válaszainak is
   nyilvánosságot adjon.
 coverImage: /sites/default/files/national_curriculum.png
-reads: 812
+reads: 959
 ---
 <strong>Knausz Imre írása</strong>
 

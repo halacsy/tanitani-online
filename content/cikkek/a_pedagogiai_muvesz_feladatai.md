@@ -6,14 +6,14 @@ authorSlugs:
   - kertai-csenger
 date: '2026-08-12'
 tags:
-  - neveléselemélet
+  - neveléselmélet
 excerpt: >-
   Vázlat. Kertai Csenger írása Így a tanulás a politikai hatalomszerzés
   nyelvéről áthelyeződik a másik megértésének kísérletező nyelvére. A pedagógiai
   művész mer sebezhető lenni, mer hibázni, mer őszinte lenni, meri szeretni a
   diákjait, mert meg akarja érteni őket.
 coverImage: /sites/default/files/tlet2.jpeg
-reads: 888
+reads: 1054
 ---
 <strong>Vázlat. Kertai Csenger írása</strong>
 

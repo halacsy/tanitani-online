@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tolgyesy.jpg
 coverAlt: 'Tölgyesy József 2013-ban. Forrás: vehir.hu'
 coverTitle: 'Tölgyesy József 2013-ban. Forrás: vehir.hu'
-reads: 2400
+reads: 2474
 ---
 <strong>Tanulmányok Tölgyesi József nyolcvanadik születésnapjára. Novák István recenziója</strong>
 

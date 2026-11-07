@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/p1120845_w470.jpg
 coverAlt: Kép a konferenciáról
 coverTitle: Kép a konferenciáról
-reads: 9637
+reads: 9728
 ---
 <strong>Kérdés: „Ti mire használjátok a művészetet?”&nbsp;Válasz: „Mire nem használjuk?” – Kiss Virág írása</strong>
 

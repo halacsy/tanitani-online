@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/foti_420.jpg
 coverAlt: Fóti Péter és Fóti Mihály
 coverTitle: Fóti Péter és Fóti Mihály
-reads: 11068
+reads: 11165
 ---
 <b>Fóti Mihály és Fóti Péter beszélgetése</b>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/pisa_0.jpg
 coverAlt: 'Forrás: https://northabroad.com/'
 coverTitle: 'Forrás: https://northabroad.com/'
-reads: 4540
+reads: 4968
 ---
 <strong>Radó Péter írása</strong>
 

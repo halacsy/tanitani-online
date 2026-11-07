@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A képen a díjnyertes film létrejöttét mentoráló  Sipos Zsuzsa, az EKE
   Gyakorlóiskola magyar nyelv és irodalom szakos tanára látható.
-reads: 3953
+reads: 4026
 ---
 <strong>Kultúrák az iskolában, iskola a digitális korban. Földes Petra írása</strong>
 

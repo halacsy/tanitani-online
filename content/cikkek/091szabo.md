@@ -12,7 +12,7 @@ excerpt: >-
   ANDREA Számomra különlegesen szép és várakozással teli volt 2004 szeptember
   elseje. Nagy és merész álmom vált valóra. Harmincegy évesen rászántam magam,
   hogy középiskolába jelentkezzem.
-reads: 8106
+reads: 8173
 ---
 ## ANDREA
 

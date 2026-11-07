@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/autocratic.jpg
 coverAlt: 'A kép forrása: http://allday.com/'
 coverTitle: 'A kép forrása: http://allday.com/'
-reads: 10470
+reads: 10636
 ---
 <strong>Fóti Péter írása</strong>
 

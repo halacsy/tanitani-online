@@ -13,7 +13,7 @@ excerpt: >-
   tanulóknak magukévá kell tenni az érvelés technikáját. A kérdés azonban az,
   hogy hogyan dolgozzák fel ezt a témakört: kizárólag elméletben (tankönyvből)
   vagy a gyakorlatban is (például a disputa módszerével).
-reads: 18273
+reads: 18367
 ---
 > Alapvető elvárás, hogy a magyar nyelv és irodalom tantárgyon belül a tanulóknak magukévá kell tenni az érvelés technikáját. A kérdés azonban az, hogy hogyan dolgozzák fel ezt a témakört: kizárólag elméletben (tankönyvből) vagy a gyakorlatban is (például a disputa módszerével).
 

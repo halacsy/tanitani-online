@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/image002.jpg
 coverAlt: Szülő-megőrző
 coverTitle: Szülő-megőrző
-reads: 8281
+reads: 8495
 ---
 <strong>Sugár S. András </strong> <strong>Salamon Eszter könyvéről</strong>
 

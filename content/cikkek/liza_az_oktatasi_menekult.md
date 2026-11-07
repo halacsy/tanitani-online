@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/liza.jpg
 coverAlt: Tristan Tzara alkotása
 coverTitle: Tristan Tzara alkotása
-reads: 4017
+reads: 4109
 ---
 <strong>Közreadja: Kerényi Mari</strong>
 

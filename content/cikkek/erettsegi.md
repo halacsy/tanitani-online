@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/man-3653346_640.jpg
 coverAlt: pixabay
 coverTitle: pixabay
-reads: 18522
+reads: 18755
 ---
 <strong>... mint össznépi hazugság. Nahalka István írása</strong>
 

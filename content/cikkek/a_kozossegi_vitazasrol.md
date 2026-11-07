@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/debating.jpg
 coverAlt: Vita
 coverTitle: Vita
-reads: 8724
+reads: 8809
 ---
 <strong>…avagy hogyan fedezzünk fel egy elhanyagolt generációt?</strong>
 

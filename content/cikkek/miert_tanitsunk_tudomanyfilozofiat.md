@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/raffaello_atheni_iskola.jpg
 coverAlt: 'Raffaello: Az athéni iskola (részlet)'
 coverTitle: 'Raffaello: Az athéni iskola (részlet)'
-reads: 3993
+reads: 4126
 ---
 <strong>Hogyan tanítsuk meg a gyerekeinknek, miként tegyenek különbséget tudomány és áltudomány között? Bognár Gergely írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   megtanulni egy teljesen új anyagot, ahol nem támaszkodhat az anyanyelvi
   tudására.
 coverImage: /sites/default/files/tanoda_tabla.jpg
-reads: 9356
+reads: 9458
 ---
 <strong>Ottucsák Melinda A. írása</strong>
 

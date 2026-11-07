@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   A Modern Iskola fotója a budapesti Mozgásjavító Általános Iskola és
   Gimnáziumban készült. Forrás: moderniskola.hu
-reads: 8227
+reads: 8346
 ---
 <strong>Petrikné Jánossy Csilla írása</strong>
 

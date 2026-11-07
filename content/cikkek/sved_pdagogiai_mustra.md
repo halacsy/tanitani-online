@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/image025-w400.jpg
 coverAlt: Lika Värde (Egyenlő Értékek)
 coverTitle: Lika Värde (Egyenlő Értékek)
-reads: 5022
+reads: 5101
 ---
 <strong>Józsa Szilvia írása</strong>
 

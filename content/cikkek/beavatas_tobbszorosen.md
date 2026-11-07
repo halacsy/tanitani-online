@@ -14,7 +14,7 @@ excerpt: >-
   konferenciáját. A Doktori Iskola hallgatói műhelyekbe szerveződve kutatják,
   járják körül a…
 coverImage: /sites/default/files/patonay.png
-reads: 2552
+reads: 2636
 ---
 <strong>Szót kértek a színházművészet és a színházpedagógia leendő doktorai. Patonay Anita írása</strong>
 

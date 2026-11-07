@@ -16,7 +16,7 @@ excerpt: >-
   megértjük, miért olyan, amilyen, szociális munkát is végzünk. Igaz, ezt az
   alapítvány keretében, de nem elválasztható módon az oktatástól. A komplex
   munka megszervezése…
-reads: 14495
+reads: 14626
 ---
 > És nem fog tetszeni azért sem, mert ez egy szociálisan érzékeny iskola. Ahol a gyereket a teljes szociokulturális környezetével értelmezzük. És mivel megértjük, miért olyan, amilyen, szociális munkát is végzünk. Igaz, ezt az alapítvány keretében, de nem elválasztható módon az oktatástól. A komplex munka megszervezése és lebonyolítása pedig pedagógiai asszisztenseket, szociális munkást is kíván. 
 

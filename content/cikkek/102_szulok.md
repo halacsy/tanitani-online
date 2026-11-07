@@ -16,7 +16,7 @@ excerpt: >-
   kompetenciáit meghaladó, ugyanakkor az oktatási intézményekben megjelenő
   gondokat enyhítse. Az alábbiakban bemutatott projekt különösen azokban az
   országokban nagy jelentőségű…
-reads: 13743
+reads: 13851
 ---
 <strong><span style="font-size: 16px;">Fordította és összeállította: Szabó Krisztián</span></strong>
 

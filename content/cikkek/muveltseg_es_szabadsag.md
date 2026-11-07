@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/muveltseg_es_szabadsag.jpg
 coverAlt: 'Fotó: Alexovics Ingrid'
 coverTitle: 'Fotó: Alexovics Ingrid'
-reads: 8051
+reads: 8151
 ---
 <strong>Knausz Imre előadása a XI. Miskolci Taní-tani Konferencián 2018. február 2-án</strong>
 

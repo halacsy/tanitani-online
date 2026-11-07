@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/public_speech.jpg
 coverAlt: 'William Jennings Bryan, 1908. Forrás: https://www.boundless.com'
 coverTitle: 'William Jennings Bryan, 1908. Forrás: https://www.boundless.com'
-reads: 4039
+reads: 4143
 ---
 <strong>Feladat- és játékgyűjtemény az előadói készségek fejlesztéshez. Szijártó Adrienn írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   kiengesztelődés. Őslakos hagyomány Kanadában. Budapest, 2013, ELTE Eötvös
   Kiadó.
 coverImage: /sites/default/files/indian_bentlakasos-w400.jpg
-reads: 12787
+reads: 12997
 ---
 <strong>Tölgyessy Zsuzsanna recenziója Németh Tibor könyvéről</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   berendezése elképzelhetetlenné vált a diákok digitális tapasztalatainak,
   felhasználói gyakorlatának bevonása, a velük való együttműködés nélkül.
 coverImage: /sites/default/files/www.gettyimages.com_.jpg
-reads: 1717
+reads: 1839
 ---
 <strong>Bessenyei István írása</strong>
 

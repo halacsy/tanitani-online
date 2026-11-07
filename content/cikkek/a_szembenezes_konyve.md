@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/tukor.jpg
 coverAlt: 'Christoph fotója. Forrás: Flickr'
 coverTitle: 'Christoph fotója. Forrás: Flickr'
-reads: 3064
+reads: 3163
 ---
 <strong>Erdélyi László könyvismertetése</strong>
 

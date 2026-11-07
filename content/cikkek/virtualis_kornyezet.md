@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/virtualis2.jpg
 coverAlt: Virtuális világ
 coverTitle: Virtuális világ
-reads: 8138
+reads: 8226
 ---
 <strong>...virtuális oktatás</strong>
 

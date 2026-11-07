@@ -13,7 +13,7 @@ excerpt: >-
   művészetpedagógiai téma feldolgozását. A posztot és a kommenteket eredeti
   formájukban, szerkesztés nélkül közöljük.
 coverImage: /sites/default/files/jobbagyfeltekes.jpg
-reads: 7425
+reads: 7658
 ---
 <strong>L. Ritók Nóra összeállítása a jobb agyféltekés rajzolásról</strong>
 

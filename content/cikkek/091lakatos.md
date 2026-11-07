@@ -8,7 +8,7 @@ date: '2010-03-15'
 tags:
   - romák
 excerpt: ''
-reads: 8106
+reads: 8223
 ---
 ## Bemutatkozó levél
 

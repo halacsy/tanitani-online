@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kerenyi_mari_1.jpg
 coverAlt: Kerényi Mari
 coverTitle: Kerényi Mari
-reads: 1403
+reads: 1529
 ---
 <strong>Körkérdés az oktatásról 17.</strong>
 

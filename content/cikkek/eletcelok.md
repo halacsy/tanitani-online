@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/19-w400.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 8755
+reads: 8874
 ---
 > Jó lenne, ha a tehetségpontok mellett, amelyek szinte már lefedik az országot, esélypontok is lennének.
 

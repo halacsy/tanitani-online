@@ -14,7 +14,7 @@ excerpt: >-
   beszélni ott az illetékessel, elmondani neki, hogy miért jönnénk, és megtudni
   tőlük, hogy ők mikor és milyen típusú találkozásnak örülnének. Nem mehetünk
   rögtön tanítás…
-reads: 7507
+reads: 7597
 ---
 <strong>Egy pedagógus személyes válaszai</strong>
 

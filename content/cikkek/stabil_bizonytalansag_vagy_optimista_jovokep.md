@@ -15,7 +15,7 @@ excerpt: >-
   integrálódni nemcsak lehetőségekkel és stabilitással járhat, hanem a működési
   keretek…
 coverImage: /sites/default/files/cmlapra.jpg
-reads: 4999
+reads: 5102
 ---
 <strong style="font-size: 1em;">...vagy optimista jövőkép? A tanodák helyzetéről&nbsp;az állami finanszírozású pályázatok eredményeinek megjelenése kapcsán. Szűcs Norbert és Fejes József Balázs írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/lannert_judit2.png
 coverAlt: Lannert Judit
 coverTitle: Lannert Judit
-reads: 12491
+reads: 12922
 ---
 <strong>Körkérdés az oktatásról 1.</strong>
 

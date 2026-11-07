@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/biologia_cimlapra.jpg
 coverAlt: Boncolás tanórán
 coverTitle: Boncolás tanórán
-reads: 7146
+reads: 7332
 ---
 <strong>…a gimnáziumi biológiaoktatásban. Horváthné Hidegh Anikó írása</strong>
 

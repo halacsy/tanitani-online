@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/templom.jpg
 coverAlt: Nagy Eszter (13 éves) rajza az Igazgyöngy műhelyéből
 coverTitle: Nagy Eszter (13 éves) rajza az Igazgyöngy műhelyéből
-reads: 24754
+reads: 25300
 ---
 <strong>L. Ritók Nóra írása</strong>
 

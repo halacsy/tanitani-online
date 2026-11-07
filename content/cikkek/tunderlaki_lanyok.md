@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/heltai.jpg
 coverAlt: Heltai Jenő
 coverTitle: Heltai Jenő
-reads: 11056
+reads: 11132
 ---
 > Az összeállított foglalkozás elsősorban a szereplők egymás közötti viszonyainak feltárása és a jellemek részletes megvizsgálása által a látszat és valóság, és ezen keresztül a családi szerepek, az önfeláldozás motívumának vizsgálatára épül.
 

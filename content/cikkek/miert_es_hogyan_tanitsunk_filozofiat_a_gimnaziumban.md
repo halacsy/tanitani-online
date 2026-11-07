@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/filo.jpg
 coverAlt: 'forrás: pixabay.com'
 coverTitle: 'forrás: pixabay.com'
-reads: 7197
+reads: 7293
 ---
 <strong>Bognár Gergely írása a gimnáziumi filozófiatanításról</strong>
 

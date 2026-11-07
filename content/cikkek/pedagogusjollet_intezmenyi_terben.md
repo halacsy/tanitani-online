@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/csizmarne_0.jpg
 coverAlt: 'Forrás: iStock'
 coverTitle: 'Forrás: iStock'
-reads: 1404
+reads: 1548
 ---
 <strong>A kiégés megelőzésében vállalt vezetői szemlélet és szervezeti kultúra szerepe. Csizmárné Gede Erika Judit írása</strong>
 

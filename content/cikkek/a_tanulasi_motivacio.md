@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/aszod-w400.jpg
 coverAlt: 'Forrás: aszod-afi.hu'
 coverTitle: 'Forrás: aszod-afi.hu'
-reads: 8054
+reads: 8158
 ---
 <strong>…a javítóintézetben folytatott tanulmányok alatt. Budis Imola, Csiszár Evelin Kornélia és Ótott-Kovács Bernadett írása</strong>
 

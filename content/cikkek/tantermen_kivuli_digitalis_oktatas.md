@@ -12,7 +12,7 @@ excerpt: >-
   ellenére?!) a köznevelés-irányítás, ahonnan jelentős lépés lenne tehető a
   köznevelés 100-150 éves elmaradása csökkentése érdekében.
 coverImage: /sites/default/files/trambulin.png
-reads: 3637
+reads: 3728
 ---
 <strong>Braun József írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/peterfi_ferenc.jpg
 coverAlt: Péterfi Ferenc
 coverTitle: Péterfi Ferenc
-reads: 1681
+reads: 1864
 ---
 <strong>Körkérdés az oktatásról 13.</strong>
 

@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   6000 éves festmény, kéznyomok Észak-Kínában. Forrás:
   http://treasure.chinese.cn
-reads: 3609
+reads: 3692
 ---
 <strong>A tanárok és a kultúraváltás. Viszonzásul Karlowits-Juhász Orchideának. Trencsényi László írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
   kiválasztotta a feladatokat, megadta a tempót, az osztály pedig együtt haladt
   végig ezen az úton.…
 coverImage: /sites/default/files/aischool_1.jpg
-reads: 1576
+reads: 1702
 ---
 <strong style="font-size: 1em;">Az MI és a pedagógus autonómia. Tanári döntések egy algoritmikusan strukturált térben. Bessenyei István és Apáti Balázs írása</strong>
 

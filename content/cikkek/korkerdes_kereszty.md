@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kereszty_zsuzsa.jpg
 coverAlt: Kereszty Zsuzsa
 coverTitle: Kereszty Zsuzsa
-reads: 1099
+reads: 1236
 ---
 <strong>Körkérdés az oktatásról 18.</strong>
 

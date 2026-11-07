@@ -13,7 +13,7 @@ excerpt: >-
   is használnám a lehetőséget? Szeretnék egy „kis színest” írni, ami
   érzékelhetővé tesz valamit a kollégiumok helyzetének alakulásából, jelen
   helyzetéből, és…
-reads: 8213
+reads: 8290
 ---
 Megkértek, hogy írjak cikket a kollégiumokról.
 

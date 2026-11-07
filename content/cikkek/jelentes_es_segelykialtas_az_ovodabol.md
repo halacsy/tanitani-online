@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/ovoda.jpg
 coverAlt: 'Forrás: https://www.freepik.com/'
 coverTitle: 'Forrás: https://www.freepik.com/'
-reads: 4062
+reads: 4136
 ---
 <strong>Bakonyi Anna segélykiáltása</strong>
 

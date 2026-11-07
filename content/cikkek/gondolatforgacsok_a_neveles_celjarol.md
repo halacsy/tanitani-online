@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/pawel_kuczynski_1.jpg
 coverAlt: Pawel Kuczynski képe
 coverTitle: Pawel Kuczynski képe
-reads: 4102
+reads: 4204
 ---
 <strong>Knausz Imre írása</strong>
 

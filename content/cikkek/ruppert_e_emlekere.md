@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ruppert_edit.jpg
 coverAlt: Ruppert Edit
 coverTitle: Ruppert Edit
-reads: 3663
+reads: 3787
 ---
 > Ruppert Edit 2014-ben ezeken az oldalakon búcsúztatta kollégáját, barátját, „főnökét”, a legendás bányatelepi iskolateremtő igazgatót, Istvánder Józsefet. Három év után az ő ravatalánál emlékezett a tantestület. Inhoff József búcsúszavaival idézzük fel emlékét.
 

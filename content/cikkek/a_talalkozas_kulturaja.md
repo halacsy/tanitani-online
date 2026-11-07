@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/franciscus.jpg
 coverAlt: 'Forrás: dailymail.co.uk'
 coverTitle: 'Forrás: dailymail.co.uk'
-reads: 11180
+reads: 11401
 ---
 <strong>Knausz Imre előadása a&nbsp;III. Kárpát-medencei Oktatási Konferencián Nagyváradon 2018. június 22-én</strong>
 

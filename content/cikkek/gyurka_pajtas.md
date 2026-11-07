@@ -15,7 +15,7 @@ excerpt: >-
   országos gyermekszervezetnek vagyok egyik vezetője, a Magyarország Felfedezői
   Szövetség törzsfőnöke vagyok a Mátra vidékén.
 coverImage: /sites/default/files/balazs_gyorgy.jpg
-reads: 929
+reads: 1064
 ---
 <strong><span style="font-size: 12px;">Interjú Balázs Györggyel az úttörőmozgalom 80. évfordulóján. Lejegyezte Trencsényi László</span></strong>
 

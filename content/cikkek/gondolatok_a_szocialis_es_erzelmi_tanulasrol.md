@@ -14,7 +14,7 @@ excerpt: >-
   és az intelligencia természetének új értelmezéséből, a sikerrel és a
   boldogsággal való kapcsolatuk megértéséből alakult ki. A szociális és érzelmi
   tanulás során a…
-reads: 14859
+reads: 15028
 ---
 <strong>Kenneth W. Merrell és Barbara A. Gueldner könyve tükrében</strong>
 

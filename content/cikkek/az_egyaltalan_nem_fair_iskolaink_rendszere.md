@@ -13,7 +13,7 @@ excerpt: >-
   már az első iskolai osztálytól kezdve az előnyt nyújtó intézményekben
   tanulnak.
 coverImage: /sites/default/files/narancs.jpg
-reads: 4882
+reads: 4970
 ---
 <strong>... és az abban szocializálódó magyar gazdasági szereplők. Rádi Orsolya írása</strong>
 

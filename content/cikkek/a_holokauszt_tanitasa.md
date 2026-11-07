@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/munkaszolgalat.jpg
 coverAlt: 'Munkaszolgálat. Forrás: Wikimedia Commons'
 coverTitle: 'Munkaszolgálat. Forrás: Wikimedia Commons'
-reads: 2890
+reads: 2985
 ---
 <strong>…drámapedagógiai módszerekkel. Pataki Judit írása</strong>
 

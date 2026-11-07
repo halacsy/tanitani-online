@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyermekirodalom.jpg
 coverAlt: Gyermekirodalom A-tól Z-ig
 coverTitle: Gyermekirodalom A-tól Z-ig
-reads: 4806
+reads: 4865
 ---
 > Frick Mária recenziója Trencsényi László könyvéről. Kritikai írások, elemzések a gyermekirodalomról (1970–2012). Fapadoskonyv.hu Kiadó, Budapest, 2013, 331 o. 
 

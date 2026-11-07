@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/sandor_zsuzsa.jpg
 coverAlt: Sándor Zsuzsa
 coverTitle: Sándor Zsuzsa
-reads: 4987
+reads: 5113
 ---
 <strong>In memoriam Sándor Zsuzsa. Fazekas Csaba írása</strong>
 

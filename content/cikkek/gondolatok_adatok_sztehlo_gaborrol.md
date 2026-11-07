@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/p1100091.jpg
 coverAlt: 'Budakeszi út 48. A kép forrása: https://szerelmembudapest.blog.hu/'
 coverTitle: 'Budakeszi út 48. A kép forrása: https://szerelmembudapest.blog.hu/'
-reads: 1881
+reads: 1974
 ---
 <strong>Halálának ötvenedik évfordulóján. Füzéki Bálint írása</strong>
 

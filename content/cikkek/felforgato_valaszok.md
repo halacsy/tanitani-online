@@ -14,7 +14,7 @@ excerpt: >-
   félszáz szerzője a főbb nehézségek azonosítására és megoldásukra tesz
   javaslatot abban a…
 coverImage: /sites/default/files/national_curriculum_2.png
-reads: 465
+reads: 684
 ---
 <strong>A Felforgatókönyv pedagógiai műhelyének javaslatai az Oktatási és Gyermekügyi Minisztérium kérdéseire</strong>
 

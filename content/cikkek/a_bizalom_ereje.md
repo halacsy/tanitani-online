@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/mayer_nemeth.jpg
 coverAlt: Mayer Szilvia és Németh Tibor
 coverTitle: Mayer Szilvia és Németh Tibor
-reads: 2938
+reads: 3069
 ---
 <strong>Németh Tibor interjúja Mayer Szilvia tanárnővel</strong>
 

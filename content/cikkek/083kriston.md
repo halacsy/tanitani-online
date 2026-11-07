@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   Kriston Andrea egészségfejlesztési tanácsadó javaslatai a pedagógusoknak Az
   interjút készítette: W. Barna Erika
-reads: 12933
+reads: 13047
 ---
 <strong>Kriston Andrea egészségfejlesztési tanácsadó javaslatai a pedagógusoknak</strong>
 

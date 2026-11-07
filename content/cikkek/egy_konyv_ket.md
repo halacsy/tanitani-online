@@ -12,7 +12,7 @@ tags:
 excerpt: >-
   Majdnem száz év – Boreczky Ágnes beszélget Méhes Verával. Gondolat Kiadói Kör
   Kft, Budapest, 2012 (második kiadás).
-reads: 7089
+reads: 7187
 ---
 > Majdnem száz év – Boreczky Ágnes beszélget Méhes Verával. Gondolat Kiadói Kör Kft, Budapest, 2012 (második kiadás).
 

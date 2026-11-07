@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/trevarthen.png
 coverAlt: 'Colwyn Trevarthen. Forrás: https://www.nurseryworld.co.uk/'
 coverTitle: 'Colwyn Trevarthen. Forrás: https://www.nurseryworld.co.uk/'
-reads: 1329
+reads: 1442
 ---
 <strong style="font-size: 1em;">Két emberkép ütközése. Fóti Péter írása</strong>
 

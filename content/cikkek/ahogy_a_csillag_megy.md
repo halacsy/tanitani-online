@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/flaskarne_hajdu_rita.jpg
 coverAlt: Németh Tibor és Flaskárné Hajdu Rita
 coverTitle: Németh Tibor és Flaskárné Hajdu Rita
-reads: 1891
+reads: 2155
 ---
 <strong>Németh Tibor interjúja Flaskárné Hajdu Rita általános iskolai tanárnővel</strong>
 

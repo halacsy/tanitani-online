@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/nemeth_0.jpg
 coverAlt: Paddy Griffin és Németh Tibor
 coverTitle: Paddy Griffin és Németh Tibor
-reads: 6486
+reads: 6586
 ---
 <strong>Németh Tibor interjúja Paddy Griffinnel</strong>
 

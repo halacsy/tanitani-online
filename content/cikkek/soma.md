@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/somogyi_bela.jpg
 coverAlt: Somogyi Béla
 coverTitle: Somogyi Béla
-reads: 1555
+reads: 1729
 ---
 <strong>Emlékezés Somogyi Bélára. Trencsényi László írása</strong>
 

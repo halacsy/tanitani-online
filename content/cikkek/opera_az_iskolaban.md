@@ -14,7 +14,7 @@ excerpt: >-
   léphetnek vele. Amikor a saját hangjuk, mozdulatuk, történetük, rajzuk,
   ötletük is…
 coverImage: /sites/default/files/mezitlabas_szille.png
-reads: 1076
+reads: 1205
 ---
 <strong><span style="font-size: 12px;">Hogyan válhat egy elit műfaj közösségi pedagógiai folyamattá? Siposné Varga Edit írása</span></strong>
 

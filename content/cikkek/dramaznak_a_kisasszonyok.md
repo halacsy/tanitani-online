@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   Pillanatkép a Kisasszonyok című filmből 2019. Forrás:
   https://www.imdb.com/title/tt3281548/mediaviewer/rm965709825/?ref_=tt_md_5
-reads: 2283
+reads: 2380
 ---
 <strong>Pardi-Oláh Roberta írása</strong>
 

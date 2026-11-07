@@ -14,7 +14,7 @@ excerpt: >-
   ajtót vagy ablakot kinyitunk, azok közül az egyiken csak besétál a gyerek,
   vagy körülnéz. (Osztromok István)
 coverImage: /sites/default/files/cimlap_0.jpg
-reads: 9948
+reads: 10077
 ---
 <strong>Márton Gábor írása. A&nbsp;VIII. Miskolci Taní-tani Konferencián, 2015. január 30-án elhangzott előadás szerkesztett változata.</strong>
 

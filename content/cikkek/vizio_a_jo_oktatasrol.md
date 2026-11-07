@@ -12,7 +12,7 @@ excerpt: >-
   Knausz Imre a Tanítanék Mozgalom szakpolitikai javaslatcsomagjáról Mit várnak
   el a szülők és a pedagógusok az oktatáspolitikától?
 coverImage: /sites/default/files/mit_varnak_el_1.jpg
-reads: 4543
+reads: 5180
 ---
 <strong>Knausz Imre a Tanítanék Mozgalom szakpolitikai javaslatcsomagjáról</strong>
 

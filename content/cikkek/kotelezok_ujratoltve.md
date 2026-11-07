@@ -14,7 +14,7 @@ excerpt: >-
   megelevenített történetek felé, akkor valójában úgy zajlanak le benne az
   említett folyamatok, hogy azt észre sem veszi.
 coverImage: /sites/default/files/kotelezok_ujratoltve.jpg
-reads: 2261
+reads: 2384
 ---
 <strong>Kaland, játék, kockázat!? Lőrincz Andrea írása</strong>
 

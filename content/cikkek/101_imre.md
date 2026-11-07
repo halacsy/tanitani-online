@@ -14,7 +14,7 @@ excerpt: >-
   Kakasnak hívják. Több mint 200 gyerek bújik meg a szárnyai alatt. Valamennyi
   más fészekből kipottyant gyerek. Olyanok, akik előző iskolájukból magatartási,
   tanulási…
-reads: 9468
+reads: 9571
 ---
 ## (Mese Szilágyi Kata  emlékére)[fn]Szilágyi Katalin a Zöld Kakas Líceum igazgatóhelyettese volt 2000-től 2009 tavaszáig, haláláig.[/fn]
 

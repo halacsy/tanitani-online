@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/meszaros_gyorgy_1.jpg
 coverAlt: Mészáros György
 coverTitle: Mészáros György
-reads: 1095
+reads: 1197
 ---
 <strong>Körkérdés az oktatásról 2.&nbsp;Miről szól az iskola?</strong>
 

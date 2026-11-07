@@ -12,7 +12,7 @@ excerpt: >-
   írása Ezzel azt próbálta bemutatni, hogy mire utalhat a szobor testhelyzete,
   mit csinálhat a szobor, vajon egy valóságos pozíciót látunk-e vagy sem?
 coverImage: /sites/default/files/detail-of-the-kiss-by-gustav-klimt.jpg
-reads: 6145
+reads: 6209
 ---
 <strong>avagy látogatás a bécsi Belvedere múzeumpedagógiai programján.&nbsp;</strong> <strong>Joó Julianna írása</strong>
 

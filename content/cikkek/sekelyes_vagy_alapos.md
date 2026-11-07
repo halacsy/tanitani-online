@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/demokracia.jpg
 coverAlt: Delacroix festménye
 coverTitle: Delacroix festménye
-reads: 8096
+reads: 8192
 ---
 <strong>…demokrácia az iskolában</strong>
 

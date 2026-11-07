@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/harris.jpg
 coverAlt: Robert Harris festménye
 coverTitle: Robert Harris festménye
-reads: 28982
+reads: 29167
 ---
 <strong>L. Ritók Nóra írása</strong>
 

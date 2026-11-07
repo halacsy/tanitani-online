@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/portugal_roma.jpg
 coverAlt: 'Romák Portugáliában. Forrás: embracingdifferencesff.blogspot.hu'
 coverTitle: 'Romák Portugáliában. Forrás: embracingdifferencesff.blogspot.hu'
-reads: 8340
+reads: 8470
 ---
 <strong>Maria Manuela Mendes</strong> <strong> (Lisszabon</strong><strong>) írása</strong>
 

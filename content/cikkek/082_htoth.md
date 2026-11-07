@@ -14,7 +14,7 @@ excerpt: >-
   Pilinszky János költészete fölé vigaszért, bátorításért, reményért, hitbéli
   gazdagításért. Ha a nevét hallja egy átlagos olvasottságú, költészetet kedvelő
   ember…
-reads: 12876
+reads: 13009
 ---
 ## Pilinszky János költészete elemző gondolatok és munkáltató feladatok tükrében
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/sandorkatalinb.jpg
 coverAlt: A kép a szerző rajza
 coverTitle: A kép a szerző rajza
-reads: 7774
+reads: 7862
 ---
 <strong>Sándor Katalin írása</strong>
 

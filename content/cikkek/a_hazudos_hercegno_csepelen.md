@@ -11,7 +11,7 @@ excerpt: >-
   Trencsényi László írása Jó-e pálmának látni a száraz kórót, jó-e
   kristálypohárnak a papírszemetet, jó-e magunkat királylánynak brokátban?
 coverImage: /sites/default/files/fejes2.jpg
-reads: 5719
+reads: 5841
 ---
 <strong>Trencsényi László írása</strong>
 

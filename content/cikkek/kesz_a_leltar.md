@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/szekely_cimlapra.jpg
 coverAlt: Székely Róbertné
 coverTitle: Székely Róbertné
-reads: 6223
+reads: 6305
 ---
 <strong>Trencsényi László búcsúbeszéde Székely Róbertné Kemény Judit temetésén</strong>
 

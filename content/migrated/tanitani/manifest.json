@@ -1,16 +1,16 @@
 {
   "sourceDump": "tanitani.sql",
-  "sourceDumpCompletedAt": "2026-10-02T16:49:06+00:00",
+  "sourceDumpCompletedAt": "2026-11-07T07:15:50.718977+00:00",
   "privacy": "Public content only; accounts and operational logs excluded.",
   "counts": {
-    "articles": 1240,
-    "authors": 628,
-    "tags": 238,
+    "articles": 1257,
+    "authors": 633,
+    "tags": 240,
     "sections": 13,
-    "comments": 1045,
+    "comments": 1051,
     "pages": 77,
-    "media": 4755,
-    "attachments": 1365
+    "media": 4787,
+    "attachments": 1380
   },
   "liveSupplement": {
     "origin": "https://www.tani-tani.info",
@@ -18,10 +18,10 @@
     "articleCount": 0,
     "nodeIds": [],
     "tagSource": "content-inference",
-    "syncedAt": "2026-10-05T10:30:23+02:00"
+    "syncedAt": "2026-11-07T23:07:28+01:00"
   },
   "historicalInlineMedia": {
-    "referenced": 3079,
+    "referenced": 3109,
     "downloaded": 0,
     "failed": 12,
     "localizedEncodedPaths": 1,

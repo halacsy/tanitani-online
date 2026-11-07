@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/740152964_1028703996209718_3789922429348467337_n.jpg
 coverAlt: 'Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete'
 coverTitle: 'Misley Judit. Forrás: Facebook, Könyvtárostanárok Egyesülete'
-reads: 1099
+reads: 1236
 ---
 <strong>Lőrinc László beszéde Misley Judit temetésén 2026. augusztus 13-án</strong>
 

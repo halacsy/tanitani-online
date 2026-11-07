@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/emlekmu.jpg
 coverAlt: A bostoni holokauszt-emlékmű részlete. A szerző felvétele
 coverTitle: A bostoni holokauszt-emlékmű részlete. A szerző felvétele
-reads: 9193
+reads: 9281
 ---
 <strong>Alexovics Ingrid írása a vizuális archívumok oktatási célú felhasználásának lehetőségeiről</strong>
 

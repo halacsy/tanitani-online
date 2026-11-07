@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/barsony_magda.png
 coverAlt: Bársony Magda
 coverTitle: Bársony Magda
-reads: 2941
+reads: 3041
 ---
 <strong>In memoriam Bársony Magda (1927-2020). Abonyi Gabriella megemlékezése</strong>
 

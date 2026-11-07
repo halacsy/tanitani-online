@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kurti.png
 coverAlt: Kürti György
 coverTitle: Kürti György
-reads: 2203
+reads: 2420
 ---
 <strong>Az alma mater diákja, tanára, igazgatója, krónikása. Trencsényi László írása</strong>
 

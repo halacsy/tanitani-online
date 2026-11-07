@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/asztalos_cimlap.jpg
 coverAlt: 'A kép forrása: https://www.invaluable.com/'
 coverTitle: 'A kép forrása: https://www.invaluable.com/'
-reads: 7829
+reads: 8117
 ---
 <strong>Asztalos György írása a pedagógus teljesítményértékelési rendszerről</strong>
 

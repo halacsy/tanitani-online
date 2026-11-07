@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/image005-w500_0.jpg
 coverAlt: Találkozások Trégastelben
 coverTitle: Találkozások Trégastelben
-reads: 10345
+reads: 10496
 ---
 > A kelta kultúrában eszmélődött Samuel Allo, utazó-népművelő vándorként kerülte meg a Földet, és iskolák százaiban mesélt gyerekeknek. Amit gyűjt, ott felkínálja, álmodni hív.
 

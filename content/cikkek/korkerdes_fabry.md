@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/fabry_bela_0.jpg
 coverAlt: Fábry Béla
 coverTitle: Fábry Béla
-reads: 1862
+reads: 1966
 ---
 <strong>Körkérdés az oktatásról 8.</strong>
 

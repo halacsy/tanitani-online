@@ -69,7 +69,7 @@
     "descriptionHtml": "<p>Keramikus, digitális szövegalkotó és promptspecialista vagyok. A generatív mesterséges intelligencia és az emberi gondolkodás együttműködésének lehetőségeivel foglalkozom. Waldorf-tanárként tanítottam, kiképzett pszichodramatista vagyok. Kisorosziban élek és alkotok.</p>\r\n",
     "weight": 0,
     "slug": "apati-balazs",
-    "articleCount": 4
+    "articleCount": 7
   },
   {
     "id": 647,
@@ -309,7 +309,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">Nyugalmazott egyetemi docens, oktatásszociológus vagyok. Fő érdeklődési körömbe tartozik a tanulási rendszerek sorsa a kései modern információs&nbsp; társadalomban, ezen belül is a tudás átalakulása, a digitális átállás és a mesterséges intelligenciának az oktatásban betöltött szerepe.</p>\r\n",
     "weight": 0,
     "slug": "bessenyei-istvan",
-    "articleCount": 20
+    "articleCount": 22
   },
   {
     "id": 226,
@@ -677,7 +677,7 @@
     "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tTanársegéd vagyok a Semmelweis Egyetem Pető András Karán, továbbá óvodapedagógus, köznevelési és felnőttképzési szakember. A Wesley Theológiai és Valláspedagógiai Doktori Iskolájának végzős PhD-hallgatója vagyok. Kutatási területem a fogyatékosság teológiai és pedagógiai értelmezése a középkori keresztény Európában, különös tekintettel az emberképre és a nevelési felelősség kérdéseire. Szakmai érdeklődésem kiterjed továbbá az óvodai nevelés etikai dilemmáira és a technológiai innovációk pedagógiai értelmezésére is.</div>\r\n",
     "weight": 0,
     "slug": "csizmarne-gede-erika-judit",
-    "articleCount": 7
+    "articleCount": 8
   },
   {
     "id": 269,
@@ -1301,7 +1301,7 @@
     "descriptionHtml": "<p>Budapesten születtem 1956-ban. 1990 óta élek Bécsben, feleségemmel és fiammal. Fiam születése (1999) után fordultam ismét pedagógiai kérdések felé, folytatva azt, amit 1987 és 1990 között a OPI Iskolakutatási Osztályán csináltam: olvasni, gondolkodni, írni arról, hogy mik a hibái a mai társadalomnak, nevelésnek, iskolának.</p>\r\n<p><a href=\"https://www.foti-peter.hu/publikacioim/\">Publikációim jegyzéke</a></p>\r\n",
     "weight": 0,
     "slug": "foti-peter",
-    "articleCount": 47
+    "articleCount": 49
   },
   {
     "id": 53,
@@ -1648,6 +1648,14 @@
     "articleCount": 2
   },
   {
+    "id": 930,
+    "name": "Hatt János",
+    "descriptionHtml": "<div class=\"rtejustify\" id=\"cke_pastebin\">\r\n\tA győri Kazinczy Ferenc Gimnázium és Kollégium tizedik&nbsp;<span style=\"font-size: 12px;\">osztályos tanulója vagyok. Kedvenc tantárgyaim a matematika és a fizika, de mindig nyitott&nbsp;</span><span style=\"font-size: 12px;\">vagyok más tantárgyak iránt is.</span></div>\r\n",
+    "weight": 0,
+    "slug": "hatt-janos",
+    "articleCount": 1
+  },
+  {
     "id": 780,
     "name": "Hatvani Istvánné",
     "descriptionHtml": "",
@@ -1885,7 +1893,7 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "jakab-gyorgy",
-    "articleCount": 2
+    "articleCount": 3
   },
   {
     "id": 422,
@@ -2173,7 +2181,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">Kertai Csenger vagyok, író és tanár, 1995-ben születtem Budapesten. Idén ősztől a Szent II. János Pál Iskolaközpont egy ötödikes osztályának leszek osztályfőnöke.</p>\r\n",
     "weight": 0,
     "slug": "kertai-csenger",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 379,
@@ -2269,7 +2277,7 @@
     "descriptionHtml": "<p>Pedagógiáról gondolkodó ember vagyok. Amúgy nyugdíjas. 2007–2010 között a Taní-tani alternatív iskolai folyóirat, 2011 óta a Taní-tani Online főszerkesztője.</p>\r\n",
     "weight": 0,
     "slug": "knausz-imre",
-    "articleCount": 49
+    "articleCount": 50
   },
   {
     "id": 410,
@@ -3088,6 +3096,14 @@
     "articleCount": 1
   },
   {
+    "id": 927,
+    "name": "Móka János",
+    "descriptionHtml": "<p class=\"rtejustify\">Nyugdíjasként Bicskén SNI-s tanulókat tanítok. A színház és a pedagógia világában töltöttem az életemet: az Apor Vilmos Katolikus Főiskola Drámapedagógia Tanszékét vezettem, emellett a pécsi és a kecskeméti felsőoktatásban is tanítottam. Színházban rendeztem, pedagógiai folyóiratokban publikáltam. Négy saját gyermekünk mellett feleségem három gyermekét is felneveltük.</p>\r\n",
+    "weight": 0,
+    "slug": "moka-janos",
+    "articleCount": 1
+  },
+  {
     "id": 655,
     "name": "Mózes Ernő",
     "descriptionHtml": "",
@@ -3133,7 +3149,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">Az Eszterházy Károly Katolikus Egyetem osztatlan tanárszakos hallgatója vagyok (angol nyelv és kultúra tanára – német nyelv és kultúra tanára). Már gyermekkorom óta vonzódom a nyelvekhez és a különböző kultúrákhoz, és mindig is arra törekedtem, hogy ezt a kíváncsiságot és szeretetet másokkal is megoszthassam. A pedagóguspálya számomra a legtermészetesebb módja annak, hogy ezt megtehessem.</p>\r\n<p class=\"rtejustify\">A nyelvtanulás mellett a tudományos írások világában is érdekelt vagyok. Az egyetem által szervezett, középiskolásoknak szóló Tehetségútlevél Pedagógia Szekcióban országos első helyezést értem el. A publikálás lehetősége új utakat nyitott számomra, és azóta is számos témakörben érdeklődöm, többek között a generációkutatás, a digitalizáció és a modernkori tanulási környezet kérdései iránt. Bízom benne, hogy leendő kutatási eredményeim nemcsak a saját fejlődésemet szolgálják, hanem a jövő generációjának tanulását és fejlődését is elősegítik majd.</p>\r\n",
     "weight": 0,
     "slug": "nagy-fruzsina",
-    "articleCount": 4
+    "articleCount": 5
   },
   {
     "id": 452,
@@ -3341,7 +3357,7 @@
     "descriptionHtml": "<p class=\"rtejustify\">&Aacute;llatorvosi Egyetemet v&eacute;geztem, de 1984 &oacute;ta sz&aacute;m&iacute;t&aacute;stechnik&aacute;val foglalkozom. Jelenlegi szakm&aacute;m mellett &eacute;rdekel az emberi viselked&eacute;s, a fejlőd&eacute;s-gazdas&aacute;gtan &eacute;s a j&ouml;vőkutat&aacute;s is. Mindezek a ter&uuml;letek inspir&aacute;lnak v&eacute;lem&eacute;ny- &eacute;s n&eacute;zetform&aacute;l&aacute;sra a j&ouml;vő gener&aacute;ci&oacute;j&aacute;val kapcsolatos k&eacute;rd&eacute;sekben. &Aacute;llatorvosi &eacute;s biol&oacute;giai ismereteim &aacute;ltal&aacute;nos művelts&eacute;gem r&eacute;sz&eacute;v&eacute; v&aacute;ltak, &eacute;s j&oacute;l eg&eacute;sz&iacute;tik ki jelenlegi &eacute;rdeklőd&eacute;si ter&uuml;leteim t&aacute;rgyait.</p>\r\n",
     "weight": 0,
     "slug": "pajor-gabor",
-    "articleCount": 1
+    "articleCount": 2
   },
   {
     "id": 195,
@@ -3629,6 +3645,14 @@
     "descriptionHtml": "",
     "weight": 0,
     "slug": "rucska-andrea",
+    "articleCount": 1
+  },
+  {
+    "id": 926,
+    "name": "Rudi Andrea",
+    "descriptionHtml": "<p class=\"rtejustify\">Mesterpedagógus, német nyelvtanár&nbsp;– korábban egy budai gimnáziumban a szakmai munkáért és az innovációért felelős igazgatóhelyettes&nbsp;–,&nbsp;valamint pedagógiai fejlesztő vagyok. Több mint tíz éve foglalkozom a középiskolás tanulók digitális kompetenciájának fejlesztésével, emellett pedagógus-továbbképzéseket és Erasmus+ kurzusokat tartok. Microsoft Innovative Educator Trainerként kiemelten érdekel a digitális eszközök módszertanilag tudatos alkalmazása, a fejlesztő értékelés, a kritikai gondolkodás és a problémamegoldás tanórai fejlesztése. Az <a href=\"http://www.euronedu.hu\">Euronedu</a> digitális tananyagainak – 5.-12. osztály&nbsp;–&nbsp;ötletgazdájaként és fejlesztőjeként jelenleg is aktív vagyok. Írásaimban elsősorban olyan, a mindennapi tanításban is megvalósítható megoldásokat mutatok be, amelyek figyelembe veszik a pedagógusok valós időbeli és tantervi lehetőségeit. Szakmai cikkeim a Modern Iskola felületén is megjelennek.</p>\r\n",
+    "weight": 0,
+    "slug": "rudi-andrea",
     "articleCount": 1
   },
   {
@@ -4320,6 +4344,14 @@
     "articleCount": 1
   },
   {
+    "id": 931,
+    "name": "Söllei Barnabás",
+    "descriptionHtml": "",
+    "weight": 0,
+    "slug": "sollei-barnabas",
+    "articleCount": 1
+  },
+  {
     "id": 805,
     "name": "Sütő Attila",
     "descriptionHtml": "",
@@ -4477,7 +4509,7 @@
     "descriptionHtml": "<p>Voltam &aacute;ltal&aacute;nos iskolai tan&aacute;r (ama bizonyos Kert&eacute;sz utc&aacute;ban, majd egy pal&oacute;c faluban), azt&aacute;n voltam az &uacute;tt&ouml;rők kultur&aacute;lis &eacute;let&eacute;nek reformere, innov&aacute;ci&oacute;s mindenes (OPI-ban, OKI-ban) - fők&eacute;nt az iskola hat&aacute;rvid&eacute;kein kerestem a meg&uacute;j&iacute;t&aacute;sra k&eacute;sz gerillacsapatokat (gyerekkult&uacute;ra, &Aacute;MK, iskolasz&eacute;k stb.). Ma fők&eacute;nt pedag&oacute;gusjel&ouml;ltek &uacute;j nemzed&eacute;k&eacute;nek megteremt&eacute;s&eacute;ben b&iacute;zom, kor&aacute;bban Miskolcon tan&iacute;tottam, ma a&nbsp; pesti egyetem pedag&oacute;giai &eacute;s pszichol&oacute;giai kar&aacute;n. 60. &eacute;vemet bet&ouml;ltv&eacute;n &quot;lovagg&aacute;&nbsp;&nbsp; &uuml;t&ouml;tt&quot; a k&ouml;zt&aacute;rsas&aacute;gi eln&ouml;k - rem&eacute;lem, meg&eacute;rdemeltem.<br />\r\n\t&nbsp;</p>\r\n",
     "weight": 0,
     "slug": "trencsenyi-laszlo",
-    "articleCount": 91
+    "articleCount": 92
   },
   {
     "id": 722,
@@ -4941,6 +4973,14 @@
     "descriptionHtml": "<p class=\"rtejustify\">Az ELTE BTK angoltan&aacute;r &eacute;s j&aacute;t&eacute;k- &eacute;s szabadidőszervező tan&aacute;r mesterszak&aacute;n vagyok m&aacute;sod&eacute;ves hallgat&oacute;. T&ouml;bb mint 6 &eacute;ves idegennyelv-tan&aacute;ri tapasztalattal rendelkezem. Jelenleg a XIV. ker&uuml;let egyik műszaki szakk&ouml;z&eacute;piskol&aacute;j&aacute;ban vagyok angoltan&aacute;r &eacute;s oszt&aacute;lyfőn&ouml;k.</p>\r\n",
     "weight": 0,
     "slug": "zarandi-zsolt-bence",
+    "articleCount": 1
+  },
+  {
+    "id": 929,
+    "name": "Zavagyil Zoltán",
+    "descriptionHtml": "<p class=\"rtejustify\">Közgazdász és jogász vagyok, vezetőként a versenyszférában és a közigazgatásban egyaránt dolgoztam, jelenleg interim menedzserként tevékenykedem. Vezetési tanácsadóként, vendégelőadóként és szerzőként elsősorban vezetési, szervezeti és oktatási kérdések foglalkoztatnak; munkámat Garai-díjjal is elismerték. Hiszek abban, hogy egy szervezetet nem önmagáért, hanem azokért érdemes működtetni és megújítani, akiket szolgál.</p>\r\n",
+    "weight": 0,
+    "slug": "zavagyil-zoltan",
     "articleCount": 1
   },
   {

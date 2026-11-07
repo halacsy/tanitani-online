@@ -14,7 +14,7 @@ excerpt: >-
   beszélgettem, aki a Kecskeméti Színjátszó Műhely színjátszója volt, s
   elmesélte, miért volt izgalmas számára a diákszínházi lét.
 coverImage: /sites/default/files/bata_eva_1.jpg
-reads: 6513
+reads: 6601
 ---
 <strong>... vizsgálódik az ember, annál toleránsabb, annál nyitottabb lesz...”</strong><br><b>Fekete Anikó interjúja</b>
 

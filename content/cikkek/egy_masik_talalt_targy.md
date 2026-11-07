@@ -14,7 +14,7 @@ excerpt: >-
   szabályrendszerét, és azon belül játszani. A rögeszméjéről hallva nem
   letorkolni kellene, hanem megkérni, mesélje el, mi fog történni majd. Ha
   ismerjük a jövő történetét, meg kell…
-reads: 8196
+reads: 8281
 ---
 <strong>Magyar Szilárd dolgozatát közzéteszi: Trencsényi László</strong>
 

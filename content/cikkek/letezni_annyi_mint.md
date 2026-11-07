@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyerekek1_470.jpg
 coverAlt: Gyerekek a táborban
 coverTitle: Gyerekek a táborban
-reads: 8194
+reads: 8275
 ---
 <strong style="text-align: justify; ">Létezni annyi, mint szeretve lenni…</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   tapasztalatainak összegzése Röviden a kutatásról A „Fit for Business –
   Developing business competencies in school” (rövidítve: Fifobi) című hároméves
   nemzetközi kutatási program…
-reads: 8188
+reads: 8278
 ---
 <strong>A gazdasági ismeretek és a vállalkozói készségek megjelenése a Nemzeti alaptantervben</strong>
 

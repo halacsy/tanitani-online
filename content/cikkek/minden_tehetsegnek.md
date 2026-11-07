@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/minden_tehetsegnek.jpg
 coverAlt: 'Hejőkeresztúr. Forrás: nol.hu'
 coverTitle: 'Hejőkeresztúr. Forrás: nol.hu'
-reads: 9565
+reads: 9726
 ---
 <strong>K. Nagy Emese hozzászólása Gyarmathy Éva és Nahalka István gondolataihoz</strong>
 

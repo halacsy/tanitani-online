@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   Gálik András – Havas Bálint: Kis Varsó (részlet). Forrás:
   http://ebattak.blog.hu/
-reads: 178950
+reads: 180460
 ---
 <strong>A gimnáziumok eredményessége kicsit másképpen</strong>
 

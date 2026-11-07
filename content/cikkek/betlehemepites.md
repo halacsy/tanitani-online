@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/betlehem7.jpg
 coverAlt: Betlehem
 coverTitle: Betlehem
-reads: 9067
+reads: 9199
 ---
 <strong>Komplex innovációs lehetőség advent idejére</strong>
 

@@ -11,7 +11,7 @@ excerpt: 'Lányi András írása Előzmény: Knausz Imre: A közoktatás felforg
 coverImage: /sites/default/files/felforgatokonyv_hang.hu__0.jpg
 coverAlt: Felforgatókönyv
 coverTitle: Felforgatókönyv
-reads: 1421
+reads: 1549
 ---
 <strong><span style="font-size: 12px;">Lányi András írása</span></strong>
 

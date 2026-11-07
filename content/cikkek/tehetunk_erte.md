@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/santegidio.jpg
 coverAlt: 'Forrás: https://fiatalokabekeert.blogspot.com/'
 coverTitle: 'Forrás: https://fiatalokabekeert.blogspot.com/'
-reads: 2261
+reads: 2347
 ---
 <strong>Mit tehetünk azért, hogy növekedjen az együttérzés társadalmunkban? Székely Kinga írása</strong>
 

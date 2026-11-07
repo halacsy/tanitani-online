@@ -11,7 +11,7 @@ tags:
   - kompetencia
   - természettudományos oktatás
 excerpt: ''
-reads: 12297
+reads: 12380
 ---
 <img alt="Horányi Gábor" src="/sites/default/files/horanyi-gabor_k.jpg" style="margin-left: 10px; margin-right: 10px; float: left;">
 

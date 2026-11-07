@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/bathory_hoffmann.png
 coverAlt: Báthory Zoltán és Hoffmann Rózsa
 coverTitle: Báthory Zoltán és Hoffmann Rózsa
-reads: 5890
+reads: 5996
 ---
 <strong>Radó Péter írása</strong>
 

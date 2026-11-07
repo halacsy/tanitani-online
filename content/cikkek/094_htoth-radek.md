@@ -9,7 +9,7 @@ date: '2010-04-17'
 tags:
   - magyartanítás
 excerpt: Lackfi János néhány alkotása olvasásra ajánlással
-reads: 8443
+reads: 8532
 ---
 ## Lackfi János néhány alkotása olvasásra ajánlással
 

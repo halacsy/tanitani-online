@@ -14,7 +14,7 @@ excerpt: >-
   szerint ez hamis dilemma. A valódi igazságosság éppen abból születik, hogy
   előbb megpróbáljuk…
 coverImage: /sites/default/files/dennison.jpg
-reads: 1817
+reads: 1923
 ---
 <strong>George Dennison pedagógiájának erkölcsi alapjai. Fóti Péter írása</strong>
 

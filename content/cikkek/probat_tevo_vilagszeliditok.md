@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/vilagszepites.jpg
 coverAlt: 'Forrás: https://www.magyar-iskola.sk/'
 coverTitle: 'Forrás: https://www.magyar-iskola.sk/'
-reads: 2728
+reads: 2890
 ---
 <strong>Trencsényi László írása Mikola Péter mesekönyveiről</strong>
 

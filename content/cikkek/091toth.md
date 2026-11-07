@@ -9,7 +9,7 @@ tags:
   - örökség
   - környezeti nevelés
 excerpt: ''
-reads: 11388
+reads: 11526
 ---
 ## Ember és természet – vagy ahogy a NAT mondja: Ember a természetben
 

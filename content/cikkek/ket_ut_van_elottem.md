@@ -12,7 +12,7 @@ excerpt: >-
   mégis mindenki szenved. A megoldás, hogy vigyázunk: az autóparkunkban ne
   legyenek lemaradók.
 coverImage: /sites/default/files/slowdown-w400.jpg
-reads: 36224
+reads: 36859
 ---
 <strong>Gyarmathy Éva hozzászólása Nahalka István vitacikkéhez</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/9535752046_e0234b0749_o.jpg
 coverAlt: 'fotó: Megan George (flickr.com)'
 coverTitle: 'fotó: Megan George (flickr.com)'
-reads: 6832
+reads: 6918
 ---
 <strong>Dávid Péter írása</strong>
 

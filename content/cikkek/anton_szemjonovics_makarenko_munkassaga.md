@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/makarenko.jpg
 coverAlt: Makarenko
 coverTitle: Makarenko
-reads: 12356
+reads: 12511
 ---
 <strong>…avagy hogyan értsük „jól” a makarenkói pofont. Nemeh Diana írása</strong>
 

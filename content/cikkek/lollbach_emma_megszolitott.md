@@ -12,7 +12,7 @@ excerpt: >-
   kerül (350 millió forint), hány ezer köbméter földet kell kiásni, hány ezer
   hold válik ezzel öntözhetővé.
 coverImage: /sites/default/files/uj_iskola_cimlapra_0.jpg
-reads: 4513
+reads: 4617
 ---
 <strong>Kereszty Zsuzsa írása</strong>
 

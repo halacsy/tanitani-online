@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/szakertelem_es_emberseg.jpg
 coverAlt: Szakértelem és emberség. Válogatás Törzsök Károlyné pedagógiai írásaiból
 coverTitle: Szakértelem és emberség. Válogatás Törzsök Károlyné pedagógiai írásaiból
-reads: 1377
+reads: 1476
 ---
 <strong>Bogdán Péter könyvajánlója</strong>
 

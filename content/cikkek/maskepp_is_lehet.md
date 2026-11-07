@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/elise23.png
 coverAlt: A beszélgetés eredeti megjelenési helye
 coverTitle: A beszélgetés eredeti megjelenési helye
-reads: 2341
+reads: 2432
 ---
 <strong>…és én másképp akarom csinálni.</strong>
 

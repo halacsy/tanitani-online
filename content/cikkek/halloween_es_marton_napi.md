@@ -13,7 +13,7 @@ excerpt: >-
   legalább egy főt macskának kellett beöltöztetniük, a többiek kihasználták a
   lehetőséget, hogy minél rémisztőbb alakok bőrébe bújhattak.
 coverImage: /sites/default/files/halloweew_bev.jpg
-reads: 12826
+reads: 12923
 ---
 <strong>…ahogy mi csináltuk. Brunner Anita írása</strong>
 

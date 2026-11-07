@@ -12,7 +12,7 @@ excerpt: >-
   mostanihoz hasonló krízis mégis az iskolák hasznára? Mert eközben maguk is
   tanulnak!
 coverImage: /sites/default/files/krizistanulas_cimlap.jpg
-reads: 4647
+reads: 4775
 ---
 <strong>Avagy mire lesz <em>jó</em> a vírus az iskoláknak? Fazekas Nóra írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_470_0.jpg
 coverAlt: Trencsényi László
 coverTitle: Trencsényi László
-reads: 10131
+reads: 10270
 ---
 > Az egyesület utolsó bázisa, a káposztásmegyeri intézmény kutatással igazolta, hogy az integrált szervezet többre képes, mint az ugyanolyan épületegyüttesben külön-külön működő óvoda, iskola, könyvtár, közösségi ház.
 

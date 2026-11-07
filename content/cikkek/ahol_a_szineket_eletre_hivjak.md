@@ -14,7 +14,7 @@ excerpt: >-
   hisznek, hogy ki tudná jobban mire van szüksége, és mi a jó egy gyereknek,
   mint ő maga?
 coverImage: /sites/default/files/szines_iskola.jpg
-reads: 1736
+reads: 1850
 ---
 <strong>Juhász Rebeka írása</strong>
 

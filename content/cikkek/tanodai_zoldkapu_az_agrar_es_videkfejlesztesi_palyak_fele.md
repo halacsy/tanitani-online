@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanodasok01.png
 coverAlt: Tanodások. A szerző felvétele
 coverTitle: Tanodások. A szerző felvétele
-reads: 1545
+reads: 1710
 ---
 <strong><span style="font-size: 12px;">…az agrár és vidékfejlesztési pályák felé. Balogh Gyula írása</span></strong>
 

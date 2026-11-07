@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/sztehlogabor.jpg
 coverAlt: 'Forrás: http://www.mazsike.hu/'
 coverTitle: 'Forrás: http://www.mazsike.hu/'
-reads: 5386
+reads: 5483
 ---
 <strong>Száz év Sztehlo Gáborral. Füzéki Bálint írása</strong>
 

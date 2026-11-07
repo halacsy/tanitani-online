@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/meszaros_toth.jpg
 coverAlt: 'Mészáros György és Tóth Tamás Május. Fotó: Nagy Dániel'
 coverTitle: 'Mészáros György és Tóth Tamás Május. Fotó: Nagy Dániel'
-reads: 2445
+reads: 2544
 ---
 <strong>Tóth Tamás Május interjúja Mészáros György nevelésfilozófussal</strong>
 

@@ -9,7 +9,7 @@ tags:
   - oktatáspolitika
 excerpt: Kabdebó Ferenc írása A teljes koncepció mellékletben olvasható .
 coverImage: /sites/default/files/gondolataim.jpg
-reads: 1450
+reads: 1757
 ---
 <strong>Kabdebó Ferenc írása</strong>
 

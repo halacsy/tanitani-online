@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiss_aron.jpg
 coverAlt: 'Kiss Áron. Forrás: Wikimedia Commons'
 coverTitle: 'Kiss Áron. Forrás: Wikimedia Commons'
-reads: 4809
+reads: 4901
 ---
 <strong>Kriston Vízi József beszéde 2016. június 19-én a Gálbory-villa kertjében</strong>
 

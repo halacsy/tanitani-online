@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/mann-w400.jpg
 coverAlt: Thomas Mann és József Attila
 coverTitle: Thomas Mann és József Attila
-reads: 6872
+reads: 7016
 ---
 <strong>…oly üresen várnak…” József Attila-sorok és más hipertextek. Trencsényi László írása</strong>
 

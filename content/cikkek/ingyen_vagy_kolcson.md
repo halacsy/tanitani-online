@@ -11,7 +11,7 @@ excerpt: Czenner Júlia írása Az ingyen tankönyv kérdésében tisztán látn
 coverImage: /sites/default/files/dscf8244-w400.jpg
 coverAlt: 'Forrás: http://eklektika.ektf.hu/'
 coverTitle: 'Forrás: http://eklektika.ektf.hu/'
-reads: 12178
+reads: 12358
 ---
 <strong>Czenner Júlia írása</strong>
 

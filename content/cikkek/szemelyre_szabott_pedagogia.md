@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/personalized.jpg
 coverAlt: 'Forrás: https://standtogether.org/'
 coverTitle: 'Forrás: https://standtogether.org/'
-reads: 1097
+reads: 1249
 ---
 <strong><span style="font-size: 12px;">Az egyéni bánásmód az autizmussal élő tanulók támogatásában.&nbsp;</span><span style="font-size: 12px;">Intézményvezetői tapasztalatok és bevált pedagógiai gyakorlatok. Hollóné Baski Nikoletta írása</span></strong>
 

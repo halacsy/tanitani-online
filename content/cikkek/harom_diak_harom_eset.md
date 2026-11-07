@@ -12,7 +12,7 @@ excerpt: >-
   Buzási Gábor írása Az alábbiakban három történeten keresztül volt diákjaim
   esetét szeretném megosztani.
 coverImage: /sites/default/files/picasso_dali.jpg
-reads: 3736
+reads: 3906
 ---
 <strong>Buzási Gábor írása</strong>
 

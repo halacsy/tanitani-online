@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/next_generation470.jpg
 coverAlt: A számítógép és a gyerekek
 coverTitle: A számítógép és a gyerekek
-reads: 97566
+reads: 98098
 ---
 <strong>Vigyázz a gyerekekre! Tolnai Antal írása</strong>
 

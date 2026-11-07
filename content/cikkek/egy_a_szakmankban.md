@@ -11,7 +11,7 @@ excerpt: >-
   Sándor L. István (szerk.): Gyerekszínházak Magyarországon. Tanulmányok,
   elemzések, beszélgetések az elmúlt 15 évről . ASSITEJ Magyar Központ,
   Budapest, 2006.
-reads: 7328
+reads: 7414
 ---
 > Sándor L. István (szerk.): Gyerekszínházak Magyarországon. Tanulmányok, elemzések, beszélgetések az elmúlt 15 évről . ASSITEJ Magyar Központ, Budapest, 2006.
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/kep_030-w400.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 10965
+reads: 11056
 ---
 <strong>L. Ritók Nóra írása</strong>
 

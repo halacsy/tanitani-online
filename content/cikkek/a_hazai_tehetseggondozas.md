@@ -13,7 +13,7 @@ excerpt: >-
   hiszi, ő kell megtanítsa a diákot, és elfelejti, hogy mindössze meg kell
   mutatnia a diáknak az utakat, amelyeken végig tud menni.
 coverImage: /sites/default/files/gyarmathy.jpg
-reads: 33166
+reads: 33373
 ---
 <strong>Dr. Gyarmathy Éva írása</strong>
 

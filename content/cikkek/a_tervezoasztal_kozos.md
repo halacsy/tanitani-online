@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/tevezoasztal.jpg
 coverAlt: 'Forrás: http://www.cooperativedesignlab.com'
 coverTitle: 'Forrás: http://www.cooperativedesignlab.com'
-reads: 6258
+reads: 6383
 ---
 <strong>Vass Vilmos írása</strong>
 

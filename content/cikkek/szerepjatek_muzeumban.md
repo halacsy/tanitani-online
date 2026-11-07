@@ -14,7 +14,7 @@ excerpt: >-
   szórakozássá válik számukra a múzeumlátogatás. Felszabadultan, lazán
   közlekednek a múzeumi térben, szinte észre sem veszik, hogy játszva tanulnak.
 coverImage: /sites/default/files/hampton_court_344.jpg
-reads: 7805
+reads: 7905
 ---
 <strong>Joó Julianna írása</strong>
 

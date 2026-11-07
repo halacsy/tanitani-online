@@ -11,7 +11,7 @@ excerpt: >-
   Fóti Péter válasza Horváth Attilának Egy közös kísérlet, amelyben a kérdéseket
   én tettem fel, a válaszokat pedig a „ChatGPT MI program” fogalmazta meg.
 coverImage: /sites/default/files/education_future.png
-reads: 860
+reads: 966
 ---
 <strong><span style="font-size: 1em;">Fóti Péter válasza Horváth Attilának</span></strong>
 

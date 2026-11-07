@@ -13,7 +13,7 @@ excerpt: >-
   Tudományegyetem Egyetemi Könyvtár és Tudásközpont Történeti Gyűjtemények
   osztályán.
 coverImage: /sites/default/files/elmondhatatlan_cimlapra.jpg
-reads: 3269
+reads: 3364
 ---
 <strong>Alexovics Ingrid kiállításmegnyitója</strong>
 

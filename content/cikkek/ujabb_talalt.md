@@ -15,7 +15,7 @@ excerpt: >-
   aktívan eltölthető két hetet nyaraló gyerekeknek. Nem rontják meg őket,
   kalandokkal és élményekkel, fejlesztő programokkal segítik szabadidejük
   eltöltését.
-reads: 160297
+reads: 163350
 ---
 <strong>Valódi Élmény – táborozás Salgóbányán</strong>
 

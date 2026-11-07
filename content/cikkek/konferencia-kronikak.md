@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kozma_tamas.jpg
 coverAlt: Kozma Tamás
 coverTitle: Kozma Tamás
-reads: 3429
+reads: 3533
 ---
 <strong>Trencsényi László írása</strong>
 

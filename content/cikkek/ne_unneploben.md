@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/jozsa_ne_unneploben_cimlap.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 24775
+reads: 25349
 ---
 <strong>Józsa István írása</strong>
 

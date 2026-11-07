@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/nadori.jpg
 coverAlt: Nádori László
 coverTitle: Nádori László
-reads: 2303
+reads: 2390
 ---
 <strong>Történelem, sporttörténet, tudománytörténet. Fábry Ilona könyv</strong><strong>ismertetője</strong>
 

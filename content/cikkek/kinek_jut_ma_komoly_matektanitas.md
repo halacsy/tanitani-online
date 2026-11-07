@@ -12,7 +12,7 @@ excerpt: >-
   gyerek mellé, megnézi, pontosan hol csúszott el, és nem elmagyarázza még
   egyszer ugyanazt, hanem visszamegy odáig, ahol még biztos volt.
 coverImage: /sites/default/files/3-math.jpg
-reads: 760
+reads: 851
 ---
 <strong>Weisz Ágoston írása</strong>
 

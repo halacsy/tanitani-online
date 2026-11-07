@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kep1_1.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 22289
+reads: 22603
 ---
 > Nem értjük, hogy nélkülük nem lehet. Változás csak a kettőnk tudásával lesz. Ahhoz, hogy megfelelő hatást dolgozhassunk ki, nem elhanyagolható az alany ismerete. A partnerré tétele. Mert a megoldáshoz ők is kellenek.
 

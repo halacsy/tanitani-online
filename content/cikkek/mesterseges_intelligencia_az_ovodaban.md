@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/mi.jpg
 coverAlt: 'Forrás: https://pixabay.com'
 coverTitle: 'Forrás: https://pixabay.com'
-reads: 2460
+reads: 2655
 ---
 <strong>Pedagógiai határvonalak és felelősségek. Csizmárné Gede Erika Judit írása</strong>
 

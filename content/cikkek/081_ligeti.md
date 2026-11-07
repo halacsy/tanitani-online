@@ -14,7 +14,7 @@ excerpt: >-
   ugyanis az oktatásnak maga a módja bír nevelőerővel. Csak az a kérdés, hogy
   ennek mennyiben vannak tudatában a pedagógusok. Képesek-e saját
   tevékenységeiket…
-reads: 22266
+reads: 22355
 ---
 Az iskola szüntelenül, minden rezdülésével nevel. Felesleges, sőt merjük állítani, szakmai tévedés, oktatást és nevelést egymástól elválasztani, ugyanis az oktatásnak maga a módja bír nevelőerővel. Csak az a kérdés, hogy ennek mennyiben vannak tudatában a pedagógusok. Képesek-e saját tevékenységeiket, megnyilvánulásaikat kívülről látni?
 

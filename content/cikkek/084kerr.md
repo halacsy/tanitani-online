@@ -10,7 +10,7 @@ tags:
   - politikai nevelés
   - külföld
 excerpt: Interjú David Kerr-rel az aktív állampolgárságra nevelésről
-reads: 9861
+reads: 9989
 ---
 <strong>Interjú David Kerr-rel az aktív állampolgárságra nevelésről</strong>
 

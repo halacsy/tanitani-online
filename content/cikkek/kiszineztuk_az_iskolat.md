@@ -11,7 +11,7 @@ excerpt: >-
   Tóth Erzsébet írása Korábban a rongálás nagyon gyakori volt, és csodálkozva
   láttuk, hogy ezeket a dolgokat már nem teszik tönkre.
 coverImage: /sites/default/files/totherzsi_cimlap.jpg
-reads: 2932
+reads: 3017
 ---
 <strong>Tóth Erzsébet írása</strong>
 

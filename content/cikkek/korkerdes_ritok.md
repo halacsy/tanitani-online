@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/ritok_nora_0.jpg
 coverAlt: L. Ritók Nóra
 coverTitle: L. Ritók Nóra
-reads: 2727
+reads: 2873
 ---
 <strong>Körkérdés az oktatásról 10.</strong>
 

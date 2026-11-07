@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hangya.jpg
 coverAlt: 'Forrás: http://biktop.hu'
 coverTitle: 'Forrás: http://biktop.hu'
-reads: 6114
+reads: 6217
 ---
 <strong>Pillanatkép Varjasy László tanító bácsiról. Trencsényi Imre írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/knausz_imre_2.jpg
 coverAlt: Knausz Imre
 coverTitle: Knausz Imre
-reads: 1133
+reads: 1242
 ---
 <strong>Körkérdés az oktatásról 5.</strong>
 

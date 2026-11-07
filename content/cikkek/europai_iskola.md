@@ -14,7 +14,7 @@ excerpt: >-
   követelmény a tanári munkával szemben. Ebben a különböző nemzetiségű, eltérő
   képzési utakat bejáró pedagógusok között jelentős különbségek vannak, de az
   iskolai…
-reads: 9080
+reads: 9154
 ---
 > A legfontosabb eszköz az egyéni szükségletek állandó figyelemmel kísérése, az iskolai eredményesség mérése, visszajelzése. A tanórai differenciálás alapvető követelmény a tanári munkával szemben. Ebben a különböző nemzetiségű, eltérő képzési utakat bejáró pedagógusok között jelentős különbségek vannak, de az iskolai együttműködés kiváló lehetőséget ad az egymástól való tanulásra.
 

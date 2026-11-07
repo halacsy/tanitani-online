@@ -15,7 +15,7 @@ excerpt: >-
   mindenhatóságába vetett hittel van baj, mégpedig három különböző okból. Hová
   tűnt a szakmánk?…
 coverImage: /sites/default/files/board-3695073_640.jpg
-reads: 6765
+reads: 6921
 ---
 <strong>Válaszféle Nahalka Istvánnak. Radó Péter írása</strong>
 

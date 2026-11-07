@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/ritok_2018.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 12180
+reads: 12360
 ---
 <strong>L. Ritók Nóra előadása a XI. Miskolci Taní-tani Konferencián 2018. február 2-án</strong>
 

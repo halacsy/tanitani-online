@@ -13,7 +13,7 @@ excerpt: >-
   milyen integrációs lehetőségek rejlenek egy tanoda működésében. A
   TanodaPlatform cikksorozatának 2. darabja.
 coverImage: /sites/default/files/dinamikusintegracio_2.jpg
-reads: 8685
+reads: 8766
 ---
 <strong>Baráth Szabolcs írása</strong>
 

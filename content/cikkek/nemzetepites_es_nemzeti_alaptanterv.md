@@ -14,7 +14,7 @@ excerpt: >-
   Trencsényi László a Népszabadság hasábjain fontos kérdéseket vetett fel a
   nemzet és a kulturális kánonok kapcsolatáról. Ez az írás úgy is tekinthető,
   mint hozzászólás ehhez a láthatóan egyre fontosabbá váló problémakörhöz.
-reads: 23733
+reads: 24056
 ---
 ### A IV. Miskolci Taní-tani Konferencián elhangzott előadás
 

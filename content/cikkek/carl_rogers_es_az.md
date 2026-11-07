@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/tringer_cimlap.jpg
 coverAlt: Tringer László
 coverTitle: Tringer László
-reads: 8729
+reads: 8806
 ---
 <strong>Kiss Hajnal interjúja Tringer László professor emeritusszal</strong>
 

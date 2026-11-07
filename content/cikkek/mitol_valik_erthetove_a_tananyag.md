@@ -1,0 +1,90 @@
+---
+title: Mitől válik érthetővé a tananyag?
+migratedId: 1469
+overrideMigrated: true
+authorSlugs:
+  - rudi-andrea
+date: '2026-10-18'
+tags:
+  - oktatás
+excerpt: >-
+  Rudi Andrea írása Ha a pedagógus nem választja ki a témakör központi
+  gondolatát, akkor ezt a tanulótól sem várhatja el. Számára minden új adat
+  egyformán fontosnak tűnik, ezért nem tud különbséget tenni a továbbhaladáshoz
+  szükséges alapok és a kiegészítő részletek között.
+coverImage: /sites/default/files/teaching.jpg
+coverAlt: 'Fotó: Max Fischer, pexels'
+coverTitle: 'Fotó: Max Fischer, pexels'
+reads: 721
+---
+<strong>Rudi Andrea írása</strong>
+
+> Ha a pedagógus nem választja ki a témakör központi gondolatát, akkor ezt a tanulótól sem várhatja el. Számára minden új adat egyformán fontosnak tűnik, ezért nem tud különbséget tenni a továbbhaladáshoz szükséges alapok és a kiegészítő részletek között.
+
+<img alt="Rudi Andrea" src="/sites/default/files/rudi_andrea.jpg" style="width: 200px; height: 200px; float: left; margin-right: 15px;">Egy szakmai beszélgetésben találkoztam azzal a gondolattal, hogy a jó tananyag érthetőbbé teheti a tanár magyarázatát. Első olvasásra magától értetődőnek tűnik, mégis érdemes elgondolkodnunk azon, mitől lesz egy tananyag valóban jó. Sokan fontosnak tartják látványt, a megfelelő mennyiségű információt, illetve azt is, hogy a pedagógusnak már szinte semmit se kelljen hozzátennie. Én azonban úgy vélem, hogy a jó tananyag abban segít, hogy világosabbá váljon, mit szeretnénk megértetni, milyen úton vezetjük végig a tanulókat, és mit kell tenniük ahhoz, hogy az új tudást használni is tudják.
+
+Tanárként mindannyian tapasztaltuk már, hogy ugyanazt a témát az egyik osztályban könnyen megértették a tanulók, egy másik csoportban viszont több példára, eltérő megközelítésre vagy hosszabb gyakorlásra volt szükség. A tananyag ezért önmagában soha nem lehet teljes. A pedagógus szakmai döntései teszik az adott tanulócsoport számára valóban használhatóvá.
+
+## Elhangzott vagy érthetővé vált?
+
+Pályakezdő kollégák óráit látogatva többször tapasztaltam, hogy az alapos felkészüléshez erős teljességre törekvés társul. Egyetlen tanórán szeretnék átadni mindazt, amit a témáról fontosnak tartanak, mert biztosak akarnak lenni abban, hogy semmi lényeges nem marad ki. A túl sok információ azonban könnyen elfedi éppen azt, amit a tanulóknak valóban meg kellene érteniük. Ha a pedagógus nem választja ki a témakör központi gondolatát, akkor ezt a tanulótól sem várhatja el. Számára minden új adat egyformán fontosnak tűnik, ezért nem tud különbséget tenni a továbbhaladáshoz szükséges alapok és a kiegészítő részletek között. Az ilyen órákon gyakran a gyakorlásra sem marad idő. Mire a magyarázat végére érünk, megszólal a csengő, a tudás alkalmazása pedig házi feladattá válik. A tanár úgy érezheti, hogy feldolgozta az anyagot, valójában azonban többnyire bemutatta. A tanuló meghallgatta és esetleg lejegyezte az információkat, de nem volt lehetősége arra, hogy kérdezzen, kipróbálja a tanultakat, hibázzon vagy visszajelzést kapjon. Itt válik fontossá a tananyag előadásszerű közlése és elmagyarázása közötti különbség. Amikor előadjuk a tananyagot, elsősorban azt követjük, mit szeretnénk elmondani. Egymás után ismertetjük a fogalmakat, adatokat és összefüggéseket, a tanulók pedig hallgatnak és jegyzetelnek. A magyarázat ezzel szemben abból indul ki, mit kell a tanulóknak megérteniük, mi okozhat számukra nehézséget, és milyen segítségre lehet szükségük. Az elmagyarázás nem egyszerűen lassabb vagy részletesebb közlést jelent, hanem azt, hogy a pedagógus kiemeli a lényeget, kapcsolatot teremt a korábbi tudással, példát és ellenpéldát mutat, összehasonlít és szemléltet. Közben figyeli a tanulók reakcióit, kérdéseket tesz fel, és ha szükséges, más megközelítést választ.
+
+Előfordulhat tehát, hogy a tanár szakmailag pontos és jól felépített előadást tart, a tanulók mégsem értik meg az anyagot. Az információ elhangzott, de nem derült ki, hogyan kapcsolódik ahhoz, amit már tudnak, melyik rész a legfontosabb, és mire tudják majd használni.
+
+Az előadás középpontjában az áll, amit a tanár el szeretne mondani, ezzel szemben a magyarázat középpontjában az, aminek a tanuló gondolkodásában létre kell jönnie.
+
+## A tananyag tegye láthatóvá a tanulás útját
+
+A tanári érthetőség nem merül ki a pontos fogalmazásban. A tanulónak azt is értenie kell, mit tanul, miért foglalkozik vele, hogyan kapcsolódik az új ismeret ahhoz, amit már tud, mit kell tennie a feladat során, és miből láthatja, hogy jó úton halad.
+
+A tanári érthetőséggel foglalkozó szakirodalom is összetett pedagógiai tényezőként kezeli a világosságot. Nemcsak a magyarázat nyelvezete tartozik ide, hanem a tanulási célok egyértelműsége, az óra megfelelő ütemezése, a tartalom logikus felépítése, a korábbi ismeretekhez való kapcsolódás, valamint a példák és szemléltetések használata is (Benton–Li, 2021). A jól megtervezett tananyag ebben tud segíteni. Nem azzal, hogy minden információt készen közöl, hanem azzal, hogy láthatóvá teszi a tanulás útját.
+
+Egy szöveg feldolgozása előtt például megadhatjuk azt a kérdést, amelyre olvasás közben választ kell keresni. Egy történelmi forrásnál kijelölhetjük azokat a szempontokat, amelyek alapján a szerző álláspontját érdemes megvizsgálni. Egy matematikai mintapéldában nemcsak a műveleteket, hanem a döntési pontokat is megmutathatjuk. A tananyag tartalma ettől nem feltétlenül lesz kevesebb vagy egyszerűbb, viszont világosabbá válik, mire kell figyelni, milyen összefüggést kell felismerni, és mit kell a tanulónak tennie a megértés érdekében.
+
+Az érthetővé tétel azonban nem jelentheti minden nehézség eltávolítását. Ha egy összetett feladatot annyira leegyszerűsítünk, hogy a megoldás útja teljesen magától értetődővé válik, gyorsabban eljuthatunk a helyes válaszig, de közben éppen a gondolkodás lehetőségét vehetjük el. A tanulónak azt kell átlátnia, mi a feladata, milyen korábbi tudást használhat, és milyen kapaszkodók segíthetik az elindulását.
+
+## A helyes válasz még nem alkalmazható tudás
+
+Az idegen nyelvi órákon jól megfigyelhető, mi történik, ha a tananyag csak a helyes válaszhoz vezető utat mutatja meg. Egy új nyelvtani szerkezet bemutatása után gyakran egymást követik a behelyettesítős, mondatkiegészítő és mondatátalakító feladatok. Ezeknek megvan a helyük a tanulási folyamatban, mert segítenek felismerni és begyakorolni a szerkezet formáját. Sok esetben a gyakorlás ezen a szinten megáll.
+
+A tanuló helyesen egészíti ki a mondatokat, mert az utasításból pontosan tudja, melyik nyelvtani formát kell használnia. Egy másik kommunikációs helyzetben azonban már nem biztos, hogy felismeri, mikor lenne szüksége ugyanerre a szerkezetre. A gyakorlást éppen ezért érdemes egymásra épülő lépésekben megtervezni. A tanuló először felismeri az új szerkezetet, majd irányított feladatban alkalmazza. Ezt követően több nyelvi lehetőség közül választ, végül pedig valószerű helyzetben önállóan használja. A mechanikus gyakorlást tehát nem kell elhagynunk, de nem tekinthetjük a tanulási folyamat végének. Ez az elv más tantárgyakban is érvényes. Nem ugyanaz egy képletbe behelyettesíteni, mint felismerni, hogy egy új helyzetben melyik összefüggést kell alkalmazni. Nem ugyanaz egy történelmi fogalmat meghatározni, mint egy forrás értelmezésekor megfelelően használni. Nem ugyanaz felsorolni egy természeti jelenség okait, mint új adatok alapján következtetést levonni. A hibátlanul kitöltött feladatlap még nem feltétlenül jelent alkalmazható tudást.
+
+## Mit tesz közben a tanuló?
+
+A tananyag értékét nem az határozza meg, hogy papíron vagy digitálisan jelenik-e meg. Egy látványos diasor is fenntarthatja a mechanikus feladatvégzést, miközben egy egyszerű szövegpár összehasonlítása megfigyelésre, következtetésre és önálló gondolkodásra késztethet. Tananyag-előkészítés közben ezért mindig felteszem magamnak a kérdést: mit tesz közben a tanuló? Csak nézi és meghallgatja az anyagot, vagy megfigyel, kérdez, választ, rendez, előre jelez, indokol és ellenőriz is?
+
+Egy interaktív feladat sem feltétlenül jelent aktív tanulást, ha a tanulónak csak a megfelelő helyre kell húznia egy előre megadott választ. Ugyanakkor egy egyszerű kép, rövid szöveg vagy papírra írt kérdés is komoly gondolkodást indíthat el, ha összehasonlításra, következtetésre vagy indoklásra késztet.
+
+A jó tananyag értékét ezért nem a technikai megoldások száma határozza meg. Sokkal fontosabb, milyen tanulói tevékenységet és milyen gondolkodási műveleteket indít el.
+
+## A jó tananyag alakítható
+
+Egy kész tananyag biztonságot ad nekünk, rendszerezi a tartalmat, és ötleteket is kínál a feldolgozáshoz. Ha azonban változtatás nélkül ragaszkodunk hozzá, az több veszélyt is rejthet magában, mert nem biztos, hogy minden tanulócsoport ugyanúgy megérti a fogalmakat, a hozzá kapcsolódó példákat. Egy német nyelvterületen dolgozó pedagógusok körében végzett, 2025-ben közölt vizsgálat azt mutatta, hogy a tanárok aktívan válogatják, módosítják és saját tanulócsoportjukhoz igazítják a felhasznált anyagokat (Garay Abad és Hattie, 2025). A kutatás résztvevői egy tananyagokat megosztó és értékesítő online platform használói voltak, ezért az eredmények nem általánosíthatók minden pedagógusra. Arra azonban felhívják a figyelmet, hogy a tananyag használata önmagában is szakmai döntések sorozata. El kell tehát döntenünk, mit tartunk meg, mit hagyunk el, melyik példát cseréljük ki, hol adunk további segítséget, és melyik kérdést tesszük nyitottabbá. A tananyag valódi értéke ezért nemcsak a tartalmában rejlik, hanem abban is, hogy mennyi szakmai mozgásteret hagy a pedagógusnak.
+
+## A magyarázat a tanulói válasszal válik teljessé
+
+A tanári magyarázat érthetősége nem minden esetben azon múlik, hogy, hogy mi világosnak éreztük-e, hanem azon, hogy mit értettek meg belőle a tanulók.
+
+A jól felépített tananyagban ezért helyet kell kapnia a megértés ellenőrzésének is, amit a következő tanári instrukcióval megtehetünk: Fogalmazd meg egy mondatban a legfontosabb összefüggést! Válassz a két megoldás közül, és indokold meg a döntésedet! Írj példát arra, amikor a tanult szabály nem alkalmazható! Melyik részhez lenne még szükséged egy újabb példára?
+
+A világos tanítás tehát nem egyirányú közlés. A tanulói reakciókból folyamatosan visszajelzést kapunk, és ennek alapján módosíthatjuk a következő lépésünket. A tanári érthetőség és a tanulói részvétel ezért nem választható el egymástól (Benton és Li, 2021; Titsworth és mtsai, 2015).
+
+Egy tananyag kiválasztása vagy elkészítése előtt öt kérdést érdemes feltennünk:
+
+<ul><li class="rtejustify">Mi az a legfontosabb gondolat, amelyet a tanulónak meg kell értenie?</li><li class="rtejustify">Mit fog tenni a tanuló az anyag feldolgozása közben?</li><li class="rtejustify">Melyik részhez lesz szüksége példára, magyarázatra vagy másfajta segítségre?</li><li class="rtejustify">Van-e olyan elem, amely látványos, de elvonja a figyelmet a tanulási céltól?</li><li class="rtejustify">Miből fogom megtudni, hogy valóban létrejött-e a megértés?</li></ul>
+
+Ha ezekre nem tudunk válaszolni, akkor valószínűleg még nem a tanulási folyamatot terveztük meg, csupán információkat rendeztünk egymás mellé.
+
+A jól megtervezett tananyag nem gyengíti a pedagógus szerepét, hanem láthatóbbá teszi a szakmai döntéseit. Megmutatja, mit emel ki, milyen sorrendben építi fel a tudást, hol ad mintát, mikor kérdez, és melyik ponton engedi önállóan gondolkodni a tanulókat.
+
+A tanári érthetőség nem azt jelenti, hogy mindent mi mondunk el a lehető legegyszerűbben. Olyan tanulási utat kell kialakítanunk, amelyen a tanuló tudja, mi a célja, talál kapaszkodókat, de neki is van feladata a megértés létrehozásában. A jó tananyag nem helyettesíti a magyarázatot, a kérdezést, a visszajelzést vagy az osztály ismeretét. Összekapcsolja ezeket, és segít abban, hogy az információközlésből tanulási folyamat legyen.
+
+A legerősebb tananyag tehát nem az, amelyik mindent készen közöl, hanem az, amelyik segít a tanárnak világosan vezetni, a tanulónak pedig önállóan gondolkodni.
+
+## Felhasznált irodalom
+
+Benton, S. L., & Li, D. (2021). [Teacher Clarity: Cornerstone of Effective Teaching](https://ideacontent.blob.core.windows.net/content/sites/2/2021/05/Idea-Paper-83_5-21v4.pdf). IDEA Paper No. 83. IDEA Center.
+
+Garay Abad, L., & Hattie, J. (2025). [The Impact of Teaching Materials on Instructional Design and Teacher Development](https://doi.org/10.3389/feduc.2025.1577721). Frontiers in Education, 10, 1577721.
+
+Titsworth, S., Mazer, J. P., Goodboy, A. K., Bolkan, S., & Myers, S. A. (2015). [Two Meta-Analyses Exploring the Relationship between Teacher Clarity and Student Learning](https://doi.org/10.1080/03634523.2015.1041998). Communication Education, 64(4), 385–418.

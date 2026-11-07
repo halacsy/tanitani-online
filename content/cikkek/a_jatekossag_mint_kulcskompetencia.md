@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/16059699519_34f496a922_z.jpg
 coverAlt: 'Forrás: www.flickr.com'
 coverTitle: 'Forrás: www.flickr.com'
-reads: 14322
+reads: 14508
 ---
 <strong>Aczél Zoltán írása</strong>
 

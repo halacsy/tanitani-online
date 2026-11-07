@@ -12,7 +12,7 @@ excerpt: >-
   téblábol a demonstrálók között, még szolidáris is velük, ódzkodik is a
   bevonódástól, érez felelősséget diákjaiért, de óvakodik a felelősségtől.
 coverImage: /sites/default/files/levelek_nelkul.jpg
-reads: 1978
+reads: 2068
 ---
 <strong>Trencsényi László írása Krusovszky Dénes regényéről</strong>
 

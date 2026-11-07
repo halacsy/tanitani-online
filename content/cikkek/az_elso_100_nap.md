@@ -14,7 +14,7 @@ excerpt: >-
   decentralizált és a laikus szereplők bevonásán alapuló (társadalmasított)
   rendszerben…
 coverImage: /sites/default/files/ogym.jpeg.jpg
-reads: 7178
+reads: 7563
 ---
 <strong><span style="font-size: 12px;">Radó Péter írása</span></strong>
 

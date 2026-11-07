@@ -11,7 +11,7 @@ tags:
   - örökség
 excerpt: Arany Horváth Zsuzsa írása Nyakasné Túri Klára emlékére
 coverImage: /sites/default/files/nyakasn.png
-reads: 3162
+reads: 3249
 ---
 <strong>Arany Horváth Zsuzsa írása</strong>
 

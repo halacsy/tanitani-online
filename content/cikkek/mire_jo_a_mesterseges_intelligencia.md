@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/bessenyei_0.jpg
 coverAlt: 'Forrás: DALL-E'
 coverTitle: 'Forrás: DALL-E'
-reads: 3947
+reads: 4075
 ---
 <strong>Bessenyei István írása</strong>
 

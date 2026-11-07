@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/letter_dice_d6.jpg
 coverAlt: 'Forrás: Wikimedia Commons'
 coverTitle: 'Forrás: Wikimedia Commons'
-reads: 7815
+reads: 7901
 ---
 <strong>Czenner Júlia írása</strong>
 

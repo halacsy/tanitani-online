@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/vekerdy.jpg
 coverAlt: 'Vekerdy Tamás. Fotó: Hernád Géza. Forrás: nlc.hu'
 coverTitle: 'Vekerdy Tamás. Fotó: Hernád Géza. Forrás: nlc.hu'
-reads: 6067
+reads: 6182
 ---
 <strong>L. Ritók Nóra megemlékezése</strong>
 

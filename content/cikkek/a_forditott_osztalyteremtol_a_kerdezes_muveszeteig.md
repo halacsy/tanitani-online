@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/harc_tuze.png
 coverAlt: A képet a Canva.com generálta
 coverTitle: A képet a Canva.com generálta
-reads: 2384
+reads: 2538
 ---
 <strong>…a kérdezés művészetéig. Bessenyei István írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ctrlcctrlv.jpg
 coverAlt: 'Ctrl C Ctrl V (Forrás: Wikimedia Commons)'
 coverTitle: 'Ctrl C Ctrl V (Forrás: Wikimedia Commons)'
-reads: 7902
+reads: 7982
 ---
 <strong>Az iskolai plágiumról és a szöveg kettős elidegenüléséről</strong>
 

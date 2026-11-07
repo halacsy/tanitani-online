@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/iranytu.jpg
 coverAlt: A szerző fotója
 coverTitle: A szerző fotója
-reads: 24912
+reads: 25425
 ---
 <strong>...egy süllyedő hajón.&nbsp;Tóth Tamás Május írása</strong>
 

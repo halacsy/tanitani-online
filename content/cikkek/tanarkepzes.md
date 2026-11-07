@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/focus-22.jpg
 coverAlt: Fókuszálás
 coverTitle: Fókuszálás
-reads: 7514
+reads: 7589
 ---
 <strong>Tanárképzés – közoktatás-fejlesztés,&nbsp;avagy dilemmák arról, hogy mit tehetnénk</strong>
 

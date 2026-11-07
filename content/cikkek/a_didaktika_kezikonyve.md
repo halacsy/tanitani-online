@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/didaktika.jpg
 coverAlt: A didaktika kézikönyve
 coverTitle: A didaktika kézikönyve
-reads: 9526
+reads: 9844
 ---
 <strong>K. Nagy Emese interjúja a most megjelent kötet szerkesztőivel</strong>
 

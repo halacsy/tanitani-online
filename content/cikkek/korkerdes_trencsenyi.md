@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_laszlo2.jpg
 coverAlt: Trencsényi László
 coverTitle: Trencsényi László
-reads: 1125
+reads: 1230
 ---
 <strong>Körkérdés az oktatásról 4.</strong>
 

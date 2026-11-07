@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/rudolfne_galamb_eva.jpg
 coverAlt: Rudolfné Galamb Éva
 coverTitle: Rudolfné Galamb Éva
-reads: 3666
+reads: 3773
 ---
 <strong>Patonay Anita születésnapi írása</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/izraeli_osztaly.jpg
 coverAlt: 'Forrás: haaretz.com'
 coverTitle: 'Forrás: haaretz.com'
-reads: 8978
+reads: 9108
 ---
 <strong>Tóth Andrea írása</strong>
 

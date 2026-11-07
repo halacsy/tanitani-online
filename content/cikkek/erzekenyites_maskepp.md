@@ -13,7 +13,7 @@ excerpt: >-
   könnyes szemmel jöttek vissza az iskolába, de a gyerekek is ihletett
   állapotban, a föld fölött lebegve érezték magukat az élménytől.
 coverImage: /sites/default/files/generaciok_cimlap.jpg
-reads: 2584
+reads: 2698
 ---
 <strong>Generációk összekötése játékkal, barátsággal. Ungár Ágnes írása</strong>
 

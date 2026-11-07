@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/titok_cimlap.jpg
 coverAlt: Az Igazgyöngy műhelyéből
 coverTitle: Az Igazgyöngy műhelyéből
-reads: 12879
+reads: 13038
 ---
 <strong>L. Ritók Nóra írása</strong>
 

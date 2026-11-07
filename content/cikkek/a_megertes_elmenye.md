@@ -14,7 +14,7 @@ excerpt: >-
   elveszített boldogságélményüket a tanulás öröme által, kielégítve ezzel a
   tudás iránti vágyukat és a megismerés alkotó izgalma utáni sóvárgásukat
   egyszerre.”
-reads: 14472
+reads: 14654
 ---
 > „A drámát alkalmazó pedagógia számára ezért is nagy kihívás, hogy tud-e olyan komplex alternatív rendszert kínálni a ma élő embereknek, ahol visszakaphatják elveszített boldogságélményüket a tanulás öröme által, kielégítve ezzel a tudás iránti vágyukat és a megismerés alkotó izgalma utáni sóvárgásukat egyszerre.”
 

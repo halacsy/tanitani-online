@@ -13,7 +13,7 @@ excerpt: >-
   amely keretein belül a Motiváció Műhely tanodái osztották meg jó
   gyakorlataikat az ország minden részéből érkező tanodai munkatársakkal.
 coverImage: /sites/default/files/483838244_1049592383881896_4387751244601727421_n.jpg
-reads: 1385
+reads: 1485
 ---
 <strong>... a tanodában. Fazekas Elek összefoglalója</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/orarend.jpg
 coverAlt: Órarend
 coverTitle: Órarend
-reads: 8709
+reads: 8838
 ---
 <strong>…és a Vallás és Közoktatásügyi Minisztérium kapcsolata. Pajorné Kugelbauer Ida írása</strong>
 

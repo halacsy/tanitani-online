@@ -14,7 +14,7 @@ excerpt: >-
   játszott, és egész életemen át elkísér ennek az emléke. Csodálatos játéka
   meghatározza a pályafutásomat. A gitárral valószínűleg azért kerültem ilyen
   közvetlen…
-reads: 21193
+reads: 21576
 ---
 <em>– Miért éppen a gitárt választotta saját hangszeréül? Véletlen vagy tudatos választás volt ez?</em>
 

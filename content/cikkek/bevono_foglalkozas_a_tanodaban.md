@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/motivacio.jpg
 coverAlt: Szonda Benjámin felvétele
 coverTitle: Szonda Benjámin felvétele
-reads: 6030
+reads: 6106
 ---
 <strong>Kelemen Valéria írása</strong>
 

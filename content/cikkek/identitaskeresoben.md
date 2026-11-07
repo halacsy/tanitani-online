@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/humanista.jpg
 coverAlt: Humanista pedagógia
 coverTitle: Humanista pedagógia
-reads: 2871
+reads: 3034
 ---
 <strong>Az alternatív iskolák a humanista pedagógia jegyében. Trencsényi László recenziója</strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kritikai_dekonstrukcio.jpg
 coverAlt: 'Forrás: https://pxhere.com'
 coverTitle: 'Forrás: https://pxhere.com'
-reads: 1315
+reads: 1446
 ---
 <strong>A kritikai fordulat társadalmi dekonstruktív jellegének szükségszerűségéről – Egy könyvbemutató margójára. Arató Ferenc írása</strong>
 

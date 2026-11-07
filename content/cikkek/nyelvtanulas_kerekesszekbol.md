@@ -14,7 +14,7 @@ excerpt: >-
   Konferencián, 2016. február 5-én elhangzott előadásának írott változata
   Nyelvtanuláskor kinyílik számomra a világ, és ez örömet okoz.
 coverImage: /sites/default/files/bluesigns420_0.jpg
-reads: 6264
+reads: 6351
 ---
 <strong>„Kinek az érdeke?” –&nbsp;Molnár Cecília Sarolta a IX. Miskolci Taní-tani Konferencián, 2016. február 5-én elhangzott előadásának írott változata</strong>
 

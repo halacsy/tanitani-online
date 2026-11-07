@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/lodi_virag.jpg
 coverAlt: 'Lődi Virág. Forrás: http://diploma.mome.hu/'
 coverTitle: 'Lődi Virág. Forrás: http://diploma.mome.hu/'
-reads: 6120
+reads: 6233
 ---
 <strong>Riba Katalin recenziója</strong>
 

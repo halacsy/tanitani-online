@@ -13,7 +13,7 @@ excerpt: >-
   térbeli esemény. Mindnek lényege az adott térben megvalósuló, jelen idejű
   társas kölcsönhatás, vagyis a interakció.
 coverImage: /sites/default/files/420.jpg
-reads: 14045
+reads: 14243
 ---
 <strong>Gabnai Katalin írása</strong>
 

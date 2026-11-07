@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/kalkar.png
 coverAlt: 'Forrás: The Met'
 coverTitle: 'Forrás: The Met'
-reads: 1034
+reads: 1165
 ---
 <strong>Jan Joest von Kalkar követője: A Gyermek Krisztus imádata (kb. 1515) és a középkori fogyatékossággal élők teológiai helye.&nbsp;Csizmárné Gede Erika Judit írása</strong>
 

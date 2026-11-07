@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kiporgetel_470.jpg
 coverAlt: Kipörgetel?!
 coverTitle: Kipörgetel?!
-reads: 13548
+reads: 13763
 ---
 > Hogy akkor miért nem tudom elképzelni máshogyan? Miért ennyire fontos az önkéntesség? Nem tudnám megindokolni. Bízom benne, hogy akadnak, akik csak egyszerűen megértik.
 

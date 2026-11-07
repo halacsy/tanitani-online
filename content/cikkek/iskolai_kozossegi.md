@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/matolcsi.jpg
 coverAlt: Matolcsi Zsuzsa
 coverTitle: Matolcsi Zsuzsa
-reads: 6788
+reads: 6870
 ---
 <strong>Az iskolai közösségi szolgálatról</strong>
 

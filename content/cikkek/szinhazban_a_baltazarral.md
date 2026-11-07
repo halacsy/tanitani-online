@@ -13,7 +13,7 @@ excerpt: >-
   más fogyatékkal élő játékosok élet- és emberismerete, fájdalomérzékenysége és
   humora támasztja meg a – hol költői, hol nagyon is gyalogjáró – mondatokat.
 coverImage: /sites/default/files/baltazar.jpg
-reads: 2023
+reads: 2114
 ---
 <strong>Gabnai Katalin írása</strong>
 

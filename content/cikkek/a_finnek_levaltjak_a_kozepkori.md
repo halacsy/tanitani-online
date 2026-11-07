@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/brother_sun.jpg
 coverAlt: 'Szent Ferenc temploma a Napfivér, Holdnővér c. filmből'
 coverTitle: 'Szent Ferenc temploma a Napfivér, Holdnővér c. filmből'
-reads: 15542
+reads: 15660
 ---
 <strong>Máth János írása</strong>
 

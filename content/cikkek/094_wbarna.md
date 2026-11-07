@@ -8,7 +8,7 @@ date: '2010-04-14'
 tags:
   - egészségfejlesztés
 excerpt: 'Interjú Etka Anyóval, az Etka jóga megalkotójával'
-reads: 9333
+reads: 9409
 ---
 ## Interjú Etka Anyóval, az Etka jóga megalkotójával
 

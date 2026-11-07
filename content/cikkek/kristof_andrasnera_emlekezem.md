@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kristof_andrasne.jpg
 coverAlt: Kristóf Andrásné
 coverTitle: Kristóf Andrásné
-reads: 2647
+reads: 2740
 ---
 <strong>Raffay Zoltánné írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/regi_osztalyterem.jpg
 coverAlt: 'Cholnoky Tamás tulajdona. Forrás: http://www.szeretlekmagyarorszag.hu/'
 coverTitle: 'Cholnoky Tamás tulajdona. Forrás: http://www.szeretlekmagyarorszag.hu/'
-reads: 9179
+reads: 9301
 ---
 <strong>Bródy Sándor A tanítónő és Kosztolányi Dezső Aranysárkány című művében. Zagyváné Szűcs Ida írása</strong>
 

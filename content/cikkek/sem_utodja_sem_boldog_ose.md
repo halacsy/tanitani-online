@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ady.jpg
 coverAlt: 'Forrás: https://cultura.hu/'
 coverTitle: 'Forrás: https://cultura.hu/'
-reads: 3332
+reads: 3435
 ---
 <strong>Ady Endre versének kibontása dramatikus módszerekkel.&nbsp;Végh Ágnes írása</strong>
 

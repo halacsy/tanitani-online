@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/pechel_cimlap.jpg
 coverAlt: Falko Peschel
 coverTitle: Falko Peschel
-reads: 19385
+reads: 24391
 ---
 <strong>Lehet-e élvezet az iskolai tanulás? Lehet-e szabadon tanulni az iskolában?</strong>
 

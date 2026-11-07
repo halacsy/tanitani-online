@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/www.ppu_.org_.uk_.jpg
 coverAlt: 'Forrás: http://www.ppu.org.uk'
 coverTitle: 'Forrás: http://www.ppu.org.uk'
-reads: 12884
+reads: 13145
 ---
 <strong>Szekszárdi Júlia írása</strong>
 

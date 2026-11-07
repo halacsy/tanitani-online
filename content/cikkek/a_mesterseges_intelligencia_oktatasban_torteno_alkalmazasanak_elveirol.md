@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/eutuce_0.png
 coverAlt: ETUCE
 coverTitle: ETUCE
-reads: 1260
+reads: 1354
 ---
 <strong>…oktatásban történő alkalmazásának elveiről. Totyik Tamás írása</strong>
 

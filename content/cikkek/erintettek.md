@@ -12,7 +12,7 @@ excerpt: >-
   Gondolatok a találkozás kultúrájához. Karlowits-Juhász Orchidea előadása
   Elhangzott a XII. Miskolci Taní-tani Konferencián 2019. február 1-jén.
 coverImage: /sites/default/files/37-w470_0.jpg
-reads: 5227
+reads: 5364
 ---
 <strong>Gondolatok a találkozás kultúrájához. Karlowits-Juhász Orchidea előadása</strong>
 

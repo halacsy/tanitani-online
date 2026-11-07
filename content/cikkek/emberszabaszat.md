@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/oktatas.jpg
 coverAlt: 'http://aztadom.co/fun/3299372'
 coverTitle: 'http://aztadom.co/fun/3299372'
-reads: 16521
+reads: 16611
 ---
 <strong>Vaskó Ilona írása</strong>
 

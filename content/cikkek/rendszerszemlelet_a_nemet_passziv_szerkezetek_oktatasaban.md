@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/passive.jpg
 coverAlt: 'Passzív cica. Forrás: https://ekobuilt.com/'
 coverTitle: 'Passzív cica. Forrás: https://ekobuilt.com/'
-reads: 489
+reads: 948
 ---
 <strong>…a német passzív szerkezetek oktatásában. Suzana Guoth írása</strong>
 

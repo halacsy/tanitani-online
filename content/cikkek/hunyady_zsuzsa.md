@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/hunyady_zsuzsa.jpg
 coverAlt: Hunyady Györgyné
 coverTitle: Hunyady Györgyné
-reads: 4462
+reads: 4554
 ---
 <strong>Hunyady Györgynére Bohán Mariann emlékezik</strong>
 

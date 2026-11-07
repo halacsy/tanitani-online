@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/amish.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 5188
+reads: 5291
 ---
 <strong style="font-size: 1em;">Németh Tibor írása az ámisokról</strong>
 

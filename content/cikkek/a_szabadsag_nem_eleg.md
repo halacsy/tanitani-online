@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szabadsag.jpg
 coverAlt: Készült az Igazgyöngy műhelyében
 coverTitle: Készült az Igazgyöngy műhelyében
-reads: 1662
+reads: 1891
 ---
 <strong><span style="font-size: 12px;">L. Ritók Nóra írása</span></strong>
 

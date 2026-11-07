@@ -19,7 +19,7 @@ coverAlt: >-
 coverTitle: >-
   A Megelevenedő korszakok c. program kommunikációjához készült kép Készítette:
   Szesztay Csanád
-reads: 8247
+reads: 8349
 ---
 <strong>... a Szépművészeti Múzeumban.</strong> <b>Birkás Éva írása</b>
 

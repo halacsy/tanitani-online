@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/korhazped_cimlap.jpg
 coverAlt: Kórház-pedagógia
 coverTitle: Kórház-pedagógia
-reads: 9279
+reads: 9425
 ---
 <strong>Tóthné Almássy Monika írása</strong>
 

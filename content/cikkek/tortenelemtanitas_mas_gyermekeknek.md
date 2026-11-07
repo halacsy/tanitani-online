@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/history_brain_science-1_0.jpg
 coverAlt: 'Forrás: https://www.neuroelectrics.com'
 coverTitle: 'Forrás: https://www.neuroelectrics.com'
-reads: 3439
+reads: 3535
 ---
 <strong>Petrikné Jánossy Csilla írása</strong>
 

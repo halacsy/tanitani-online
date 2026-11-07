@@ -12,7 +12,7 @@ excerpt: >-
   Életúttal kapcsolatos kérdések és válaszok fogyatékos gyermeket nevelő
   családok számára. Budapest, KézenFogva Alapítvány, 2020.
 coverImage: /sites/default/files/kulonleges_eletek.jpg
-reads: 2894
+reads: 2979
 ---
 <strong>Bakonyi Anna recenziója</strong>
 

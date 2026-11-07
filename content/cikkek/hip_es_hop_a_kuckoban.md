@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/hip_hop.jpg
 coverAlt: Hip és Hop a kuckóban
 coverTitle: Hip és Hop a kuckóban
-reads: 2404
+reads: 2489
 ---
 <strong>Madarászné Pászti Ildikó könyvismertetése</strong>
 

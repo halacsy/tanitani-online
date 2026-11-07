@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegenyseg_cimlap.jpg
 coverAlt: A szerző felvétele
 coverTitle: A szerző felvétele
-reads: 15150
+reads: 15342
 ---
 <strong>L. Ritók Nóra írása</strong>
 

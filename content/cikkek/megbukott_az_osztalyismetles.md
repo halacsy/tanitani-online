@@ -15,7 +15,7 @@ excerpt: >-
   szükségszerűségét, így a szociáldemokrata és mérsékelt jobboldali pártokból
   álló koalíció képes konszenzusra annak érdekében, hogy fejlesszék ezt a
   területet.
-reads: 8670
+reads: 8770
 ---
 > Minden jel arra mutat tehát, hogy Ausztriában felismerték a változtatások szükségszerűségét, így a szociáldemokrata és mérsékelt jobboldali pártokból álló koalíció képes konszenzusra annak érdekében, hogy fejlesszék ezt a területet.
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyulesvezeto_cimlapra.jpg
 coverAlt: Summerhilli gyűlés. John Walmsley felvétele
 coverTitle: Summerhilli gyűlés. John Walmsley felvétele
-reads: 8485
+reads: 8585
 ---
 <strong>…a summerhilli demokratikus iskolában</strong>
 

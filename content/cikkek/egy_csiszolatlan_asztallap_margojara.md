@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/csiszolatlan.jpg
 coverAlt: 'Forrás: https://www.barrondesigns.com/'
 coverTitle: 'Forrás: https://www.barrondesigns.com/'
-reads: 2981
+reads: 3135
 ---
 <strong>Kapitány Ervin Pál írása</strong>
 

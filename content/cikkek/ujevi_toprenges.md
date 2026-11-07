@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/etelosztas.jpg
 coverAlt: Ételosztás Budapesten 2012 karácsonyán
 coverTitle: Ételosztás Budapesten 2012 karácsonyán
-reads: 7588
+reads: 7665
 ---
 <strong>...2013. január 1-jén</strong>
 

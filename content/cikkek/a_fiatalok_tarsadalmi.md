@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kozeletiseg1_470.jpg
 coverAlt: A szakmai napon
 coverTitle: A szakmai napon
-reads: 8247
+reads: 8349
 ---
 <strong>...és közéleti szerepekre való felkészítése itt és most</strong>
 

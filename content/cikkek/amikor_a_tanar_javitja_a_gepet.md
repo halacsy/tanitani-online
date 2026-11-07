@@ -1,0 +1,54 @@
+---
+title: Amikor a tanár javítja a gépet
+migratedId: 1477
+overrideMigrated: true
+authorSlugs:
+  - sollei-barnabas
+date: '2026-11-05'
+tags:
+  - matematikatanítás
+excerpt: >-
+  Söllei Barnabás írása Játékfejlesztő vagyok. Nem tanár, és ezt nem
+  szerénységből írom le, hanem mert a történethez kell. Október eleje óta építek
+  egy ingyenes, böngészőben futó matekgyakorlót a nyolcadikos központi
+  írásbelire.
+coverImage: /sites/default/files/kockas_fuzet.png
+reads: 338
+---
+<strong>Söllei Barnabás írása</strong>
+
+> Játékfejlesztő vagyok. Nem tanár, és ezt nem szerénységből írom le, hanem mert a történethez kell. Október eleje óta építek egy ingyenes, böngészőben futó matekgyakorlót a nyolcadikos központi írásbelire. 
+
+<img alt="Söllei Barnabás" src="/sites/default/files/sollei_barnabas.png" style="width: 200px; height: 267px; float: left; margin-right: 15px;">Október 13-án egy nyugdíjas matematikatanár megírta, hogy a második heti feladatlapunk megoldókulcsában, a téglalapos feladat c) részénél valami nem stimmel: huszonhat osztva néggyel nem hat. Először azt hittem, elírás. Nem volt az. A program, amelyik a kulcsot készíti, kerekített, és én ezt három hétig nem vettem észre, mert egyszer sem számoltam utána. Minek, hiszen gép csinálja.
+
+Azóta minden kulcsot gép is ellenőriz, mielőtt kikerül, és a feladatlap-készítő nem kerekít. De nem ez a lényeg. Az a félmondat maradt meg bennem, hogy „minek, hiszen gép csinálja”, mert pontosan ezt gondolja ma nagyon sok ember a gépi feladatsorokról, és én is ezt gondoltam, amíg tanárok el nem kezdték javítani az enyéimet.
+
+Játékfejlesztő vagyok. Nem tanár, és ezt nem szerénységből írom le, hanem mert a történethez kell. Október eleje óta építek egy ingyenes, böngészőben futó [matekgyakorlót a nyolcadikos központi írásbelire](http://szorzo.hu). A feladatokat nem kézzel írjuk: sablonból és programozott megoldóból készülnek huszonhat témakörben, és mindegyikhez tartozik egy kockás füzetes levezetés, olyan, amilyet a gyerek a feladatlapra írna. A módszer előnye nyilvánvaló: végtelen sok feladat, fillérekért. A hátrányát később látja meg az ember. A gép nem tudja, mit nem tud. És én sem tudtam, mit nem tud a gép.
+
+Az első jelzések után két lehetőségem volt. Csendben kijavítani, és úgy csinálni, mintha mindig rendben lett volna. Vagy kiírni egy oldalra, hogy ki nézte át, mit talált, mit javítottunk és mikor. [Az utóbbit választottam](http://szorzo.hu/lektorok), és nem azért, mert ilyen nemes lélek vagyok. Egy háromhetes oldalnak, amelyik gépi feladatokat ad tizennégy éveseknek az addigi legfontosabb vizsgájuk előtt, semmi oka nincs, hogy bárki higgyen neki. A bizalmat nem lehet kijelenteni. Megmutatni lehet: itt a hiba, itt a javítás, itt a dátum. A lektor alapból név nélkül szerepel, csak a szakmájával; a neve akkor kerül ki, ha ő kéri, és szó szerinti mondat csak akkor, ha írásban jóváhagyta.
+
+Október 9. és 23. között nyolc tanár tizenhat csomagot nézett át. Egy csomag öt feladat, a heti lap tíz; mindegyikhez ott a megoldás és a levezetés, alatta három gomb, rendben, javítandó, hibás, és egy mező, ha mondani akar valamit. Negyedóra az egész, telefonon is megy. Ezt egyébként szintén egy tanár kérte így: az első változat egy PDF volt, amit tableten nem lehetett kitölteni, és „bonyolultnak tűnt”. Igaza volt.
+
+A leggyakoribb hiba nem matematikai volt, hanem nyelvi. A program így írta a hatványos feladatot: 4^4 ÷ 4^3 × 4^2 = 4^?. Nekem ez természetes, a legtöbb programnyelv így írja. Egy általános iskolai tanár szerint a gyerekek ebben az alakban egyszerűen nem ismerik fel, hogy ezt tanulták. Felső index, kettőspont az osztásnak, pont a szorzásnak, és a kérdés mondja ki, mit kell beírni: 4⁴ : 4³ · 4² = 4ⁿ. Még aznap átírtuk a játék összes feladatát. Ugyanilyen volt a „tükörpont” (tükörkép), az „egyenes szög” (egybeírva), a „súlyozott átlag” egy olyan feladatban, ahol a nyolcadikos még csak átlagot tanult, és az „első ár” egy kétszer leárazott árunál, ahol a levezetésből senki nem tudta eldönteni, melyik ár az első. Egyik sem hiba a szó szoros értelmében. A szám jó. Csak a gyerek nem a matekon bukik el, hanem a fordításon, és a program nem tudja magáról, hogy fordít.
+
+A második fajta az, amit a gép magától értetődőnek vesz. Egy téglalapot a két szemközti csúcsával adtunk meg a koordináta-rendszerben, és a megoldó szépen kiszámolta. A tanár rámutatott, hogy ilyen téglalapból végtelen sok van, amíg ki nem mondjuk, hogy az oldalai párhuzamosak a koordináta-rendszer tengelyeivel. A programnak ez eszébe sem jutott, mert ő tudta, melyikre gondol. Egy hasáb ábráján nem az a lap volt az alaplap, amelyiket a szöveg annak nevezett; egy méret mellől hiányzott a centiméter; a hasábnak hossza volt magasság helyett; az egymásra rakott rétegekről nem mondtuk ki, hogy egy centiméter magasak. Mindegyik helyesen számolt. Egyik sem volt egyértelmű.
+
+Aztán az ábrák. Egy középiskolai tanár a háromszöges csomag öt feladatából négynél kért javítást: az arányok nem stimmeltek, a magasság nem volt merőleges az alapra, a talppont nem volt jelölve, és a kérdés nem ugyanazt a szöget kérdezte, amit a válaszmező várt. A gép rajzolt, de nem nézte meg, amit rajzolt. Másnapra kijavítottuk, és azóta a játék minden ábráján ott a mértékegység, a testek térben látszanak, és a kérdés, a válaszmező és a levezetés ugyanarról beszél.
+
+A negyedik dolog az, amivel nem tudok mit kezdeni. Ugyanez a tanár a háromszögeket és a kombinatorikát túl nehéznek találta a központi írásbelihez képest, a testeket túl könnyűnek. Egy nyugdíjas kolléga a negyedik heti lapot hibátlannak, de a központi feladatsoroknál könnyebbnek. A szöveget, az ábrát, a jelölést egy nap alatt ki lehet javítani. Azt, hogy egy nyolcadikos januárban mit tud, nem lehet beprogramozni, mert sehol nincs leírva; abban van, aki évek óta nézi a gyerekek arcát dolgozatírás közben. Ezt a lektori oldalra is ki kellett írnom, hogy „a nehézségi lépcső további felülvizsgálatra vár”, ami egy szép mondat arra, hogy nem tudom.
+
+Két dolog változott meg, részben a munkában, részben bennem. Az egyik, hogy egy hiba sosem egy hiba. Amikor a tanár a koordinátás csomagban jelezte a tükörpontot, nem öt feladatot javítottunk, hanem végigkerestük a teljes feladatbankot ugyanarra a mintára, és utána írtunk egy szabályt, ami szól, ha visszajön. Ugyanígy a mértékegységekkel, a mínusz jelekkel, a kulcsok kerekítésével. A tanár egy csomagot néz meg; a javításnak az egészre kell vonatkoznia, különben jövő héten ugyanazt olvassa, és jogosan unja meg.
+
+A másik, hogy a program és a tanár nem ugyanarra figyel, és ezt sokáig nem értettem. A program arra, hogy a végeredmény helyes legyen. A tanár arra, hogy a gyerek mit olvas, és mit fog leírni. A programnak a kérdés egy változó; a tanár szerint a kérdésnek ki kell mondania, mit keresünk, különben a gyerek a jó gondolatmenetet is rossz helyre írja, és a javítókulcs nem ad rá pontot. A program levezetése bizonyítás; a tanáré az, ami a feladatlapra kerül, részpontokkal. A feladataink nagy része számszerűen helyes volt, és a csomagok többségén mégis javítani kellett. Ha ezt a mondatot október elején olvasom, nem értem. Most értem.
+
+Amit nem tudok, az több, mint amit tudok. Két hét, tizenhat csomag, nyolc tanár, főleg középiskolából: ez kezdet, nem minta. A huszonhat témakörnek nagyjából a felét nézte eddig tanár. A nehézség nyitott. És a legfontosabbat nem tudom: tanul-e ebből a gyerek. A játék belépéskor becsült pontot ad, a vizsga után összevetjük az igazival, és kiírjuk, akkor is, ha az jön ki, hogy nem ért semmit. Az irodalomból tudom, hogy az elosztott, kevert, azonnali visszajelzéses gyakorlás működik (Cepeda és munkatársai, 2006; Rohrer és Taylor, 2007). Hogy ez a játék is működik-e, azt januárban tudjuk meg.
+
+Van egy dolog, amit szeretnék, ha ebből megmaradna, és nem a Szorzóról szól. Egyre több gépi feladatsor kering, iskolákban is, és a legtöbbjéről senki nem mondja meg, nézte-e tanár. Nem tudom, benne van-e mindegyikben a maga huszonhat osztva néggyel hibás kerekítése. Gyanítom, hogy igen, mert az enyémben benne volt, és én is azt hittem, nincs. Amit tanárként kérni lehet tőlük, az nem sok: látszódjon, ki nézte át; látszódjon, mit javítottak és mikor; a lektor neve csak akkor, ha ő akarja; és a hibajelzésre ember válaszoljon, egy napon belül. Egy játékfejlesztő három hét alatt össze tudta rakni. Egy kiadó is össze tudja.
+
+És ha valaki kedvet kap hozzá: egy csomag negyedóra, telefonon is megy. A huszonhat osztva néggyel a kezdet volt. A többit nem a gép fogja megtalálni.
+
+### Irodalom
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T. és Rohrer, D. (2006): Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis. Psychological Bulletin, 132(3), 354–380.
+
+Rohrer, D. és Taylor, K. (2007): The Shuffling of Mathematics Problems Improves Learning. Instructional Science, 35(6), 481–498.

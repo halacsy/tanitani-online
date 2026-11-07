@@ -13,7 +13,7 @@ excerpt: >-
   nincs joguk többé arra, hogy a szülők világnézete alapján dönthessék el, kit
   vesznek föl, és kit nem.
 coverImage: /sites/default/files/horgony.jpg
-reads: 6666
+reads: 6758
 ---
 <strong>A katolikus egyház kitüntetett szerepe az ír általános iskolai oktatásban. Németh Tibor írása</strong>
 

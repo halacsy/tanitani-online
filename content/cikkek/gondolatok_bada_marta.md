@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/bada_marta_cimlap.jpg
 coverAlt: 'Bada Márta. Fotó: Matey István. Forrás: http://www.naplo.hu/'
 coverTitle: 'Bada Márta. Fotó: Matey István. Forrás: http://www.naplo.hu/'
-reads: 8095
+reads: 8234
 ---
 <strong>L. Ritók Nóra megnyitó szavai a cigány festőművész kiállításán Berettyóújfaluban, 2015. március 19-én</strong>
 

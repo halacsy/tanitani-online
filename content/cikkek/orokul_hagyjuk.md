@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/korczak_novendekei.jpg
 coverAlt: 'Janusz Korczak növendékei. Forrás: Arolsen Archives'
 coverTitle: 'Janusz Korczak növendékei. Forrás: Arolsen Archives'
-reads: 2149
+reads: 2252
 ---
 <strong>Trencsényi László írása</strong>
 

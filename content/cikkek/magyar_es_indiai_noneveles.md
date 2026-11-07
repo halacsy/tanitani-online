@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/koves_borito.jpg
 coverAlt: A magyar csoport agrai kirándulása 2019-ben
 coverTitle: A magyar csoport agrai kirándulása 2019-ben
-reads: 4023
+reads: 4112
 ---
 <strong>A nők útja az egyetemig. Köves Margit írása</strong>
 

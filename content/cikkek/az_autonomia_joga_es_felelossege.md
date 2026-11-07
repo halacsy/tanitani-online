@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/marie-gabrielle_capet_-_studio_scene.jpg
 coverAlt: A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye
 coverTitle: A képen Marie-Gabrielle Capet Műtermi jelenet c. festménye
-reads: 630
+reads: 738
 ---
 <strong><span style="font-size: 12px;">Trencsényi László írása</span></strong>
 

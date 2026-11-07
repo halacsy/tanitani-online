@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/fuzesy_tamas.jpg
 coverAlt: Füzesy Tamás
 coverTitle: Füzesy Tamás
-reads: 1086
+reads: 1172
 ---
 <strong>Kun Zsuzsa interjúja Füzesy Tamással a Klubrádióban.</strong>
 

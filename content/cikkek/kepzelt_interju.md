@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/ksj.jpg
 coverAlt: Kériné Sós Júlia
 coverTitle: Kériné Sós Júlia
-reads: 6629
+reads: 6731
 ---
 <strong>Kériné Sós Júliával</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/talpra_magyar.jpg
 coverAlt: 'Forrás: Fortepan'
 coverTitle: 'Forrás: Fortepan'
-reads: 2568
+reads: 2645
 ---
 > Gergely Ferenc tanár, neveléstörténész hatalmas gyűjtőmunkát végzett arról, hogy mi történt az iskolákban, a közoktatásban az 1956-os forradalom és a november 4-ét követő „konszolidáció” időszakában. Gyűjteménye szerkesztőre és kiadóra vár. Néhány szemelvényben megidézzük a 64 éve történteket.
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/image005.png
 coverAlt: A barsfüssi népiskola igazgatója (a bal szélen)
 coverTitle: A barsfüssi népiskola igazgatója (a bal szélen)
-reads: 2528
+reads: 2612
 ---
 <strong>Dubovszky Katalin írása</strong>
 

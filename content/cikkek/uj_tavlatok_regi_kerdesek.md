@@ -14,7 +14,7 @@ excerpt: >-
   Pályaválasztásomból fakadóan különösen érzékenyen érintenek azok a döntések,
   amelyek a…
 coverImage: /sites/default/files/help.jpeg
-reads: 2044
+reads: 2244
 ---
 <strong><span style="font-size: 12px;">Gondolatok az új Oktatási és Gyermekügyi Minisztérium előtt álló feladatokról. Nagy Fruzsina írása</span></strong>
 

@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/volcano.jpg
 coverAlt: 'Paul Zizka fotójának felhasználásával. Forrás: CBC.'
 coverTitle: 'Paul Zizka fotójának felhasználásával. Forrás: CBC.'
-reads: 1667
+reads: 1747
 ---
 <strong>Trencsényi László írása</strong>
 

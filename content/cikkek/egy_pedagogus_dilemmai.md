@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/asztalos_0.jpg
 coverAlt: 'Forrás: https://www.nbcnews.com/'
 coverTitle: 'Forrás: https://www.nbcnews.com/'
-reads: 13821
+reads: 14035
 ---
 <strong>…a teljesítményalapú bérezéssel kapcsolatban. Asztalos György írása</strong>
 

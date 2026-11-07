@@ -13,7 +13,7 @@ excerpt: >-
   alkalommal Zsófi meg is jegyezte: – Anya, minél többet ismerünk, annál többet
   látunk.
 coverImage: /sites/default/files/image010-w470.jpg
-reads: 2443
+reads: 2516
 ---
 <strong>…avagy az életközpontú gondolkodás kialakítása. Dani-Ördög Dalma írása</strong>
 

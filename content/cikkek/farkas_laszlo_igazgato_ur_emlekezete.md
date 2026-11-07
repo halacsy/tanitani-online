@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/farkas_laszlo.jpg
 coverAlt: Farkas László
 coverTitle: Farkas László
-reads: 2459
+reads: 2545
 ---
 <strong>Raffay Zoltánné írása</strong>
 

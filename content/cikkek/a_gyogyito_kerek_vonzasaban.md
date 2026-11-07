@@ -15,7 +15,7 @@ excerpt: >-
   illeszkedve, az Igazságügyi Minisztériummal közös program keretében biztosít
   lehetőséget személyiségépítésre azoknak a raboknak, akik vállalják, hogy…
 coverImage: /sites/default/files/gyogyito_kerek_2.jpg
-reads: 5600
+reads: 5702
 ---
 <strong>Közösségi gyógyítás, egyéni gyógyulás. Németh Tibor írása</strong>
 

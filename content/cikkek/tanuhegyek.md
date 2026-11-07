@@ -13,7 +13,7 @@ excerpt: >-
   szerk.): Tanúhegyek. Portrék, emlékezések, interjúk mintaadó pedagógusokról.
   Magyar Pedagógiai Társaság, Budapest.
 coverImage: /sites/default/files/tanuhegyek.png
-reads: 5951
+reads: 6079
 ---
 <strong>Lencse Máté írása a Tanúhegyek c. könyv kapcsán</strong>
 

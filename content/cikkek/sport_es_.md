@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/sportpsz.png
 coverAlt: Sport és pszichológia
 coverTitle: Sport és pszichológia
-reads: 6482
+reads: 6583
 ---
 > Kolosai Nedda beszámolója a Magyar Pszichológiai Társaságnak a pszichológia napja alkalmából tartott 2013. február 23-i konferenciájáról
 

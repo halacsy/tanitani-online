@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/upor_laszlo.jpg
 coverAlt: Upor László
 coverTitle: Upor László
-reads: 2789
+reads: 2891
 ---
 <strong>Upor László beszéde</strong>
 

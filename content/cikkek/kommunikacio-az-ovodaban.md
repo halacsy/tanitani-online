@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/ovodasok_1.jpg
 coverAlt: 'Forrás: Freepik'
 coverTitle: 'Forrás: Freepik'
-reads: 3596
+reads: 3727
 ---
 <strong>Az anyanyelvi nevelés fontossága az Óvodai nevelés országos alapprogramjában 2. Czipczerné Bartók Erika írása</strong>
 

@@ -9,7 +9,7 @@ tags:
   - szabad nevelés
   - tanár-diák viszony
 excerpt: Önállóság és önállótlanság a gyerekkorban
-reads: 12106
+reads: 12251
 ---
 <strong>Önállóság és önállótlanság a gyerekkorban</strong>
 

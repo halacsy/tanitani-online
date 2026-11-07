@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szendrei_juli.png
 coverAlt: Szendrei Julianna
 coverTitle: Szendrei Julianna
-reads: 19884
+reads: 20180
 ---
 <strong>Szendrei Juli halálhírére</strong>
 

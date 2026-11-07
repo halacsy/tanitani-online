@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/kozosen-w470.jpg
 coverAlt: Csoportmunka
 coverTitle: Csoportmunka
-reads: 19719
+reads: 19981
 ---
 > A magyar pedagógus megszokott már mindent. Rezignáltan veszi tudomásul a híreket. Ha hittant kellene oktatnia, hát azt oktatna. Ha büntetnie kell motiválás helyett, megteszi. Ha egész nap bent kell maradnia, hát bent marad. Ha nem kap fizetésemelést, hát nem kap.
 

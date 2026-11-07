@@ -14,7 +14,7 @@ excerpt: >-
   kedvezőtlenségéből adódó kimaradással folytatunk hol eredményes, hol
   eredménytelen harcot.
 coverImage: /sites/default/files/question-mark-2123967_1920.jpg
-reads: 6710
+reads: 6872
 ---
 <strong>Hogyan értelmezhető az eredményesség&nbsp;a szakképzésben dolgozó közismereti tantárgyakat oktató pedagógusok esetében? Borsodi Csilla Noémi írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   vallás a Föld mintegy 200 országában, több mint 110 000 városban és faluban
   van jelen, írásaikat eddig 750 nyelvre fordították le. Kontinensenként nézve
   Ázsiában 3,6…
-reads: 15121
+reads: 15221
 ---
 <em>„Minden ember azért teremtetett,<br>hogy előmozdítson<br>egy folyamatosan fejlődő civilizációt.”</em>
 

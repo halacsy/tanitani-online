@@ -8,7 +8,7 @@ date: '2012-04-14'
 tags:
   - külföld
 excerpt: Népiskolák Finnországban
-reads: 8083
+reads: 8170
 ---
 ## Népiskolák Finnországban
 

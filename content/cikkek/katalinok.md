@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   A képen balról jobbra:  Mérész Katalin, Ásvány György, Ásványné Halla Katalin
   és Fábry Ilona.
-reads: 2564
+reads: 2675
 ---
 <strong>Párhuzamos pályák emlékezete. Lejegyezte: Fábry Ilona</strong>
 

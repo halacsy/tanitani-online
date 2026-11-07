@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/greenmeadowwschalk.jpg
 coverAlt: 'Forrás: https://www.waldorfeducation.org/'
 coverTitle: 'Forrás: https://www.waldorfeducation.org/'
-reads: 3257
+reads: 3362
 ---
 <strong>Bessenyei István írása</strong>
 

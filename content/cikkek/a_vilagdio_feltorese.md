@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/simone_veil.jpg
 coverAlt: Simone Weil
 coverTitle: Simone Weil
-reads: 2426
+reads: 2793
 ---
 <strong>Avagy az iskolai szelekció mindannyiunkat megfoszt a tudástól. Knausz Imre írása</strong>
 

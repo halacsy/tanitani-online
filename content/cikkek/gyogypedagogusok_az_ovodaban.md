@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/gyogypedagogus_az_ovodaban.jpg
 coverAlt: 'A kép illusztáció. Forrás: http://childcareed.com'
 coverTitle: 'A kép illusztáció. Forrás: http://childcareed.com'
-reads: 834
+reads: 1142
 ---
 <strong>Egy mentorprogram története. Deák Réka és Földes Petra írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   életképes egy szakma, a belső kommunikációja is csorbát szenved, de az is
   hatékonyságot zavaró tényező, ha partnereivel – köztük a laikusokkal – nem tud
   szót érteni.
-reads: 22991
+reads: 23407
 ---
 <strong>avagy folyóiratok a tanári szobák polcain, számítógép monitorján … és olvasóik</strong>
 

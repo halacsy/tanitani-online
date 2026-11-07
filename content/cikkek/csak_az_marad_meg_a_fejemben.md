@@ -22,7 +22,7 @@ coverAlt: >-
 coverTitle: >-
   Az eszközök az idők során változtak, de a család változatlanul keleszt,
   dagaszt, süt.
-reads: 12027
+reads: 12157
 ---
 <strong>...amihez közöm van.&nbsp;Gaul Emil írása</strong>
 

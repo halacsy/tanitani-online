@@ -14,7 +14,7 @@ excerpt: >-
   határozta meg szakmai pályafutásomat és a magánéletemet egyaránt. A színek,
   illatok, hangulatok iránti fogékonyság szinte születésemtől fogva élt bennem,
   így aztán alig néhány éves…
-reads: 9587
+reads: 9690
 ---
 <strong>Tanár és művész az iskolákban</strong>
 

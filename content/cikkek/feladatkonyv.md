@@ -12,7 +12,7 @@ excerpt: 'Einhorn Ágnes: Feladatkönyv. Budapest, 2012, Nemzeti Tankönyvkiadó
 coverImage: /sites/default/files/cooperative.jpg
 coverAlt: 'Forrás: http://www.library.drexel.edu/'
 coverTitle: 'Forrás: http://www.library.drexel.edu/'
-reads: 7964
+reads: 8054
 ---
 > Einhorn Ágnes: Feladatkönyv. Budapest, 2012, Nemzeti Tankönyvkiadó.
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/puskas.jpg
 coverAlt: Németh Tibor és Puskás Zoltán
 coverTitle: Németh Tibor és Puskás Zoltán
-reads: 3293
+reads: 3385
 ---
 <strong>Puskás Zoltánnal Németh Tibor beszélgetett</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/amk_trencsenyi.jpg
 coverAlt: A képen a szerző
 coverTitle: A képen a szerző
-reads: 3623
+reads: 3723
 ---
 <strong>Trencsényi László írása</strong>
 

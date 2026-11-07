@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/verseny.png
 coverAlt: Verseny
 coverTitle: Verseny
-reads: 8646
+reads: 8789
 ---
 <strong>Nahalka István írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   gyakorlatom során ismertem meg. Az első emlékem róla az, hogy farsangon
   kakasnak öltözve léggitározott a gyerekekkel.
 coverImage: /sites/default/files/zoli_ovobacsi_0.jpg
-reads: 7325
+reads: 7407
 ---
 <strong>Szendrődi Dalma interjúja Zoli óvóbácsival 2015. november 21-én</strong>
 

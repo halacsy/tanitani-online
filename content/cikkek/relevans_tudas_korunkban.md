@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/compass_tattoo.jpg
 coverAlt: 'Forrás: https://tattoozza.com'
 coverTitle: 'Forrás: https://tattoozza.com'
-reads: 15292
+reads: 15687
 ---
 <strong>Gyarmathy Éva írása</strong>
 

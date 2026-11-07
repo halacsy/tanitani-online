@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/ombudsmen.jpg
 coverAlt: Ombudsmanok Summerhillben
 coverTitle: Ombudsmanok Summerhillben
-reads: 8018
+reads: 8151
 ---
 <strong>Avagy lehet-e egy gyereknek igaza egy felnőttel szemben?</strong> <strong>Fóti Péter és Miskolczy Zsuzsanna írása</strong>
 

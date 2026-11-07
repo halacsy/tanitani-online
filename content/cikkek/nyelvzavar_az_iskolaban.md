@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/tolmacs.jpg
 coverAlt: 'Forrás: gsmarena.com'
 coverTitle: 'Forrás: gsmarena.com'
-reads: 3605
+reads: 3687
 ---
 <strong>Földes Petra írása</strong>
 

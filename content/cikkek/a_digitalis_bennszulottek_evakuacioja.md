@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/evakuacio1.jpg
 coverAlt: 'A digitális kultúra összeköt vagy elválaszt, „barát” vagy „ellenség”?'
 coverTitle: 'A digitális kultúra összeköt vagy elválaszt, „barát” vagy „ellenség”?'
-reads: 2629
+reads: 2759
 ---
 <strong>Borsodi Csilla Noémi írása</strong>
 

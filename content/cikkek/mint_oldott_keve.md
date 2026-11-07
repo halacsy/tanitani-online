@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/puzzle.jpg
 coverAlt: 'Forrás: http://pondscienceinstitute.on-rev.com/'
 coverTitle: 'Forrás: http://pondscienceinstitute.on-rev.com/'
-reads: 12028
+reads: 12155
 ---
 <strong>Knausz Imre történelemtanításról és nemzeti kultúráról</strong>
 

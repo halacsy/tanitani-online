@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/szivak_borito.jpg
 coverAlt: 'Reflektív elméletek, reflektív gyakorlatok'
 coverTitle: 'Reflektív elméletek, reflektív gyakorlatok'
-reads: 23303
+reads: 23723
 ---
 <strong>Lencse Máté recenziója</strong>
 

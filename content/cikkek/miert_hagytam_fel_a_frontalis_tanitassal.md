@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/www.zum_.de_.jpg
 coverAlt: 'A kép forrása: www.zum.de'
 coverTitle: 'A kép forrása: www.zum.de'
-reads: 34299
+reads: 34521
 ---
 <strong>Hannelore Zehnpfennig írása. Falko Peschel kiegészítésével. Fordította: Fóti Péter.</strong>
 

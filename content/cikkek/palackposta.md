@@ -14,7 +14,7 @@ excerpt: >-
   feladata és célja az volt, hogy az alternatív pedagógiák módszertani
   eredményeivel infiltrálja, hassa át a magyar közoktatást. Számunkra minden
   alternatíva egyformán fontos volt, az én Waldorf-orientációm ellenére."
-reads: 20776
+reads: 21116
 ---
 ### Interjú Vekerdy Tamással
 

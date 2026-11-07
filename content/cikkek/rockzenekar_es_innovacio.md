@@ -16,7 +16,7 @@ excerpt: >-
   egyáltalán lehetséges-e egy ilyen bonyolult fogalmat megtanítani a lázadó
   korban levő tinédzsereknek, ráadásul egy játékfilm segítségével?
   Tapasztalataink azonban azt…
-reads: 8332
+reads: 8424
 ---
 <strong>Egy új taneszközről</strong>
 

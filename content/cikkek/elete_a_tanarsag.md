@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/debreczeni_tibor.jpg
 coverAlt: 'Fotó: Füle Tamás. Forrás: parokia.hu'
 coverTitle: 'Fotó: Füle Tamás. Forrás: parokia.hu'
-reads: 4839
+reads: 4929
 ---
 <strong>Mallász Judit összeállítása</strong>
 

@@ -12,12 +12,12 @@
   ],
   "publishedAt": 1786529205,
   "date": "2026-08-12",
-  "updatedAt": 1786529474,
+  "updatedAt": 1791467906,
   "tags": [
     {
-      "id": 913,
-      "slug": "neveleselemelet",
-      "name": "neveléselemélet"
+      "id": 653,
+      "slug": "neveleselmelet",
+      "name": "neveléselmélet"
     }
   ],
   "sections": [],
@@ -25,7 +25,7 @@
   "coverImage": "/sites/default/files/tlet2.jpeg",
   "coverAlt": "",
   "coverTitle": "",
-  "reads": 888,
+  "reads": 1054,
   "commentCount": 0,
   "issueYear": "",
   "issueNumber": null,

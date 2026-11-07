@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegregacio_borito.jpg
 coverAlt: Az Igazgyöngy Alapfokú Művészeti Iskola műhelyéből
 coverTitle: Az Igazgyöngy Alapfokú Művészeti Iskola műhelyéből
-reads: 8802
+reads: 8913
 ---
 <strong>L. Ritók Nóra írása</strong>
 

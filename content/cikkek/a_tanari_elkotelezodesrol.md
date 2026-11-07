@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/jacques-louis_david_labdahazi_esku.jpg
 coverAlt: 'Jacques-Louis David: A labdaházi eskü'
 coverTitle: 'Jacques-Louis David: A labdaházi eskü'
-reads: 5702
+reads: 5809
 ---
 <strong>Fontos-e, és mitől függ? Gönczöl Enikő írása</strong>
 

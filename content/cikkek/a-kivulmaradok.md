@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/kivulmaradok.jpg
 coverAlt: A szerző fotója.
 coverTitle: A szerző fotója.
-reads: 4135
+reads: 4280
 ---
 <strong>L. Ritók Nóra írása</strong>
 

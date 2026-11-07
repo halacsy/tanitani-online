@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/frank_hamilton.jpg
 coverAlt: 'Frank Hamilton zenét tanít csoportban. Forrás: Wikimedia Commons'
 coverTitle: 'Frank Hamilton zenét tanít csoportban. Forrás: Wikimedia Commons'
-reads: 6045
+reads: 6127
 ---
 <strong>...egy könyv szerzőihez</strong>
 

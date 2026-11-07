@@ -18,7 +18,7 @@ coverAlt: >-
 coverTitle: >-
   Gyermekalkotás a Nyári rajz című vershez. Forrás:
   http://kreativgyermek.blogspot.hu/
-reads: 13455
+reads: 13595
 ---
 <strong>H. Tóth István írása</strong>
 

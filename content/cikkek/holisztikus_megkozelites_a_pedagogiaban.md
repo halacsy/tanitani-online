@@ -14,7 +14,7 @@ excerpt: >-
   együttműködése kiváló lehetőséget teremt a tantárgyak közötti transzfer
   biztosítására.
 coverImage: /sites/default/files/holisztikus.jpg
-reads: 7933
+reads: 8054
 ---
 <strong>Hogyan értelmezhető a holisztikus megközelítés? Nagy Zoltán írása</strong>
 

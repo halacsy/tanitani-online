@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/andor.jpg
 coverAlt: Andor Ilona
 coverTitle: Andor Ilona
-reads: 2006
+reads: 2119
 ---
 <strong>A visszaemlékezés Becze Szilviának a Bartók Rádióban B. Horváth Andreával, a Magyar Kodály Társaság társelnökével, az Andor Ilona Baráti Társaság elnökével, a Kodály Zoltán női kar újraalapítójával folytatott beszélgetése alapján készült.</strong>
 

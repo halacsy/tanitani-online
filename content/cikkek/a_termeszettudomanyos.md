@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   Természettudományos óra egy washingtoni középiskolában. Forrás: Wikimedia
   Commons.
-reads: 20248
+reads: 20543
 ---
 <strong>...nevelés helyzete Magyarországon a kerettantervek írása idején.</strong>
 

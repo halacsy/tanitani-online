@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/maxresdefault_2.jpg
 coverAlt: Yong Zhao
 coverTitle: Yong Zhao
-reads: 5338
+reads: 5433
 ---
 <strong>Yong Zhao előadásának gondolatai, Gönczöl Enikő összefoglalója</strong>
 

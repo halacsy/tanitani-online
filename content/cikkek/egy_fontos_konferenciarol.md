@@ -13,7 +13,7 @@ excerpt: >-
   megrendezésre a fiatalon elhunyt Dániel Júlia angoltanár, szervező, innovátor
   emlékére.
 coverImage: /sites/default/files/daniel_konferencia.jpg
-reads: 4113
+reads: 4198
 ---
 <strong>Alpár Vera írása</strong>
 

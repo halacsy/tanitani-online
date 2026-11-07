@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/tanodakotet.jpg
 coverAlt: Mire jó a tanoda?
 coverTitle: Mire jó a tanoda?
-reads: 12072
+reads: 12263
 ---
 <strong>…de sosem merted megkérdezni. Knausz Imre könyvismertetője</strong>
 

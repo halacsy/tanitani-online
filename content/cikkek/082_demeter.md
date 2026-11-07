@@ -13,7 +13,7 @@ excerpt: >-
   emlegetett integráció, inkluzív nevelés fogalma. Ha visszatekintünk a
   neveléstörténet elmúlt évszázadaira, azt látjuk, hogy minden kornak megvannak
   a maga emberideáljai…
-reads: 11979
+reads: 12069
 ---
 ## Gondolatok és valós képek az együttnevelésről
 

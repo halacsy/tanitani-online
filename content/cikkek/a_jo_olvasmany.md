@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/boeken_kringloop_woerden_02-w400.jpg
 coverAlt: 'Forrás: Wikimedia Commons'
 coverTitle: 'Forrás: Wikimedia Commons'
-reads: 9960
+reads: 10064
 ---
 <strong>...középiskolás szemmel</strong>
 

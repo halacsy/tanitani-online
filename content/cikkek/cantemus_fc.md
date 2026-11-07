@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/szabo_soma_nagy.jpg
 coverAlt: Szabó Soma
 coverTitle: Szabó Soma
-reads: 3062
+reads: 3167
 ---
 <strong>Kecskés Barbara interjúja Szabó Soma Liszt-díjas karnaggyal a Bartók Rádióban</strong>
 

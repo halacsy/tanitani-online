@@ -12,7 +12,7 @@ excerpt: >-
   Braun József írása Válaszok az Oktatási és Gyermekügyi Minisztérium
   körkérdésére
 coverImage: /sites/default/files/national_curriculum_3.png
-reads: 418
+reads: 657
 ---
 <strong>Braun József írása</strong>
 

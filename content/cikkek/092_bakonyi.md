@@ -9,7 +9,7 @@ tags:
   - pedagógusképzés
   - magániskolák
 excerpt: (Tanítási gyakorlatokon a várpalotai Magániskolában)
-reads: 17922
+reads: 18021
 ---
 ## (Tanítási gyakorlatokon a várpalotai Magániskolában)
 

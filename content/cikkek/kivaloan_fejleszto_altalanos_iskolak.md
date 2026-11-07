@@ -12,7 +12,7 @@ excerpt: >-
   létszámúak, alacsony családiháttér-indexszel rendelkezők, kistelepülésen
   működők.
 coverImage: /sites/default/files/iskolasok.jpeg
-reads: 10018
+reads: 10210
 ---
 <strong>Asztalos György írása</strong>
 

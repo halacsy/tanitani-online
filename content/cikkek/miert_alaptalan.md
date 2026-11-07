@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/csizmadia.jpg
 coverAlt: Miért „alaptalan” a magyar demokrácia?
 coverTitle: Miért „alaptalan” a magyar demokrácia?
-reads: 7494
+reads: 7588
 ---
 <strong>„A demokrácia lényege tehát egy viselkedési forma, sőt egy norma.”</strong>
 

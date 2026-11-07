@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/1_kep-w400.jpg
 coverAlt: ...mint önkéntes
 coverTitle: ...mint önkéntes
-reads: 8242
+reads: 8336
 ---
 <strong>Karlowits-Juhász Orchidea: Kutatási naplóm margójáról II.</strong>
 

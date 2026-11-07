@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/alpha.jpg
 coverAlt: 'Forrás: forbes.com'
 coverTitle: 'Forrás: forbes.com'
-reads: 924
+reads: 1050
 ---
 <strong><span style="font-size: 12px;">Ki irányítja az egyénre szabott tanulást az MI korában? Bessenyei István és Apáti Balázs írása</span></strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/szentirmai_cimlap.jpg
 coverAlt: Szentirmai László
 coverTitle: Szentirmai László
-reads: 4699
+reads: 4799
 ---
 <strong>Trencsényi László írása</strong>
 

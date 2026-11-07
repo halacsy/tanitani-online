@@ -13,7 +13,7 @@ excerpt: >-
   Tanodaplatform szervezésében megvalósult a Szülőkkel, gyerekekkel való
   önismereti munka workshop.
 coverImage: /sites/default/files/54486045497_dda366e5e5_o.jpg
-reads: 1489
+reads: 1588
 ---
 <strong>Önismereti munka&nbsp;a Szandaszőlősi Tanodában. Fazekas Elek írása</strong>
 

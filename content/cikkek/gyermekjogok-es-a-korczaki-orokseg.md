@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/janusz-korczak_copy.jpg
 coverAlt: 'Janusz Korczak. Forrás: The Guardian'
 coverTitle: 'Janusz Korczak. Forrás: The Guardian'
-reads: 1432
+reads: 1511
 ---
 <strong><span style="font-size: 12px;">Makai Éva írása</span></strong>
 

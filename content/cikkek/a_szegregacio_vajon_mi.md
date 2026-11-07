@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/vegleges.jpg
 coverAlt: 'Fotó: Tóth Tamás Sándor'
 coverTitle: 'Fotó: Tóth Tamás Sándor'
-reads: 11625
+reads: 11733
 ---
 <strong>Válasz Nahalka tanár úrnak. Fejes József Balázs írása</strong>
 

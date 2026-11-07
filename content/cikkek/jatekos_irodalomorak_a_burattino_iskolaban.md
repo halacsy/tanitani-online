@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/burattino.jpg
 coverAlt: A Burattino Iskola
 coverTitle: A Burattino Iskola
-reads: 3500
+reads: 3610
 ---
 <strong>Naplórészletek Trencsényi László tollából</strong>
 

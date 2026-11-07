@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/zulejka.jpg
 coverAlt: Zulejka kinyitja szemét (filmsorozat)
 coverTitle: Zulejka kinyitja szemét (filmsorozat)
-reads: 2841
+reads: 2988
 ---
 <strong>Trencsényi László írása</strong>
 

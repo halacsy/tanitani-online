@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/31.1.jpg
 coverAlt: Táblarajz
 coverTitle: Táblarajz
-reads: 45320
+reads: 46161
 ---
 <strong>Röviden a Pesthidegkúti Waldorf Iskolában folyó vizuális nevelésről</strong>
 

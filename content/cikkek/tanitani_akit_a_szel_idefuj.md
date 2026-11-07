@@ -12,7 +12,7 @@ excerpt: >-
   nehezíti, ha a miénktől kulturális szempontból jelentősen eltérő háttérrel
   rendelkeznek.
 coverImage: /sites/default/files/akitaszel.jpg
-reads: 7466
+reads: 7587
 ---
 <strong>Németh Tibor írása</strong>
 

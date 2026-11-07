@@ -15,7 +15,7 @@ excerpt: >-
   pozitív befogadói magatartás, amelyet a gyerekek tanúsítanak az órán.
   Hihetetlen érdeklődést tapasztalhatunk a részükről nem csak a regényhez
   közvetlenül kapcsolódó…
-reads: 19277
+reads: 19461
 ---
 > Populáris irodalmat mindig valamilyen pedagógiai cél érdekében érdemes beépíteni a kötelező olvasmányok sorába, hiszen kihagyhatatlan az a végtelenül pozitív befogadói magatartás, amelyet a gyerekek tanúsítanak az órán. Hihetetlen érdeklődést tapasztalhatunk a részükről nem csak a regényhez közvetlenül kapcsolódó feladatok, ismeretek tekintetében, hanem a Harry Potter könyvekkel csak közvetetten érintkező témákkal kapcsolatban is. Az órai feladatokat, akárcsak a házi feladatokat örömmel végezték, és mindig hiánytalanul teljesítették.
 

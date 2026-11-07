@@ -14,7 +14,7 @@ excerpt: >-
   lehessenek. Máshogy egyszerűen nem megy. Ha azt szeretném, hogy a gyerekek
   önállóan tanuljanak…
 coverImage: /sites/default/files/national_curriculum_0.png
-reads: 647
+reads: 777
 ---
 <strong>Fóti Péter hozzászólása Knausz Imre Megkérdeztek a NAT-ról című írásához</strong>
 

@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/karacsony_sandor.jpg
 coverAlt: Karácsony Sándor
 coverTitle: Karácsony Sándor
-reads: 12960
+reads: 13159
 ---
 <strong>Karácsony Sándor pedagógiai üzenete</strong>
 

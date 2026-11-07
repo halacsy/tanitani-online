@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/trencsenyi_0.jpg
 coverAlt: 'Trencsényi László. Fotó: Berecz Valter. Forrás: 24.hu'
 coverTitle: 'Trencsényi László. Fotó: Berecz Valter. Forrás: 24.hu'
-reads: 2154
+reads: 2241
 ---
 <strong>Kardos Ferenc könyvismertetése</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/languages_0.jpg
 coverAlt: 'Forrás: http://voxy.com'
 coverTitle: 'Forrás: http://voxy.com'
-reads: 10284
+reads: 10403
 ---
 <strong>Gál Lilla írása</strong>
 

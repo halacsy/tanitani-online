@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/orchestra.jpg
 coverAlt: 'Forrás: https://www.liveabout.com/'
 coverTitle: 'Forrás: https://www.liveabout.com/'
-reads: 2862
+reads: 2944
 ---
 <strong>Nemes Katalin írása</strong>
 

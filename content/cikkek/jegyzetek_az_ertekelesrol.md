@@ -17,7 +17,7 @@ coverAlt: >-
 coverTitle: >-
   Kass János illusztrációja Karinthy Frigyes Tanár Úr kérem c. kötetéhez.
   Forrás: pszeudo.hu
-reads: 2026
+reads: 2132
 ---
 <strong>Trencsényi László írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/03forum_pedagogusok-lazadasa_marabu_2016.jpg
 coverAlt: 'Marabu karikatúrája, Népszabadság, 2016'
 coverTitle: 'Marabu karikatúrája, Népszabadság, 2016'
-reads: 15323
+reads: 15879
 ---
 <strong>Műveltség, tekintély, közélet. Knausz Imre írása</strong>
 

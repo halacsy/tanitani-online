@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/mohacsi_samuel.jpg
 coverAlt: Mohácsi Sámuel rajza az Igazgyöngy műhelyéből
 coverTitle: Mohácsi Sámuel rajza az Igazgyöngy műhelyéből
-reads: 3199
+reads: 3295
 ---
 <strong>L. Ritók Nóra írása</strong>
 

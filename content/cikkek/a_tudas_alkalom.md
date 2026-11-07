@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/nadori_nemeth.jpg
 coverAlt: Nádor Tibor és Németh Tibor
 coverTitle: Nádor Tibor és Németh Tibor
-reads: 9577
+reads: 9731
 ---
 <strong><span style="text-align: justify;">Németh Tibor interjúja</span></strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   és mit szeretnék elérni. Ha azonban a gyerekek érdeklődéséből indulok ki,
   nekem is el kell…
 coverImage: /sites/default/files/gombvalogatos.png
-reads: 900
+reads: 1089
 ---
 <strong><span style="font-size: 12px;">Gondolatok a gyermekközpontú óvodáról és a pedagógusszerep változásáról. Jankovics Adrienn írása</span></strong>
 

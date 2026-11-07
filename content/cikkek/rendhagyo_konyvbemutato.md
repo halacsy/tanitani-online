@@ -13,7 +13,7 @@ excerpt: >-
   Zsuzsa és Kontra Miklós) bemutatóján az ELTE Bölcsészettudományi Karán 2023.
   szeptember 5-én.
 coverImage: /sites/default/files/boritokep_0.jpg
-reads: 2532
+reads: 2620
 ---
 <strong>Földi András írása</strong>
 

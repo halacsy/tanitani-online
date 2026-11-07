@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/paulrobeson5890.png
 coverAlt: 'Paul Robeson. Forrás: https://www.truthdig.com/'
 coverTitle: 'Paul Robeson. Forrás: https://www.truthdig.com/'
-reads: 5665
+reads: 5782
 ---
 <strong>Zsigmond Anna írása</strong>
 

@@ -12,7 +12,7 @@ excerpt: >-
   Dr. Burkáné Szolnoki Ágnes írása A mi számunkra, az én számomra Gábor bácsi
   ezt az iskolát jelentette.
 coverImage: /sites/default/files/image1.jpg
-reads: 3308
+reads: 3409
 ---
 <strong>Dr. Burkáné Szolnoki Ágnes írása</strong>
 

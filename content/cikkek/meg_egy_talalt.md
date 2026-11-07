@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/kinderschul.jpg
 coverAlt: 'Nürnbergi metszet, 1760 körül. Forrás: Wikimedia Commons'
 coverTitle: 'Nürnbergi metszet, 1760 körül. Forrás: Wikimedia Commons'
-reads: 5899
+reads: 5979
 ---
 <strong>Részletek Lafferthon Judit évfolyamdolgozatából</strong>
 

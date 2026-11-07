@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/onszervezo1.jpg
 coverAlt: A képet a NightCafé generálta.
 coverTitle: A képet a NightCafé generálta.
-reads: 3158
+reads: 3256
 ---
 <strong>I. rész. Bessenyei István írása</strong>
 

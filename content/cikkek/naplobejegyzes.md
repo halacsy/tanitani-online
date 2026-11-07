@@ -13,7 +13,7 @@ excerpt: >-
   És ez nemcsak a blogjában jellemzi: beszélgetéseken, konferenciákon úgy
   szintén. Zavarja a csúsztatás, az, hogy mindenki csak sikerekről beszél, mert
   ő egészen mást tapasztal.
-reads: 20822
+reads: 21102
 ---
 > L. Ritók Nóra kimondja, amit gondol és érez, mert nem tudja magában tartani. És ez nemcsak a blogjában jellemzi: beszélgetéseken, konferenciákon úgy szintén. Zavarja a csúsztatás, az, hogy mindenki csak sikerekről beszél, mert ő egészen mást tapasztal.
 

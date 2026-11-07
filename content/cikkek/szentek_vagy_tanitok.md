@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/massag.jpg
 coverAlt: 'Forrás: IStock'
 coverTitle: 'Forrás: IStock'
-reads: 750
+reads: 876
 ---
 <strong>A másság példázatszerepe a vallás- és óvodapedagógia határterületén. Csizmárné Gede Erika Judit írása</strong>
 

@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/bruegelmann.jpg
 coverAlt: 'Hans Brügelmann. Forrás: https://www.uni-siegen.de'
 coverTitle: 'Hans Brügelmann. Forrás: https://www.uni-siegen.de'
-reads: 5479
+reads: 5606
 ---
 <strong>Részletek Hans Brügelmann könyvéből. Az írás hosszabb változata a mellékletben olvasható.</strong>
 

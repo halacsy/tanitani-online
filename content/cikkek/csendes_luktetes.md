@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/tamaskane_nemeth.jpg
 coverAlt: Tamáskáné Fekete Erika és Németh Tibor
 coverTitle: Tamáskáné Fekete Erika és Németh Tibor
-reads: 2705
+reads: 2799
 ---
 <strong>Németh Tibor interjúja Tamáskáné Fekete Erikával</strong>
 

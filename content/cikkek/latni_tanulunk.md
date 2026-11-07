@@ -14,7 +14,7 @@ excerpt: >-
   demokrácia és a társadalmi együttélés alapja ugyanis az, hogy léteznek közösen
   elfogadott…
 coverImage: /sites/default/files/vizualis_cimlap.jpg
-reads: 2153
+reads: 2307
 ---
 <strong><span style="font-size: 12px;">A vizuális információk áradata a 21. század tengerén. Wilhelm Móni írása</span></strong>
 

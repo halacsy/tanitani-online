@@ -14,7 +14,7 @@ excerpt: >-
   mindent kell majd teljesíteni. A reakciója csak annyi volt, hogy ez az egész
   hülyeség.
 coverImage: /sites/default/files/kivetel.jpg
-reads: 8363
+reads: 8443
 ---
 <strong>Czenner Júlia írása</strong>
 

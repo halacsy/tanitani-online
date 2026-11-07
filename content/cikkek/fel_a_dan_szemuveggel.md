@@ -14,7 +14,7 @@ excerpt: >-
   kézikönyvvel, mely szakszerű és hatékony segítséget ígért minden
   gyermeknevelési szituációban. A…
 coverImage: /sites/default/files/dan_0.png
-reads: 5070
+reads: 5146
 ---
 <strong>Kada Krisztina recenziója</strong>
 

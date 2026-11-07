@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/homer_lane_nagy.jpeg
 coverAlt: Homer Lane
 coverTitle: Homer Lane
-reads: 932
+reads: 1033
 ---
 <strong><span style="font-size: 12px;">Fóti Péter írása</span></strong>
 

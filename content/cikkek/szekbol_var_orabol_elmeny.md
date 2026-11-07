@@ -18,7 +18,7 @@ excerpt: >-
 coverImage: /sites/default/files/tallian_mariann.jpg
 coverAlt: Tallián Mariann. Mészáros Gábor fotója
 coverTitle: Tallián Mariann. Mészáros Gábor fotója
-reads: 1503
+reads: 1602
 ---
 <strong><span style="font-size: 12px;">Lázár Balázs interjúja Tallián Mariann dráma- és színházművészeti tanárral</span></strong>
 

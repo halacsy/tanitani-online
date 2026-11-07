@@ -12,7 +12,7 @@ excerpt: >-
   az oka annak, hogy most hirtelen, miközben a magyar nevelési-oktatási rendszer
   ezer sebből vérzik, előkerült a konzervatív pedagógia MCC-értelmezése?
 coverImage: /sites/default/files/fabry_cimlap.jpg
-reads: 3745
+reads: 3872
 ---
 <strong>...a konzervatív pedagógia?&nbsp;Fábry Béla írása</strong>
 

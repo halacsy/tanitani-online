@@ -14,7 +14,7 @@ excerpt: >-
   mindannyian jól érezzék magukat, és lehetővé tegyék a gyerekeknek II. (és
   önmaguknak), hogy azt tanulhassák, ami érdekli őket. Az első rész itt
   olvasható Napi tíz…
-reads: 13364
+reads: 13456
 ---
 <strong>Tanácsadó tanároknak, akik utálják a túlközpontosított iskolai bürokráciát, és akik szeretnének a rájuk bízott gyerekekkel emberi kapcsolatba lépni, hogy mindannyian jól érezzék magukat, és lehetővé tegyék a gyerekeknek II. (és önmaguknak), hogy azt tanulhassák, ami érdekli őket.</strong>
 

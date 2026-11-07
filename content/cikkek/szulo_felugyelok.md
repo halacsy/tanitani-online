@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/kovacs_lajos.png
 coverAlt: Kovács Lajos
 coverTitle: Kovács Lajos
-reads: 4239
+reads: 4319
 ---
 > Megjelent a szerző <em>Nyolcadikba járni áprilisi tréfa</em> című novelláskötetében 1981-ben a Móra Kiadónál
 

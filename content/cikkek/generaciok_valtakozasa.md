@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/mlinar_pal.jpg
 coverAlt: Ifj. Mlinár Pál
 coverTitle: Ifj. Mlinár Pál
-reads: 1539
+reads: 1609
 ---
 <strong>…a Békés vármegyei néptáncéletben. Malatyinszki Szilárd életútinterjúja ifj. Mlinár Pállal</strong>
 

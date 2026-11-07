@@ -15,7 +15,7 @@ excerpt: >-
   tárgyakkal (merthogy azokat maguk készítették), több történetük volt, melyek
   róluk magukról szóltak.
 coverImage: /sites/default/files/3-420.jpg
-reads: 5366
+reads: 5460
 ---
 <strong>Németh Tibor írása</strong>
 

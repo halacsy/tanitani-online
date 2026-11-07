@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/milliok_kozul.jpg
 coverAlt: Címlap
 coverTitle: Címlap
-reads: 1555
+reads: 1670
 ---
 <strong>Trencsényi Borbála recenziója</strong>
 

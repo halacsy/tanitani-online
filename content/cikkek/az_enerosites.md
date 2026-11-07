@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/gye_diakokkal.jpg
 coverAlt: Győrik Edit diákokkal
 coverTitle: Győrik Edit diákokkal
-reads: 7785
+reads: 7882
 ---
 <strong>Győrik Edit munkásságának rövid bemutatása. Huszka Zsolt írása</strong>
 

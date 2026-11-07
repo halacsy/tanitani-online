@@ -14,7 +14,7 @@ excerpt: >-
   háttéranyagaként, de saját „szerzői munkásságom” részeként is. Ezért is
   örülök, hogy a Tani-tani Online vitára közreadja.
 coverImage: /sites/default/files/national_curriculum_1.png
-reads: 637
+reads: 850
 ---
 <strong>Trencsényi László írása</strong>
 

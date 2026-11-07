@@ -13,7 +13,7 @@ excerpt: >-
   bizonytalanokká válnak, bizonytalanná téve ezzel a belőlük levonható
   következtetéseket is.
 coverImage: /sites/default/files/csalas.jpg
-reads: 35770
+reads: 36738
 ---
 <strong>Nahalka István írása</strong>
 

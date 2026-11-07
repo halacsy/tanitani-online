@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/borbely-pecze_bors.jpg
 coverAlt: Borbély-Pecze Tibor Bors
 coverTitle: Borbély-Pecze Tibor Bors
-reads: 1257
+reads: 1383
 ---
 <strong>Körkérdés az oktatásról 6.</strong>
 

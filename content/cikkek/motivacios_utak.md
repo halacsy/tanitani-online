@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/motivacios_utak.jpg
 coverAlt: Motivációs utak keresése
 coverTitle: Motivációs utak keresése
-reads: 15812
+reads: 16086
 ---
 <strong>Önkéntes munka egy LHH kistérségben</strong>
 

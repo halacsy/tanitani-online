@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/ember_haz.jpg
 coverAlt: Ember-ház-földrengés
 coverTitle: Ember-ház-földrengés
-reads: 13241
+reads: 13396
 ---
 <strong>Drámapedagógiai tapasztalatok. Deák Márton, Hervai Sára és Juhász Milán írása</strong>
 

@@ -13,7 +13,7 @@ excerpt: >-
   VISZONTVÁLASZ VAJDA ZSUZSANNA HOZZÁSZÓLÁSÁRA[fn]A vita előzményei: Fóti Péter:
   Egy radikális iskolareform körvonalai, Vajda Zsuzsanna: Felszámolandó-e a
   tankötelezettség? Taní-tani, 2007. 4. sz., 5-25. o.[/fn]
-reads: 11803
+reads: 11940
 ---
 VISZONTVÁLASZ VAJDA ZSUZSANNA HOZZÁSZÓLÁSÁRA[fn]A vita előzményei: Fóti Péter: Egy radikális iskolareform körvonalai, Vajda Zsuzsanna: Felszámolandó-e a tankötelezettség? Taní-tani, 2007. 4. sz., 5-25. o.[/fn]
 

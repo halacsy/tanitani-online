@@ -17,7 +17,7 @@ excerpt: >-
 coverImage: /sites/default/files/mm_szudijanos_0925_3.jpg
 coverAlt: 'Forrás: https://www.hodpress.hu/'
 coverTitle: 'Forrás: https://www.hodpress.hu/'
-reads: 981
+reads: 1127
 ---
 > A Pedagógusok Szakszervezetének álláspontja a közoktatás rendszerének megújításához (Szüdi János, 2014)
 

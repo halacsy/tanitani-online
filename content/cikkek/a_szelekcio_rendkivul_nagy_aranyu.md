@@ -13,7 +13,7 @@ excerpt: >-
   utalnak – a társadalom kasztosodását, a társadalmi csoportok közötti
   különbségek egészségtelen mértékű növekedését eredményezi.
 coverImage: /sites/default/files/szelekcio.png
-reads: 5700
+reads: 5801
 ---
 <strong>…növekedése a magyar iskolarendszerben 2010 és 2017 között. Nahalka István írása</strong>
 

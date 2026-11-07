@@ -13,7 +13,7 @@ excerpt: >-
   oldalát szeretném átadni a hallgatóknak, hanem azt a belső elhivatottságot is,
   amellyel elköteleződtem a pedagóguspálya iránt.
 coverImage: /sites/default/files/mentori_cimlap.png
-reads: 1198
+reads: 1314
 ---
 <strong>Fazekasné Borbély Krisztina írása</strong>
 

@@ -20,7 +20,7 @@ coverAlt: >-
 coverTitle: >-
   Pallas Athéné baglya egy Kr. e. 5. századból származó athéni tetradrakhmás
   pénzérmén. Lyoni Szépművészeti Múzeum. Forrás: Wikimedia Commons
-reads: 7940
+reads: 8212
 ---
 <strong>A közoktatásról rendszerkritikai kontextusban.&nbsp;Knausz Imre írása</strong>
 

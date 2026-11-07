@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/labirintus.jpg
 coverAlt: © Gijs Van Vaerenbergh
 coverTitle: © Gijs Van Vaerenbergh
-reads: 3577
+reads: 3657
 ---
 <strong>Gönczöl Enikő írása</strong>
 

@@ -14,7 +14,7 @@ excerpt: >-
   tanárképző műhelyének szakmai körökben jól ismert folyóirata az Autonómia és
   Felelősség .
 coverImage: /sites/default/files/autonomia.png
-reads: 2484
+reads: 2567
 ---
 <strong>Tóth-Farkas Evelin összefoglalója a<span style="font-size: 1em;">&nbsp;folyóirat 2020. 1-4. összevont számának nyitott műhelykonferenciájáról</span></strong>
 

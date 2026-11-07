@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/szegregalo_cimlap.jpg
 coverAlt: 'Forrás: http://igazgyongy-alapitvany.hu/'
 coverTitle: 'Forrás: http://igazgyongy-alapitvany.hu/'
-reads: 19914
+reads: 20327
 ---
 <strong>L. Ritók Nóra írása</strong>
 

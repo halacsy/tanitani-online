@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/balance.jpg
 coverAlt: 'Forrás: http://oecdeducationtoday.blogspot.hu/'
 coverTitle: 'Forrás: http://oecdeducationtoday.blogspot.hu/'
-reads: 5649
+reads: 5743
 ---
 <strong>K. Nagy Emese írása</strong>
 

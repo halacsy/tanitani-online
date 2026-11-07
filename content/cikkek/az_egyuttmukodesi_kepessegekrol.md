@@ -13,7 +13,7 @@ excerpt: >-
   irányítani, követni, meggyőzni, elfogadni, érvényesíteni a saját ötleteket,
   közösen értékelni, örülni, együtt átélni a sikerélményt…
 coverImage: /sites/default/files/nori0.jpg
-reads: 2421
+reads: 2603
 ---
 <strong>L. Ritók Nóra írása</strong>
 

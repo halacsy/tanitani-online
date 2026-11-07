@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/hamupipoke.jpg
 coverAlt: 'Forrás: http://ffffound.com/'
 coverTitle: 'Forrás: http://ffffound.com/'
-reads: 32208
+reads: 32884
 ---
 <strong>Knausz Imre írása a tehetségpazarlás intézményes kereteiről</strong>
 

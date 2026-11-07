@@ -19,7 +19,7 @@ excerpt: >-
 coverImage: /sites/default/files/reader.jpg
 coverAlt: 'Harold Knight festménye. Forrás: https://artuk.org/'
 coverTitle: 'Harold Knight festménye. Forrás: https://artuk.org/'
-reads: 561
+reads: 687
 ---
 <strong><span style="font-size: 12px;">A leendő tanárok olvasási attitűdjének vizsgálata. Géczi-Laskai Judit, Kapusi Angéla, Kelemen Judit és Molnár Balázs írása</span></strong>
 

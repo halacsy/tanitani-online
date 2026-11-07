@@ -15,7 +15,7 @@ excerpt: >-
 coverImage: /sites/default/files/jogpedagogia.jpg
 coverAlt: 'Forrás: http://barczi.elte.hu'
 coverTitle: 'Forrás: http://barczi.elte.hu'
-reads: 2266
+reads: 2361
 ---
 <strong>A gyógypedagógia és a jog egyik metszéspontjában. Bíró Endre írása</strong>
 

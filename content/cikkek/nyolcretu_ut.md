@@ -14,7 +14,7 @@ excerpt: >-
 coverImage: /sites/default/files/mero.png
 coverAlt: 'Borítórészlet (Illusztráció: M. Miltényi Miklós)'
 coverTitle: 'Borítórészlet (Illusztráció: M. Miltényi Miklós)'
-reads: 10497
+reads: 10655
 ---
 <strong>Mérő László könyvének margójára. Kiemelések és kiegészítések. Lencse Máté írása</strong>
 

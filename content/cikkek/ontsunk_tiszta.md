@@ -14,7 +14,7 @@ excerpt: >-
   energia arra, hogy az illetékesek konzultáljanak azokkal a szervezetekkel és
   szakemberekkel, amelyek/akik már hosszú évek óta foglalkoznak az ifjúsági
   önkéntesség és…
-reads: 22322
+reads: 22556
 ---
 <strong>Rövid áttekintés az ifjúsági és az iskolai közösségi szolgálat dilemmáiról</strong>
 

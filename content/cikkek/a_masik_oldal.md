@@ -13,7 +13,7 @@ excerpt: >-
   kell, lehet produkálni. A cigánynak, a szegénynek, a gyereknek, a családnak,
   mindenkinek. Egy van, ami állandó, és megingathatatlan, az intézményrendszer,
   a maga előírt protokolljával.
-reads: 9048
+reads: 9148
 ---
 > És minden problémát úgy akarunk megoldani, hogy változást csak a másiknak kell, lehet produkálni. A cigánynak, a szegénynek, a gyereknek, a családnak, mindenkinek. Egy van, ami állandó, és megingathatatlan, az intézményrendszer, a maga előírt protokolljával. 
 

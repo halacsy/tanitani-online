@@ -13,7 +13,7 @@ excerpt: >-
 coverImage: /sites/default/files/kettosborito_470.jpg
 coverAlt: Két borító
 coverTitle: Két borító
-reads: 7493
+reads: 7584
 ---
 > Recenzió Gabnai Katalin Színházas könyvéről és Trencsényi László Gyerekek színpadon, nézőtéren című könyvéről
 

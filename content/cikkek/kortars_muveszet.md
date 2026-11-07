@@ -14,7 +14,7 @@ excerpt: >-
   határozza meg. A felkavaró, gondolkodást igénylő kortárs művek viszont nálunk
   többnyire nem népszerűek, különösen, ha a már elfogadott esztétikai
   sztenderdekhez sem…
-reads: 11410
+reads: 11524
 ---
 > A kortárs képzőművészeti alkotások kvalitását a jelenünk problémáihoz való kapcsolódás, a problémafelvetés, a megfogalmazás árnyaltsága, mélysége határozza meg. A felkavaró, gondolkodást igénylő kortárs művek viszont nálunk többnyire nem népszerűek, különösen, ha a már elfogadott esztétikai sztenderdekhez sem igazodnak. A pedagógia ezen a téren sokat segíthetne. Az elmúlt évben tanúja voltam annak, hogy másodéves gimnazisták milyen lelkesen fogadtak olyan kortárs alkotásokat, amelyek a Műcsarnok rendszerváltáshoz kapcsolódó kiállításán szerepeltek.
 

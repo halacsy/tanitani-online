@@ -16,7 +16,7 @@ excerpt: >-
 coverImage: /sites/default/files/activeforlife.com_.jpg
 coverAlt: 'Forrás: activeforlife.com'
 coverTitle: 'Forrás: activeforlife.com'
-reads: 561
+reads: 702
 ---
 <strong><span style="font-size: 12px;">Fóti Péter képzeletbeli beszélgetése John Dewey-val, A. S. Neill-lel és Hannelore Zehnpfenniggel</span></strong>
 

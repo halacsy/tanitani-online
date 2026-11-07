@@ -12,7 +12,7 @@ excerpt: >-
   Trencsényi László írása Tanulságul a XXI. századnak – a „csendes
   nemzedékeknek”.
 coverImage: /sites/default/files/levai.jpg
-reads: 11206
+reads: 11351
 ---
 <strong>Trencsényi László írása</strong>
 
