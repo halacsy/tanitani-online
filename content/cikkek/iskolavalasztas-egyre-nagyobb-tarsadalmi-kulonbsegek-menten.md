@@ -10,6 +10,9 @@ excerpt: A társadalmi leszakadásban, generációs szegénységben élő csalá
   számára az iskolaválasztás egészen más kérdés. Sokszor nincs valódi választási
   lehetőségük, vagy nem rendelkeznek azokkal az információkkal, kapcsolatokkal
   és erőforrásokkal, amelyek a tudatos döntéshez szükségesek. 
+coverImage: /images/cikkek/czirok_greta_rajza_nagy.jpg
+coverAlt: Czirók Gréta rajza az Igazgyöngy műhelyében készült.
+coverTitle: Czirók Gréta rajza az Igazgyöngy műhelyében készült.
 reads: 0
 ---
 Az iskolába készülő gyerekek szülei a beiskolázás idején sokat töprengenek azon, milyen iskolát válasszanak a gyermeküknek.
