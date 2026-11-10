@@ -11,7 +11,7 @@ excerpt: "Mi történik, amikor egy mese a legizgalmasabb pillanatban megszakad?
   Vasmese című kísérleti dokumentumfilmben két gyermek kezd gondolkodni a
   folytatáson. Ehhez azonban tudásra is szükségük lesz: meg kell ismerniük az
   ősi vaskészítés titkát."
-coverImage: /images/cikkek/vasmese_nyitokep.jpg
+coverImage: /images/cikkek/vasmese_nyitokep_fekvo_1200x675.jpg
 reads: 0
 ---
 **A Vasmese könyvben és filmen – a tapasztalati tanulás és a művészettel nevelés találkozása. Szepesi Judit írása**
