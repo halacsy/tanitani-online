@@ -1,6 +1,8 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { marked } from 'marked'
+import sanitizeHtml from 'sanitize-html'
 
 interface AuthorRecord {
   id: number
@@ -52,8 +54,17 @@ function plainText(value: string): string {
 function curatedOverride(slug: string): { name?: string; photo?: string; bio?: string } {
   const filePath = path.join(curatedDir, `${slug}.md`)
   if (!fs.existsSync(filePath)) return {}
-  const { data } = matter(fs.readFileSync(filePath, 'utf-8'))
-  return { name: data.name, photo: data.photo, bio: data.bio }
+  const { data, content } = matter(fs.readFileSync(filePath, 'utf-8'))
+  return { name: data.name, photo: data.photo, bio: data.bio ?? (content.trim() || undefined) }
+}
+
+export function renderBio(value: string | undefined, fallback: string): string {
+  return sanitizeHtml(value === undefined ? fallback : String(marked.parse(String(value))), {
+    allowedTags: ['p', 'br', 'strong', 'em', 'a', 'ul', 'ol', 'li', 'blockquote'],
+    allowedAttributes: { a: ['href', 'title'] },
+    allowedSchemes: ['http', 'https', 'mailto'],
+    allowProtocolRelative: false,
+  })
 }
 
 function loadAuthors(): Author[] {
@@ -80,13 +91,14 @@ function loadAuthors(): Author[] {
   authors = mergedRecords
     .map(record => {
       const curated = curatedOverride(record.slug)
+      const bioHtml = renderBio(curated.bio, record.descriptionHtml)
       return {
         id: record.id,
         slug: record.slug,
         name: curated.name ?? record.name,
         photo: curated.photo ?? '',
-        bio: curated.bio ?? plainText(record.descriptionHtml),
-        bioHtml: record.descriptionHtml,
+        bio: plainText(bioHtml),
+        bioHtml,
         articleCount: record.articleCount,
       }
     })

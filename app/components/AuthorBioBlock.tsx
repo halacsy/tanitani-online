@@ -46,9 +46,7 @@ export default function AuthorBioBlock({ author, articleCount, size = 'full' }: 
         </div>
 
         {author.bio && size === 'full' && (
-          <p className="font-body text-sm leading-relaxed text-muted mb-3">
-            {author.bio}
-          </p>
+          <div className="font-body text-sm leading-relaxed text-muted mb-3 [&_p+p]:mt-3 [&_a]:underline [&_ul]:list-disc [&_ol]:list-decimal [&_ul]:pl-5 [&_ol]:pl-5" dangerouslySetInnerHTML={{ __html: author.bioHtml }} />
         )}
 
         <Link
