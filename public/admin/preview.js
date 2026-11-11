@@ -33,6 +33,33 @@
     }
   }
 
+  // Root-relative public URLs bypass Decap's draft asset cache (#7639).
+  // Resolve our upload directories through the repository media folder instead.
+  function draftAssets(getAsset, defaultField) {
+    return function (value, field) {
+      var match = typeof value === 'string' && value.match(/^\/images\/(cikkek|szerzok|oldalak|konyvek)\/(.+)$/)
+      if (!match) return getAsset(value, field)
+      var assetField = field || defaultField
+      if (!assetField || typeof assetField.set !== 'function') return getAsset(value, field)
+      var slash = value.lastIndexOf('/')
+      assetField = assetField.set('media_folder', '/public' + value.slice(0, slash))
+      return getAsset(value.slice(slash + 1), assetField)
+    }
+  }
+
+  ;['image', 'markdown'].forEach(function (name) {
+    var widget = CMS.getWidget(name)
+    function wrap(Component) {
+      if (!Component) return Component
+      return function (props) {
+        return h(Component, Object.assign({}, props, {
+          getAsset: draftAssets(props.getAsset, props.field),
+        }))
+      }
+    }
+    CMS.registerWidget(name, wrap(widget.control), wrap(widget.preview), widget.schema)
+  })
+
   function authorLabel(slug) {
     if (!slug) return 'Szerző'
     return String(slug)
@@ -193,7 +220,7 @@
         : legacyAuthor || 'Szerző'
       var primaryAuthor = authors[0]
       var imageValue = field(entry, 'coverImage', '') || field(entry, 'image', '')
-      var coverImage = assetUrl(props.getAsset, imageValue)
+      var coverImage = assetUrl(draftAssets(props.getAsset, props.fields.find(function (field) { return field.get('name') === 'coverImage' })), imageValue)
       var coverAlt = field(entry, 'coverAlt', '') || title
       var tags = list(field(entry, 'tags', [])).filter(Boolean)
       var minutes = readingTime(field(entry, 'body', ''))
@@ -311,6 +338,21 @@
     },
   })
 
+  var AuthorPreview = createClass({
+    render: function () {
+      var props = this.props
+      var photoField = props.fields.find(function (field) { return field.get('name') === 'photo' })
+      var photo = assetUrl(draftAssets(props.getAsset, photoField), field(props.entry, 'photo', ''))
+      return h('div', { className: 'site-preview' },
+        h('main', { className: 'page-preview' },
+          photo ? h('img', { src: photo, alt: '', style: { width: 112, height: 112, objectFit: 'cover', borderRadius: '50%' } }) : null,
+          h('h1', {}, field(props.entry, 'name', '')),
+          h('article', { className: 'article-prose' }, props.widgetFor('bio')),
+        ),
+      )
+    },
+  })
+
   var PagePreview = createClass({
     render: function () {
       var props = this.props
@@ -329,7 +371,7 @@
                 h('h2', {}, 'A szerkesztőség'),
                 h('div', { className: 'page-team-grid' }, editors.map(function (editor, index) {
                   var get = function (key) { return typeof editor.get === 'function' ? editor.get(key) : editor[key] }
-                  var photo = assetUrl(props.getAsset, get('photo'))
+                  var photo = assetUrl(draftAssets(props.getAsset, props.fields.find(function (field) { return field.get('name') === 'editors' })), get('photo'))
                   return h('div', { key: index, className: 'page-team-person' },
                     photo ? h('img', { src: photo, alt: '' }) : null,
                     h('div', {}, h('strong', {}, get('name')), h('span', {}, get('role'))),
@@ -348,7 +390,7 @@
     render: function () {
       var props = this.props
       var links = list(field(props.entry, 'links', []))
-      var cover = assetUrl(props.getAsset, field(props.entry, 'cover', ''))
+      var cover = assetUrl(draftAssets(props.getAsset, props.fields.find(function (field) { return field.get('name') === 'cover' })), field(props.entry, 'cover', ''))
       return h('div', { className: 'site-preview' }, nav(),
         h('main', { className: 'page-preview' },
           h('div', { className: 'book-preview' },
@@ -389,6 +431,7 @@
 
   CMS.registerPreviewStyle('/admin/preview.css')
   CMS.registerPreviewTemplate('cikkek', ArticlePreview)
+  CMS.registerPreviewTemplate('szerzok', AuthorPreview)
   CMS.registerPreviewTemplate('oldalak', PagePreview)
   CMS.registerPreviewTemplate('konyvek', BookPreview)
 })()

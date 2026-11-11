@@ -35,7 +35,7 @@ collections:
   - name: oldalak
     label: Oldalak
     label_singular: Oldal
-    media_folder: public/images/oldalak
+    media_folder: /public/images/oldalak
     public_folder: /images/oldalak
     files:
       - label: Szerzői útmutató
@@ -102,7 +102,7 @@ collections:
     extension: yml
     format: yaml
     slug: "{{slug}}"
-    media_folder: public/images/konyvek
+    media_folder: /public/images/konyvek
     public_folder: /images/konyvek
     preview_path: /konyvek#{{slug}}
     fields:
@@ -250,11 +250,8 @@ collections:
 
       - label: Bemutatkozás
         name: bio
-        widget: text
+        widget: markdown
+        buttons: [bold, italic, link, bulleted-list, numbered-list]
+        editor_components: []
         required: false
         hint: "2-3 mondat, 1. személyben"
-
-      - label: body
-        name: body
-        widget: markdown
-        required: false

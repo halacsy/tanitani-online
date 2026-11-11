@@ -70,9 +70,7 @@ export default async function SzerzoPage({ params }: Props) {
               </h1>
 
               {author.bio && (
-                <p className="font-body text-base leading-relaxed text-charcoal mb-5 max-w-2xl">
-                  {author.bio}
-                </p>
+                <div className="font-body text-base leading-relaxed text-charcoal mb-5 max-w-2xl [&_p+p]:mt-3 [&_a]:underline [&_ul]:list-disc [&_ol]:list-decimal [&_ul]:pl-5 [&_ol]:pl-5" dangerouslySetInnerHTML={{ __html: author.bioHtml }} />
               )}
 
               <div className="flex items-center gap-4 flex-wrap">
