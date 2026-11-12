@@ -5,7 +5,6 @@ import { useState, type FormEvent } from 'react'
 export default function FeedbackForm() {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
 
-
   async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
     if (status === 'sending') return
@@ -34,7 +33,7 @@ export default function FeedbackForm() {
     <input type="hidden" name="page" value="" />
     <div hidden><label>Website<input name="bot-field" tabIndex={-1} autoComplete="off" /></label></div>
     <label className="block">Név (opcionális)<input className={inputClass} name="name" autoComplete="name" maxLength={200} /></label>
-    <label className="block">E-mail (opcionális)<input className={inputClass} name="email" type="email" autoComplete="email" maxLength={254} /></label>
+    <label className="block">E-mail<input className={inputClass} name="email" type="email" required autoComplete="email" maxLength={254} /></label>
     <label className="block">Üzenet<textarea className={inputClass} name="message" rows={7} required maxLength={10000} /></label>
     <button disabled={status === 'sending' || status === 'sent'} className="rounded-full bg-brand text-white px-6 py-3 disabled:opacity-50" type="submit">Küldés</button>
     <p role="status" aria-live="polite">{status === 'sent' ? 'Visszajelzés elküldve.' : status === 'error' ? 'Sikertelen küldés. Kérjük, próbálja újra.' : status === 'sending' ? 'Küldés…' : ''}</p>
