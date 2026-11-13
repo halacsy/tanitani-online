@@ -3,6 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import { marked } from 'marked'
 import { comparableSlug, slugify } from './slug.mjs'
+import { uniqueTagNames } from './tags.mjs'
 
 export interface AuthorRef {
   id: number
@@ -426,12 +427,12 @@ export function getAllTags(): string[] {
   for (const article of getAllArticles()) {
     for (const tag of article.tags) counts.set(tag, (counts.get(tag) ?? 0) + 1)
   }
-  return Array.from(counts.entries())
+  return uniqueTagNames(Array.from(counts.entries())
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'hu'))
-    .map(([tag]) => tag)
+    .map(([tag]) => tag))
 }
 
 export function getArticlesByTag(tag: string): Article[] {
   const decoded = decodeSlug(tag)
-  return getAllArticles().filter(article => article.tags.includes(decoded))
+  return getAllArticles().filter(article => article.tags.some(name => slugify(name) === slugify(decoded)))
 }
