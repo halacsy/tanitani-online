@@ -144,7 +144,7 @@ export default async function HomePage() {
           <div className="flex-1">
             <h2 className="font-display text-2xl font-bold text-brand mb-3">A Taní-tani Online-ról</h2>
             <p className="font-body text-base leading-relaxed text-charcoal max-w-2xl">
-              1996 óta vagyunk a progresszív pedagógiai gondolkodás fóruma Magyarországon. Több mint 600 szerző, több mint ezer cikk – ingyenesen, szabadon hozzáférhetően. Creative Commons licenc alatt.
+              2010 óta vagyunk a progresszív pedagógiai gondolkodás fóruma Magyarországon. Több mint 600 szerző, több mint ezer cikk – ingyenesen, szabadon hozzáférhetően. Creative Commons licenc alatt.
             </p>
           </div>
           <Link href="/rolunk" className="btn-outline shrink-0">Rólunk</Link>

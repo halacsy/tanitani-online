@@ -20,7 +20,7 @@ export default function Footer() {
               Taní-tani Online
             </div>
             <p className="font-sans text-sm leading-relaxed">
-              A szabad pedagógiai gondolkodás fóruma. Alapítva 1996-ban.
+              A szabad pedagógiai gondolkodás fóruma. Alapítva 2010-ben.
             </p>
           </div>
 
