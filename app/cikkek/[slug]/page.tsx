@@ -106,17 +106,28 @@ export default async function ArticlePage({ params }: Props) {
 
       {/* Cover image */}
       {article.coverImage && (
-        <div className="w-full h-48 sm:h-72 md:h-96 overflow-hidden relative">
-          <Image
-            src={article.coverImage}
-            alt={article.coverAlt || article.title}
-            fill
-            sizes="100vw"
-            priority
-            className="w-full h-full object-cover object-top"
-          />
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/30" />
-        </div>
+        <figure>
+          <div
+            className="w-full h-48 sm:h-72 md:h-96 overflow-hidden relative"
+            title={article.coverTitle || undefined}
+          >
+            <Image
+              src={article.coverImage}
+              alt={article.coverAlt || article.title}
+              title={article.coverTitle || undefined}
+              fill
+              sizes="100vw"
+              priority
+              className="w-full h-full object-cover object-top"
+            />
+            <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/30" />
+          </div>
+          {article.coverTitle && (
+            <figcaption className="bg-white px-6 py-3 font-sans text-xs leading-relaxed text-muted break-words">
+              <div className="max-w-3xl mx-auto">{article.coverTitle}</div>
+            </figcaption>
+          )}
+        </figure>
       )}
 
       {/* Article header */}

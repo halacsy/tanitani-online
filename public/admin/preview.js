@@ -222,6 +222,7 @@
       var imageValue = field(entry, 'coverImage', '') || field(entry, 'image', '')
       var coverImage = assetUrl(draftAssets(props.getAsset, props.fields.find(function (field) { return field.get('name') === 'coverImage' })), imageValue)
       var coverAlt = field(entry, 'coverAlt', '') || title
+      var coverTitle = field(entry, 'coverTitle', '')
       var tags = list(field(entry, 'tags', [])).filter(Boolean)
       var minutes = readingTime(field(entry, 'body', ''))
       var reads = Number(field(entry, 'reads', 0))
@@ -236,10 +237,21 @@
           {},
           coverImage
             ? h(
-                'div',
-                { className: 'article-cover' },
-                h('img', { src: coverImage, alt: coverAlt }),
-                h('div', { className: 'article-cover-shade' }),
+                'figure',
+                { className: 'article-cover-figure' },
+                h(
+                  'div',
+                  { className: 'article-cover', title: coverTitle || undefined },
+                  h('img', { src: coverImage, alt: coverAlt, title: coverTitle || undefined }),
+                  h('div', { className: 'article-cover-shade' }),
+                ),
+                coverTitle
+                  ? h(
+                      'figcaption',
+                      { className: 'article-cover-caption' },
+                      h('div', {}, coverTitle),
+                    )
+                  : null,
               )
             : null,
           h(

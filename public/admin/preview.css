@@ -138,6 +138,25 @@ body {
   background: var(--charcoal);
 }
 
+.article-cover-figure {
+  margin: 0;
+}
+
+.article-cover-caption {
+  background: #fff;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  line-height: 1.625;
+  color: var(--muted);
+  overflow-wrap: break-word;
+}
+
+.article-cover-caption > div {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
 .article-cover {
   position: relative;
   width: 100%;
@@ -154,6 +173,7 @@ body {
 }
 
 .article-cover-shade {
+  pointer-events: none;
   position: absolute;
   inset: 0;
   background: linear-gradient(to bottom, transparent 0%, transparent 60%, rgba(0, 0, 0, 0.3) 100%);
