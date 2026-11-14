@@ -15,7 +15,7 @@ export default function RolunkPage() {
 
       <div className="prose">
         <p>
-          A Taní-tani Online – <em>A szabad pedagógiai gondolkodás fóruma</em> – 1996-ban alakult, az Alternatív Közgazdasági Gimnázium Alapítványa és Oroszlány Péter kezdeményezésére. Kezdetben nyomtatott folyóiratként jelent meg, 2010 óta kizárólag online formában működik.
+          A Taní-tani Online – <em>A szabad pedagógiai gondolkodás fóruma</em> – 2010 óta kizárólag online formában működik.
         </p>
 
         <h2>Küldetésünk</h2>
