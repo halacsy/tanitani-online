@@ -7,6 +7,7 @@
     missing: 'Nem találtunk elérhető képet', reviewed: 'Korábban kiválasztva', rejected: 'Korábban elvetve',
   }
   const $ = id => document.getElementById(id)
+  const site = ['http:', 'https:'].includes(window.location?.protocol) ? window.location.origin : 'https://www.tani-tani.info'
   const cards = []
   const storageKey = `tanitani-author-photos-${dataset}`
   const normalize = value => value.normalize('NFKC').toLocaleLowerCase('hu')
@@ -20,7 +21,7 @@
   }
   function link(text, route, parent) {
     const anchor = element('a', text, parent)
-    anchor.href = `https://www.tani-tani.info${route}`
+    anchor.href = `${site}${route}`
     anchor.target = '_blank'
     anchor.rel = 'noopener noreferrer'
   }

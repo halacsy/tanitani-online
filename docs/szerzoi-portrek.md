@@ -21,7 +21,12 @@ Az eredmény a `reports/author-photos.html`. Egyetlen, önálló fájl: a képek
 beágyazva tartalmazza, ezért önmagában átadható Imrének, és böngészőben,
 bejelentkezés és helyi szerver nélkül megnyitható. A forráscikkek és profilok
 linkjei a publikus production webhelyre vezetnek, ezekhez internet szükséges.
-A generált jelentés nem része a production webhelynek és nincs verziókezelve.
+A generált HTML nincs verziókezelve. Az ellenőrzőoldal a `/szerzoi-portrek`
+útvonalon is elérhető; a fejlesztői szerver és a production build előtt
+automatikusan újragenerálódik. Nem kerül a menübe vagy a sitemapbe,
+és `noindex, nofollow` jelölést kap. Belépés nélkül használható.
+Weben a profil- és cikkhivatkozások ugyanazon a webhelyen nyílnak meg;
+a külön HTML-fájlban a production webhelyre vezetnek.
 
 Imre névre kereshet és állapot szerint szűrhet. A kép melletti választóval
 jóváhagyhat egy automatikus találatot, választhat több kép közül, vagy a

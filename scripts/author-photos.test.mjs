@@ -92,6 +92,7 @@ test('portable review supports searching, filtering, choosing, rejection, export
   const records = collectCandidates([author, { slug: 'b', name: 'B' }], [article(1, image() + image(other))], () => true)
   const rows = resolvePhotos(records)
   const { window, document } = parseHTML(fs.readFileSync(new URL('./author-photo-review.html', import.meta.url), 'utf8'))
+  window.location = { protocol: 'http:', origin: 'http://localhost:3001' }
   window.reviewData = { rows, decisions: {}, media: { [src]: 'data:image/jpeg;base64,AA==', [other]: 'data:image/jpeg;base64,AA==' }, dataset: 'fixture' }
   const storage = new Map()
   let blob
@@ -104,6 +105,7 @@ test('portable review supports searching, filtering, choosing, rejection, export
   const event = type => new window.Event(type, { bubbles: true })
   const cards = [...document.querySelectorAll('.card')]
   assert.equal(cards.length, 2)
+  assert.equal(document.querySelector('h2 a').href, 'http://localhost:3001/szerzok/b')
   const search = document.getElementById('search')
   search.value = 'Kertai'
   search.dispatchEvent(event('input'))
