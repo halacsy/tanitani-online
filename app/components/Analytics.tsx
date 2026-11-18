@@ -97,7 +97,7 @@ export default function Analytics() {
         </Suspense>
       )}
       {!hasStoredDecision && (
-        <div className="fixed bottom-0 inset-x-0 z-[60] bg-charcoal text-white p-4 flex flex-col sm:flex-row items-center gap-3 justify-between text-sm">
+        <div id="analytics-consent-banner" className="fixed bottom-0 inset-x-0 z-[60] bg-charcoal text-white p-4 flex flex-col sm:flex-row items-center gap-3 justify-between text-sm">
           <p className="max-w-2xl">
             Névtelen látogatottsági statisztikát (Google Analytics) csak a
             hozzájárulásod után gyűjtünk. Az adatokat kizárólag a webhely

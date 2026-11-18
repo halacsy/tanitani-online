@@ -5,6 +5,10 @@ package = "@netlify/plugin-nextjs"
 command = "npm run build"
 publish = ".next"
 
+[build.environment]
+# Temporary public testing: set to "false" and rebuild to hide the floating form.
+NEXT_PUBLIC_TEST_MODE = "true"
+
 # A szerkesztői folyamat (#13) piszkozatai a "cms/<gyűjtemény>/<slug>" ágakon
 # nyitott pull requestekben élnek, és a Deploy Preview adja a publikálás előtti
 # előnézetet – erre mutat a Decap "Előnézet megtekintése" gombja. Az előnézeti
