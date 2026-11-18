@@ -1,5 +1,6 @@
 ---
 name: Perjés István
+photo: /sites/default/files/perjes_istvan.png
 bio: >-
   Jó harminc éve már, hogy a felsőoktatás világában emlékeztetem arra a tanár-
   és pedagóguspályára készülődőket, hogy beavatódni a nevelés tudományába és

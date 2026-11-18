@@ -1,5 +1,6 @@
 ---
 name: Siposné Varga Edit
+photo: /sites/default/files/siposne_varga_edit.jpg
 bio: >-
   Siposné Varga Edit vagyok, fagottművész, ének-zene tanár, mesterpedagógus és
   köznevelési intézményvezető. Szakmai pályámat a zene, a pedagógia és az

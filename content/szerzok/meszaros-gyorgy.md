@@ -1,5 +1,6 @@
 ---
 name: Mészáros György
+photo: /sites/default/files/meszarosgyorgy-w200.jpg
 bio: >-
   Az ELTE PPK egyetemi adjunktusa vagyok, elkötelezett pedagógus, aktivista és
   kutató. Évekig foglalkoztam hátrányos helyzetűnek mondott gyerekekkel

@@ -1,5 +1,6 @@
 ---
 name: Martin Jánosné
+photo: /sites/default/files/martin_janosne.jpg
 bio: >-
   Magyar-történelem szakos tanárként, osztályfőnökként 36 éven át tanítottam,
   neveltem a rám bízott gyerekeket közép- és általános iskolában. Dunaújvárosban

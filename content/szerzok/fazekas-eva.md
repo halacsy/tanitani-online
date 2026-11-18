@@ -1,5 +1,6 @@
 ---
 name: Fazekas Éva
+photo: /sites/default/files/fazekas_eva.jpg
 bio: >-
   Tanító vagyok (informatika-matematika műveltség terület), aki alsó tagozatos
   diákokkal fedezi fel a digitális tanulás lehetőségeit. Szenvedélyem a gyermeki

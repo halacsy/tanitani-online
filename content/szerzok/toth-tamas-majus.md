@@ -1,5 +1,6 @@
 ---
 name: Tóth Tamás Május
+photo: /sites/default/files/ttm-w250.jpg
 bio: >-
   Az ELTE PPK pedagógia szakos hallgatója vagyok és a PED nonprofit szervezet
   koordinátora. Számomra az olyan találkozások s párbeszédek lehetősége a

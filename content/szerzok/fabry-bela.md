@@ -1,5 +1,6 @@
 ---
 name: Fábry Béla
+photo: /sites/default/files/fabry_bela.jpg
 bio: >-
   A 70-es évek végén szereztem történelem-pedagógia szakos diplomát. Azóta a az
   óvoda kivételével az általános iskolától az egyetemig a nevelés-oktatás minden

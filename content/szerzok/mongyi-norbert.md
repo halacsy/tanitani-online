@@ -1,5 +1,6 @@
 ---
 name: Mongyi Norbert
+photo: /sites/default/files/mongyi_norbert-w200.jpg
 bio: >-
   A Budapest V. Kerületi Eötvös József Gimnázium angol-francia szakos
   nyelvtanáraként végzem a napi közoktatásbeli nevelői-oktatói tevékenységeimet.

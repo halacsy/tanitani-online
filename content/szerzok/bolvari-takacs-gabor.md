@@ -1,5 +1,6 @@
 ---
 name: Bolvári-Takács Gábor
+photo: /sites/default/files/bolvar_takacs_gabor.png
 bio: >-
   Sárospataki születésű történész, kulturális menedzser, jogász vagyok.
   Neveléstudomány tudományágban doktoráltam és habilitáltam. Egyetemi tanárként

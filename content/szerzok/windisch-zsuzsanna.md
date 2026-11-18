@@ -1,5 +1,6 @@
 ---
 name: Windisch Zsuzsanna
+photo: /sites/default/files/windisch_zsuzsanna.jpg
 bio: >-
   Tanítóként és fejlesztőpedagógusként sokféle iskolában kipróbálhattam magam az
   államitól a tanulócsoportig, de mindenhol csak a tanítás/tanulás szabadságát

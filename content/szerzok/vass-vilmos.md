@@ -1,5 +1,6 @@
 ---
 name: Vass Vilmos
+photo: /sites/default/files/vass_vilmos_1.jpg
 bio: >-
   Magyar-történelem-pedagógia végzettségű habilitált egyetemi docens vagyok. 36
   éve tanítok a köz- és a felsőoktatásban. Több hazai és nemzetközi szervezet

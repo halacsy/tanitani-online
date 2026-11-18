@@ -1,5 +1,6 @@
 ---
 name: Gerőcs Péter
+photo: /sites/default/files/gp.jpg
 bio: >-
   1985-ben született Budapesten. Azóta is itt él. Író, kritikus, esszéista. Az
   ELTE BTK esztétika-magyar szak végzett hallgatója. Rendszeresen publikál

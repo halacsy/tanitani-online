@@ -17,7 +17,9 @@
  * change": there is no AI/agent judgment involved, and no notion of
  * "protect a human edit" — this script only ever touches files that are
  * matched to a migrated JSON record, and a matched file's content is always
- * exactly what the source data says it should be. Markdown files with no
+ * exactly what the source data says it should be. Author photos additionally
+ * use the source-backed portrait candidates and persisted editorial decisions
+ * in content/author-photo-decisions.json. Markdown files with no
  * matching migrated record (genuinely new editorial-only content, e.g. a
  * brand-new article with no migratedId) are never touched.
  */
@@ -28,6 +30,7 @@ import { fileURLToPath } from 'node:url'
 import { createRequire } from 'node:module'
 import matter from 'gray-matter'
 import TurndownService from 'turndown'
+import { loadPhotoData, resolvePhotos } from './author_photos.mjs'
 
 const require = createRequire(import.meta.url)
 const { gfm } = require('turndown-plugin-gfm')
@@ -186,8 +189,9 @@ function articleContent(article) {
 
 // Pure: what the author's Markdown file content should be, given the
 // migrated JSON record. No I/O.
-function authorContent(author) {
+function authorContent(author, photo = '') {
   const data = { name: cleanText(author.name) }
+  if (photo) data.photo = photo
   const bio = plainText(author.descriptionHtml)
   if (bio) data.bio = bio
   return normalizedFile(matter.stringify('', data))
@@ -266,11 +270,13 @@ function syncArticles(migratedArticles, matchedById, occupied) {
  * longer matches what the current migrated JSON would produce.
  */
 function syncAuthors(migratedAuthors) {
+  const { records, decisions } = loadPhotoData(root)
+  const photos = new Map(resolvePhotos(records, decisions).map(author => [author.slug, author.photo]))
   let created = 0
   let updated = 0
   for (const author of migratedAuthors) {
     const filePath = path.join(authorDir, `${author.slug}.md`)
-    const nextContent = authorContent(author)
+    const nextContent = authorContent(author, photos.get(author.slug))
     if (fs.existsSync(filePath)) {
       const current = fs.readFileSync(filePath, 'utf8')
       if (current === nextContent) continue

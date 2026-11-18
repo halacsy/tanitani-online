@@ -1,5 +1,6 @@
 ---
 name: Ludnikné Pálfi Dorina
+photo: /sites/default/files/ludnikne.jpg
 bio: >-
   Végzettségemet tekintve magyar-történelem szakos középiskolai tanár vagyok.
   Neveléstudományból, pedagógusképzésből szereztem doktori címet. Gyakorló

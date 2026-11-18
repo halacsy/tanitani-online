@@ -1,5 +1,6 @@
 ---
 name: Knausz Anna
+photo: /sites/default/files/knausz_anna.jpg
 bio: >-
   Gyógypedagógusként autista gyerekek tanulástámogatásával foglalkozom. A Ginkó
   Ház indulása óta vagyok az ott dolgozó szakmai csapat része. A

@@ -1,5 +1,6 @@
 ---
 name: Tolnai Antal
+photo: /sites/default/files/tolnaiantal.jpg
 bio: >-
   Magyar-angol szakos általános és középiskolai tanár, könyvtáros és
   Waldorf-peadagógus vagyok. Pályámat 1984-ben kezdtem Tiszabőn, ahol 1989-1993

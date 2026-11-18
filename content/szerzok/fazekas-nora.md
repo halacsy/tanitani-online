@@ -1,5 +1,6 @@
 ---
 name: Fazekas Nóra
+photo: /sites/default/files/fazekas_nora.jpg
 bio: >-
   Közgazdászként végeztem, de a közoktatás mindig is szívügyem volt. Éppen ezért
   a Budapesti Corvinus Egyetem Vezetéstudományi Intézetének doktorandusz

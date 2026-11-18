@@ -1,5 +1,6 @@
 ---
 name: Muri Emese
+photo: /sites/default/files/muri_emese-w200.jpg
 bio: >-
   Harmadéves pedagógia szakos hallgató vagyok a Miskolci Egyetemen. 2008-ban
   részt vettem a Demokratikus Ifjúságért Alapítvány (DIA) vitakultúra-fejlesztő

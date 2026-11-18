@@ -1,5 +1,6 @@
 ---
 name: Pardi-Oláh Roberta
+photo: /sites/default/files/pardi_olah_roberta.jpg
 bio: >-
   1980.11.24-én születtem Kisújszálláson, az Alföld szívében. Ebben a
   kisvárosban nőttem fel. Érettségi után az Eötvös Loránd Tudományegyetemen

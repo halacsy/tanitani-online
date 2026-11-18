@@ -1,5 +1,6 @@
 ---
 name: Érsek-Kovács Adrienn
+photo: /sites/default/files/ersek_kovacs.jpg
 bio: >-
   2004. áprilisa óta dolgozom az intézményben, azóta foglalkozom SNI-s
   (diszlexia, diszgráfia, diszkalkulia) tanulók oktatásával, nevelésével. Az

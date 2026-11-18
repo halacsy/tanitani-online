@@ -1,5 +1,6 @@
 ---
 name: Majzikné Lichtenberger Krisztina
+photo: /sites/default/files/majzikne.jpg
 bio: >-
   Pedagógus vagyok, szupervízor, TCI-tréner, feleség és édesanya.
   Német-pedagógia szakon végeztem az ELTE-n, majd pedagógiából doktoráltam.

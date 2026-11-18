@@ -1,5 +1,6 @@
 ---
 name: Makrai Kata
+photo: /sites/default/files/makrai_kata.jpg
 bio: >-
   2016 szeptemberétől dolgozom a Miskolci Egyetem Bölcsészettudományi Karának
   Tanárképző Intézetében. 2014-ben végeztem értelmileg akadályozottak és

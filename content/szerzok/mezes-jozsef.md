@@ -1,5 +1,6 @@
 ---
 name: Mézes József
+photo: /sites/default/files/mezes.jpg
 bio: >-
   15 éve foglalkozom „disz-problémás” gyermekek oktatásával és nevelésével,
   nevelőtanárként, osztályfőnökként, matematika-kémia szakos tanárként egyaránt.

@@ -1,5 +1,6 @@
 ---
 name: Bráz Nikolett
+photo: /sites/default/files/braz_niki.jpg
 bio: >-
   A Miskolci Egyetem harmadéves pedagógia szakos hallgatója vagyok. Amikor a
   lehetőség úgy adja, szívesen foglalkozom hátrányos helyzetű gyerekekkel.

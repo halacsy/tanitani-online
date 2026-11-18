@@ -1,5 +1,6 @@
 ---
 name: Berzsenyi Emese
+photo: /sites/default/files/berzsenyi_emese_0.jpg
 bio: >-
   Vallástörténész vagyok, a Szegedi Tudományegyetem BTK Vallástudományi
   Tanszékén, az ELTE PPK Neveléstörténeti Tanszékén tanítok óraadó oktatóként,

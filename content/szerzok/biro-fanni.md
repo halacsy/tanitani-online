@@ -1,5 +1,6 @@
 ---
 name: Bíró Fanni
+photo: /sites/default/files/biro_fanni.jpg
 bio: >-
   Az ELTE Tanító- és Óvóképző Karán végeztem tanítóként, angol
   műveltségterületen, jelenleg pedig az SZTE Neveléstudomány mesterképzésén

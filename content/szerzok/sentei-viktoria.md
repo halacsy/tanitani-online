@@ -1,5 +1,6 @@
 ---
 name: Sentei Viktória
+photo: /sites/default/files/sentei_viktoria.jpg
 bio: >-
   A közoktatásban töltött éveimben sikerült teljesen elfogadnom, hogy nincs
   nyelvérzékem, de ahogy dolgozni kezdtem, rájöttem, hogy milyen fontos a nyelv,

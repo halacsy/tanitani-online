@@ -1,5 +1,6 @@
 ---
 name: Ferencsik Marcell
+photo: /sites/default/files/ferencsik_marcell.jpg
 bio: >-
   A Miskolci Egyetem Tanárképző Intézetének végzős magyar-angol tanári
   mesterszakos hallgatója vagyok. Egy halmozottan hátrányos helyzetű

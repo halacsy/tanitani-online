@@ -1,5 +1,6 @@
 ---
 name: Rudi Andrea
+photo: /sites/default/files/rudi_andrea.jpg
 bio: >-
   Mesterpedagógus, német nyelvtanár – korábban egy budai gimnáziumban a szakmai
   munkáért és az innovációért felelős igazgatóhelyettes –, valamint pedagógiai

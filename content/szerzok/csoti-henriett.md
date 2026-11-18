@@ -1,5 +1,6 @@
 ---
 name: Csóti Henriett
+photo: /sites/default/files/csoti_heni.jpg
 bio: >-
   Az ELTE PPK neveléstudományi mesterképzésének hallgatója vagyok. Immáron 8 éve
   foglalkozom neveléssel, eleinte mint ifjúsági vezető egy gyermekszervezetben.

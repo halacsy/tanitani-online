@@ -1,5 +1,6 @@
 ---
 name: Velkey Kristóf
+photo: /sites/default/files/velkey_kristof.jpg
 bio: >-
   2018-ig matematika tanárként és kollégiumi nevelőként dolgoztam Vácon, a
   Piarista gimnáziumban. A tanári munkám mellett végeztem a doktori

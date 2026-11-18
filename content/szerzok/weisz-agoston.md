@@ -1,5 +1,6 @@
 ---
 name: Weisz Ágoston
+photo: /sites/default/files/weisz_agoston.jpg
 bio: >-
   Matematikus vagyok. Tizenöt éve tanítok gyerekeket matematikára és
   programozásra kis csoportokban; napközben a Google-nél dolgozom vezető

@@ -1,5 +1,6 @@
 ---
 name: Vas Enikő
+photo: /sites/default/files/vas_eniko.jpg
 bio: >-
   2010-ben végeztem a Miskolci Egyetem Bölcsészettudományi Karán magyar szakos
   tanárként, és egy évvel korábban kulturális antropológia szakon. Érdeklődésem

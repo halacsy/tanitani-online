@@ -1,5 +1,6 @@
 ---
 name: Gál Tamás
+photo: /sites/default/files/gal_tamas.jpg
 bio: >-
   Pedagógus vagyok. Több mint egy évtizede foglalkozok gyerekekkel óvodákban és
   általános iskolákban, fiatalokkal gimnáziumban és felnőttekkel

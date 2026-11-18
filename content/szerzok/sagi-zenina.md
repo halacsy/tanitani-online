@@ -1,5 +1,6 @@
 ---
 name: Sági Zenina
+photo: /sites/default/files/ninaszem3-w210.jpg
 bio: >-
   Bár van egy pedagógiai asszisztens végzettségem, sose dolgoztam ezen a
   területen (hacsak a család nem számít annak). Alapvetően szervező típus

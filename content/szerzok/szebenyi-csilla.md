@@ -1,5 +1,6 @@
 ---
 name: Szebényi Csilla
+photo: /sites/default/files/szebenyi_csilla.jpg
 bio: >-
   Magyar-történelem szakos tanár vagyok. 1996 óta dolgozom a Belvárosi Tanoda
   Alapítványi Gimnáziumban, ahol a tanítás mellett az oda járó sok problémával

@@ -1,5 +1,6 @@
 ---
 name: Tóth-Loesti Heidrun
+photo: /sites/default/files/toth-loesti_heidrun.jpg
 bio: >-
   Németországban születtem, nőttem fel és tanultam. Az egyetem után külföldre
   akartam menni. Lektorként egy nyíregyházi kéttannyelvű szakközépiskolába

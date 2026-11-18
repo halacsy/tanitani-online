@@ -1,5 +1,6 @@
 ---
 name: Géczi-Laskai Judit
+photo: /sites/default/files/geczi-laskai_judit.jpg
 bio: >-
   Tanító, rajz/vizuális kultúra tanár, szakvizsgázott közoktatási vezető,
   szaktanácsadó mesterpedagógus vagyok. 1992 óta tanítok, a hazai

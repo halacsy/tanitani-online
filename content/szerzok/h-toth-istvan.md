@@ -1,5 +1,6 @@
 ---
 name: H. Tóth István
+photo: /sites/default/files/h_toth_istvan.jpg
 bio: >-
   A neveléstudomány kandidátusa, alkalmazott nyelvész vagyok. A Kecskeméti
   Tanítóképző Főiskola nyelvész docense és főigazgató-helyettese, az Ungvári

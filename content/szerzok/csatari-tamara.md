@@ -1,5 +1,6 @@
 ---
 name: Csatári Tamara
+photo: /sites/default/files/csatari_tamara.jpg
 bio: >-
   Az ELTE TTK-n tanulok matematika-fizika szakos tanárnak. 2012-ben
   kíváncsiságból leutaztam egy táborba Toldra, azóta meg itt ragadtam

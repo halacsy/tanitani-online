@@ -1,5 +1,6 @@
 ---
 name: Sanda István Dániel
+photo: /sites/default/files/sanda-w210.jpg
 bio: >-
   Hosszú ideig voltam középiskolai tanár és szakoktatás-vezető. Jelenleg
   egyetemi adjunktus vagyok. Elsődleges kutatási területem a tágan értelmezett

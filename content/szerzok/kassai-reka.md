@@ -1,5 +1,6 @@
 ---
 name: Kassai Réka
+photo: /sites/default/files/_mg_1027-609-w300.jpg
 bio: >-
   A pszichológusdiplomámat 2018-ban szereztem, az Eötvös Loránd
   Tudományegyetemen f ejlődés- és klinikai gyermekpszichológia szakirányon.

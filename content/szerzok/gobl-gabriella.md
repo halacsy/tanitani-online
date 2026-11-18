@@ -1,5 +1,6 @@
 ---
 name: Gőbl Gabriella
+photo: /sites/default/files/gobl_gabriella.jpg
 bio: >-
   A Magyarországi Német Színház színházpedagógusa, díszlet- és jelmeztervező
   asszisztense vagyok. Felsőfokú tanulmányaimat az ELTE tanárképzésében kezdtem

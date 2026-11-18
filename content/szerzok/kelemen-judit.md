@@ -1,5 +1,6 @@
 ---
 name: Kelemen Judit
+photo: /sites/default/files/kelemen_judit.png
 bio: >-
   Tanulmányaim a Liszt Ferenc Zeneművészeti Főiskola Zeneiskolai Tanárképző
   Intézet Miskolci Tagozatán (zeneiskolai zeneelmélet- és szolfézstanár), a

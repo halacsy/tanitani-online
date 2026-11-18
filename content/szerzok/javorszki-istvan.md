@@ -1,5 +1,6 @@
 ---
 name: Jávorszki István
+photo: /sites/default/files/javorszki.jpg
 bio: >-
   42 éves vagyok, két gyermek édesapja, kerülőutak tekergője. Voltam már matróz,
   eladó, üzletkötő, informatikus, zenész, ügyvezető, cégvezető, most marketing

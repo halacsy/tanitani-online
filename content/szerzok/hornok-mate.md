@@ -1,5 +1,6 @@
 ---
 name: Hornok Máté
+photo: /sites/default/files/hornok_mate.jpg
 bio: >-
   A Pannon Egyetem ötödéves magyartanár, dráma- és színházismeret osztatlan
   tanárszakos hallgatója vagyok. Jelenleg Pécsen élek és a Berze Nagy János

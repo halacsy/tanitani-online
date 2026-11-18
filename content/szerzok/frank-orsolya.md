@@ -1,5 +1,6 @@
 ---
 name: Frank Orsolya
+photo: /sites/default/files/frank_orsolya.jpg
 bio: >-
   Pszichológus vagyok. Egy olyan kommunikáció- és szemléletfejlesztő módszertant
   dolgoztam ki, amely segít a pedagógusoknak, hogy a gyerekek körül érzelmileg

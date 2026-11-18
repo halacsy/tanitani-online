@@ -1,5 +1,6 @@
 ---
 name: Zagyváné Szűcs Ida
+photo: /sites/default/files/zagyvane.jpg
 bio: >-
   Az Egri Dobó István Gimnáziumban tanítok angol nyelvet. Huszonhét éves tanári
   tapasztalattal a hátam mögött úgy éreztem, új irányba szeretnék elindulni. Egy

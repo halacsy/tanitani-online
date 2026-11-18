@@ -1,5 +1,6 @@
 ---
 name: Bubernik Eszter
+photo: /sites/default/files/bubernik.jpg
 bio: >-
   Győrben születtem, több mint öt évet dolgoztam közoktatási intézményekben,
   mielőtt felvételt nyertem az ELTE Pedagógiai és Pszichológiai Karának

@@ -1,5 +1,6 @@
 ---
 name: Valentné Albert Éva
+photo: /sites/default/files/valentne.jpg
 bio: >-
   Középiskolai fizika és informatika tanárként dolgoztam a Szent István
   Közgazdasági Szakközépiskolában 1994-től 2013-ig, majd 2014-től a Puskás

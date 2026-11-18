@@ -1,5 +1,6 @@
 ---
 name: Kapusi Angéla
+photo: /sites/default/files/kapusi_angela.jpeg.jpg
 bio: >-
   1986-ban születtem, Miskolcon élek. Szobrászként végeztem, majd a Miskolci
   Egyetemen magyar szakos bölcsész és magyar-történelem szakos tanárként

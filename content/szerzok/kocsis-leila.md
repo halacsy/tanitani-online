@@ -1,5 +1,6 @@
 ---
 name: Kocsis Leila
+photo: /sites/default/files/kocsis_leila.jpg
 bio: >-
   Rajz – vizuális kommunikáció szakos tanár, valamint szakvizsgázott
   differenciáló fejlesztőpedagógus vagyok. Pedagógiai szempontból mindig is

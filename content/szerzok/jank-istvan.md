@@ -1,5 +1,6 @@
 ---
 name: Jánk István
+photo: /sites/default/files/jank_istvan.jpg
 bio: >-
   A Nyitrai Konstantin Filozófus Egyetem Magyar Nyelv- és Irodalomtudományi
   Intézetének doktorandusza vagyok. Emellett a Nyelv és Tudomány ( nyest.hu )

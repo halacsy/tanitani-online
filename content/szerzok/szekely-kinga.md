@@ -1,5 +1,6 @@
 ---
 name: Székely Kinga
+photo: /sites/default/files/szekely_kinga.png
 bio: >-
   2013 júniusától vagyok a Sant`Egidio közösség tagja. Előmozdítottam a
   budapesti Béke Iskolája újraindítását, ahol 2015 áprilisától folyamatosan

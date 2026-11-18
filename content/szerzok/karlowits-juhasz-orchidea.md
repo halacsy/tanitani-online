@@ -1,5 +1,6 @@
 ---
 name: Karlowits-Juhász Orchidea
+photo: /sites/default/files/kjo.jpg
 bio: >-
   1994 telén, első éves filozófia szakosként egy szomorú sorsú zsákfaluba,
   Tiszabőre sodort a véletlen. Lényegében ott és akkor dőlt el számomra, hogy

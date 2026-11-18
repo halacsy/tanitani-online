@@ -1,5 +1,6 @@
 ---
 name: M. Fazekas Ágnes
+photo: /sites/default/files/m_fazekas_agnes.jpg
 bio: >-
   Az SZTE BTK-n szereztem diplomát magyar nyelv és irodalom szakos bölcsész és
   tanár, valamint kommunikáció szakos bölcsész végzettséggel. Jelenleg az ELTE

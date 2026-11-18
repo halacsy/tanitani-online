@@ -1,5 +1,6 @@
 ---
 name: Mihály Ildikó
+photo: /sites/default/files/mihaly_portre.jpg
 bio: >-
   Magyar-pszichológia szakos diplomámat az ELTE Bölcsészettudományi Karán
   szereztem. Dolgoztam könyvkiadóban, szerkesztőként, voltam munkapszichológus,

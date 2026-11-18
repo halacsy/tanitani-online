@@ -1,5 +1,6 @@
 ---
 name: Simon Mária
+photo: /sites/default/files/simon_maria.jpg
 bio: >-
   1947-ben születtem Budapesten. Szüleim pedagógusok voltak. A tanítás így már
   gyerekkoromat belengte. Tanulmányaimat az ELTE Radnóti Miklós Gyakorló
