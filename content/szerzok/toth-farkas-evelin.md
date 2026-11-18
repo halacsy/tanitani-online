@@ -1,5 +1,6 @@
 ---
 name: Tóth-Farkas Evelin
+photo: /sites/default/files/tth-farkas_evelin_potr.jpg
 bio: >-
   Az ELTE Tanító- és Óvóképző Kar tanító szakán magyar műveltségterületen
   végeztem 2012-ben. A diploma megszerzését követően a budapesti Szabó Magda

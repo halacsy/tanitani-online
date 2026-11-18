@@ -1,5 +1,6 @@
 ---
 name: Kovácsné Balla Katalin
+photo: /sites/default/files/kovacsne_balla_katalin.jpg
 bio: >-
   Angol nyelv, valamint magyar és román nyelv és irodalom szakos középiskolai
   tanár vagyok. A kazincbarcikai Don Bosco Szakképző Iskolában oktatok. Iskolánk

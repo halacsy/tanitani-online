@@ -1,5 +1,6 @@
 ---
 name: Gaul Emil
+photo: /sites/default/files/gaul-W200.jpg
 bio: >-
   Elhivatott belsőépítész, kiállítástervező voltam tíz évig, aztán egy tankönyv
   szerkesztése közben elragadott a tervezés gondolatának népszerűsítése.

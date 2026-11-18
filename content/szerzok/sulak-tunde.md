@@ -1,5 +1,6 @@
 ---
 name: Sulák Tünde
+photo: /sites/default/files/sulak_tunde.jpg
 bio: >-
   24 éve foglalkozom gyerekekkel, a Montessori-pedagógia elkötelezett híve
   vagyok. Ez a módszer a gyerekek önállóságára épít, és olyan értékeket segít

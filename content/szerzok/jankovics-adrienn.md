@@ -1,5 +1,6 @@
 ---
 name: Jankovics Adrienn
+photo: /sites/default/files/jankovics_adrienn.jpg
 bio: >-
   Óvodapedagógus vagyok. Munkámban a gyermekek megfigyelésére, kezdeményezéseire
   és önálló felfedezésére épülő pedagógiai szemléletet keresem és gyakorlom.

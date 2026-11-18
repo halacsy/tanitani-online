@@ -1,5 +1,6 @@
 ---
 name: Kiss Mária Rita
+photo: /sites/default/files/kiss_maria_rita_250.jpg
 bio: >-
   Történész és politológus végzettségem van, 1994 óta foglalkozom a fiatalok
   társadalmi szerepekre való felkészítésének kérdéseivel, amikor e célból

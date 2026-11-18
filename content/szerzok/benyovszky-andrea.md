@@ -1,5 +1,6 @@
 ---
 name: Benyovszky Andrea
+photo: /sites/default/files/benyovszkyandrea.jpg
 bio: >-
   A Nemzetközi Pető Intézet munkatársaként az Aquinas College (Grand Rapids, MI
   USA) konduktorképzésében résztvevő hallgatóknak a konduktív pedagógia elméleti

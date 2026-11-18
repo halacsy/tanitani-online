@@ -1,5 +1,6 @@
 ---
 name: Orosz Gabriella
+photo: /sites/default/files/orosz_gabriella.jpg
 bio: >-
   A Miskolci Egyetem Bölcsészettudományi Karának angol nyelv és kultúra – német
   nyelv és kultúra osztatlan tanár szakos hallgatója vagyok. Egyetemi

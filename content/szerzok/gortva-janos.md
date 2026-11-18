@@ -1,5 +1,6 @@
 ---
 name: Gortva János
+photo: /sites/default/files/gortva_janos.jpg
 bio: >-
   Az Eszterházy Károly Egyetem Gyakorlógimnáziumának vezetőtanára, illetve a
   Neveléstudományi Doktori Iskola ügyvivője vagyok. Számos pedagógiai

@@ -1,5 +1,6 @@
 ---
 name: Kökényesi Imre
+photo: /sites/default/files/kokenyesiimre.png
 bio: >-
   Játékfejlesztő vagyok a Smart Egg PTE Kft-nél. Tíz éve logikai társasjátékok
   és puzzle-ok kitalálásával és fejlesztésével foglalkozom, ebből három évet a

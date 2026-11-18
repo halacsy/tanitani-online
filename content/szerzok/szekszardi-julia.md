@@ -1,5 +1,6 @@
 ---
 name: Szekszárdi Júlia
+photo: /sites/default/files/szekszardi.jpg
 bio: >-
   Magyar-német szakos középiskola tanárként tanítottam egy fővárosi 12
   évfolyamos iskolában. Tudományos minősítést pedagógiából szereztem, fő témáim

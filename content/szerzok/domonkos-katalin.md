@@ -1,5 +1,6 @@
 ---
 name: Domonkos Katalin
+photo: /sites/default/files/domonkos_katalin.jpg
 bio: >-
   Tanítóként magyar nyelv és irodalom műveltségterületen végeztem, majd az ELTE
   PPK-n a kora gyermekkor pedagógiája szakirányon szerettem bele a kutatásba,

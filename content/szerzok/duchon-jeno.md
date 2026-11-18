@@ -1,5 +1,6 @@
 ---
 name: Duchon Jenő
+photo: /sites/default/files/duchon_portre.png
 bio: >-
   Az ezredforduló óta foglalkozom elektronikus képzésekkel. Számos elektronikus
   tananyagot készítettem és készítek, miközben folyamatosan vizsgálom az online

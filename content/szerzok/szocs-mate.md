@@ -1,5 +1,6 @@
 ---
 name: Szőcs Máté
+photo: /sites/default/files/szocs_mate.jpg
 bio: >-
   Az ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium
   történelemtanára és a Zöld Kakas Líceum tanára vagyok. Utóbbi iskolában

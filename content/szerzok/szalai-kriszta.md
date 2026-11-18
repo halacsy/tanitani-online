@@ -1,5 +1,6 @@
 ---
 name: Szalai Kriszta
+photo: /sites/default/files/szalai_kriszta.jpg
 bio: >-
   Színházi szakember és drámapedagógus vagyok. A színházat, és a tanítást is a
   közösségépítés és a lélek építése egyik legfőbb eszközének tartom. Nem a

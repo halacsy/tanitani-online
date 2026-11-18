@@ -1,5 +1,6 @@
 ---
 name: Dani-Ördög Dalma
+photo: /sites/default/files/dalma2.jpg
 bio: >-
   Dani-Ördög Dalma vagyok 3 lánygyermek édesanyja. 20 éve tanítok, először
   falusi iskolában kezdtem, majd Waldorf iskolában folytattam. Jelenleg pedig

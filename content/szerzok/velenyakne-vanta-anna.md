@@ -1,5 +1,6 @@
 ---
 name: Velenyákné Vanta Anna
+photo: /sites/default/files/velenyakne.jpg
 bio: >-
   1981-ben végeztem a Kossuth Lajos Tudományegyetem magyar-orosz szakán, majd
   1994-ben a Miskolci Egyetemen szereztem angol nyelvtanári diplomát. 2005-ben a

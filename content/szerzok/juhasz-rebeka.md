@@ -1,5 +1,6 @@
 ---
 name: Juhász Rebeka
+photo: /sites/default/files/juhasz_rebeka.jpg
 bio: >-
   Szexuálpszichológiai konzulens vagyok, leendő life coach, gyógypedagógiai
   asszisztens és az Arany iránytű program egyik orientációs mentora. Egy olyan

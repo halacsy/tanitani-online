@@ -1,5 +1,6 @@
 ---
 name: Fogarassy Levente
+photo: /sites/default/files/fogarassy_200.jpg
 bio: >-
   Jelenleg pszichológiai pályára készülök, mivel mindig is kiemelt érdeklődéssel
   fordultam a személyiségfejlődés és az emberi viselkedés témája felé. A

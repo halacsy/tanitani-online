@@ -1,5 +1,6 @@
 ---
 name: Zsigmond Anna
+photo: /sites/default/files/zsigmond_anna.jpg
 bio: >-
   Egyetemi docens, az ELTE Doktori Iskolájának tagja vagyok. Neveléstudományi
   kutatásaim és oktatómunkám fő területe az Egyesült Államok társadalmi,

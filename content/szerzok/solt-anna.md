@@ -1,5 +1,6 @@
 ---
 name: Solt Anna
+photo: /sites/default/files/solt_anna.jpg
 bio: >-
   Az ELTE Bárczi Gusztáv Gyógypedagógiai Karán végeztem gyógypedagógusként. A
   kommunikációs nehézségek mindennapokra gyakorolt hatása kezdetektől fogva a

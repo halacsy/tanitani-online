@@ -1,5 +1,6 @@
 ---
 name: Liska Márton
+photo: /sites/default/files/liska_marton.jpg
 bio: >-
   Tanítottam gimnazistáknak történelmet, társadalomismeretet és jogot Budapesten
   (ELTE Radnóti), tartottam emberi jogi kurzusokat kiscsoportoknak Borsodban

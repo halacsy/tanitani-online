@@ -1,5 +1,6 @@
 ---
 name: Simon Mátyás
+photo: /sites/default/files/simon_matyas.jpg
 bio: >-
   Egyetemi tanulmányaimat az ELTE gyógypedagógiai karán kezdtem el, ahol
   értelmileg akadályozottak pedagógiája és pszichopedagógia szakiránypárral

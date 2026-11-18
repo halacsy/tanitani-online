@@ -1,5 +1,6 @@
 ---
 name: Németh Anna
+photo: /sites/default/files/nemeth_anna.jpg
 bio: >-
   25 éve tanítom a matematikát, 20 évet tanultam is, így összesen 45 éve
   szeretem a matematikát. Nagy fájdalmam, hogy nagyon népszerűtlen tantárgy, és

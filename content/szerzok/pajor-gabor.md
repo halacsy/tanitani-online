@@ -1,5 +1,6 @@
 ---
 name: Pajor Gábor
+photo: /sites/default/files/pajor_gabor.jpg
 bio: >-
   Állatorvosi Egyetemet végeztem, de 1984 óta számítástechnikával foglalkozom.
   Jelenlegi szakmám mellett érdekel az emberi viselkedés, a fejlődés-gazdaságtan

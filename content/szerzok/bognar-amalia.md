@@ -1,5 +1,6 @@
 ---
 name: Bognár Amália
+photo: /sites/default/files/bognar_amalia.jpg
 bio: >-
   Magyar nyelv és irodalom – történelem szakos tanárként dolgozom a Csornai
   Általános Iskola és AMI-ban. Érdeklődésem középpontjában a digitális eszközök

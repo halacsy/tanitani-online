@@ -1,5 +1,6 @@
 ---
 name: Hegedűs-Bite Beáta
+photo: /sites/default/files/hegedus_bite_beata.jpg
 bio: >-
   A hétköznapokban gyógypedagógusként dolgozom. Gyógypedagógiai pályámat olyan
   tanulmányokkal egészítettem ki, melyekben a művészetek, s azok gyógyító ereje

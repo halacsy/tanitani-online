@@ -1,5 +1,6 @@
 ---
 name: Széger Katalin
+photo: /sites/default/files/szeger-w300.jpg
 bio: >-
   1980-ban születtem Budapesten. Az ELTE Bölcsészettudományi Karán magyar
   irodalom szakon, Társadalomtudományi Karán politológia szakon végeztem.

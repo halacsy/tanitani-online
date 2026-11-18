@@ -1,5 +1,6 @@
 ---
 name: Németh Luca
+photo: /sites/default/files/nemeth_luca.jpg
 bio: >-
   A Magyar táncművészeti Főiskola Klasszikus Balett szakán szereztem BA- és a
   Budapest Kortárstánc Főiskola kortárstánc tanár szakán mesterszakos diplomát.

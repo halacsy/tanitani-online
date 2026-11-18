@@ -1,5 +1,6 @@
 ---
 name: Kiss Virág
+photo: /sites/default/files/kv_porte.jpg
 bio: >-
   Vizuális művészetpedagógus és művészetterapeuta vagyok (néha matektanár is).
   Jelenleg vizuális nevelés módszertanát és vizuális kultúrát tanítok a Pető

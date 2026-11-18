@@ -24,3 +24,6 @@ node_modules/
 data/*.sqlite
 data/*.sqlite-*
 data/media-download-*.txt
+
+# Portable editorial review artifacts contain embedded copies of public media.
+reports/

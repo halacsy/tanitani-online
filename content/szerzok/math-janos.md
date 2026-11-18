@@ -1,5 +1,6 @@
 ---
 name: Máth János
+photo: /sites/default/files/math_janos.jpg
 bio: >-
   A Debreceni Egyetem Pszichológiai Intézetében dolgozom 1990 óta. Matematikus
   vagyok, matematikát, statisztikát tanítok pszichológushallgatóknak, de a

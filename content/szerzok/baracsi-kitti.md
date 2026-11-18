@@ -1,5 +1,6 @@
 ---
 name: Baracsi Kitti
+photo: /sites/default/files/2dccbcc.jpg
 bio: >-
   Jelenleg a Pécsi Tudományegyetem "Oktatás és Társadalom" Neveléstudományi
   Doktori Iskolájának hallgatója vagyok, emellett évek óta különböző romákkal

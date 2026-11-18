@@ -1,5 +1,6 @@
 ---
 name: Lannert Judit
+photo: /sites/default/files/lannert_judit.jpg
 bio: >-
   Több mint három évtizede kutatom, hogy hogyan lehetne eredményesebb a magyar
   oktatás. Eleinte közalkalmazottként, de immár 15 éve vállalkozóként az általam

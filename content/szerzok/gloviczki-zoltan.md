@@ -1,5 +1,6 @@
 ---
 name: Gloviczki Zoltán
+photo: /sites/default/files/gloviczki_zoltan.jpg
 bio: >-
   Gloviczki Zoltán vagyok, évtizedekig gimnáziumi tanár, osztályfőnök,
   évtizedekig pedagógusképző. Korábban köznevelésért felelős helyettes

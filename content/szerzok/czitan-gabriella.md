@@ -1,5 +1,6 @@
 ---
 name: Czitán Gabriella
+photo: /sites/default/files/fogl_069030b-w250.jpg
 bio: >-
   1979-ben születtem, 2003-ban a Pázmány Péter Katolikus Egyetem
   Bölcsészettudományi Kar német és szociológia szakán szereztem diplomát.

@@ -1,5 +1,6 @@
 ---
 name: Simon Zoltán
+photo: /sites/default/files/simon_zoltan.jpg
 bio: >-
   Végzettségemet tekintve kulturális antropológia szakos bölcsész és
   középiskolai tanár, okleveles történelemtanár vagyok, közoktatásvezető és

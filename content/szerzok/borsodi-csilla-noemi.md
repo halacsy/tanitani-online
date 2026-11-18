@@ -1,5 +1,6 @@
 ---
 name: Borsodi Csilla Noémi
+photo: /sites/default/files/borsodi_csilla.jpg
 bio: >-
   Dolgoztam huzamos ideig szakképzésben, oktatáskutatásban, és az
   oktatásirányításhoz kötődő kormánytisztviselői tapasztalatot is szereztem,

@@ -1,5 +1,6 @@
 ---
 name: Kramarics Rita
+photo: /sites/default/files/kramarics_rita.jpg
 bio: >-
   Az ELTE Interkulturális pszichológia és pedagógia szakán szereztem
   MA-végzettséget. Jelenleg a PTE Neveléstudományi Doktori Iskola végzős

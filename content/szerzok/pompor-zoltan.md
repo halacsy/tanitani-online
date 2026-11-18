@@ -1,5 +1,6 @@
 ---
 name: Pompor Zoltán
+photo: /sites/default/files/pompor.jpg
 bio: >-
   Az elmúlt évtizedekben számos olvasásnépszerűsítő program kialakításában és
   megvalósításában vettem részt, talán nem véletlen, hogy a Magyar

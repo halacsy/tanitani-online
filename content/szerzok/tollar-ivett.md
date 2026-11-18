@@ -1,5 +1,6 @@
 ---
 name: Tollár Ivett
+photo: /sites/default/files/tollar_ivett.jpg
 bio: >-
   Tollár Ivett vagyok, magyartanár, drámapedagógus, valamint mozgókép- és
   médiaismeret tanár. 2016 óta tanítok felső tagozaton és gimnáziumban egyaránt,

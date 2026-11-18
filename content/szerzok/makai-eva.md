@@ -1,5 +1,6 @@
 ---
 name: Makai Éva
+photo: /sites/default/files/makai_eva.jpg
 bio: >-
   Pedagógus vagyok. Pályám során a nevelésügynek csaknem minden szintjén
   dolgoztam: általános iskolában, középiskolában, gyermekvédelmi intézményben,

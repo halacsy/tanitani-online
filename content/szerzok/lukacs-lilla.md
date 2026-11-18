@@ -1,5 +1,6 @@
 ---
 name: Lukács Lilla
+photo: /sites/default/files/lukacs_lilla.png
 bio: >-
   2021. október óta én koordinálom az E-tanoda Programot: szervezek,
   adminisztrálok, kapcsolatot tartok, tervezek. Végzettségemet tekintve

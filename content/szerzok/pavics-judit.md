@@ -1,5 +1,6 @@
 ---
 name: Pávics Judit
+photo: /sites/default/files/pavics_judit.jpg
 bio: >-
   Angol–olasz szakos tanár vagyok, mentálhigiénés szakember és a Boldog Iskola
   Program Somogy vármegyei nagykövete. A Barcsi Széchényi Ferenc Gimnáziumban

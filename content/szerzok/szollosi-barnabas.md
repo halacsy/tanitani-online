@@ -1,5 +1,6 @@
 ---
 name: Szöllősi Barnabás
+photo: /sites/default/files/szollosi_barnabas_1.jpg
 bio: >-
   1991-ben születtem Budapesten, s megvolt az a szerencsém, hogy egyész
   életemben alternatív, informális, személyiség-központú oktatásban részesültem.

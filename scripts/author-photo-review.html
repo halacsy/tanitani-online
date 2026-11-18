@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="hu">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Szerzői portrék ellenőrzése</title>
+<style>
+  :root { font-family: system-ui, sans-serif; color: #202b3c; background: #f5f7fa; }
+  body { margin: 0; } main { max-width: 1120px; margin: auto; padding: 24px; }
+  h1 { font-family: Georgia, serif; font-size: 2.2rem; } h2 { margin-top: 0; }
+  a { color: #20548b; } button, input, select { font: inherit; }
+  button, select, input[type=search] { padding: 10px 14px; border: 1px solid #7a899d; border-radius: 7px; background: white; }
+  button { cursor: pointer; } button.primary { background: #20548b; color: white; }
+  .tools { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin: 20px 0; }
+  .card { border: 1px solid #cbd3df; border-radius: 12px; padding: 22px; margin: 20px 0; background: white; }
+  .candidates { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 16px; }
+  .candidate { width: 240px; border: 2px solid #cbd3df; border-radius: 10px; padding: 12px; overflow-wrap: anywhere; }
+  .candidate:has(input:checked) { border-color: #20548b; background: #edf5ff; }
+  .candidate img { display: block; width: 100%; height: 210px; object-fit: contain; margin: 10px 0; }
+  .choice { cursor: pointer; display: block; } .path { font-size: 12px; color: #526078; }
+  .badge { display: inline-block; padding: 4px 9px; background: #edf2f9; border-radius: 5px; }
+  #notice { min-height: 1.5em; font-weight: 600; } #summary { line-height: 1.8; }
+  [hidden] { display: none !important; } :focus-visible { outline: 3px solid #ca7300; outline-offset: 3px; }
+  @media(max-width: 600px) { main { padding: 14px; } .candidate { width: 100%; } }
+</style>
+<main>
+  <h1>Szerzői portrék ellenőrzése</h1>
+  <p>Az automatikusan hozzárendelt képeket ellenőrizheted, több képjelölt közül választhatsz.
+    A „Maradjon monogram” lehetőséggel elvetheted a képeket. A forráscikkek és a profilok internetkapcsolattal nyithatók meg.</p>
+  <p>A választás önmagában nem módosítja a webhelyet. A végén kattints a „Döntések letöltése” gombra,
+    és a letöltött JSON-fájlt add vissza a projekt gondozójának. Folytatáskor a „Korábbi döntések betöltése” gombbal nyithatod meg.</p>
+  <p id="summary"></p>
+  <div class="tools">
+    <label>Keresés <input id="search" type="search" placeholder="Szerző neve"></label>
+    <label>Állapot <select id="filter">
+      <option value="all" selected>Minden szerző</option>
+      <option value="automatic">Automatikusan hozzárendelve</option>
+      <option value="multiple">Több kép közül választandó</option>
+      <option value="missing">Nem találtunk elérhető képet</option>
+      <option value="reviewed">Korábban kiválasztva</option>
+      <option value="rejected">Korábban elvetve</option>
+    </select></label>
+    <button id="download" class="primary" type="button">Döntések letöltése</button>
+    <button id="load" type="button">Korábbi döntések betöltése</button>
+    <input id="import" type="file" accept=".json,application/json" hidden>
+  </div>
+  <p id="notice" role="status" aria-live="polite"></p>
+  <p id="visible-count"></p>
+  <div id="authors"></div>
+</main>
+<script>/* REVIEW_DATA */</script>
+<script>/* REVIEW_CLIENT */</script>
+</html>

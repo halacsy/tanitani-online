@@ -1,5 +1,6 @@
 ---
 name: Czémán Zsófia
+photo: /sites/default/files/img_0801_1-w300.jpg
 bio: >-
   A Moholy-Nagy Művészeti Egyetemen diplomáztam média-design, illetve design- és
   vizuálisművészet-tanár szakokon 2013 nyarán. Tervező szakos szakdolgozatom a

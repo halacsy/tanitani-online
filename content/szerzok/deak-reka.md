@@ -1,5 +1,6 @@
 ---
 name: Deák Réka
+photo: /sites/default/files/deakreka.jpg
 bio: >-
   Gyógypedagógus vagyok és mentálhigiénés szakember. Pályám kezdete óta a civil
   szférában dolgozom, hol a szociális ellátás területéhez, hol az oktatáshoz

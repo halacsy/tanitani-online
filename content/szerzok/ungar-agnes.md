@@ -1,5 +1,6 @@
 ---
 name: Ungár Ágnes
+photo: /sites/default/files/ungar_agnes.png
 bio: >-
   A pályámat tanítóként kezdtem, és most is tanítok, fejlesztek. 13 éve vezetek
   iskolát, 2021 augusztusa óta A Jövő Iskolájának vezetője vagyok. Vezetői

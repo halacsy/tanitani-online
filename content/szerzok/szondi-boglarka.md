@@ -1,5 +1,6 @@
 ---
 name: Szondi Boglárka
+photo: /sites/default/files/szondiboglarka-w200.jpg
 bio: >-
   Az ELTE PPK pedagógia szakán tanultam és jelenleg az ELTE Illyés Sándor
   Szakkollégium hallgatója vagyok. Az életem fontos részét képezi a társadalmi

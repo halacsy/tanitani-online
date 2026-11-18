@@ -1,5 +1,6 @@
 ---
 name: Czenner Júlia
+photo: /sites/default/files/c.j.-w200.jpg
 bio: >-
   Több mint tíz éve tanítok angol nyelvet különböző életkorú és tudásszintű
   diákoknak. Saját módszert kellett kifejlesztenem, mely megfelel a vizsgaszintű

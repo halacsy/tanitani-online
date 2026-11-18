@@ -1,5 +1,6 @@
 ---
 name: Fazekas Elek
+photo: /sites/default/files/fazekas_elek.jpg
 bio: >-
   Fazekas Elek a Károli Gáspár Református Egyetem oktatója és a Debreceni
   Egyetem neveléstudományi doktori programjának végzős hallgatója. Kutatásaival

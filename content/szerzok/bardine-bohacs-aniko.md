@@ -1,5 +1,6 @@
 ---
 name: Bardiné Bohács Anikó
+photo: /sites/default/files/20141220_182903.jpg
 bio: >-
   1992-ben végeztem magyar-orosz szakos középiskolai tanárként Debrecenben a
   Kossuth Lajos Tudományegyetemen. Azóta is első munkahelyemen, a hevesi Eötvös

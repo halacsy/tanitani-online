@@ -1,5 +1,6 @@
 ---
 name: Lakatos László
+photo: /sites/default/files/lakatos.jpg
 bio: >-
   Tanárként dolgozom Szolnokon egy középiskolában. Hátrányos helyzetű
   gyerekekkel foglalkozok: tanítom és nevelem őket. Számomra mindig is ez volt a

@@ -1,5 +1,6 @@
 ---
 name: Molnár Balázs
+photo: /sites/default/files/molnar_balazs.jpg
 bio: >-
   Történelem és filozófia–pedagógia szakos tanár vagyok, doktori címemet
   neveléstudományokból szereztem. 2023-ig a Debreceni Egyetem Gyermeknevelési és

@@ -1,5 +1,6 @@
 ---
 name: Pongrácz Éva
+photo: /sites/default/files/pongracz_portre.jpg
 bio: >-
   Negyven éven át foglalkoztam gyerekekkel. A hetvenes és a nyolcvanas évek
   között a civilizációtól elzártan élő komlói Kossuth-aknai, majd a nyolcvanas

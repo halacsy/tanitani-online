@@ -1,5 +1,6 @@
 ---
 name: Szabó Roland
+photo: /sites/default/files/szab_roland-w200.jpg
 bio: >-
   Tizenegy éve vagyok a közoktatásban, a Budapest XIV. Kerületi Szent István
   Gimnázium magyar és történelem szakos tanáraként végzem oktatói munkám, ahol

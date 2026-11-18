@@ -1,5 +1,6 @@
 ---
 name: Totyik Tamás
+photo: /sites/default/files/totyik_tamas.jpg
 bio: >-
   Matematika-földrajz, valamint pedagógiai mérés és értékelés szakos mestertanár
   vagyok. 1988-tól Nagyhegyesen tanítok. 2000-2008 között a Szabó László

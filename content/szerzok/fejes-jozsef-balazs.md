@@ -1,5 +1,6 @@
 ---
 name: Fejes József Balázs
+photo: /sites/default/files/fejes_jozsef.jpg
 bio: >-
   A Szegedi Tudományegyetem Neveléselmélet Tanszékének adjunktusa, a Motiváció
   Oktatási Egyesület elnöke. A Szegedi Tudományegyetemen szerzett földrajz,

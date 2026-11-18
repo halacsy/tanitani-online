@@ -1,5 +1,6 @@
 ---
 name: Fodor Anna
+photo: /sites/default/files/fodor_anna.jpg
 bio: >-
   Az ELTE Tanító- és Óvóképző Karán végeztem tanító szakon 2009-ben vizuális
   nevelés műveltségterületen, majd a Pedagógiai és Pszichológiai Karra mentem

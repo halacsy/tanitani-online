@@ -1,5 +1,6 @@
 ---
 name: Mann Dániel
+photo: /sites/default/files/mann_daniel.jpg
 bio: >-
   Az ELTE-n és a Színművészeti Főiskolán végeztem. 96-ban kezdtem angolt
   tanítani, mellette televíziós és színpadi műsorvezető, kommentátor voltam 15

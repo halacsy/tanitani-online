@@ -87,6 +87,11 @@ forrás, a webhely azonban kizárólag adatminimalizált, publikus exportot hasz
   kezdődik), ez biztonságosan, akárhányszor újrafuttatható. Lásd még a
   legfelül lévő, kiemelt szabályt: ha egy mezőhöz nincs hiteles forrás, üresen
   marad, sosem fabrikálunk helyette szöveget.
+- A szerzői `photo` mező a migrált cikkek névvel jelölt, helyben elérhető
+  képeiből és a `content/author-photo-decisions.json` szerkesztői döntéseiből
+  készül. A döntéstárat migrációkor meg kell őrizni. Több képjelölt esetén
+  nincs automatikus választás; a `null` döntés monogramot jelent. Imre
+  ellenőrzőoldala: `npm run authors:photos`; részletek: `docs/szerzoi-portrek.md`.
 - A részletes rekonstrukciós jegyzőkönyv:
   `docs/database-reconstruction.md`.
 

@@ -1,5 +1,6 @@
 ---
 name: Pataki Judit
+photo: /sites/default/files/pataki_judit.jpg
 bio: >-
   Középiskolai tanár vagyok, magyar nyelvet és irodalmat, angol nyelvet és
   drámát tanítok. Munkám során nagyon fontosnak tartom a kritikai gondolkodás és

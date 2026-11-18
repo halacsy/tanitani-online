@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predev": "lsof -ti :3000 | xargs kill -9 2>/dev/null; true",
+    "predev": "npm run authors:photos",
     "dev": "next dev",
     "cms:local": "decap-server",
     "build": "next build",
@@ -15,9 +15,11 @@
     "migrate:media": "python3 scripts/download_media.py",
     "migrate:sync": "python3 scripts/supplement_live_articles.py",
     "migrate:markdown": "node scripts/materialize_markdown.mjs",
+    "authors:photos": "node scripts/author_photos.mjs",
     "migrate:validate": "python3 scripts/validate_migration.py && node scripts/materialize_markdown.mjs --check && node scripts/materialize_pages.mjs --check && node scripts/materialize_books.mjs --check && node scripts/validate_slugs.mjs",
     "migrate": "npm run migrate:export && npm run migrate:media && npm run migrate:sync && npm run migrate:markdown && npm run migrate:validate",
-    "check:links": "node scripts/check_links.mjs"
+    "check:links": "node scripts/check_links.mjs",
+    "prebuild": "npm run authors:photos"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -41,6 +43,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.8",
     "htmlparser2": "^12.0.0",
+    "linkedom": "^0.18.15",
     "linkinator": "^8.1.0",
     "postcss": "^8.5.9",
     "tailwindcss": "^4.2.2",

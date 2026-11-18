@@ -1,5 +1,6 @@
 ---
 name: Tóth-Szabó Veronika
+photo: /sites/default/files/toth_szabo_veronika.jpg
 bio: >-
   A Budapesti Corvinus Egyetemen végeztem közgazdászként, HR és
   Szervezetfejlesztés specializáción. Egyetemi tanulmányaim alatt és után

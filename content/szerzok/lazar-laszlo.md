@@ -1,5 +1,6 @@
 ---
 name: Lázár László
+photo: /sites/default/files/lazar_laszlo.jpg
 bio: >-
   A Budapesti Corvinus Egyetem jogelődjén végeztem közgazdászként és tanárként,
   2003-ban itt szereztem PhD fokozatot. Hivatásom gyakorlásának egyik

@@ -1,5 +1,6 @@
 ---
 name: Szilveszter Áron
+photo: /sites/default/files/szilveszter_aron-w200.jpg
 bio: >-
   A Bagázs Közhasznú Egyesületben dolgozom az egyesület romatelepen élő
   gyermekek oktatását segítő programjában. Együtt dolgozom pedagógusokkal, akik

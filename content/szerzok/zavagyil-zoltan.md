@@ -1,5 +1,6 @@
 ---
 name: Zavagyil Zoltán
+photo: /sites/default/files/zavagyil_zoltan.jpg
 bio: >-
   Közgazdász és jogász vagyok, vezetőként a versenyszférában és a
   közigazgatásban egyaránt dolgoztam, jelenleg interim menedzserként

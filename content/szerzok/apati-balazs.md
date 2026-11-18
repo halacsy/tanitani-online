@@ -1,5 +1,6 @@
 ---
 name: Apáti Balázs
+photo: /sites/default/files/apati_balazs.jpg
 bio: >-
   Keramikus, digitális szövegalkotó és promptspecialista vagyok. A generatív
   mesterséges intelligencia és az emberi gondolkodás együttműködésének
